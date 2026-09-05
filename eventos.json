@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:35:08.656Z",
+  "generatedAt": "2026-09-05T23:42:22.026Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -722,77 +722,7 @@
                 },
                 {
                   "name": "MLS 01 | Español",
-                  "url": "https://tvf90.com/canal.php?stream=mls1es",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Tennis",
-          "events": [
-            {
-              "id": "39042",
-              "title": "rugby union: Argentina vs Australia",
-              "time": "2026-09-05T18:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Rugby",
-          "events": [
-            {
-              "id": "39024",
-              "title": "Rugby – Test Match Internacional – Los Pumas",
-              "time": "2026-09-05T15:30:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "url": "https://tvf90.com/1.php?stream=mls1es",
                   "active": true
                 }
               ]
