@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:04:49.350Z",
+  "generatedAt": "2026-09-05T21:17:18.940Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -576,14 +576,6 @@
               "timezone": "America/Montevideo",
               "flagCode": "URU",
               "servers": []
-            },
-            {
-              "id": "39000",
-              "title": "Cerrito vs Paysandu",
-              "time": "2026-09-05T13:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": []
             }
           ]
         },
@@ -760,40 +752,6 @@
                 {
                   "name": "Universo",
                   "url": "https://tvf90.com/1.php?stream=universo",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Primera División",
-          "country": "Uruguay",
-          "events": [
-            {
-              "id": "38977",
-              "title": "Danubio vs Peñarol",
-              "time": "2026-09-05T13:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney6",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38978",
-              "title": "Deportivo Maldonado vs Wanderers",
-              "time": "2026-09-05T16:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney13",
                   "active": true
                 }
               ]
@@ -996,6 +954,26 @@
           ]
         },
         {
+          "name": "Primera División",
+          "country": "Uruguay",
+          "events": [
+            {
+              "id": "38978",
+              "title": "Deportivo Maldonado vs Wanderers",
+              "time": "2026-09-05T16:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney13",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Ligue 1",
           "country": "Francia",
           "events": [
@@ -1034,75 +1012,6 @@
                 {
                   "name": "ESPN 2 NL",
                   "url": "https://tvf90.com/1.php?stream=espn2_nl",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38996",
-              "title": "Ajax vs PSV",
-              "time": "2026-09-05T13:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX",
-                  "url": "https://tvf90.com/1.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL",
-                  "url": "https://tvf90.com/1.php?stream=espn1_nl",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn1_nl",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn1_nl",
                   "active": true
                 }
               ]
@@ -1228,20 +1137,6 @@
           ]
         },
         {
-          "name": "Pro League",
-          "country": "Arabia Saudita",
-          "events": [
-            {
-              "id": "39011",
-              "title": "Al Ittihad vs Al Nassr",
-              "time": "2026-09-05T13:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": []
-            }
-          ]
-        },
-        {
           "name": "LaLiga SmartBank",
           "country": "España",
           "events": [
@@ -1263,41 +1158,12 @@
         },
         {
           "name": "General",
-          "country": "Boxeo",
+          "country": "Rugby",
           "events": [
             {
-              "id": "39023",
-              "title": "ESPN Knockout – Katie Taylor vs. Flora Pili",
-              "time": "2026-09-05T12:55:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 5 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://tvf90.com/1.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn5",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39026",
-              "title": "ESPN Knockout – Alberto Mora vs. Juan Pablo Ramirez",
-              "time": "2026-09-05T21:30:00",
+              "id": "39024",
+              "title": "Rugby – Test Match Internacional – Los Pumas",
+              "time": "2026-09-05T15:30:00",
               "timezone": "UTC",
               "flagCode": "",
               "servers": [
@@ -1327,12 +1193,12 @@
         },
         {
           "name": "General",
-          "country": "Rugby",
+          "country": "Boxeo",
           "events": [
             {
-              "id": "39024",
-              "title": "Rugby – Test Match Internacional – Los Pumas",
-              "time": "2026-09-05T15:30:00",
+              "id": "39026",
+              "title": "ESPN Knockout – Alberto Mora vs. Juan Pablo Ramirez",
+              "time": "2026-09-05T21:30:00",
               "timezone": "UTC",
               "flagCode": "",
               "servers": [
