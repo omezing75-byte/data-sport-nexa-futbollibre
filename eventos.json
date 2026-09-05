@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:56:25.904Z",
+  "generatedAt": "2026-09-05T18:06:00.014Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -88,6 +88,11 @@
                 {
                   "name": "ESPN AR┃OP3",
                   "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney12",
                   "active": true
                 },
                 {
@@ -340,14 +345,6 @@
           "country": "Brasil",
           "events": [
             {
-              "id": "38967",
-              "title": "São Paulo vs Atlético Mineiro",
-              "time": "2026-09-05T16:30:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": []
-            },
-            {
               "id": "38968",
               "title": "Fluminense vs Vasco da Gama",
               "time": "2026-09-05T19:00:00",
@@ -381,6 +378,25 @@
                 {
                   "name": "Premiere 4 BR",
                   "url": "https://tvf90.com/1.php?stream=premiere4",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38967",
+              "title": "São Paulo vs Atlético Mineiro",
+              "time": "2026-09-05T16:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Premiere BR | HD",
+                  "url": "https://tvf90.com/2.php?stream=premiere1",
+                  "active": true
+                },
+                {
+                  "name": "Premiere 8 BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere8",
                   "active": true
                 }
               ]
@@ -604,34 +620,6 @@
               "timezone": "America/Asuncion",
               "flagCode": "LIGAPY",
               "servers": []
-            }
-          ]
-        },
-        {
-          "name": "Primera División",
-          "country": "Uruguay",
-          "events": [
-            {
-              "id": "38978",
-              "title": "Deportivo Maldonado vs Wanderers",
-              "time": "2026-09-05T16:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": []
-            },
-            {
-              "id": "38977",
-              "title": "Danubio vs Peñarol",
-              "time": "2026-09-05T13:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney6",
-                  "active": true
-                }
-              ]
             }
           ]
         },
@@ -1008,6 +996,40 @@
                 {
                   "name": "DSports Eventos",
                   "url": "https://tvf90.com/1.php?stream=dsports_eventos",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Uruguay",
+          "events": [
+            {
+              "id": "38977",
+              "title": "Danubio vs Peñarol",
+              "time": "2026-09-05T13:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney6",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38978",
+              "title": "Deportivo Maldonado vs Wanderers",
+              "time": "2026-09-05T16:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney13",
                   "active": true
                 }
               ]
@@ -1954,35 +1976,6 @@
               ]
             },
             {
-              "id": "39034",
-              "title": "US Open – Third Round: Blockx A. vs Cobolli F.",
-              "time": "2026-09-05T12:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39033",
               "title": "US Open – Third Round: Keys M. vs Zheng Q.",
               "time": "2026-09-05T12:00:00",
@@ -2007,6 +2000,35 @@
                 {
                   "name": "ESPN 4 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39034",
+              "title": "US Open – Third Round: Andreeva M. vs Bartunkova N.",
+              "time": "2026-09-05T12:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
                 }
               ]
