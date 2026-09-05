@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:18:55.822Z",
+  "generatedAt": "2026-09-05T22:28:10.165Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -229,6 +229,60 @@
           ]
         },
         {
+          "name": "Brasileirão",
+          "country": "Brasil",
+          "events": [
+            {
+              "id": "38968",
+              "title": "Fluminense vs Vasco da Gama",
+              "time": "2026-09-05T19:00:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Sportv BR HD",
+                  "url": "https://tvf90.com/hd.php?stream=sportv",
+                  "active": true
+                },
+                {
+                  "name": "Sportv BR",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                },
+                {
+                  "name": "Premiere 3 BR | HD",
+                  "url": "https://tvf90.com/hd.php?stream=premiere3",
+                  "active": true
+                },
+                {
+                  "name": "Premiere 3 BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere3",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38967",
+              "title": "São Paulo vs Atlético Mineiro",
+              "time": "2026-09-05T16:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Premiere BR | HD",
+                  "url": "https://tvf90.com/2.php?stream=premiere1",
+                  "active": true
+                },
+                {
+                  "name": "Premiere 8 BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere8",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Primera División",
           "country": "Bolivia",
           "events": [
@@ -256,50 +310,6 @@
                 {
                   "name": "Entel TV PLUS+",
                   "url": "https://tvf90.com/plus1.php?stream=even1",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Brasileirão",
-          "country": "Brasil",
-          "events": [
-            {
-              "id": "38968",
-              "title": "Fluminense vs Vasco da Gama",
-              "time": "2026-09-05T19:00:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Sportv BR HD",
-                  "url": "https://tvf90.com/hd.php?stream=sportv",
-                  "active": true
-                },
-                {
-                  "name": "Sportv BR",
-                  "url": "https://tvf90.com/1.php?stream=sportv",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38967",
-              "title": "São Paulo vs Atlético Mineiro",
-              "time": "2026-09-05T16:30:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Premiere BR | HD",
-                  "url": "https://tvf90.com/2.php?stream=premiere1",
-                  "active": true
-                },
-                {
-                  "name": "Premiere 8 BR",
-                  "url": "https://tvf90.com/1.php?stream=premiere8",
                   "active": true
                 }
               ]
@@ -864,6 +874,31 @@
         },
         {
           "name": "General",
+          "country": "Estados Unidos",
+          "events": [
+            {
+              "id": "38999",
+              "title": "Major League Soccer: Inter Miami vs Atlanta United",
+              "time": "2026-09-05T18:30:00",
+              "timezone": "America/New_York",
+              "flagCode": "USOPEN",
+              "servers": [
+                {
+                  "name": "MLS 01 | EN",
+                  "url": "https://futbollibre.ch/1.php?stream=mls1es",
+                  "active": true
+                },
+                {
+                  "name": "MLS 01 | Español",
+                  "url": "https://futbollibre.ch/1.php?stream=mls1es",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
           "country": "Rugby",
           "events": [
             {
@@ -931,20 +966,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "General",
-          "country": "Estados Unidos",
-          "events": [
-            {
-              "id": "38999",
-              "title": "Major League Soccer: Inter Miami vs Atlanta United",
-              "time": "2026-09-05T18:30:00",
-              "timezone": "America/New_York",
-              "flagCode": "USOPEN",
-              "servers": []
-            }
-          ]
         }
       ]
     },
@@ -986,38 +1007,9 @@
               ]
             },
             {
-              "id": "39036",
-              "title": "US Open – Third Round: Darderi L. vs Sweeny D.",
-              "time": "2026-09-05T14:10:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39025",
-              "title": "US Open – Third Round: Jovic I. vs Eala A.",
-              "time": "2026-09-05T18:00:00",
+              "title": "US Open – Third Round: Zheng M. vs Gea A.",
+              "time": "2026-09-05T15:50:00",
               "timezone": "UTC",
               "flagCode": "",
               "servers": [
