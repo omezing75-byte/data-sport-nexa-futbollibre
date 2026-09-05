@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:36:25.627Z",
+  "generatedAt": "2026-09-05T22:43:36.790Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -35,65 +35,6 @@
                 {
                   "name": "TNT Sports | OP3",
                   "url": "https://tvf90.com/2.php?stream=tntsports",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38960",
-              "title": "Gimnasia Mendoza vs Boca Juniors",
-              "time": "2026-09-05T14:30:00",
-              "timezone": "America/Argentina/Buenos_Aires",
-              "flagCode": "AR",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN TV",
-                  "url": "https://tvf90.com/plus1.php?stream=even2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN TV HD",
-                  "url": "https://tvf90.com/plus1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney12",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃HD",
-                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://tvf90.com/1.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnpremium",
                   "active": true
                 }
               ]
@@ -551,31 +492,6 @@
           ]
         },
         {
-          "name": "Brasileiro Femenino",
-          "country": "Brasil",
-          "events": [
-            {
-              "id": "39002",
-              "title": "Ferroviária vs Flamengo",
-              "time": "2026-09-05T14:30:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Sportv BR HD",
-                  "url": "https://tvf90.com/hd.php?stream=sportv",
-                  "active": true
-                },
-                {
-                  "name": "Sportv BR",
-                  "url": "https://tvf90.com/1.php?stream=sportv",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "General",
           "country": "México",
           "events": [
@@ -730,41 +646,6 @@
           ]
         },
         {
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "events": [
-            {
-              "id": "38957",
-              "title": "Sporting CP vs Nacional",
-              "time": "2026-09-05T14:30:00",
-              "timezone": "Europe/Lisbon",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=dsports2",
-                  "active": true
-                },
-                {
-                  "name": "Dsports 2",
-                  "url": "https://tvf90.com/3.php?stream=dsports2",
-                  "active": true
-                },
-                {
-                  "name": "Dsports 2 | OP2",
-                  "url": "https://tvf90.com/1.php?stream=dsports2",
-                  "active": true
-                },
-                {
-                  "name": "Dsports 2 | OP3",
-                  "url": "https://tvf90.com/2.php?stream=dsports2",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Primera División",
           "country": "Uruguay",
           "events": [
@@ -778,26 +659,6 @@
                 {
                   "name": "Disney+",
                   "url": "https://tvf90.com/1.php?stream=disney13",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Brasil",
-          "events": [
-            {
-              "id": "39003",
-              "title": "Brasileiro Femenino: São Paulo vs Grêmio",
-              "time": "2026-09-05T14:30:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Sportv BR",
-                  "url": "https://tvf90.com/1.php?stream=sportv",
                   "active": true
                 }
               ]
@@ -1036,6 +897,35 @@
               ]
             },
             {
+              "id": "39041",
+              "title": "Tenis – US Open – Tercera Ronda: Jovic I. vs Eala A.",
+              "time": "2026-09-05T18:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            },
+            {
               "id": "39025",
               "title": "US Open – Third Round: Zheng M. vs Gea A.",
               "time": "2026-09-05T15:50:00",
@@ -1068,6 +958,35 @@
               "id": "39040",
               "title": "US Open – Third Round: Starodubtseva Y. vs Rybakina E.",
               "time": "2026-09-05T17:45:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39042",
+              "title": "Tenis – US Open – Tercera Ronda: Starodubtseva Y. vs Rybakina E.",
+              "time": "2026-09-05T18:00:00",
               "timezone": "UTC",
               "flagCode": "",
               "servers": [
