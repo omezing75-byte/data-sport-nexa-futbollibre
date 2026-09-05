@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:29:36.807Z",
+  "generatedAt": "2026-09-05T19:37:55.511Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -149,18 +149,18 @@
                   "active": true
                 },
                 {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
                   "name": "ESPN TV",
                   "url": "https://tvf90.com/plus1.php?stream=even2",
                   "active": true
                 },
                 {
-                  "name": "ESPN TV-HD",
-                  "url": "https://tvf90.com/plus1.php?stream=even2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "name": "ESPN TV HD",
+                  "url": "https://tvf90.com/plus1.php?stream=espn",
                   "active": true
                 },
                 {
