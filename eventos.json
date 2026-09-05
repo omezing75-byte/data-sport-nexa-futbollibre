@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:21:34.810Z",
+  "generatedAt": "2026-09-05T16:31:50.210Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -64,35 +64,6 @@
                 {
                   "name": "ESPN Premium┃OP3",
                   "url": "https://tvf90.com/3.php?stream=espnpremium",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38959",
-              "title": "Gimnasia La Plata vs Tigre",
-              "time": "2026-09-05T12:30:00",
-              "timezone": "America/Argentina/Buenos_Aires",
-              "flagCode": "AR",
-              "servers": [
-                {
-                  "name": "TNT Sports | HD",
-                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports",
-                  "url": "https://tvf90.com/3.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=tntsports",
                   "active": true
                 }
               ]
@@ -171,6 +142,40 @@
                 {
                   "name": "fanatiz 01",
                   "url": "https://tvf90.com/1.php?stream=fanatiz1",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38959",
+              "title": "Gimnasia La Plata vs Tigre",
+              "time": "2026-09-05T12:30:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "TNT Sports | HD",
+                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports",
+                  "url": "https://tvf90.com/3.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "fanatiz 03",
+                  "url": "https://tvf90.com/1.php?stream=fanatiz3",
                   "active": true
                 }
               ]
@@ -2096,64 +2101,6 @@
           "country": "Tennis",
           "events": [
             {
-              "id": "39021",
-              "title": "US Open – Third Round: Fritz T. vs Cerúndolo F.",
-              "time": "2026-09-05T10:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39022",
-              "title": "US Open – Third Round: Keys M. vs Zheng Q.",
-              "time": "2026-09-05T10:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39025",
               "title": "US Open – Third Round: Jovic I. vs Eala A.",
               "time": "2026-09-05T18:00:00",
@@ -2178,6 +2125,64 @@
                 {
                   "name": "ESPN 2 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39021",
+              "title": "US Open – Third Round: Fritz T. vs Cerúndolo F.",
+              "time": "2026-09-05T10:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39022",
+              "title": "US Open – Third Round: Potapova A. vs Anisimova A.",
+              "time": "2026-09-05T10:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
                   "active": true
                 }
               ]
