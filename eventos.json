@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:58:53.202Z",
+  "generatedAt": "2026-09-05T20:10:55.255Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1026,35 +1026,6 @@
                   "active": true
                 }
               ]
-            },
-            {
-              "id": "38956",
-              "title": "Marítimo vs Benfica",
-              "time": "2026-09-05T12:00:00",
-              "timezone": "Europe/Lisbon",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports 2",
-                  "url": "https://tvf90.com/3.php?stream=dsports2",
-                  "active": true
-                },
-                {
-                  "name": "Dsports 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=dsports2",
-                  "active": true
-                },
-                {
-                  "name": "Dsports 2 | OP2",
-                  "url": "https://tvf90.com/1.php?stream=dsports2",
-                  "active": true
-                },
-                {
-                  "name": "Dsports 2 | OP3",
-                  "url": "https://tvf90.com/2.php?stream=dsports2",
-                  "active": true
-                }
-              ]
             }
           ]
         },
@@ -1436,56 +1407,6 @@
               "servers": []
             }
           ]
-        },
-        {
-          "name": "Super Lig",
-          "country": "Turquía",
-          "events": [
-            {
-              "id": "38998",
-              "title": "Fenerbahçe vs Beşiktaş",
-              "time": "2026-09-05T12:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Fox Sports 2",
-                  "url": "https://tvf90.com/3.php?stream=foxsports2",
-                  "active": true
-                },
-                {
-                  "name": "Fox Sports 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=foxsports2",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://tvf90.com/1.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn5",
-                  "active": true
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1501,64 +1422,6 @@
               "id": "39025",
               "title": "US Open – Third Round: Jovic I. vs Eala A.",
               "time": "2026-09-05T18:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39033",
-              "title": "US Open – Third Round: Keys M. vs Zheng Q.",
-              "time": "2026-09-05T12:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39034",
-              "title": "US Open – Third Round: Andreeva M. vs Bartunkova N.",
-              "time": "2026-09-05T12:00:00",
               "timezone": "UTC",
               "flagCode": "",
               "servers": [
