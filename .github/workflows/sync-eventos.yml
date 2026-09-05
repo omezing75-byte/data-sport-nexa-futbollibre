@@ -1,4 +1,4 @@
-name: Sinkronisasi jadwal dari FutbolLibreTV
+name: Sinkronisasi eventos.json dari diaries.json
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: sync-diaries
+  group: sync-eventos
   cancel-in-progress: true
 
 jobs:
@@ -28,20 +28,17 @@ jobs:
         with:
           node-version: 20
 
-      - name: Ambil diaries.json dari FutbolLibreTV
+      - name: Sinkronkan jadwal dari sumber utama
         run: node scripts/sync-eventos.mjs
 
-      - name: Simpan perubahan ke GitHub
+      - name: Simpan eventos.json ke GitHub
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-
           git add eventos.json
-
           if git diff --cached --quiet; then
             echo 'Tidak ada perubahan jadwal.'
             exit 0
           fi
-
-          git commit -m 'sync: update schedule from FutbolLibreTV'
+          git commit -m 'sync: update eventos.json from diaries.json'
           git push
