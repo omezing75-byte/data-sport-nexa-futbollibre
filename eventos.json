@@ -1,0 +1,2259 @@
+{
+  "generatedAt": "2026-09-05T14:40:54.398Z",
+  "source": "https://futbollibretv.org.pe/diaries.json",
+  "sports": [
+    {
+      "name": "Football",
+      "icon": "⚽",
+      "leagues": [
+        {
+          "name": "Liga Profesional",
+          "country": "Argentina",
+          "events": [
+            {
+              "id": "38961",
+              "title": "San Lorenzo vs Talleres Córdoba",
+              "time": "2026-09-05T17:00:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "TNT Sports | HD",
+                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports",
+                  "url": "https://tvf90.com/3.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tntsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38962",
+              "title": "Vélez Sarsfield vs Estudiantes",
+              "time": "2026-09-05T19:15:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "ESPN Premium┃HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium",
+                  "url": "https://tvf90.com/1.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnpremium",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38958",
+              "title": "Aldosivi vs Banfield",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "ESPN Premium┃HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium",
+                  "url": "https://tvf90.com/1.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnpremium",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38959",
+              "title": "Gimnasia La Plata vs Tigre",
+              "time": "2026-09-05T12:30:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "TNT Sports | HD",
+                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports",
+                  "url": "https://tvf90.com/3.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tntsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38960",
+              "title": "Gimnasia Mendoza vs Boca Juniors",
+              "time": "2026-09-05T14:30:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium",
+                  "url": "https://tvf90.com/1.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnpremium",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Bolivia",
+          "events": [
+            {
+              "id": "38963",
+              "title": "Primera División: Guabirá vs Real Potosí",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "America/La_Paz",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Entel TV PLUS+",
+                  "url": "https://tvf90.com/plus1.php?stream=even1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Championship",
+          "country": "Inglaterra",
+          "events": [
+            {
+              "id": "38981",
+              "title": "Swansea City vs Wrexham",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": []
+            },
+            {
+              "id": "38980",
+              "title": "Burnley vs Bristol City",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Fox Sports 2",
+                  "url": "https://tvf90.com/3.php?stream=foxsports2",
+                  "active": true
+                },
+                {
+                  "name": "Fox Sports 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxsports2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 7",
+                  "url": "https://tvf90.com/1.php?stream=espn7",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 7 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn7",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 7 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn7",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney17",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga 1",
+          "country": "Perú",
+          "events": [
+            {
+              "id": "38929",
+              "title": "Sport Huancayo vs Sport Boys",
+              "time": "2026-09-05T15:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Liga1MAX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1MAX",
+                  "url": "https://tvf90.com/1.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP2",
+                  "url": "https://tvf90.com/2.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP3",
+                  "url": "https://tvf90.com/3.php?stream=liga1max",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38931",
+              "title": "Universitario vs Comerciantes Unidos",
+              "time": "2026-09-05T20:30:00",
+              "timezone": "America/Lima",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Liga1MAX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1MAX",
+                  "url": "https://tvf90.com/1.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP2",
+                  "url": "https://tvf90.com/2.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP3",
+                  "url": "https://tvf90.com/3.php?stream=liga1max",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Perú",
+          "events": [
+            {
+              "id": "38930",
+              "title": "Liga 1: Cusco vs Deportivo Moquegua",
+              "time": "2026-09-05T18:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Liga1MAX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1MAX",
+                  "url": "https://tvf90.com/1.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP2",
+                  "url": "https://tvf90.com/2.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP3",
+                  "url": "https://tvf90.com/3.php?stream=liga1max",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LaLiga",
+          "country": "España",
+          "events": [
+            {
+              "id": "38940",
+              "title": "Rayo Vallecano vs Racing Santander",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38941",
+              "title": "Villarreal vs Deportivo La Coruña",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38939",
+              "title": "Athletic Club vs Atlético Madrid",
+              "time": "2026-09-05T09:15:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney18",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espndeportes",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Serie A",
+          "country": "Italia",
+          "events": [
+            {
+              "id": "38943",
+              "title": "Internazionale vs Napoli",
+              "time": "2026-09-05T11:00:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": [
+                {
+                  "name": "ESPN 5 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://tvf90.com/1.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn5",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38944",
+              "title": "Roma vs Atalanta",
+              "time": "2026-09-05T13:45:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": []
+            },
+            {
+              "id": "38942",
+              "title": "Fiorentina vs Torino",
+              "time": "2026-09-05T08:00:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": [
+                {
+                  "name": "ESPN 5 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://tvf90.com/1.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney6",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX",
+                  "url": "https://tvf90.com/1.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnmx",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "38950",
+              "title": "Schalke 04 vs Bayern München",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38946",
+              "title": "Borussia M'gladbach vs Elversberg",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney8",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38947",
+              "title": "Hoffenheim vs Borussia Dortmund",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney9",
+                  "active": true
+                },
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Universo",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38945",
+              "title": "Bayer Leverkusen vs Union Berlin",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney7",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38948",
+              "title": "Paderborn vs Freiburg",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney10",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38949",
+              "title": "Werder Bremen vs RB Leipzig",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney11",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ligue 1",
+          "country": "Francia",
+          "events": [
+            {
+              "id": "38952",
+              "title": "Le Havre vs Brest",
+              "time": "2026-09-05T13:45:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "BeIN Sports Ñ",
+                  "url": "https://tvf90.com/1.php?stream=beinsportes",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38951",
+              "title": "Lens vs Lorient",
+              "time": "2026-09-05T10:15:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney20",
+                  "active": true
+                },
+                {
+                  "name": "BeIN Sports Ñ",
+                  "url": "https://tvf90.com/1.php?stream=beinsportes",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Francia",
+          "events": [
+            {
+              "id": "38953",
+              "title": "Ligue 1: Nice vs Le Mans",
+              "time": "2026-09-05T13:45:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "events": [
+            {
+              "id": "38956",
+              "title": "Marítimo vs Benfica",
+              "time": "2026-09-05T12:00:00",
+              "timezone": "Europe/Lisbon",
+              "flagCode": "",
+              "servers": []
+            },
+            {
+              "id": "38957",
+              "title": "Sporting CP vs Nacional",
+              "time": "2026-09-05T14:30:00",
+              "timezone": "Europe/Lisbon",
+              "flagCode": "",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Bolivia",
+          "events": [
+            {
+              "id": "38964",
+              "title": "Aurora vs Gualberto Villarroel SJ",
+              "time": "2026-09-05T16:15:00",
+              "timezone": "America/La_Paz",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Entel TV PLUS+",
+                  "url": "https://tvf90.com/plus1.php?stream=even1",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38965",
+              "title": "Oriente Petrolero vs Always Ready",
+              "time": "2026-09-05T18:30:00",
+              "timezone": "America/La_Paz",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Entel TV PLUS+",
+                  "url": "https://tvf90.com/plus1.php?stream=even1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Brasileirão",
+          "country": "Brasil",
+          "events": [
+            {
+              "id": "38966",
+              "title": "RB Bragantino vs Bahia",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": []
+            },
+            {
+              "id": "38967",
+              "title": "São Paulo vs Atlético Mineiro",
+              "time": "2026-09-05T16:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": []
+            },
+            {
+              "id": "38968",
+              "title": "Fluminense vs Vasco da Gama",
+              "time": "2026-09-05T19:00:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Sportv BR HD",
+                  "url": "https://tvf90.com/hd.php?stream=sportv",
+                  "active": true
+                },
+                {
+                  "name": "Sportv BR",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Chile",
+          "events": [
+            {
+              "id": "38969",
+              "title": "Everton vs Universidad Católica",
+              "time": "2026-09-05T16:30:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Premiun CL HD",
+                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL",
+                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL OP2",
+                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38970",
+              "title": "Universidad Chile vs Coquimbo Unido",
+              "time": "2026-09-05T19:00:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Premiun CL HD",
+                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL",
+                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL OP2",
+                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera A",
+          "country": "Colombia",
+          "events": [
+            {
+              "id": "38971",
+              "title": "Boyacá Chicó vs Once Caldas",
+              "time": "2026-09-05T16:00:00",
+              "timezone": "America/Bogota",
+              "flagCode": "COL",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/hd.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports +",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP2",
+                  "url": "https://tvf90.com/2.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP3",
+                  "url": "https://tvf90.com/3.php?stream=winsports2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38972",
+              "title": "Cúcuta Deportivo vs Deportivo Pasto",
+              "time": "2026-09-05T18:10:00",
+              "timezone": "America/Bogota",
+              "flagCode": "COL",
+              "servers": [
+                {
+                  "name": "Win Sports | HD",
+                  "url": "https://tvf90.com/hd.php?stream=winsports",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports",
+                  "url": "https://tvf90.com/3.php?stream=winsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38973",
+              "title": "Santa Fe vs Fortaleza CEIF",
+              "time": "2026-09-05T18:25:00",
+              "timezone": "America/Bogota",
+              "flagCode": "COL",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/hd.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports +",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP2",
+                  "url": "https://tvf90.com/2.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP3",
+                  "url": "https://tvf90.com/3.php?stream=winsports2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38974",
+              "title": "Junior vs Jaguares de Córdoba",
+              "time": "2026-09-05T20:30:00",
+              "timezone": "America/Bogota",
+              "flagCode": "COL",
+              "servers": [
+                {
+                  "name": "Win Sports | HD",
+                  "url": "https://tvf90.com/hd.php?stream=winsports",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports",
+                  "url": "https://tvf90.com/3.php?stream=winsports",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Serie A",
+          "country": "Ecuador",
+          "events": [
+            {
+              "id": "38975",
+              "title": "Independiente del Valle vs Macará",
+              "time": "2026-09-05T18:00:00",
+              "timezone": "America/Guayaquil",
+              "flagCode": "ECUA",
+              "servers": [
+                {
+                  "name": "ECDF LigaPRO | HD",
+                  "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro",
+                  "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA",
+                  "url": "https://tvf90.com/1.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Paraguay",
+          "events": [
+            {
+              "id": "38976",
+              "title": "Sportivo San Lorenzo vs 2 de Mayo",
+              "time": "2026-09-05T16:30:00",
+              "timezone": "America/Asuncion",
+              "flagCode": "LIGAPY",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Uruguay",
+          "events": [
+            {
+              "id": "38977",
+              "title": "Danubio vs Peñarol",
+              "time": "2026-09-05T13:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": []
+            },
+            {
+              "id": "38978",
+              "title": "Deportivo Maldonado vs Wanderers",
+              "time": "2026-09-05T16:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "Segunda División",
+          "country": "Uruguay",
+          "events": [
+            {
+              "id": "39001",
+              "title": "Miramar Misiones vs Deportivo Colonia",
+              "time": "2026-09-05T17:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": []
+            },
+            {
+              "id": "39000",
+              "title": "Cerrito vs Paysandu",
+              "time": "2026-09-05T13:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "Brasileiro Femenino",
+          "country": "Brasil",
+          "events": [
+            {
+              "id": "39002",
+              "title": "Ferroviária vs Flamengo",
+              "time": "2026-09-05T14:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Sportv BR HD",
+                  "url": "https://tvf90.com/hd.php?stream=sportv",
+                  "active": true
+                },
+                {
+                  "name": "Sportv BR",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Premier League",
+          "country": "Inglaterra",
+          "events": [
+            {
+              "id": "38938",
+              "title": "Hull City vs Aston Villa",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": []
+            },
+            {
+              "id": "38933",
+              "title": "Brentford vs Sunderland",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney13",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38937",
+              "title": "Nottingham Forest vs Tottenham Hotspur",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney16",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38936",
+              "title": "Manchester City vs Coventry City",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney12",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "MAX",
+                  "url": "https://tvf90.com/1.php?stream=max2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38934",
+              "title": "Brighton & Hove Albion vs Leeds United",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney14",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2. Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "38985",
+              "title": "Dynamo Dresden vs Bochum",
+              "time": "2026-09-05T13:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Fox Sports 3",
+                  "url": "https://tvf90.com/1.php?stream=foxsports3",
+                  "active": true
+                },
+                {
+                  "name": "Fox sports 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxsports3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Superliga de Grecia",
+          "country": "Amistosos Paises",
+          "events": [
+            {
+              "id": "38986",
+              "title": "Volos NFC vs Olympiakos Piraeus",
+              "time": "2026-09-05T11:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Claro Sports",
+                  "url": "https://futbollibre.ch/1.php?stream=clarosports1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Copa Mundial Femenina Sub-20 de la FIFA",
+          "country": "Copa mundial sub20 fifa",
+          "events": [
+            {
+              "id": "38987",
+              "title": "Polonia  vs Argentina",
+              "time": "2026-09-05T08:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "America Television",
+                  "url": "https://tvf90.com/1.php?stream=americatv",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38988",
+              "title": "Brasil vs Tanzania",
+              "time": "2026-09-05T08:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Sportv BR HD",
+                  "url": "https://tvf90.com/hd.php?stream=sportv",
+                  "active": true
+                },
+                {
+                  "name": "Sportv BR",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38989",
+              "title": "México  vs Benín",
+              "time": "2026-09-05T11:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Universo",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38990",
+              "title": "Canadá  vs Inglaterra",
+              "time": "2026-09-05T11:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "FOX ONE",
+                  "url": "https://tvf90.com/1.php?stream=eventos",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "México",
+          "events": [
+            {
+              "id": "38991",
+              "title": "Liga MX: Atlético San Luis vs Guadalajara",
+              "time": "2026-09-05T18:00:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
+              "servers": [
+                {
+                  "name": "ESPN MX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX",
+                  "url": "https://tvf90.com/1.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnmx",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga MX",
+          "country": "México",
+          "events": [
+            {
+              "id": "38992",
+              "title": "Tigres UANL vs Necaxa",
+              "time": "2026-09-05T20:00:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
+              "servers": [
+                {
+                  "name": "Azteca 7 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=azteca7",
+                  "active": true
+                },
+                {
+                  "name": "Azteca 7",
+                  "url": "https://tvf90.com/3.php?stream=azteca7",
+                  "active": true
+                },
+                {
+                  "name": "Azteca 7 | OP2",
+                  "url": "https://tvf90.com/1.php?stream=azteca7",
+                  "active": true
+                },
+                {
+                  "name": "Azteca 7 | OP3",
+                  "url": "https://tvf90.com/2.php?stream=azteca7",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes | HD",
+                  "url": "https://tvf90.com/hd.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes",
+                  "url": "https://tvf90.com/1.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes | OP3",
+                  "url": "https://tvf90.com/3.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Universo",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38993",
+              "title": "Atlas vs Atlante",
+              "time": "2026-09-05T22:00:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
+              "servers": [
+                {
+                  "name": "Canal 5 MX",
+                  "url": "https://tvf90.com/3.php?stream=canal5",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | HD",
+                  "url": "https://tvf90.com/hd.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA",
+                  "url": "https://tvf90.com/3.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Universo",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eredivisie",
+          "country": "Paises Bajos",
+          "events": [
+            {
+              "id": "38994",
+              "title": "NEC vs Feyenoord",
+              "time": "2026-09-05T09:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 MX",
+                  "url": "https://tvf90.com/1.php?stream=espn4mx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 NL",
+                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38995",
+              "title": "Utrecht vs Go Ahead Eagles",
+              "time": "2026-09-05T11:45:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 NL",
+                  "url": "https://tvf90.com/1.php?stream=espn3_nl",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38996",
+              "title": "Ajax vs PSV",
+              "time": "2026-09-05T13:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX",
+                  "url": "https://tvf90.com/1.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN NL",
+                  "url": "https://tvf90.com/1.php?stream=espn1_nl",
+                  "active": true
+                },
+                {
+                  "name": "ESPN NL | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn1_nl",
+                  "active": true
+                },
+                {
+                  "name": "ESPN NL | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn1_nl",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38997",
+              "title": "Willem II vs Excelsior",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 NL",
+                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Brasil",
+          "events": [
+            {
+              "id": "39003",
+              "title": "Brasileiro Femenino: São Paulo vs Grêmio",
+              "time": "2026-09-05T14:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Sportv BR",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera B",
+          "country": "Chile",
+          "events": [
+            {
+              "id": "39004",
+              "title": "Magallanes vs Unión San Felipe",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Premiun CL HD",
+                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL",
+                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL OP2",
+                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39005",
+              "title": "Deportes Santa Cruz vs Unión Española",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Premiun CL HD",
+                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL",
+                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL OP2",
+                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Chile",
+          "events": [
+            {
+              "id": "39006",
+              "title": "Primera B: San Luis vs Cobreloa",
+              "time": "2026-09-05T16:30:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Chile",
+                  "url": "https://tvf90.com/plus1.php?stream=even6",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39007",
+              "title": "Primera B: San Marcos vs Copiapó",
+              "time": "2026-09-05T19:00:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Chile",
+                  "url": "https://tvf90.com/plus1.php?stream=even6",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Costa Rica",
+          "events": [
+            {
+              "id": "39008",
+              "title": "Herediano vs Pérez Zeledón",
+              "time": "2026-09-05T18:00:00",
+              "timezone": "America/Costa_Rica",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "FUTV",
+                  "url": "https://tvf90.com/1.php?stream=futv",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39009",
+              "title": "Alajuelense vs Deportivo Saprissa",
+              "time": "2026-09-05T21:00:00",
+              "timezone": "America/Costa_Rica",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "FUTV",
+                  "url": "https://tvf90.com/1.php?stream=futv",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eerste Divisie",
+          "country": "Paises Bajos",
+          "events": [
+            {
+              "id": "39010",
+              "title": "Dordrecht vs AZ II",
+              "time": "2026-09-05T09:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN NL",
+                  "url": "https://tvf90.com/1.php?stream=espn1_nl",
+                  "active": true
+                },
+                {
+                  "name": "ESPN NL | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn1_nl",
+                  "active": true
+                },
+                {
+                  "name": "ESPN NL | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn1_nl",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pro League",
+          "country": "Arabia Saudita",
+          "events": [
+            {
+              "id": "39011",
+              "title": "Al Ittihad vs Al Nassr",
+              "time": "2026-09-05T13:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "LaLiga SmartBank",
+          "country": "España",
+          "events": [
+            {
+              "id": "39012",
+              "title": "Real Sociedad II vs Tenerife",
+              "time": "2026-09-05T07:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39013",
+              "title": "Sporting Gijón vs Girona",
+              "time": "2026-09-05T09:15:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39015",
+              "title": "Real Valladolid vs FC Andorra",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39016",
+              "title": "AD Ceuta vs Celta Fortuna",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion 3",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion3",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39017",
+              "title": "Eldense vs Mallorca",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "España",
+          "events": [
+            {
+              "id": "39014",
+              "title": "LaLiga SmartBank: Ceuta vs Celta de Vigo II",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion 2",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Formula 2",
+          "events": [
+            {
+              "id": "39019",
+              "title": "F2 Monza – Carrera Sprint",
+              "time": "2026-09-05T07:05:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Ciclismo",
+          "events": [
+            {
+              "id": "39020",
+              "title": "Ciclismo – La Vuelta – Etapa #14",
+              "time": "2026-09-05T07:45:00",
+              "timezone": "UTC",
+              "flagCode": "CICLISMO",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Boxeo",
+          "events": [
+            {
+              "id": "39023",
+              "title": "ESPN Knockout – Katie Taylor vs. Flora Pili",
+              "time": "2026-09-05T12:55:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 5 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://tvf90.com/1.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn5",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39026",
+              "title": "ESPN Knockout – Alberto Mora vs. Juan Pablo Ramirez",
+              "time": "2026-09-05T21:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Rugby",
+          "events": [
+            {
+              "id": "39024",
+              "title": "Rugby – Test Match Internacional – Los Pumas",
+              "time": "2026-09-05T15:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Super Lig",
+          "country": "Turquía",
+          "events": [
+            {
+              "id": "38998",
+              "title": "Fenerbahçe vs Beşiktaş",
+              "time": "2026-09-05T12:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Fox Sports 2",
+                  "url": "https://tvf90.com/3.php?stream=foxsports2",
+                  "active": true
+                },
+                {
+                  "name": "Fox Sports 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxsports2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Estados Unidos",
+          "events": [
+            {
+              "id": "38999",
+              "title": "Major League Soccer: Inter Miami vs Atlanta United",
+              "time": "2026-09-05T18:30:00",
+              "timezone": "America/New_York",
+              "flagCode": "USOPEN",
+              "servers": []
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Inglaterra",
+          "events": [
+            {
+              "id": "39028",
+              "title": "Championship: West Ham United vs Derby County",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Paramount+",
+                  "url": "https://tvf90.com/1.php?stream=paramount1",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39029",
+              "title": "Championship: West Bromwich Albion vs Watford",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Paramount+",
+                  "url": "https://tvf90.com/1.php?stream=paramount2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39030",
+              "title": "Premier League: Fulham vs Crystal Palace",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney15",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "MOTO GP",
+          "events": [
+            {
+              "id": "39031",
+              "title": "Evento: WorldSBK – French Round – Race 1",
+              "time": "2026-09-05T08:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "UFC",
+          "events": [
+            {
+              "id": "39032",
+              "title": "UFC: Dan Hooker vs Salahdine Parnasse",
+              "time": "2026-09-05T10:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Paramount+",
+                  "url": "https://tvf90.com/1.php?stream=paramount3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tennis",
+      "icon": "🎾",
+      "leagues": [
+        {
+          "name": "General",
+          "country": "Tennis",
+          "events": [
+            {
+              "id": "39021",
+              "title": "US Open – Third Round: Fritz T. vs Cerúndolo F.",
+              "time": "2026-09-05T10:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39022",
+              "title": "US Open – Third Round: Keys M. vs Zheng Q.",
+              "time": "2026-09-05T10:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39025",
+              "title": "US Open – Third Round: Jovic I. vs Eala A.",
+              "time": "2026-09-05T18:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
