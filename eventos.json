@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:31:50.210Z",
+  "generatedAt": "2026-09-05T16:41:16.665Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -402,6 +402,11 @@
                 {
                   "name": "DSports | OP3",
                   "url": "https://tvf90.com/2.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "DSports Eventos",
+                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
                   "active": true
                 },
                 {
@@ -1244,131 +1249,6 @@
           ]
         },
         {
-          "name": "Bundesliga",
-          "country": "Alemania",
-          "events": [
-            {
-              "id": "38946",
-              "title": "Borussia M'gladbach vs Elversberg",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney8",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38947",
-              "title": "Hoffenheim vs Borussia Dortmund",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney9",
-                  "active": true
-                },
-                {
-                  "name": "Universo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=universo",
-                  "active": true
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://tvf90.com/1.php?stream=universo",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38945",
-              "title": "Bayer Leverkusen vs Union Berlin",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney7",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38948",
-              "title": "Paderborn vs Freiburg",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney10",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38949",
-              "title": "Werder Bremen vs RB Leipzig",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney11",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38950",
-              "title": "Schalke 04 vs Bayern München",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney3",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://tvf90.com/1.php?stream=telemundo",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Premier League",
           "country": "Inglaterra",
           "events": [
@@ -1468,6 +1348,51 @@
                 {
                   "name": "Disney+",
                   "url": "https://tvf90.com/1.php?stream=disney2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "38950",
+              "title": "Schalke 04 vs Bayern München",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney3",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
                   "active": true
                 }
               ]
