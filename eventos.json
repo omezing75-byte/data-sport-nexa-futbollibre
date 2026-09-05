@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:16:29.882Z",
+  "generatedAt": "2026-09-05T17:25:38.550Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -373,55 +373,6 @@
                 {
                   "name": "Canal 5 MX",
                   "url": "https://tvf90.com/3.php?stream=canal5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://tvf90.com/1.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38939",
-              "title": "Athletic Club vs Atlético Madrid",
-              "time": "2026-09-05T09:15:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney18",
                   "active": true
                 },
                 {
@@ -1578,23 +1529,29 @@
           ]
         },
         {
-          "name": "LaLiga SmartBank",
+          "name": "General",
           "country": "España",
           "events": [
             {
-              "id": "39013",
-              "title": "Sporting Gijón vs Girona",
-              "time": "2026-09-05T09:15:00",
+              "id": "39014",
+              "title": "LaLiga SmartBank: Ceuta vs Celta de Vigo II",
+              "time": "2026-09-05T11:30:00",
               "timezone": "Europe/Madrid",
               "flagCode": "",
               "servers": [
                 {
-                  "name": "LaLiga TV Hypermotion",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                  "name": "LaLiga TV Hypermotion 2",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion2",
                   "active": true
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "LaLiga SmartBank",
+          "country": "España",
+          "events": [
             {
               "id": "39015",
               "title": "Real Valladolid vs FC Andorra",
@@ -1633,26 +1590,6 @@
                 {
                   "name": "LaLiga TV Hypermotion",
                   "url": "https://tvf90.com/1.php?stream=hypermotion1",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "España",
-          "events": [
-            {
-              "id": "39014",
-              "title": "LaLiga SmartBank: Ceuta vs Celta de Vigo II",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion 2",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion2",
                   "active": true
                 }
               ]
