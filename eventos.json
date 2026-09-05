@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:41:13.914Z",
+  "generatedAt": "2026-09-05T17:48:36.671Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -395,127 +395,6 @@
           ]
         },
         {
-          "name": "Serie A",
-          "country": "Italia",
-          "events": [
-            {
-              "id": "38944",
-              "title": "Roma vs Atalanta",
-              "time": "2026-09-05T13:45:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": []
-            },
-            {
-              "id": "38943",
-              "title": "Internazionale vs Napoli",
-              "time": "2026-09-05T11:00:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": [
-                {
-                  "name": "ESPN 5 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://tvf90.com/1.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney1",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX",
-                  "url": "https://tvf90.com/1.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnmx",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Ligue 1",
-          "country": "Francia",
-          "events": [
-            {
-              "id": "38952",
-              "title": "Le Havre vs Brest",
-              "time": "2026-09-05T13:45:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "BeIN Sports Ñ",
-                  "url": "https://tvf90.com/1.php?stream=beinsportes",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38951",
-              "title": "Lens vs Lorient",
-              "time": "2026-09-05T10:15:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney20",
-                  "active": true
-                },
-                {
-                  "name": "BeIN Sports Ñ",
-                  "url": "https://tvf90.com/1.php?stream=beinsportes",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Francia",
-          "events": [
-            {
-              "id": "38953",
-              "title": "Ligue 1: Nice vs Le Mans",
-              "time": "2026-09-05T13:45:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": []
-            }
-          ]
-        },
-        {
           "name": "Primeira Liga",
           "country": "Portugal",
           "events": [
@@ -597,14 +476,6 @@
           "country": "Brasil",
           "events": [
             {
-              "id": "38966",
-              "title": "RB Bragantino vs Bahia",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": []
-            },
-            {
               "id": "38967",
               "title": "São Paulo vs Atlético Mineiro",
               "time": "2026-09-05T16:30:00",
@@ -627,6 +498,25 @@
                 {
                   "name": "Sportv BR",
                   "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38966",
+              "title": "RB Bragantino vs Bahia",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Premiere 4 BR | HD",
+                  "url": "https://tvf90.com/hd.php?stream=premiere4",
+                  "active": true
+                },
+                {
+                  "name": "Premiere 4 BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere4",
                   "active": true
                 }
               ]
@@ -1165,6 +1055,154 @@
                 {
                   "name": "Fox sports 3 | OP2",
                   "url": "https://tvf90.com/2.php?stream=foxsports3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Francia",
+          "events": [
+            {
+              "id": "38953",
+              "title": "Ligue 1: Nice vs Le Mans",
+              "time": "2026-09-05T13:45:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney10",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Serie A",
+          "country": "Italia",
+          "events": [
+            {
+              "id": "38944",
+              "title": "Roma vs Atalanta",
+              "time": "2026-09-05T13:45:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney8",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38943",
+              "title": "Internazionale vs Napoli",
+              "time": "2026-09-05T11:00:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": [
+                {
+                  "name": "ESPN 5 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://tvf90.com/1.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn5",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney1",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX",
+                  "url": "https://tvf90.com/1.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnmx",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ligue 1",
+          "country": "Francia",
+          "events": [
+            {
+              "id": "38951",
+              "title": "Lens vs Lorient",
+              "time": "2026-09-05T10:15:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney20",
+                  "active": true
+                },
+                {
+                  "name": "BeIN Sports Ñ",
+                  "url": "https://tvf90.com/1.php?stream=beinsportes",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38952",
+              "title": "Le Havre vs Brest",
+              "time": "2026-09-05T13:45:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney9",
+                  "active": true
+                },
+                {
+                  "name": "BeIN Sports Ñ",
+                  "url": "https://tvf90.com/1.php?stream=beinsportes",
                   "active": true
                 }
               ]
