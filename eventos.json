@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:07:58.446Z",
+  "generatedAt": "2026-09-05T23:18:46.838Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -71,42 +71,13 @@
           ]
         },
         {
-          "name": "Liga 1",
+          "name": "General",
           "country": "Perú",
           "events": [
             {
-              "id": "38929",
-              "title": "Sport Huancayo vs Sport Boys",
-              "time": "2026-09-05T15:00:00",
-              "timezone": "America/Lima",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Liga1MAX | HD",
-                  "url": "https://tvf90.com/hd.php?stream=liga1max",
-                  "active": true
-                },
-                {
-                  "name": "Liga1MAX",
-                  "url": "https://tvf90.com/1.php?stream=liga1max",
-                  "active": true
-                },
-                {
-                  "name": "Liga1Max | OP2",
-                  "url": "https://tvf90.com/2.php?stream=liga1max",
-                  "active": true
-                },
-                {
-                  "name": "Liga1Max | OP3",
-                  "url": "https://tvf90.com/3.php?stream=liga1max",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38931",
-              "title": "Universitario vs Comerciantes Unidos",
-              "time": "2026-09-05T20:30:00",
+              "id": "38930",
+              "title": "Liga 1: Cusco vs Deportivo Moquegua",
+              "time": "2026-09-05T18:00:00",
               "timezone": "America/Lima",
               "flagCode": "",
               "servers": [
@@ -135,13 +106,13 @@
           ]
         },
         {
-          "name": "General",
+          "name": "Liga 1",
           "country": "Perú",
           "events": [
             {
-              "id": "38930",
-              "title": "Liga 1: Cusco vs Deportivo Moquegua",
-              "time": "2026-09-05T18:00:00",
+              "id": "38931",
+              "title": "Universitario vs Comerciantes Unidos",
+              "time": "2026-09-05T20:30:00",
               "timezone": "America/Lima",
               "flagCode": "",
               "servers": [
