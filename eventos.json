@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:03:52.431Z",
+  "generatedAt": "2026-09-05T15:17:28.070Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1813,20 +1813,6 @@
           "country": "España",
           "events": [
             {
-              "id": "39012",
-              "title": "Real Sociedad II vs Tenerife",
-              "time": "2026-09-05T07:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39013",
               "title": "Sporting Gijón vs Girona",
               "time": "2026-09-05T09:15:00",
@@ -1898,41 +1884,6 @@
                 {
                   "name": "LaLiga TV Hypermotion 2",
                   "url": "https://tvf90.com/1.php?stream=hypermotion2",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Formula 2",
-          "events": [
-            {
-              "id": "39019",
-              "title": "F2 Monza – Carrera Sprint",
-              "time": "2026-09-05T07:05:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
                   "active": true
                 }
               ]
