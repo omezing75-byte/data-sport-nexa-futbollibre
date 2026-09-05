@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:48:48.652Z",
+  "generatedAt": "2026-09-05T16:55:40.473Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -2113,6 +2113,64 @@
                 {
                   "name": "Eventos",
                   "url": "https://tvf90.com/1.php?stream=eventos3",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39033",
+              "title": "US Open – Third Round: Andreeva M. vs Bartunkova N.",
+              "time": "2026-09-05T12:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39034",
+              "title": "US Open – Third Round: Blockx A. vs Cobolli F.",
+              "time": "2026-09-05T12:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
                 }
               ]
