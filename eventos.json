@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:51:57.866Z",
+  "generatedAt": "2026-09-05T19:58:53.202Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1087,20 +1087,6 @@
           "name": "Eredivisie",
           "country": "Paises Bajos",
           "events": [
-            {
-              "id": "38995",
-              "title": "Utrecht vs Go Ahead Eagles",
-              "time": "2026-09-05T11:45:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 3 NL",
-                  "url": "https://tvf90.com/1.php?stream=espn3_nl",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38997",
               "title": "Willem II vs Excelsior",
