@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:40:54.398Z",
+  "generatedAt": "2026-09-05T14:48:15.297Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -349,20 +349,6 @@
           "country": "España",
           "events": [
             {
-              "id": "38940",
-              "title": "Rayo Vallecano vs Racing Santander",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "38941",
               "title": "Villarreal vs Deportivo La Coruña",
               "time": "2026-09-05T14:00:00",
@@ -424,6 +410,35 @@
                   "active": true
                 }
               ]
+            },
+            {
+              "id": "38940",
+              "title": "Rayo Vallecano vs Racing Santander",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Canal 5 MX",
+                  "url": "https://tvf90.com/3.php?stream=canal5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espndeportes",
+                  "active": true
+                }
+              ]
             }
           ]
         },
@@ -431,35 +446,6 @@
           "name": "Serie A",
           "country": "Italia",
           "events": [
-            {
-              "id": "38943",
-              "title": "Internazionale vs Napoli",
-              "time": "2026-09-05T11:00:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": [
-                {
-                  "name": "ESPN 5 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://tvf90.com/1.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn5",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38944",
               "title": "Roma vs Atalanta",
@@ -521,113 +507,57 @@
                   "active": true
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Bundesliga",
-          "country": "Alemania",
-          "events": [
+            },
             {
-              "id": "38950",
-              "title": "Schalke 04 vs Bayern München",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
+              "id": "38943",
+              "title": "Internazionale vs Napoli",
+              "time": "2026-09-05T11:00:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
               "servers": [
                 {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "name": "ESPN 5 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn5",
                   "active": true
                 },
                 {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "name": "ESPN 5",
+                  "url": "https://tvf90.com/1.php?stream=espn5",
                   "active": true
                 },
                 {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38946",
-              "title": "Borussia M'gladbach vs Elversberg",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney8",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38947",
-              "title": "Hoffenheim vs Borussia Dortmund",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney9",
+                  "name": "ESPN 5 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn5",
                   "active": true
                 },
                 {
-                  "name": "Universo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=universo",
+                  "name": "ESPN 5 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn5",
                   "active": true
                 },
                 {
-                  "name": "Universo",
-                  "url": "https://tvf90.com/1.php?stream=universo",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38945",
-              "title": "Bayer Leverkusen vs Union Berlin",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
                   "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney7",
+                  "url": "https://tvf90.com/1.php?stream=disney1",
                   "active": true
-                }
-              ]
-            },
-            {
-              "id": "38948",
-              "title": "Paderborn vs Freiburg",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
+                },
                 {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney10",
+                  "name": "ESPN MX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnmx",
                   "active": true
-                }
-              ]
-            },
-            {
-              "id": "38949",
-              "title": "Werder Bremen vs RB Leipzig",
-              "time": "2026-09-05T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
+                },
                 {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney11",
+                  "name": "ESPN MX",
+                  "url": "https://tvf90.com/1.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnmx",
                   "active": true
                 }
               ]
@@ -1074,106 +1004,6 @@
           ]
         },
         {
-          "name": "Premier League",
-          "country": "Inglaterra",
-          "events": [
-            {
-              "id": "38938",
-              "title": "Hull City vs Aston Villa",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": []
-            },
-            {
-              "id": "38933",
-              "title": "Brentford vs Sunderland",
-              "time": "2026-09-05T09:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney13",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38937",
-              "title": "Nottingham Forest vs Tottenham Hotspur",
-              "time": "2026-09-05T09:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney16",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38936",
-              "title": "Manchester City vs Coventry City",
-              "time": "2026-09-05T09:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney12",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://tvf90.com/1.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "MAX",
-                  "url": "https://tvf90.com/1.php?stream=max2",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38934",
-              "title": "Brighton & Hove Albion vs Leeds United",
-              "time": "2026-09-05T09:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney14",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "2. Bundesliga",
           "country": "Alemania",
           "events": [
@@ -1438,6 +1268,237 @@
                 {
                   "name": "Universo",
                   "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "38946",
+              "title": "Borussia M'gladbach vs Elversberg",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney8",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38947",
+              "title": "Hoffenheim vs Borussia Dortmund",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney9",
+                  "active": true
+                },
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Universo",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38945",
+              "title": "Bayer Leverkusen vs Union Berlin",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney7",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38948",
+              "title": "Paderborn vs Freiburg",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney10",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38949",
+              "title": "Werder Bremen vs RB Leipzig",
+              "time": "2026-09-05T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney11",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38950",
+              "title": "Schalke 04 vs Bayern München",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney3",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Premier League",
+          "country": "Inglaterra",
+          "events": [
+            {
+              "id": "38933",
+              "title": "Brentford vs Sunderland",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney13",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38937",
+              "title": "Nottingham Forest vs Tottenham Hotspur",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney16",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38936",
+              "title": "Manchester City vs Coventry City",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney12",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "MAX",
+                  "url": "https://tvf90.com/1.php?stream=max2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38934",
+              "title": "Brighton & Hove Albion vs Leeds United",
+              "time": "2026-09-05T09:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney14",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38938",
+              "title": "Hull City vs Aston Villa",
+              "time": "2026-09-05T11:30:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney2",
                   "active": true
                 }
               ]
