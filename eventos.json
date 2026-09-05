@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:22:36.073Z",
+  "generatedAt": "2026-09-05T19:29:36.807Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -46,55 +46,6 @@
               "timezone": "America/Argentina/Buenos_Aires",
               "flagCode": "AR",
               "servers": [
-                {
-                  "name": "ESPN Premium┃HD",
-                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://tvf90.com/1.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnpremium",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38960",
-              "title": "Gimnasia Mendoza vs Boca Juniors",
-              "time": "2026-09-05T14:30:00",
-              "timezone": "America/Argentina/Buenos_Aires",
-              "flagCode": "AR",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney12",
-                  "active": true
-                },
                 {
                   "name": "ESPN Premium┃HD",
                   "url": "https://tvf90.com/hd.php?stream=espnpremium",
@@ -181,6 +132,65 @@
                 {
                   "name": "fanatiz 03",
                   "url": "https://tvf90.com/1.php?stream=fanatiz3",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38960",
+              "title": "Gimnasia Mendoza vs Boca Juniors",
+              "time": "2026-09-05T14:30:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN TV",
+                  "url": "https://tvf90.com/plus1.php?stream=even2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN TV-HD",
+                  "url": "https://tvf90.com/plus1.php?stream=even2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney12",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium",
+                  "url": "https://tvf90.com/1.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnpremium",
                   "active": true
                 }
               ]
