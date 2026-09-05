@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:49:24.380Z",
+  "generatedAt": "2026-09-05T21:56:46.470Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -759,56 +759,6 @@
           ]
         },
         {
-          "name": "General",
-          "country": "Francia",
-          "events": [
-            {
-              "id": "38953",
-              "title": "Ligue 1: Nice vs Le Mans",
-              "time": "2026-09-05T13:45:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney10",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Serie A",
-          "country": "Italia",
-          "events": [
-            {
-              "id": "38944",
-              "title": "Roma vs Atalanta",
-              "time": "2026-09-05T13:45:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney8",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://tvf90.com/1.php?stream=telemundo",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "LaLiga",
           "country": "España",
           "events": [
@@ -937,31 +887,6 @@
                 {
                   "name": "Disney+",
                   "url": "https://tvf90.com/1.php?stream=disney13",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Ligue 1",
-          "country": "Francia",
-          "events": [
-            {
-              "id": "38952",
-              "title": "Le Havre vs Brest",
-              "time": "2026-09-05T13:45:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney9",
-                  "active": true
-                },
-                {
-                  "name": "BeIN Sports Ñ",
-                  "url": "https://tvf90.com/1.php?stream=beinsportes",
                   "active": true
                 }
               ]
