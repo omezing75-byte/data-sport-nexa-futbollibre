@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:06:27.389Z",
+  "generatedAt": "2026-09-05T22:18:55.822Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -123,26 +123,6 @@
                 {
                   "name": "ESPN Premium┃OP3",
                   "url": "https://tvf90.com/3.php?stream=espnpremium",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Bolivia",
-          "events": [
-            {
-              "id": "38963",
-              "title": "Primera División: Guabirá vs Real Potosí",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "America/La_Paz",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Entel TV PLUS+",
-                  "url": "https://tvf90.com/plus1.php?stream=even1",
                   "active": true
                 }
               ]
@@ -301,25 +281,6 @@
                 {
                   "name": "Sportv BR",
                   "url": "https://tvf90.com/1.php?stream=sportv",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38966",
-              "title": "RB Bragantino vs Bahia",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Premiere 4 BR | HD",
-                  "url": "https://tvf90.com/hd.php?stream=premiere4",
-                  "active": true
-                },
-                {
-                  "name": "Premiere 4 BR",
-                  "url": "https://tvf90.com/1.php?stream=premiere4",
                   "active": true
                 }
               ]
@@ -759,86 +720,6 @@
           ]
         },
         {
-          "name": "LaLiga",
-          "country": "España",
-          "events": [
-            {
-              "id": "38941",
-              "title": "Villarreal vs Deportivo La Coruña",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports Argentina",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports | HD",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://tvf90.com/1.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Championship",
-          "country": "Inglaterra",
-          "events": [
-            {
-              "id": "38981",
-              "title": "Swansea City vs Wrexham",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney11",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Primeira Liga",
           "country": "Portugal",
           "events": [
@@ -894,26 +775,6 @@
           ]
         },
         {
-          "name": "Eredivisie",
-          "country": "Paises Bajos",
-          "events": [
-            {
-              "id": "38997",
-              "title": "Willem II vs Excelsior",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 NL",
-                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "General",
           "country": "Brasil",
           "events": [
@@ -927,36 +788,6 @@
                 {
                   "name": "Sportv BR",
                   "url": "https://tvf90.com/1.php?stream=sportv",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Primera B",
-          "country": "Chile",
-          "events": [
-            {
-              "id": "39005",
-              "title": "Deportes Santa Cruz vs Unión Española",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "America/Santiago",
-              "flagCode": "CH",
-              "servers": [
-                {
-                  "name": "TNT Sports Premiun CL HD",
-                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL",
-                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL OP2",
-                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
                   "active": true
                 }
               ]
@@ -1025,26 +856,6 @@
                 {
                   "name": "FUTV",
                   "url": "https://tvf90.com/1.php?stream=futv",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LaLiga SmartBank",
-          "country": "España",
-          "events": [
-            {
-              "id": "39017",
-              "title": "Eldense vs Mallorca",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
                   "active": true
                 }
               ]
