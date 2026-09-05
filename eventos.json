@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:37:55.511Z",
+  "generatedAt": "2026-09-05T19:45:02.062Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -64,40 +64,6 @@
                 {
                   "name": "ESPN Premium┃OP3",
                   "url": "https://tvf90.com/3.php?stream=espnpremium",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38958",
-              "title": "Aldosivi vs Banfield",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "America/Argentina/Buenos_Aires",
-              "flagCode": "AR",
-              "servers": [
-                {
-                  "name": "ESPN Premium┃HD",
-                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://tvf90.com/1.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Premium┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnpremium",
-                  "active": true
-                },
-                {
-                  "name": "fanatiz 01",
-                  "url": "https://tvf90.com/1.php?stream=fanatiz1",
                   "active": true
                 }
               ]
@@ -835,125 +801,6 @@
           ]
         },
         {
-          "name": "LaLiga",
-          "country": "España",
-          "events": [
-            {
-              "id": "38940",
-              "title": "Rayo Vallecano vs Racing Santander",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports Argentina",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports | HD",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
-                  "active": true
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://tvf90.com/3.php?stream=canal5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://tvf90.com/1.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38941",
-              "title": "Villarreal vs Deportivo La Coruña",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports Argentina",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports | HD",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://tvf90.com/1.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Primera División",
           "country": "Uruguay",
           "events": [
@@ -1068,6 +915,66 @@
           ]
         },
         {
+          "name": "LaLiga",
+          "country": "España",
+          "events": [
+            {
+              "id": "38941",
+              "title": "Villarreal vs Deportivo La Coruña",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Dsports Argentina",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "DSports | HD",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "DSports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "DSports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "DSports Eventos",
+                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Championship",
           "country": "Inglaterra",
           "events": [
@@ -1145,71 +1052,6 @@
                 {
                   "name": "Dsports 2 | OP3",
                   "url": "https://tvf90.com/2.php?stream=dsports2",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Premier League",
-          "country": "Inglaterra",
-          "events": [
-            {
-              "id": "38938",
-              "title": "Hull City vs Aston Villa",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney2",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Bundesliga",
-          "country": "Alemania",
-          "events": [
-            {
-              "id": "38950",
-              "title": "Schalke 04 vs Bayern München",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney3",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://tvf90.com/1.php?stream=telemundo",
                   "active": true
                 }
               ]
@@ -1369,30 +1211,6 @@
           "country": "Chile",
           "events": [
             {
-              "id": "39004",
-              "title": "Magallanes vs Unión San Felipe",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "America/Santiago",
-              "flagCode": "CH",
-              "servers": [
-                {
-                  "name": "TNT Sports Premiun CL HD",
-                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL",
-                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL OP2",
-                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39005",
               "title": "Deportes Santa Cruz vs Unión Española",
               "time": "2026-09-05T14:00:00",
@@ -1501,57 +1319,9 @@
           ]
         },
         {
-          "name": "General",
-          "country": "España",
-          "events": [
-            {
-              "id": "39014",
-              "title": "LaLiga SmartBank: Ceuta vs Celta de Vigo II",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion 2",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion2",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "LaLiga SmartBank",
           "country": "España",
           "events": [
-            {
-              "id": "39015",
-              "title": "Real Valladolid vs FC Andorra",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39016",
-              "title": "AD Ceuta vs Celta Fortuna",
-              "time": "2026-09-05T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion 3",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion3",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "39017",
               "title": "Eldense vs Mallorca",
