@@ -5,7 +5,7 @@ const SOURCE_CONFIG = JSON.parse(await (await fetch(CONFIG_PATH)).text());
 const SOURCE_URL = SOURCE_CONFIG.source_url;
 
 
-const OUTPUT_FILE = 'eventos.json';
+const OUTPUT_FILE = '../eventos.json';
 const TEMP_FILE = `${OUTPUT_FILE}.tmp`;
 
 const response = await fetch(SOURCE_URL, {
