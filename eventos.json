@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:28:10.165Z",
+  "generatedAt": "2026-09-05T22:36:25.627Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1007,9 +1007,67 @@
               ]
             },
             {
+              "id": "39039",
+              "title": "US Open – Third Round: Bergs Z. vs Van De Zandschulp B.",
+              "time": "2026-09-05T16:40:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                }
+              ]
+            },
+            {
               "id": "39025",
               "title": "US Open – Third Round: Zheng M. vs Gea A.",
               "time": "2026-09-05T15:50:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39040",
+              "title": "US Open – Third Round: Starodubtseva Y. vs Rybakina E.",
+              "time": "2026-09-05T17:45:00",
               "timezone": "UTC",
               "flagCode": "",
               "servers": [
