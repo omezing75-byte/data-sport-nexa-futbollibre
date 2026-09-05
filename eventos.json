@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:41:16.665Z",
+  "generatedAt": "2026-09-05T16:48:48.652Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -2055,6 +2055,35 @@
               ]
             },
             {
+              "id": "39022",
+              "title": "US Open – Third Round: Potapova A. vs Anisimova A.",
+              "time": "2026-09-05T10:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                }
+              ]
+            },
+            {
               "id": "39021",
               "title": "US Open – Third Round: Fritz T. vs Cerúndolo F.",
               "time": "2026-09-05T10:00:00",
@@ -2080,34 +2109,10 @@
                   "name": "ESPN 2 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
-                }
-              ]
-            },
-            {
-              "id": "39022",
-              "title": "US Open – Third Round: Potapova A. vs Anisimova A.",
-              "time": "2026-09-05T10:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
                 },
                 {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "name": "Eventos",
+                  "url": "https://tvf90.com/1.php?stream=eventos3",
                   "active": true
                 }
               ]
