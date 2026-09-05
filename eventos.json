@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:33:23.470Z",
+  "generatedAt": "2026-09-05T17:41:13.914Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -858,20 +858,26 @@
           "country": "Uruguay",
           "events": [
             {
-              "id": "38977",
-              "title": "Danubio vs Peñarol",
-              "time": "2026-09-05T13:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": []
-            },
-            {
               "id": "38978",
               "title": "Deportivo Maldonado vs Wanderers",
               "time": "2026-09-05T16:00:00",
               "timezone": "America/Montevideo",
               "flagCode": "URU",
               "servers": []
+            },
+            {
+              "id": "38977",
+              "title": "Danubio vs Peñarol",
+              "time": "2026-09-05T13:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney6",
+                  "active": true
+                }
+              ]
             }
           ]
         },
@@ -916,31 +922,6 @@
                 {
                   "name": "Sportv BR",
                   "url": "https://tvf90.com/1.php?stream=sportv",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "2. Bundesliga",
-          "country": "Alemania",
-          "events": [
-            {
-              "id": "38985",
-              "title": "Dynamo Dresden vs Bochum",
-              "time": "2026-09-05T13:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Fox Sports 3",
-                  "url": "https://tvf90.com/1.php?stream=foxsports3",
-                  "active": true
-                },
-                {
-                  "name": "Fox sports 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=foxsports3",
                   "active": true
                 }
               ]
@@ -1161,6 +1142,36 @@
           ]
         },
         {
+          "name": "2. Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "38985",
+              "title": "Dynamo Dresden vs Bochum",
+              "time": "2026-09-05T13:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Fox Sports 3",
+                  "url": "https://tvf90.com/1.php?stream=foxsports3",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney7",
+                  "active": true
+                },
+                {
+                  "name": "Fox sports 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxsports3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Premier League",
           "country": "Inglaterra",
           "events": [
@@ -1230,25 +1241,6 @@
           "country": "Paises Bajos",
           "events": [
             {
-              "id": "38994",
-              "title": "NEC vs Feyenoord",
-              "time": "2026-09-05T09:30:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 MX",
-                  "url": "https://tvf90.com/1.php?stream=espn4mx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 NL",
-                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "38995",
               "title": "Utrecht vs Go Ahead Eagles",
               "time": "2026-09-05T11:45:00",
@@ -1258,6 +1250,20 @@
                 {
                   "name": "ESPN 3 NL",
                   "url": "https://tvf90.com/1.php?stream=espn3_nl",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "38997",
+              "title": "Willem II vs Excelsior",
+              "time": "2026-09-05T14:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 NL",
+                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
                   "active": true
                 }
               ]
@@ -1287,6 +1293,11 @@
                 {
                   "name": "ESPN 3 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney5",
                   "active": true
                 },
                 {
@@ -1322,20 +1333,6 @@
                 {
                   "name": "ESPN NL | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn1_nl",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38997",
-              "title": "Willem II vs Excelsior",
-              "time": "2026-09-05T14:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 NL",
-                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
                   "active": true
                 }
               ]
@@ -1478,36 +1475,6 @@
                 {
                   "name": "FUTV",
                   "url": "https://tvf90.com/1.php?stream=futv",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Eerste Divisie",
-          "country": "Paises Bajos",
-          "events": [
-            {
-              "id": "39010",
-              "title": "Dordrecht vs AZ II",
-              "time": "2026-09-05T09:30:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN NL",
-                  "url": "https://tvf90.com/1.php?stream=espn1_nl",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn1_nl",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn1_nl",
                   "active": true
                 }
               ]
@@ -1882,35 +1849,6 @@
               ]
             },
             {
-              "id": "39033",
-              "title": "US Open – Third Round: Andreeva M. vs Bartunkova N.",
-              "time": "2026-09-05T12:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39034",
               "title": "US Open – Third Round: Blockx A. vs Cobolli F.",
               "time": "2026-09-05T12:00:00",
@@ -1935,6 +1873,35 @@
                 {
                   "name": "ESPN 2 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39033",
+              "title": "US Open – Third Round: Keys M. vs Zheng Q.",
+              "time": "2026-09-05T12:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
                   "active": true
                 }
               ]
