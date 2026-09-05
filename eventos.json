@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:51:13.805Z",
+  "generatedAt": "2026-09-05T15:58:05.786Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1884,41 +1884,6 @@
                 {
                   "name": "LaLiga TV Hypermotion 2",
                   "url": "https://tvf90.com/1.php?stream=hypermotion2",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Ciclismo",
-          "events": [
-            {
-              "id": "39020",
-              "title": "Ciclismo – La Vuelta – Etapa #14",
-              "time": "2026-09-05T07:45:00",
-              "timezone": "UTC",
-              "flagCode": "CICLISMO",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
                 }
               ]
