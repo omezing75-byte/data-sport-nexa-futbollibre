@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:01:00.844Z",
+  "generatedAt": "2026-09-05T19:13:18.438Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -671,65 +671,6 @@
           ]
         },
         {
-          "name": "Superliga de Grecia",
-          "country": "Amistosos Paises",
-          "events": [
-            {
-              "id": "38986",
-              "title": "Volos NFC vs Olympiakos Piraeus",
-              "time": "2026-09-05T11:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Claro Sports",
-                  "url": "https://futbollibre.ch/1.php?stream=clarosports1",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Copa Mundial Femenina Sub-20 de la FIFA",
-          "country": "Copa mundial sub20 fifa",
-          "events": [
-            {
-              "id": "38989",
-              "title": "México  vs Benín",
-              "time": "2026-09-05T11:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Universo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=universo",
-                  "active": true
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://tvf90.com/1.php?stream=universo",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38990",
-              "title": "Canadá  vs Inglaterra",
-              "time": "2026-09-05T11:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "FOX ONE",
-                  "url": "https://tvf90.com/1.php?stream=eventos",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "General",
           "country": "México",
           "events": [
@@ -1110,60 +1051,6 @@
                 {
                   "name": "Telemundo",
                   "url": "https://tvf90.com/1.php?stream=telemundo",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38943",
-              "title": "Internazionale vs Napoli",
-              "time": "2026-09-05T11:00:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": [
-                {
-                  "name": "ESPN 5 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://tvf90.com/1.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 5 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn5",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney1",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX",
-                  "url": "https://tvf90.com/1.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnmx",
                   "active": true
                 }
               ]
