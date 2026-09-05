@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:31:56.583Z",
+  "generatedAt": "2026-09-05T20:41:12.818Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -123,40 +123,6 @@
                 {
                   "name": "ESPN Premium┃OP3",
                   "url": "https://tvf90.com/3.php?stream=espnpremium",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "38959",
-              "title": "Gimnasia La Plata vs Tigre",
-              "time": "2026-09-05T12:30:00",
-              "timezone": "America/Argentina/Buenos_Aires",
-              "flagCode": "AR",
-              "servers": [
-                {
-                  "name": "TNT Sports | HD",
-                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports",
-                  "url": "https://tvf90.com/3.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "fanatiz 03",
-                  "url": "https://tvf90.com/1.php?stream=fanatiz3",
                   "active": true
                 }
               ]
