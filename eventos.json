@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:11:11.720Z",
+  "generatedAt": "2026-09-06T02:23:34.532Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -165,25 +165,6 @@
           "name": "Primera A",
           "country": "Colombia",
           "events": [
-            {
-              "id": "38972",
-              "title": "Cúcuta Deportivo vs Deportivo Pasto",
-              "time": "2026-09-05T18:10:00",
-              "timezone": "America/Bogota",
-              "flagCode": "COL",
-              "servers": [
-                {
-                  "name": "Win Sports | HD",
-                  "url": "https://tvf90.com/hd.php?stream=winsports",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports",
-                  "url": "https://tvf90.com/3.php?stream=winsports",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38973",
               "title": "Santa Fe vs Fortaleza CEIF",
