@@ -1,0 +1,809 @@
+{
+  "generatedAt": "2026-09-06T23:22:31.906Z",
+  "source": "https://futbollibretv.org.pe/diaries.json",
+  "sports": [
+    {
+      "name": "Football",
+      "icon": "⚽",
+      "leagues": [
+        {
+          "name": "Leagues Cup",
+          "country": "League Cup",
+          "events": [
+            {
+              "id": "39061",
+              "title": "León vs América",
+              "time": "2026-09-06T17:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Unimas",
+                  "url": "https://tvf90.com/1.php?stream=unimas",
+                  "active": true
+                },
+                {
+                  "name": "MLS 01 | EN",
+                  "url": "https://tvf90.com/canal.php?stream=mls1es",
+                  "active": true
+                },
+                {
+                  "name": "MLS 01 | Español",
+                  "url": "https://tvf90.com/1.php?stream=mls1es",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39062",
+              "title": "Toluca vs Monterrey",
+              "time": "2026-09-06T20:15:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "TUDN USA | HD",
+                  "url": "https://tvf90.com/hd.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "MLS 02 | EN",
+                  "url": "https://tvf90.com/1.php?stream=mls2en",
+                  "active": true
+                },
+                {
+                  "name": "MLS 02 | Español",
+                  "url": "https://tvf90.com/2.php?stream=mls2en",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA",
+                  "url": "https://tvf90.com/3.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "Univision",
+                  "url": "https://futbollibre.ch/1.php?stream=univision",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga MX",
+          "country": "México",
+          "events": [
+            {
+              "id": "39107",
+              "title": "Cruz Azul vs Santos Laguna",
+              "time": "2026-09-06T18:00:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
+              "servers": [
+                {
+                  "name": "Canal 5 MX HD",
+                  "url": "https://tv-90.com/canal5.php",
+                  "active": true
+                },
+                {
+                  "name": "Canal 5 MX",
+                  "url": "https://tvf90.com/3.php?stream=canal5",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | HD",
+                  "url": "https://tvf90.com/hd.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA",
+                  "url": "https://tvf90.com/3.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tudn",
+                  "active": true
+                },
+                {
+                  "name": "Univision",
+                  "url": "https://futbollibre.ch/1.php?stream=univision",
+                  "active": true
+                },
+                {
+                  "name": "TUDN MX",
+                  "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                  "active": true
+                },
+                {
+                  "name": "TUDN MX | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                  "active": true
+                },
+                {
+                  "name": "TUDN MX | OP3",
+                  "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Brasil",
+          "events": [
+            {
+              "id": "39075",
+              "title": "Brasileirão: Botafogo vs Palmeiras",
+              "time": "2026-09-06T16:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Premiere BR | HD",
+                  "url": "https://tvf90.com/2.php?stream=premiere1",
+                  "active": true
+                },
+                {
+                  "name": "Premiere BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Bolivia",
+          "events": [
+            {
+              "id": "39070",
+              "title": "Nacional Potosí vs Blooming",
+              "time": "2026-09-06T19:00:00",
+              "timezone": "America/La_Paz",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Entel TV PLUS+",
+                  "url": "https://tvf90.com/plus1.php?stream=even1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera A",
+          "country": "Colombia",
+          "events": [
+            {
+              "id": "39081",
+              "title": "Inter Bogotá vs Rionegro Águilas",
+              "time": "2026-09-06T16:00:00",
+              "timezone": "America/Bogota",
+              "flagCode": "COL",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/hd.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports +",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP2",
+                  "url": "https://tvf90.com/2.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP3",
+                  "url": "https://tvf90.com/3.php?stream=winsports2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39082",
+              "title": "Deportivo Pereira vs Millonarios",
+              "time": "2026-09-06T18:10:00",
+              "timezone": "America/Bogota",
+              "flagCode": "COL",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/hd.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports +",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP2",
+                  "url": "https://tvf90.com/2.php?stream=winsports2",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports + | OP3",
+                  "url": "https://tvf90.com/3.php?stream=winsports2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Serie A",
+          "country": "Ecuador",
+          "events": [
+            {
+              "id": "39084",
+              "title": "Aucas vs Barcelona",
+              "time": "2026-09-06T19:00:00",
+              "timezone": "America/Guayaquil",
+              "flagCode": "ECUA",
+              "servers": [
+                {
+                  "name": "ECDF LigaPRO | HD",
+                  "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro",
+                  "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA",
+                  "url": "https://tvf90.com/1.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39083",
+              "title": "Delfin vs Universidad Católica",
+              "time": "2026-09-06T16:00:00",
+              "timezone": "America/Guayaquil",
+              "flagCode": "ECUA",
+              "servers": [
+                {
+                  "name": "ECDF LigaPRO | HD",
+                  "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro",
+                  "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA",
+                  "url": "https://tvf90.com/1.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39085",
+              "title": "Deportivo Cuenca vs Libertad",
+              "time": "2026-09-06T19:00:00",
+              "timezone": "America/Guayaquil",
+              "flagCode": "ECUA",
+              "servers": [
+                {
+                  "name": "ECDF LigaPRO | HD",
+                  "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro",
+                  "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECDF LigaPro | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA",
+                  "url": "https://tvf90.com/1.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP2",
+                  "url": "https://tvf90.com/2.php?stream=ecdf",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA | OP3",
+                  "url": "https://tvf90.com/3.php?stream=ecdf",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Uruguay",
+          "events": [
+            {
+              "id": "39092",
+              "title": "Liverpool vs Boston River",
+              "time": "2026-09-06T17:30:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney6",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Brasileirão",
+          "country": "Brasil",
+          "events": [
+            {
+              "id": "39076",
+              "title": "Corinthians vs Chapecoense",
+              "time": "2026-09-06T17:30:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "fanatiz 08",
+                  "url": "https://tvf90.com/1.php?stream=fanatiz8",
+                  "active": true
+                },
+                {
+                  "name": "Premiere BR | HD",
+                  "url": "https://tvf90.com/2.php?stream=premiere1",
+                  "active": true
+                },
+                {
+                  "name": "Premiere BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga de Expansión MX",
+          "country": "México",
+          "events": [
+            {
+              "id": "39097",
+              "title": "Tapatío vs Leones Negros UdeG",
+              "time": "2026-09-06T18:00:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney7",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga Profesional",
+          "country": "Argentina",
+          "events": [
+            {
+              "id": "39066",
+              "title": "River Plate vs Independiente Rivadavia",
+              "time": "2026-09-06T17:15:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/canal.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney5",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | HD",
+                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports",
+                  "url": "https://tvf90.com/3.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tntsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39067",
+              "title": "Racing Club vs Atlético Tucumán",
+              "time": "2026-09-06T19:30:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "ESPN Premium┃HD",
+                  "url": "https://tvf90.com/hd.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium",
+                  "url": "https://tvf90.com/1.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Premium┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnpremium",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Bolivia",
+          "events": [
+            {
+              "id": "39069",
+              "title": "Primera División: The Strongest vs Real Tomayapo",
+              "time": "2026-09-06T16:15:00",
+              "timezone": "America/La_Paz",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Entel TV PLUS+",
+                  "url": "https://tvf90.com/plus1.php?stream=even1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga 1",
+          "country": "Perú",
+          "events": [
+            {
+              "id": "39045",
+              "title": "Melgar vs ADT",
+              "time": "2026-09-06T18:30:00",
+              "timezone": "America/Lima",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Liga1MAX | HD",
+                  "url": "https://tvf90.com/hd.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1MAX",
+                  "url": "https://tvf90.com/1.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP2",
+                  "url": "https://tvf90.com/2.php?stream=liga1max",
+                  "active": true
+                },
+                {
+                  "name": "Liga1Max | OP3",
+                  "url": "https://tvf90.com/3.php?stream=liga1max",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Paraguay",
+          "events": [
+            {
+              "id": "39088",
+              "title": "Sportivo Luqueño vs Sportivo Ameliano",
+              "time": "2026-09-06T16:30:00",
+              "timezone": "America/Asuncion",
+              "flagCode": "LIGAPY",
+              "servers": [
+                {
+                  "name": "fanatiz 06",
+                  "url": "https://tvf90.com/1.php?stream=fanatiz6",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primera División",
+          "country": "Chile",
+          "events": [
+            {
+              "id": "39080",
+              "title": "Palestino vs Univ. Concepción",
+              "time": "2026-09-06T17:30:00",
+              "timezone": "America/Santiago",
+              "flagCode": "CH",
+              "servers": [
+                {
+                  "name": "TNT Sports Premiun CL HD",
+                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL",
+                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports Premiun CL OP2",
+                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liga MX Femenil",
+          "country": "México",
+          "events": [
+            {
+              "id": "39108",
+              "title": "Tigres UANL vs Santos Laguna",
+              "time": "2026-09-06T19:06:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
+              "servers": [
+                {
+                  "name": "FOX Deportes | HD",
+                  "url": "https://tvf90.com/hd.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes",
+                  "url": "https://tvf90.com/1.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxdeportes",
+                  "active": true
+                },
+                {
+                  "name": "FOX Deportes | OP3",
+                  "url": "https://tvf90.com/3.php?stream=foxdeportes",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "Amistosos Paises",
+          "events": [
+            {
+              "id": "39124",
+              "title": "Kings League",
+              "time": "2026-09-06T15:55:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tennis",
+      "icon": "🎾",
+      "leagues": [
+        {
+          "name": "General",
+          "country": "Tennis",
+          "events": [
+            {
+              "id": "39126",
+              "title": "US Open – Octavos de Final: Shelton B. vs Tsitsipas S.",
+              "time": "2026-09-06T18:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baseball",
+      "icon": "⚾",
+      "leagues": [
+        {
+          "name": "General",
+          "country": "MLB Preseason",
+          "events": [
+            {
+              "id": "39125",
+              "title": "MLB – Chicago White Sox vs. Minnesota Twins",
+              "time": "2026-09-06T17:00:00",
+              "timezone": "UTC",
+              "flagCode": "MLB",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
