@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:45:35.934Z",
+  "generatedAt": "2026-09-06T11:52:44.594Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -236,35 +236,6 @@
               ]
             },
             {
-              "id": "39053",
-              "title": "Parma vs Monza",
-              "time": "2026-09-06T08:00:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": [
-                {
-                  "name": "ESPN MX | HD",
-                  "url": "https://tvf90.com/canal.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX",
-                  "url": "https://tvf90.com/1.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espnmx",
-                  "active": true
-                },
-                {
-                  "name": "ESPN MX | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espnmx",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39055",
               "title": "Juventus vs Milan",
               "time": "2026-09-06T13:45:00",
@@ -284,6 +255,40 @@
                 {
                   "name": "ESPN AR┃OP3",
                   "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39053",
+              "title": "Parma vs Monza",
+              "time": "2026-09-06T08:00:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": [
+                {
+                  "name": "ESPN MX | HD",
+                  "url": "https://tvf90.com/canal.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney9",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX",
+                  "url": "https://tvf90.com/1.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espnmx",
+                  "active": true
+                },
+                {
+                  "name": "ESPN MX | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espnmx",
                   "active": true
                 }
               ]
@@ -460,6 +465,11 @@
               "timezone": "Europe/Paris",
               "flagCode": "",
               "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney10",
+                  "active": true
+                },
                 {
                   "name": "BeIN Sports Ñ",
                   "url": "https://tvf90.com/1.php?stream=beinsportes",
@@ -1502,6 +1512,34 @@
           "country": "España",
           "events": [
             {
+              "id": "39050",
+              "title": "Deportivo Alavés vs Osasuna",
+              "time": "2026-09-06T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39051",
+              "title": "Espanyol vs Sevilla",
+              "time": "2026-09-06T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                }
+              ]
+            },
+            {
               "id": "39048",
               "title": "Valencia vs Barcelona",
               "time": "2026-09-06T09:15:00",
@@ -1509,12 +1547,12 @@
               "flagCode": "",
               "servers": [
                 {
-                  "name": "Dsports Argentina",
+                  "name": "DSports | HD",
                   "url": "https://tv-90.com/dsportsar.php",
                   "active": true
                 },
                 {
-                  "name": "DSports | HD",
+                  "name": "Dsports Argentina",
                   "url": "https://tv-90.com/dsportsar.php",
                   "active": true
                 },
@@ -1551,34 +1589,6 @@
                 {
                   "name": "ESPN Deportes  | OP3",
                   "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39050",
-              "title": "Deportivo Alavés vs Osasuna",
-              "time": "2026-09-06T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39051",
-              "title": "Espanyol vs Sevilla",
-              "time": "2026-09-06T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
                   "active": true
                 }
               ]
@@ -1817,6 +1827,26 @@
                 {
                   "name": "ESPN 3 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "mundial 2026",
+          "events": [
+            {
+              "id": "39127",
+              "title": "Copa Mundial Femenina",
+              "time": "2026-09-06T09:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "TUDN MX",
+                  "url": "https://fltvhd.com/canales.php?stream=tudn_mx",
                   "active": true
                 }
               ]
