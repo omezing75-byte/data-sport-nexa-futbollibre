@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:07:50.543Z",
+  "generatedAt": "2026-09-06T15:20:20.931Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1208,8 +1208,8 @@
               "id": "39101",
               "title": "ADO Den Haag vs Fortuna Sittard",
               "time": "2026-09-06T09:45:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T09:45:00.000Z",
+              "timezone": "Europe/Amsterdam",
+              "utcTime": "2026-09-06T07:45:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1223,8 +1223,8 @@
               "id": "39099",
               "title": "Heerenveen vs AZ",
               "time": "2026-09-06T07:30:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T07:30:00.000Z",
+              "timezone": "Europe/Amsterdam",
+              "utcTime": "2026-09-06T05:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1253,8 +1253,8 @@
               "id": "39100",
               "title": "Telstar vs Cambuur",
               "time": "2026-09-06T07:30:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T07:30:00.000Z",
+              "timezone": "Europe/Amsterdam",
+              "utcTime": "2026-09-06T05:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1304,8 +1304,8 @@
               "id": "39109",
               "title": "Eerste Divisie: MVV vs Roda JC",
               "time": "2026-09-06T09:45:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T09:45:00.000Z",
+              "timezone": "Europe/Amsterdam",
+              "utcTime": "2026-09-06T07:45:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1791,21 +1791,6 @@
           "country": "España",
           "events": [
             {
-              "id": "39111",
-              "title": "Eibar vs Granada",
-              "time": "2026-09-06T07:00:00",
-              "timezone": "Europe/Madrid",
-              "utcTime": "2026-09-06T05:00:00.000Z",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39112",
               "title": "Real Oviedo vs Burgos",
               "time": "2026-09-06T09:15:00",
@@ -1845,8 +1830,8 @@
               "id": "39120",
               "title": "Ciclismo – La Vuelta – Etapa #15",
               "time": "2026-09-06T07:55:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T07:55:00.000Z",
+              "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T05:55:00.000Z",
               "flagCode": "CICLISMO",
               "servers": [
                 {
@@ -1881,8 +1866,8 @@
               "id": "39122",
               "title": "Rugby – Top 14 – La Rochelle vs. Toulouse",
               "time": "2026-09-06T13:55:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T13:55:00.000Z",
+              "timezone": "Europe/Paris",
+              "utcTime": "2026-09-06T11:55:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1959,8 +1944,8 @@
               "id": "39126",
               "title": "Tenis – US Open – Octavos de Final",
               "time": "2026-09-06T18:00:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T18:00:00.000Z",
+              "timezone": "America/New_York",
+              "utcTime": "2026-09-06T22:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1989,8 +1974,8 @@
               "id": "39121",
               "title": "Tenis – US Open – Octavos de Final: Sabalenka A. vs Townsend T.",
               "time": "2026-09-06T10:00:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T10:00:00.000Z",
+              "timezone": "America/New_York",
+              "utcTime": "2026-09-06T14:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -2031,8 +2016,8 @@
               "id": "39123",
               "title": "IndyCar Series – Laguna Seca",
               "time": "2026-09-06T14:00:00",
-              "timezone": "UTC",
-              "utcTime": "2026-09-06T14:00:00.000Z",
+              "timezone": "America/Los_Angeles",
+              "utcTime": "2026-09-06T21:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
