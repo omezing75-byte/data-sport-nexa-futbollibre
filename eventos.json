@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:38:28.514Z",
+  "generatedAt": "2026-09-06T11:45:35.934Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -173,35 +173,6 @@
           "country": "Italia",
           "events": [
             {
-              "id": "39052",
-              "title": "Frosinone vs Venezia",
-              "time": "2026-09-06T08:00:00",
-              "timezone": "Europe/Rome",
-              "flagCode": "IT",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39054",
               "title": "Bologna vs Sassuolo",
               "time": "2026-09-06T11:00:00",
@@ -226,6 +197,40 @@
                 {
                   "name": "ESPN MX | OP3",
                   "url": "https://tvf90.com/3.php?stream=espnmx",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39052",
+              "title": "Frosinone vs Venezia",
+              "time": "2026-09-06T08:00:00",
+              "timezone": "Europe/Rome",
+              "flagCode": "IT",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney8",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
                   "active": true
                 }
               ]
@@ -323,6 +328,11 @@
                 {
                   "name": "ESPN",
                   "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney7",
                   "active": true
                 },
                 {
@@ -1168,64 +1178,9 @@
           ]
         },
         {
-          "name": "2. Bundesliga",
-          "country": "Alemania",
-          "events": [
-            {
-              "id": "39095",
-              "title": "Osnabrück vs Eintracht Braunschweig",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": []
-            },
-            {
-              "id": "39094",
-              "title": "Hertha BSC vs Magdeburg",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Fox Sports 2",
-                  "url": "https://tvf90.com/3.php?stream=foxsports2",
-                  "active": true
-                },
-                {
-                  "name": "Fox Sports 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=foxsports2",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39096",
-              "title": "Greuther Fürth vs Heidenheim",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": []
-            }
-          ]
-        },
-        {
           "name": "Eredivisie",
           "country": "Paises Bajos",
           "events": [
-            {
-              "id": "39098",
-              "title": "Groningen vs Twente",
-              "time": "2026-09-06T05:15:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 NL",
-                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "39101",
               "title": "ADO Den Haag vs Fortuna Sittard",
@@ -1236,6 +1191,20 @@
                 {
                   "name": "ESPN 2 NL",
                   "url": "https://tvf90.com/1.php?stream=espn2_nl",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39098",
+              "title": "Groningen vs Twente",
+              "time": "2026-09-06T05:15:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney2",
                   "active": true
                 }
               ]
@@ -1334,7 +1303,7 @@
               "servers": [
                 {
                   "name": "Canal 5 MX",
-                  "url": "https://tv-90.com/canal5.php",
+                  "url": "https://tvf90.com/3.php?stream=canal5",
                   "active": true
                 },
                 {
@@ -1397,6 +1366,59 @@
           ]
         },
         {
+          "name": "2. Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "39095",
+              "title": "Osnabrück vs Eintracht Braunschweig",
+              "time": "2026-09-06T06:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney4",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39094",
+              "title": "Hertha BSC vs Magdeburg",
+              "time": "2026-09-06T06:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Fox Sports 2",
+                  "url": "https://tvf90.com/3.php?stream=foxsports2",
+                  "active": true
+                },
+                {
+                  "name": "Fox Sports 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=foxsports2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39096",
+              "title": "Greuther Fürth vs Heidenheim",
+              "time": "2026-09-06T06:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "General",
           "country": "Formula 1",
           "events": [
@@ -1425,6 +1447,16 @@
                 {
                   "name": "ESPN 2 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "Canal 5 MX",
+                  "url": "https://tvf90.com/3.php?stream=canal5",
+                  "active": true
+                },
+                {
+                  "name": "Canal 5 MX HD",
+                  "url": "https://tv-90.com/canal5.php",
                   "active": true
                 }
               ]
