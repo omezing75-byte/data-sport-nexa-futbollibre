@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:29:01.449Z",
+  "generatedAt": "2026-09-06T11:38:28.514Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1334,7 +1334,7 @@
               "servers": [
                 {
                   "name": "Canal 5 MX",
-                  "url": "https://tvf90.com/3.php?stream=canal5",
+                  "url": "https://tv-90.com/canal5.php",
                   "active": true
                 },
                 {
