@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:33:41.444Z",
+  "generatedAt": "2026-09-06T02:43:42.493Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -113,26 +113,6 @@
         },
         {
           "name": "Primera División",
-          "country": "Bolivia",
-          "events": [
-            {
-              "id": "38965",
-              "title": "Oriente Petrolero vs Always Ready",
-              "time": "2026-09-05T18:30:00",
-              "timezone": "America/La_Paz",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Entel TV PLUS+",
-                  "url": "https://tvf90.com/plus1.php?stream=even1",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Primera División",
           "country": "Chile",
           "events": [
             {
@@ -165,35 +145,6 @@
           "name": "Primera A",
           "country": "Colombia",
           "events": [
-            {
-              "id": "38973",
-              "title": "Santa Fe vs Fortaleza CEIF",
-              "time": "2026-09-05T18:25:00",
-              "timezone": "America/Bogota",
-              "flagCode": "COL",
-              "servers": [
-                {
-                  "name": "Win Sports + | HD",
-                  "url": "https://tvf90.com/hd.php?stream=winsports2",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://tvf90.com/1.php?stream=winsports2",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports + | OP2",
-                  "url": "https://tvf90.com/2.php?stream=winsports2",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports + | OP3",
-                  "url": "https://tvf90.com/3.php?stream=winsports2",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38974",
               "title": "Junior vs Jaguares de Córdoba",
@@ -376,31 +327,6 @@
         },
         {
           "name": "General",
-          "country": "Estados Unidos",
-          "events": [
-            {
-              "id": "38999",
-              "title": "Major League Soccer: Inter Miami vs Atlanta United",
-              "time": "2026-09-05T18:30:00",
-              "timezone": "America/New_York",
-              "flagCode": "USOPEN",
-              "servers": [
-                {
-                  "name": "MLS 01 | EN",
-                  "url": "https://tvf90.com/canal.php?stream=mls1es",
-                  "active": true
-                },
-                {
-                  "name": "MLS 01 | Español",
-                  "url": "https://tvf90.com/1.php?stream=mls1es",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
           "country": "Boxeo",
           "events": [
             {
@@ -411,23 +337,23 @@
               "flagCode": "",
               "servers": [
                 {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
                   "active": true
                 },
                 {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
                   "active": true
                 },
                 {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
                   "active": true
                 },
                 {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
                   "active": true
                 }
               ]
