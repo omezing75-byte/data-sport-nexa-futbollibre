@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:12:11.827Z",
+  "generatedAt": "2026-09-06T00:37:23.689Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -198,20 +198,6 @@
           "name": "Primera División",
           "country": "Bolivia",
           "events": [
-            {
-              "id": "38964",
-              "title": "Aurora vs Gualberto Villarroel SJ",
-              "time": "2026-09-05T16:15:00",
-              "timezone": "America/La_Paz",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Entel TV PLUS+",
-                  "url": "https://tvf90.com/plus1.php?stream=even1",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38965",
               "title": "Oriente Petrolero vs Always Ready",
