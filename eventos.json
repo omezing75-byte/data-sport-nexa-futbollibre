@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:59:03.882Z",
+  "generatedAt": "2026-09-06T03:11:49.583Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -70,71 +70,6 @@
                 {
                   "name": "Liga1Max | OP3",
                   "url": "https://tvf90.com/3.php?stream=liga1max",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Brasileirão",
-          "country": "Brasil",
-          "events": [
-            {
-              "id": "38968",
-              "title": "Fluminense vs Vasco da Gama",
-              "time": "2026-09-05T19:00:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Sportv BR HD",
-                  "url": "https://tvf90.com/hd.php?stream=sportv",
-                  "active": true
-                },
-                {
-                  "name": "Sportv BR",
-                  "url": "https://tvf90.com/1.php?stream=sportv",
-                  "active": true
-                },
-                {
-                  "name": "Premiere 3 BR | HD",
-                  "url": "https://tvf90.com/hd.php?stream=premiere3",
-                  "active": true
-                },
-                {
-                  "name": "Premiere 3 BR",
-                  "url": "https://tvf90.com/1.php?stream=premiere3",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Primera División",
-          "country": "Chile",
-          "events": [
-            {
-              "id": "38970",
-              "title": "Universidad Chile vs Coquimbo Unido",
-              "time": "2026-09-05T19:00:00",
-              "timezone": "America/Santiago",
-              "flagCode": "CH",
-              "servers": [
-                {
-                  "name": "TNT Sports Premiun CL HD",
-                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL",
-                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL OP2",
-                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
                   "active": true
                 }
               ]
@@ -279,26 +214,6 @@
                 {
                   "name": "Universo",
                   "url": "https://tvf90.com/1.php?stream=universo",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Chile",
-          "events": [
-            {
-              "id": "39007",
-              "title": "Primera B: San Marcos vs Copiapó",
-              "time": "2026-09-05T19:00:00",
-              "timezone": "America/Santiago",
-              "flagCode": "CH",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://tvf90.com/plus1.php?stream=even6",
                   "active": true
                 }
               ]
