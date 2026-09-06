@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:17:51.130Z",
+  "generatedAt": "2026-09-06T13:27:58.710Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1205,20 +1205,6 @@
               ]
             },
             {
-              "id": "39098",
-              "title": "Groningen vs Twente",
-              "time": "2026-09-06T05:15:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney2",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39099",
               "title": "Heerenveen vs AZ",
               "time": "2026-09-06T07:30:00",
@@ -1305,36 +1291,6 @@
                 {
                   "name": "ESPN 3 NL",
                   "url": "https://tvf90.com/1.php?stream=espn3_nl",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Eredivisie Femenina",
-          "country": "Paises Bajos",
-          "events": [
-            {
-              "id": "39110",
-              "title": "Feyenoord vs PSV",
-              "time": "2026-09-06T05:15:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN NL",
-                  "url": "https://tvf90.com/1.php?stream=espn1_nl",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn1_nl",
-                  "active": true
-                },
-                {
-                  "name": "ESPN NL | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn1_nl",
                   "active": true
                 }
               ]
