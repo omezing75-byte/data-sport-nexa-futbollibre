@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:57:15.280Z",
+  "generatedAt": "2026-09-06T15:07:50.543Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1527,59 +1527,24 @@
           ]
         },
         {
+          "name": "Liga de Expansión MX",
+          "country": "México",
+          "events": [
+            {
+              "id": "39097",
+              "title": "Tapatío vs Leones Negros UdeG",
+              "time": "2026-09-06T18:00:00",
+              "timezone": "America/Mexico_City",
+              "utcTime": "2026-09-07T00:00:00.000Z",
+              "flagCode": "LEAGUESCUP",
+              "servers": []
+            }
+          ]
+        },
+        {
           "name": "LaLiga",
           "country": "España",
           "events": [
-            {
-              "id": "39048",
-              "title": "Valencia vs Barcelona",
-              "time": "2026-09-06T09:15:00",
-              "timezone": "Europe/Madrid",
-              "utcTime": "2026-09-06T07:15:00.000Z",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "DSports | HD",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes - La Liga",
-                  "url": "https://tvf90.com/canal.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "Dsports TV",
-                  "url": "https://tvf90.com/canal.php?stream=dsports_eventos",
-                  "active": true
-                },
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
-                  "active": true
-                },
-                {
-                  "name": "Dsports Argentina",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://tvf90.com/1.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "39050",
               "title": "Deportivo Alavés vs Osasuna",
@@ -1631,6 +1596,66 @@
               ]
             },
             {
+              "id": "39048",
+              "title": "Valencia vs Barcelona",
+              "time": "2026-09-06T09:15:00",
+              "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T07:15:00.000Z",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports | HD",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "CazeTV",
+                  "url": "https://tv-90.com/cazetv1.php",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes - La Liga",
+                  "url": "https://tvf90.com/canal.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "Dsports TV",
+                  "url": "https://tvf90.com/canal.php?stream=dsports_eventos",
+                  "active": true
+                },
+                {
+                  "name": "DSports Eventos",
+                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
+                  "active": true
+                },
+                {
+                  "name": "Dsports Argentina",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "CAZE TV HD",
+                  "url": "https://tv-90.com/cazetv1.php",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espndeportes",
+                  "active": true
+                }
+              ]
+            },
+            {
               "id": "39051",
               "title": "Espanyol vs Sevilla",
               "time": "2026-09-06T14:00:00",
@@ -1644,21 +1669,6 @@
                   "active": true
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Liga de Expansión MX",
-          "country": "México",
-          "events": [
-            {
-              "id": "39097",
-              "title": "Tapatío vs Leones Negros UdeG",
-              "time": "2026-09-06T18:00:00",
-              "timezone": "America/Mexico_City",
-              "utcTime": "2026-09-07T00:00:00.000Z",
-              "flagCode": "LEAGUESCUP",
-              "servers": []
             }
           ]
         },
