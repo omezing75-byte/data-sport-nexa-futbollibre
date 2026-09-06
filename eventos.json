@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:59:53.694Z",
+  "generatedAt": "2026-09-06T12:16:37.145Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -185,6 +185,11 @@
                   "active": true
                 },
                 {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney17",
+                  "active": true
+                },
+                {
                   "name": "ESPN MX",
                   "url": "https://tvf90.com/1.php?stream=espnmx",
                   "active": true
@@ -296,65 +301,6 @@
           ]
         },
         {
-          "name": "Premier League",
-          "country": "Inglaterra",
-          "events": [
-            {
-              "id": "39047",
-              "title": "Arsenal vs Chelsea",
-              "time": "2026-09-06T10:30:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39046",
-              "title": "Everton vs Manchester United",
-              "time": "2026-09-06T08:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://tvf90.com/1.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney7",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn",
-                  "active": true
-                },
-                {
-                  "name": "ESPN AR┃OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "General",
           "country": "España",
           "events": [
@@ -404,80 +350,29 @@
           ]
         },
         {
-          "name": "Bundesliga",
-          "country": "Alemania",
+          "name": "Liga MX",
+          "country": "México",
           "events": [
             {
-              "id": "39057",
-              "title": "Eintracht Frankfurt vs Augsburg",
-              "time": "2026-09-06T10:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": []
-            },
-            {
-              "id": "39056",
-              "title": "Hamburger SV vs Mainz 05",
-              "time": "2026-09-06T08:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
+              "id": "39107",
+              "title": "Cruz Azul vs Santos Laguna",
+              "time": "2026-09-06T18:00:00",
+              "timezone": "America/Mexico_City",
+              "flagCode": "LEAGUESCUP",
               "servers": [
                 {
-                  "name": "ESPN 3 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "name": "Canal 5 MX HD",
+                  "url": "https://tv-90.com/canal5.php",
                   "active": true
                 },
                 {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney12",
+                  "name": "Canal 5 MX",
+                  "url": "https://tvf90.com/3.php?stream=canal5",
                   "active": true
                 },
                 {
-                  "name": "ESPN 3",
-                  "url": "https://tvf90.com/1.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn3",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 3 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn3",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Ligue 1",
-          "country": "Francia",
-          "events": [
-            {
-              "id": "39059",
-              "title": "Angers SCO vs Rennes",
-              "time": "2026-09-06T10:15:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": []
-            },
-            {
-              "id": "39058",
-              "title": "Troyes vs Strasbourg",
-              "time": "2026-09-06T08:00:00",
-              "timezone": "Europe/Paris",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney10",
-                  "active": true
-                },
-                {
-                  "name": "BeIN Sports Ñ",
-                  "url": "https://tvf90.com/1.php?stream=beinsportes",
+                  "name": "Univision",
+                  "url": "https://futbollibre.ch/1.php?stream=univision",
                   "active": true
                 }
               ]
@@ -1318,29 +1213,10 @@
               "time": "2026-09-06T09:00:00",
               "timezone": "America/Montevideo",
               "flagCode": "URU",
-              "servers": []
-            }
-          ]
-        },
-        {
-          "name": "Liga MX",
-          "country": "México",
-          "events": [
-            {
-              "id": "39107",
-              "title": "Cruz Azul vs Santos Laguna",
-              "time": "2026-09-06T18:00:00",
-              "timezone": "America/Mexico_City",
-              "flagCode": "LEAGUESCUP",
               "servers": [
                 {
-                  "name": "Canal 5 MX",
-                  "url": "https://tvf90.com/3.php?stream=canal5",
-                  "active": true
-                },
-                {
-                  "name": "Univision",
-                  "url": "https://futbollibre.ch/1.php?stream=univision",
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney13",
                   "active": true
                 }
               ]
@@ -1523,6 +1399,173 @@
                 {
                   "name": "TUDN MX",
                   "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ligue 1",
+          "country": "Francia",
+          "events": [
+            {
+              "id": "39059",
+              "title": "Angers SCO vs Rennes",
+              "time": "2026-09-06T10:15:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney14",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39058",
+              "title": "Troyes vs Strasbourg",
+              "time": "2026-09-06T08:00:00",
+              "timezone": "Europe/Paris",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney10",
+                  "active": true
+                },
+                {
+                  "name": "BeIN Sports Ñ",
+                  "url": "https://tvf90.com/1.php?stream=beinsportes",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Premier League",
+          "country": "Inglaterra",
+          "events": [
+            {
+              "id": "39047",
+              "title": "Arsenal vs Chelsea",
+              "time": "2026-09-06T10:30:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney15",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://tvf90.com/1.php?stream=telemundo",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Telemundo | HD",
+                  "url": "https://tvf90.com/hd.php?stream=telemundo",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39046",
+              "title": "Everton vs Manchester United",
+              "time": "2026-09-06T08:00:00",
+              "timezone": "Europe/London",
+              "flagCode": "ENG",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney7",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn",
+                  "active": true
+                },
+                {
+                  "name": "ESPN AR┃OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bundesliga",
+          "country": "Alemania",
+          "events": [
+            {
+              "id": "39057",
+              "title": "Eintracht Frankfurt vs Augsburg",
+              "time": "2026-09-06T10:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney16",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39056",
+              "title": "Hamburger SV vs Mainz 05",
+              "time": "2026-09-06T08:30:00",
+              "timezone": "Europe/Berlin",
+              "flagCode": "ALE",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney12",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn3",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 3 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn3",
                   "active": true
                 }
               ]
