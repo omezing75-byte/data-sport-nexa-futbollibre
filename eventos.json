@@ -1,71 +1,52 @@
 {
-  "generatedAt": "2026-09-06T04:36:50.169Z",
+  "generatedAt": "2026-09-06T04:45:37.407Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
+    {
+      "name": "Tennis",
+      "icon": "🎾",
+      "leagues": [
+        {
+          "name": "General",
+          "country": "Tennis",
+          "events": [
+            {
+              "id": "39116",
+              "title": "Third Round of the US Open: Zverev A. vs Tabilo A.",
+              "time": "2026-09-05T21:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/hd.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 2 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn2",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Football",
       "icon": "⚽",
       "leagues": [
-        {
-          "name": "Liga 1",
-          "country": "Perú",
-          "events": [
-            {
-              "id": "38931",
-              "title": "Universitario vs Comerciantes Unidos",
-              "time": "2026-09-05T20:30:00",
-              "timezone": "America/Lima",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Liga1MAX | HD",
-                  "url": "https://tvf90.com/hd.php?stream=liga1max",
-                  "active": true
-                },
-                {
-                  "name": "Liga1MAX",
-                  "url": "https://tvf90.com/1.php?stream=liga1max",
-                  "active": true
-                },
-                {
-                  "name": "Liga1Max | OP2",
-                  "url": "https://tvf90.com/2.php?stream=liga1max",
-                  "active": true
-                },
-                {
-                  "name": "Liga1Max | OP3",
-                  "url": "https://tvf90.com/3.php?stream=liga1max",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Primera A",
-          "country": "Colombia",
-          "events": [
-            {
-              "id": "38974",
-              "title": "Junior vs Jaguares de Córdoba",
-              "time": "2026-09-05T20:30:00",
-              "timezone": "America/Bogota",
-              "flagCode": "COL",
-              "servers": [
-                {
-                  "name": "Win Sports | HD",
-                  "url": "https://tvf90.com/hd.php?stream=winsports",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports",
-                  "url": "https://tvf90.com/3.php?stream=winsports",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Liga MX",
           "country": "México",
@@ -165,47 +146,6 @@
                 {
                   "name": "ESPN 4 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Tennis",
-      "icon": "🎾",
-      "leagues": [
-        {
-          "name": "General",
-          "country": "Tennis",
-          "events": [
-            {
-              "id": "39116",
-              "title": "Third Round of the US Open: Zverev A. vs Tabilo A.",
-              "time": "2026-09-05T21:30:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
                 }
               ]
