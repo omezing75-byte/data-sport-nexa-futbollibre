@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:56:48.888Z",
+  "generatedAt": "2026-09-06T00:12:11.827Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -286,35 +286,6 @@
           "name": "Primera A",
           "country": "Colombia",
           "events": [
-            {
-              "id": "38971",
-              "title": "Boyacá Chicó vs Once Caldas",
-              "time": "2026-09-05T16:00:00",
-              "timezone": "America/Bogota",
-              "flagCode": "COL",
-              "servers": [
-                {
-                  "name": "Win Sports + | HD",
-                  "url": "https://tvf90.com/hd.php?stream=winsports2",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://tvf90.com/1.php?stream=winsports2",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports + | OP2",
-                  "url": "https://tvf90.com/2.php?stream=winsports2",
-                  "active": true
-                },
-                {
-                  "name": "Win Sports + | OP3",
-                  "url": "https://tvf90.com/3.php?stream=winsports2",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38972",
               "title": "Cúcuta Deportivo vs Deportivo Pasto",
@@ -617,26 +588,6 @@
           ]
         },
         {
-          "name": "Primera División",
-          "country": "Uruguay",
-          "events": [
-            {
-              "id": "38978",
-              "title": "Deportivo Maldonado vs Wanderers",
-              "time": "2026-09-05T16:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney13",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "General",
           "country": "Chile",
           "events": [
@@ -799,35 +750,6 @@
                 {
                   "name": "ESPN 4 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39025",
-              "title": "US Open – Third Round: Zheng M. vs Gea A.",
-              "time": "2026-09-05T15:50:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
                 }
               ]
