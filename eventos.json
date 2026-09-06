@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:59:54.349Z",
+  "generatedAt": "2026-09-06T04:13:25.512Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -70,75 +70,6 @@
           "name": "Liga MX",
           "country": "México",
           "events": [
-            {
-              "id": "38992",
-              "title": "Tigres UANL vs Necaxa",
-              "time": "2026-09-05T20:00:00",
-              "timezone": "America/Mexico_City",
-              "flagCode": "LEAGUESCUP",
-              "servers": [
-                {
-                  "name": "Azteca 7 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=azteca7",
-                  "active": true
-                },
-                {
-                  "name": "Azteca 7",
-                  "url": "https://tvf90.com/3.php?stream=azteca7",
-                  "active": true
-                },
-                {
-                  "name": "Azteca 7 | OP2",
-                  "url": "https://tvf90.com/1.php?stream=azteca7",
-                  "active": true
-                },
-                {
-                  "name": "Azteca 7 | OP3",
-                  "url": "https://tvf90.com/2.php?stream=azteca7",
-                  "active": true
-                },
-                {
-                  "name": "FOX Deportes | HD",
-                  "url": "https://tvf90.com/hd.php?stream=foxdeportes",
-                  "active": true
-                },
-                {
-                  "name": "FOX Deportes",
-                  "url": "https://tvf90.com/1.php?stream=foxdeportes",
-                  "active": true
-                },
-                {
-                  "name": "FOX Deportes | OP2",
-                  "url": "https://tvf90.com/2.php?stream=foxdeportes",
-                  "active": true
-                },
-                {
-                  "name": "FOX Deportes | OP3",
-                  "url": "https://tvf90.com/3.php?stream=foxdeportes",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://tvf90.com/1.php?stream=telemundo",
-                  "active": true
-                },
-                {
-                  "name": "Universo | HD",
-                  "url": "https://tvf90.com/hd.php?stream=universo",
-                  "active": true
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://tvf90.com/1.php?stream=universo",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38993",
               "title": "Atlas vs Atlante",
