@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:16:37.145Z",
+  "generatedAt": "2026-09-06T12:33:03.086Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -301,55 +301,6 @@
           ]
         },
         {
-          "name": "General",
-          "country": "España",
-          "events": [
-            {
-              "id": "39049",
-              "title": "LaLiga: Málaga vs Levante",
-              "time": "2026-09-06T11:30:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39114",
-              "title": "LaLiga SmartBank: Almería vs Cádiz",
-              "time": "2026-09-06T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "LaLiga TV Hypermotion",
-                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Liga MX",
           "country": "México",
           "events": [
@@ -481,35 +432,6 @@
               ]
             },
             {
-              "id": "39063",
-              "title": "Rosario Central vs Newell's Old Boys",
-              "time": "2026-09-06T12:45:00",
-              "timezone": "America/Argentina/Buenos_Aires",
-              "flagCode": "AR",
-              "servers": [
-                {
-                  "name": "TNT Sports | HD",
-                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports",
-                  "url": "https://tvf90.com/3.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=tntsports",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=tntsports",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39066",
               "title": "River Plate vs Independiente Rivadavia",
               "time": "2026-09-06T17:15:00",
@@ -581,6 +503,40 @@
                   "active": true
                 }
               ]
+            },
+            {
+              "id": "39063",
+              "title": "Rosario Central vs Newell's Old Boys",
+              "time": "2026-09-06T12:45:00",
+              "timezone": "America/Argentina/Buenos_Aires",
+              "flagCode": "AR",
+              "servers": [
+                {
+                  "name": "TNT Sports | HD",
+                  "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports",
+                  "url": "https://tvf90.com/3.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "TNT Sports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=tntsports",
+                  "active": true
+                },
+                {
+                  "name": "fanatiz 02",
+                  "url": "https://tvf90.com/1.php?stream=fanatiz2",
+                  "active": true
+                }
+              ]
             }
           ]
         },
@@ -613,6 +569,60 @@
                 {
                   "name": "TNT Sports | OP3",
                   "url": "https://tvf90.com/2.php?stream=tntsports",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "España",
+          "events": [
+            {
+              "id": "39049",
+              "title": "LaLiga: Málaga vs Levante",
+              "time": "2026-09-06T11:30:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 4 | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney19",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39114",
+              "title": "LaLiga SmartBank: Almería vs Cádiz",
+              "time": "2026-09-06T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
                   "active": true
                 }
               ]
@@ -1031,6 +1041,26 @@
           ]
         },
         {
+          "name": "General",
+          "country": "Uruguay",
+          "events": [
+            {
+              "id": "39104",
+              "title": "Segunda División: Tacuarembó vs Oriental",
+              "time": "2026-09-06T12:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Primera División",
           "country": "Uruguay",
           "events": [
@@ -1057,20 +1087,26 @@
               ]
             },
             {
-              "id": "39090",
-              "title": "Central Español vs Defensor Sporting",
-              "time": "2026-09-06T11:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": []
-            },
-            {
               "id": "39092",
               "title": "Liverpool vs Boston River",
               "time": "2026-09-06T17:30:00",
               "timezone": "America/Montevideo",
               "flagCode": "URU",
               "servers": []
+            },
+            {
+              "id": "39090",
+              "title": "Central Español vs Defensor Sporting",
+              "time": "2026-09-06T11:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney18",
+                  "active": true
+                }
+              ]
             }
           ]
         },
@@ -1178,20 +1214,6 @@
                   "active": true
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Uruguay",
-          "events": [
-            {
-              "id": "39104",
-              "title": "Segunda División: Tacuarembó vs Oriental",
-              "time": "2026-09-06T12:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": []
             }
           ]
         },
@@ -1587,26 +1609,6 @@
           ]
         },
         {
-          "name": "General",
-          "country": "Bolivia",
-          "events": [
-            {
-              "id": "39069",
-              "title": "Primera División: The Strongest vs Real Tomayapo",
-              "time": "2026-09-06T16:15:00",
-              "timezone": "America/La_Paz",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Entel TV PLUS+",
-                  "url": "https://tvf90.com/plus1.php?stream=even1",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "LaLiga",
           "country": "España",
           "events": [
@@ -1618,8 +1620,43 @@
               "flagCode": "",
               "servers": [
                 {
+                  "name": "Dsports Argentina",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "DSports | HD",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
                   "name": "DSports",
                   "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "DSports | OP2",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "DSports | OP3",
+                  "url": "https://tvf90.com/2.php?stream=dsports",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espndeportes",
                   "active": true
                 }
               ]
@@ -1695,6 +1732,26 @@
           ]
         },
         {
+          "name": "General",
+          "country": "Bolivia",
+          "events": [
+            {
+              "id": "39069",
+              "title": "Primera División: The Strongest vs Real Tomayapo",
+              "time": "2026-09-06T16:15:00",
+              "timezone": "America/La_Paz",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Entel TV PLUS+",
+                  "url": "https://tvf90.com/plus1.php?stream=even1",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Super Lig",
           "country": "Turquía",
           "events": [
@@ -1718,6 +1775,11 @@
                 {
                   "name": "ESPN 3 MX",
                   "url": "https://tvf90.com/1.php?stream=espn3mx",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney20",
                   "active": true
                 }
               ]
