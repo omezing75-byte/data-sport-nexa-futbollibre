@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:37:23.689Z",
+  "generatedAt": "2026-09-06T00:52:15.026Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -172,25 +172,6 @@
                   "active": true
                 }
               ]
-            },
-            {
-              "id": "38967",
-              "title": "São Paulo vs Atlético Mineiro",
-              "time": "2026-09-05T16:30:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": [
-                {
-                  "name": "Premiere BR | HD",
-                  "url": "https://tvf90.com/2.php?stream=premiere1",
-                  "active": true
-                },
-                {
-                  "name": "Premiere 8 BR",
-                  "url": "https://tvf90.com/1.php?stream=premiere8",
-                  "active": true
-                }
-              ]
             }
           ]
         },
@@ -218,30 +199,6 @@
           "name": "Primera División",
           "country": "Chile",
           "events": [
-            {
-              "id": "38969",
-              "title": "Everton vs Universidad Católica",
-              "time": "2026-09-05T16:30:00",
-              "timezone": "America/Santiago",
-              "flagCode": "CH",
-              "servers": [
-                {
-                  "name": "TNT Sports Premiun CL HD",
-                  "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL",
-                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                  "active": true
-                },
-                {
-                  "name": "TNT Sports Premiun CL OP2",
-                  "url": "https://tvf90.com/2.php?stream=tntsportschile",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "38970",
               "title": "Universidad Chile vs Coquimbo Unido",
@@ -388,20 +345,6 @@
                   "active": true
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Primera División",
-          "country": "Paraguay",
-          "events": [
-            {
-              "id": "38976",
-              "title": "Sportivo San Lorenzo vs 2 de Mayo",
-              "time": "2026-09-05T16:30:00",
-              "timezone": "America/Asuncion",
-              "flagCode": "LIGAPY",
-              "servers": []
             }
           ]
         },
@@ -578,20 +521,6 @@
           "country": "Chile",
           "events": [
             {
-              "id": "39006",
-              "title": "Primera B: San Luis vs Cobreloa",
-              "time": "2026-09-05T16:30:00",
-              "timezone": "America/Santiago",
-              "flagCode": "CH",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://tvf90.com/plus1.php?stream=even6",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39007",
               "title": "Primera B: San Marcos vs Copiapó",
               "time": "2026-09-05T19:00:00",
@@ -711,35 +640,6 @@
           "name": "General",
           "country": "Tennis",
           "events": [
-            {
-              "id": "39039",
-              "title": "US Open – Third Round: Bergs Z. vs Van De Zandschulp B.",
-              "time": "2026-09-05T16:40:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 4 | HD",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://tvf90.com/1.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 4 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn4",
-                  "active": true
-                }
-              ]
-            },
             {
               "id": "39040",
               "title": "US Open – Third Round: Jovic I. vs Eala A.",
