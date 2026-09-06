@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:59:50.346Z",
+  "generatedAt": "2026-09-06T14:12:49.147Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1132,36 +1132,6 @@
           ]
         },
         {
-          "name": "Championship",
-          "country": "Inglaterra",
-          "events": [
-            {
-              "id": "39093",
-              "title": "Birmingham City vs Wolverhampton Wanderers",
-              "time": "2026-09-06T06:00:00",
-              "timezone": "Europe/London",
-              "flagCode": "ENG",
-              "servers": [
-                {
-                  "name": "ESPN 7",
-                  "url": "https://tvf90.com/1.php?stream=espn7",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 7 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn7",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 7 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn7",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "General",
           "country": "Francia",
           "events": [
@@ -1619,31 +1589,12 @@
               ]
             },
             {
-              "id": "39051",
-              "title": "Espanyol vs Sevilla",
-              "time": "2026-09-06T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                }
-              ]
-            },
-            {
               "id": "39048",
               "title": "Valencia vs Barcelona",
               "time": "2026-09-06T09:15:00",
               "timezone": "Europe/Madrid",
               "flagCode": "",
               "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
                 {
                   "name": "DSports | HD",
                   "url": "https://tv-90.com/dsportsar.php",
@@ -1652,6 +1603,11 @@
                 {
                   "name": "DSports Eventos",
                   "url": "https://tvf90.com/1.php?stream=dsports_eventos",
+                  "active": true
+                },
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
                   "active": true
                 },
                 {
@@ -1682,6 +1638,20 @@
                 {
                   "name": "ESPN Deportes  | OP3",
                   "url": "https://tvf90.com/3.php?stream=espndeportes",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39051",
+              "title": "Espanyol vs Sevilla",
+              "time": "2026-09-06T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
                   "active": true
                 }
               ]
