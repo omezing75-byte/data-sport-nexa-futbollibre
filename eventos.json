@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:42:42.866Z",
+  "generatedAt": "2026-09-06T14:57:15.280Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -15,6 +15,7 @@
               "title": "Independiente Petrolero vs Bolívar",
               "time": "2026-09-06T14:00:00",
               "timezone": "America/La_Paz",
+              "utcTime": "2026-09-06T18:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -29,6 +30,7 @@
               "title": "Nacional Potosí vs Blooming",
               "time": "2026-09-06T19:00:00",
               "timezone": "America/La_Paz",
+              "utcTime": "2026-09-06T23:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -49,6 +51,7 @@
               "title": "Liga 1: Sporting Cristal vs Los Chankas",
               "time": "2026-09-06T11:00:00",
               "timezone": "America/Lima",
+              "utcTime": "2026-09-06T16:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -84,6 +87,7 @@
               "title": "Deportivo Garcilaso vs Atlético Grau",
               "time": "2026-09-06T13:30:00",
               "timezone": "America/Lima",
+              "utcTime": "2026-09-06T18:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -113,6 +117,7 @@
               "title": "Juan Pablo II College vs Alianza Lima",
               "time": "2026-09-06T15:00:00",
               "timezone": "America/Lima",
+              "utcTime": "2026-09-06T20:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -142,6 +147,7 @@
               "title": "Melgar vs ADT",
               "time": "2026-09-06T18:30:00",
               "timezone": "America/Lima",
+              "utcTime": "2026-09-06T23:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -177,6 +183,7 @@
               "title": "Bologna vs Sassuolo",
               "time": "2026-09-06T11:00:00",
               "timezone": "Europe/Rome",
+              "utcTime": "2026-09-06T09:00:00.000Z",
               "flagCode": "IT",
               "servers": [
                 {
@@ -211,6 +218,7 @@
               "title": "Frosinone vs Venezia",
               "time": "2026-09-06T08:00:00",
               "timezone": "Europe/Rome",
+              "utcTime": "2026-09-06T06:00:00.000Z",
               "flagCode": "IT",
               "servers": [
                 {
@@ -245,6 +253,7 @@
               "title": "Juventus vs Milan",
               "time": "2026-09-06T13:45:00",
               "timezone": "Europe/Rome",
+              "utcTime": "2026-09-06T11:45:00.000Z",
               "flagCode": "IT",
               "servers": [
                 {
@@ -304,6 +313,7 @@
               "title": "Parma vs Monza",
               "time": "2026-09-06T08:00:00",
               "timezone": "Europe/Rome",
+              "utcTime": "2026-09-06T06:00:00.000Z",
               "flagCode": "IT",
               "servers": [
                 {
@@ -344,6 +354,7 @@
               "title": "Cruz Azul vs Santos Laguna",
               "time": "2026-09-06T18:00:00",
               "timezone": "America/Mexico_City",
+              "utcTime": "2026-09-07T00:00:00.000Z",
               "flagCode": "LEAGUESCUP",
               "servers": [
                 {
@@ -374,6 +385,7 @@
               "title": "León vs América",
               "time": "2026-09-06T17:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T17:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -388,6 +400,7 @@
               "title": "Toluca vs Monterrey",
               "time": "2026-09-06T20:15:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T20:15:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -428,6 +441,7 @@
               "title": "Lanús vs Defensa y Justicia",
               "time": "2026-09-06T15:00:00",
               "timezone": "America/Argentina/Buenos_Aires",
+              "utcTime": "2026-09-06T18:00:00.000Z",
               "flagCode": "AR",
               "servers": [
                 {
@@ -457,6 +471,7 @@
               "title": "River Plate vs Independiente Rivadavia",
               "time": "2026-09-06T17:15:00",
               "timezone": "America/Argentina/Buenos_Aires",
+              "utcTime": "2026-09-06T20:15:00.000Z",
               "flagCode": "AR",
               "servers": [
                 {
@@ -501,6 +516,7 @@
               "title": "Racing Club vs Atlético Tucumán",
               "time": "2026-09-06T19:30:00",
               "timezone": "America/Argentina/Buenos_Aires",
+              "utcTime": "2026-09-06T22:30:00.000Z",
               "flagCode": "AR",
               "servers": [
                 {
@@ -530,6 +546,7 @@
               "title": "Rosario Central vs Newell's Old Boys",
               "time": "2026-09-06T12:45:00",
               "timezone": "America/Argentina/Buenos_Aires",
+              "utcTime": "2026-09-06T15:45:00.000Z",
               "flagCode": "AR",
               "servers": [
                 {
@@ -570,6 +587,7 @@
               "title": "Liga Profesional: Central Córdoba SdE vs Independiente",
               "time": "2026-09-06T15:00:00",
               "timezone": "America/Argentina/Buenos_Aires",
+              "utcTime": "2026-09-06T18:00:00.000Z",
               "flagCode": "AR",
               "servers": [
                 {
@@ -605,6 +623,7 @@
               "title": "LaLiga: Málaga vs Levante",
               "time": "2026-09-06T11:30:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T09:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -639,6 +658,7 @@
               "title": "LaLiga SmartBank: Almería vs Cádiz",
               "time": "2026-09-06T14:00:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T12:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -659,6 +679,7 @@
               "title": "Internacional vs Santos",
               "time": "2026-09-06T14:00:00",
               "timezone": "America/Sao_Paulo",
+              "utcTime": "2026-09-06T17:00:00.000Z",
               "flagCode": "BRA",
               "servers": []
             },
@@ -667,6 +688,7 @@
               "title": "Coritiba vs Mirassol",
               "time": "2026-09-06T09:00:00",
               "timezone": "America/Sao_Paulo",
+              "utcTime": "2026-09-06T12:00:00.000Z",
               "flagCode": "BRA",
               "servers": [
                 {
@@ -686,6 +708,7 @@
               "title": "Remo vs Flamengo",
               "time": "2026-09-06T14:00:00",
               "timezone": "America/Sao_Paulo",
+              "utcTime": "2026-09-06T17:00:00.000Z",
               "flagCode": "BRA",
               "servers": []
             },
@@ -694,6 +717,7 @@
               "title": "Cruzeiro vs Athletico-PR",
               "time": "2026-09-06T14:00:00",
               "timezone": "America/Sao_Paulo",
+              "utcTime": "2026-09-06T17:00:00.000Z",
               "flagCode": "BRA",
               "servers": []
             },
@@ -702,6 +726,7 @@
               "title": "Corinthians vs Chapecoense",
               "time": "2026-09-06T17:30:00",
               "timezone": "America/Sao_Paulo",
+              "utcTime": "2026-09-06T20:30:00.000Z",
               "flagCode": "BRA",
               "servers": []
             }
@@ -716,6 +741,7 @@
               "title": "Brasileirão: Botafogo vs Palmeiras",
               "time": "2026-09-06T16:30:00",
               "timezone": "America/Sao_Paulo",
+              "utcTime": "2026-09-06T19:30:00.000Z",
               "flagCode": "BRA",
               "servers": []
             }
@@ -730,6 +756,7 @@
               "title": "O'Higgins vs Unión La Calera",
               "time": "2026-09-06T12:45:00",
               "timezone": "America/Santiago",
+              "utcTime": "2026-09-06T15:45:00.000Z",
               "flagCode": "CH",
               "servers": [
                 {
@@ -754,6 +781,7 @@
               "title": "Huachipato vs Colo-Colo",
               "time": "2026-09-06T15:00:00",
               "timezone": "America/Santiago",
+              "utcTime": "2026-09-06T18:00:00.000Z",
               "flagCode": "CH",
               "servers": [
                 {
@@ -778,6 +806,7 @@
               "title": "La Serena vs Ñublense",
               "time": "2026-09-06T10:30:00",
               "timezone": "America/Santiago",
+              "utcTime": "2026-09-06T13:30:00.000Z",
               "flagCode": "CH",
               "servers": [
                 {
@@ -802,6 +831,7 @@
               "title": "Palestino vs Univ. Concepción",
               "time": "2026-09-06T17:30:00",
               "timezone": "America/Santiago",
+              "utcTime": "2026-09-06T20:30:00.000Z",
               "flagCode": "CH",
               "servers": [
                 {
@@ -832,6 +862,7 @@
               "title": "Inter Bogotá vs Rionegro Águilas",
               "time": "2026-09-06T16:00:00",
               "timezone": "America/Bogota",
+              "utcTime": "2026-09-06T21:00:00.000Z",
               "flagCode": "COL",
               "servers": [
                 {
@@ -861,6 +892,7 @@
               "title": "Deportivo Pereira vs Millonarios",
               "time": "2026-09-06T18:10:00",
               "timezone": "America/Bogota",
+              "utcTime": "2026-09-06T23:10:00.000Z",
               "flagCode": "COL",
               "servers": [
                 {
@@ -896,6 +928,7 @@
               "title": "Aucas vs Barcelona",
               "time": "2026-09-06T19:00:00",
               "timezone": "America/Guayaquil",
+              "utcTime": "2026-09-07T00:00:00.000Z",
               "flagCode": "ECUA",
               "servers": [
                 {
@@ -940,6 +973,7 @@
               "title": "Delfin vs Universidad Católica",
               "time": "2026-09-06T16:00:00",
               "timezone": "America/Guayaquil",
+              "utcTime": "2026-09-06T21:00:00.000Z",
               "flagCode": "ECUA",
               "servers": [
                 {
@@ -984,6 +1018,7 @@
               "title": "Deportivo Cuenca vs Libertad",
               "time": "2026-09-06T19:00:00",
               "timezone": "America/Guayaquil",
+              "utcTime": "2026-09-07T00:00:00.000Z",
               "flagCode": "ECUA",
               "servers": [
                 {
@@ -1034,6 +1069,7 @@
               "title": "Sportivo Trinidense vs Olimpia",
               "time": "2026-09-06T08:00:00",
               "timezone": "America/Asuncion",
+              "utcTime": "2026-09-06T11:00:00.000Z",
               "flagCode": "LIGAPY",
               "servers": [
                 {
@@ -1048,6 +1084,7 @@
               "title": "Libertad vs Rubio Ñú",
               "time": "2026-09-06T14:00:00",
               "timezone": "America/Asuncion",
+              "utcTime": "2026-09-06T17:00:00.000Z",
               "flagCode": "LIGAPY",
               "servers": []
             },
@@ -1056,6 +1093,7 @@
               "title": "Sportivo Luqueño vs Sportivo Ameliano",
               "time": "2026-09-06T16:30:00",
               "timezone": "America/Asuncion",
+              "utcTime": "2026-09-06T19:30:00.000Z",
               "flagCode": "LIGAPY",
               "servers": []
             }
@@ -1070,6 +1108,7 @@
               "title": "Segunda División: Tacuarembó vs Oriental",
               "time": "2026-09-06T12:00:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T15:00:00.000Z",
               "flagCode": "URU",
               "servers": [
                 {
@@ -1090,6 +1129,7 @@
               "title": "Nacional vs Juventud",
               "time": "2026-09-06T14:30:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T17:30:00.000Z",
               "flagCode": "URU",
               "servers": []
             },
@@ -1098,6 +1138,7 @@
               "title": "Cerro vs Racing",
               "time": "2026-09-06T08:00:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T11:00:00.000Z",
               "flagCode": "URU",
               "servers": [
                 {
@@ -1112,6 +1153,7 @@
               "title": "Liverpool vs Boston River",
               "time": "2026-09-06T17:30:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T20:30:00.000Z",
               "flagCode": "URU",
               "servers": []
             },
@@ -1120,6 +1162,7 @@
               "title": "Central Español vs Defensor Sporting",
               "time": "2026-09-06T11:00:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T14:00:00.000Z",
               "flagCode": "URU",
               "servers": [
                 {
@@ -1140,6 +1183,7 @@
               "title": "Ligue 1: Olympique Marseille vs Paris",
               "time": "2026-09-06T13:45:00",
               "timezone": "Europe/Paris",
+              "utcTime": "2026-09-06T11:45:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1165,6 +1209,7 @@
               "title": "ADO Den Haag vs Fortuna Sittard",
               "time": "2026-09-06T09:45:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T09:45:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1179,6 +1224,7 @@
               "title": "Heerenveen vs AZ",
               "time": "2026-09-06T07:30:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T07:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1208,6 +1254,7 @@
               "title": "Telstar vs Cambuur",
               "time": "2026-09-06T07:30:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T07:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1228,6 +1275,7 @@
               "title": "Rentistas vs Fénix",
               "time": "2026-09-06T15:00:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T18:00:00.000Z",
               "flagCode": "URU",
               "servers": []
             },
@@ -1236,6 +1284,7 @@
               "title": "Atenas vs River Plate",
               "time": "2026-09-06T09:00:00",
               "timezone": "America/Montevideo",
+              "utcTime": "2026-09-06T12:00:00.000Z",
               "flagCode": "URU",
               "servers": [
                 {
@@ -1256,6 +1305,7 @@
               "title": "Eerste Divisie: MVV vs Roda JC",
               "time": "2026-09-06T09:45:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T09:45:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1276,6 +1326,7 @@
               "title": "Angers SCO vs Rennes",
               "time": "2026-09-06T10:15:00",
               "timezone": "Europe/Paris",
+              "utcTime": "2026-09-06T08:15:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1290,6 +1341,7 @@
               "title": "Troyes vs Strasbourg",
               "time": "2026-09-06T08:00:00",
               "timezone": "Europe/Paris",
+              "utcTime": "2026-09-06T06:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1315,6 +1367,7 @@
               "title": "Arsenal vs Chelsea",
               "time": "2026-09-06T10:30:00",
               "timezone": "Europe/London",
+              "utcTime": "2026-09-06T09:30:00.000Z",
               "flagCode": "ENG",
               "servers": [
                 {
@@ -1354,6 +1407,7 @@
               "title": "Everton vs Manchester United",
               "time": "2026-09-06T08:00:00",
               "timezone": "Europe/London",
+              "utcTime": "2026-09-06T07:00:00.000Z",
               "flagCode": "ENG",
               "servers": [
                 {
@@ -1389,6 +1443,7 @@
               "title": "Eintracht Frankfurt vs Augsburg",
               "time": "2026-09-06T10:30:00",
               "timezone": "Europe/Berlin",
+              "utcTime": "2026-09-06T08:30:00.000Z",
               "flagCode": "ALE",
               "servers": [
                 {
@@ -1403,6 +1458,7 @@
               "title": "Hamburger SV vs Mainz 05",
               "time": "2026-09-06T08:30:00",
               "timezone": "Europe/Berlin",
+              "utcTime": "2026-09-06T06:30:00.000Z",
               "flagCode": "ALE",
               "servers": [
                 {
@@ -1443,6 +1499,7 @@
               "title": "Copa Mundial Femenina Sub-20: Japón  vs Nueva Zelanda",
               "time": "2026-09-06T08:30:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T08:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1457,6 +1514,7 @@
               "title": "Copa Mundial Femenina",
               "time": "2026-09-06T09:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T09:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1469,28 +1527,65 @@
           ]
         },
         {
-          "name": "Liga de Expansión MX",
-          "country": "México",
-          "events": [
-            {
-              "id": "39097",
-              "title": "Tapatío vs Leones Negros UdeG",
-              "time": "2026-09-06T18:00:00",
-              "timezone": "America/Mexico_City",
-              "flagCode": "LEAGUESCUP",
-              "servers": []
-            }
-          ]
-        },
-        {
           "name": "LaLiga",
           "country": "España",
           "events": [
+            {
+              "id": "39048",
+              "title": "Valencia vs Barcelona",
+              "time": "2026-09-06T09:15:00",
+              "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T07:15:00.000Z",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports | HD",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes - La Liga",
+                  "url": "https://tvf90.com/canal.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "Dsports TV",
+                  "url": "https://tvf90.com/canal.php?stream=dsports_eventos",
+                  "active": true
+                },
+                {
+                  "name": "DSports Eventos",
+                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
+                  "active": true
+                },
+                {
+                  "name": "Dsports Argentina",
+                  "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP2",
+                  "url": "https://tvf90.com/2.php?stream=espndeportes",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes  | OP3",
+                  "url": "https://tvf90.com/3.php?stream=espndeportes",
+                  "active": true
+                }
+              ]
+            },
             {
               "id": "39050",
               "title": "Deportivo Alavés vs Osasuna",
               "time": "2026-09-06T11:30:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T09:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1540,6 +1635,7 @@
               "title": "Espanyol vs Sevilla",
               "time": "2026-09-06T14:00:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T12:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1548,65 +1644,21 @@
                   "active": true
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Liga de Expansión MX",
+          "country": "México",
+          "events": [
             {
-              "id": "39048",
-              "title": "Valencia vs Barcelona",
-              "time": "2026-09-06T09:15:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports TV",
-                  "url": "https://tvf90.com/canal.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
-                  "active": true
-                },
-                {
-                  "name": "DSports | HD",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "Dsports Argentina",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP2",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports | OP3",
-                  "url": "https://tvf90.com/2.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://tvf90.com/1.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espndeportes",
-                  "active": true
-                },
-                {
-                  "name": "ESPN Deportes  | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                }
-              ]
+              "id": "39097",
+              "title": "Tapatío vs Leones Negros UdeG",
+              "time": "2026-09-06T18:00:00",
+              "timezone": "America/Mexico_City",
+              "utcTime": "2026-09-07T00:00:00.000Z",
+              "flagCode": "LEAGUESCUP",
+              "servers": []
             }
           ]
         },
@@ -1619,6 +1671,7 @@
               "title": "Primera División: The Strongest vs Real Tomayapo",
               "time": "2026-09-06T16:15:00",
               "timezone": "America/La_Paz",
+              "utcTime": "2026-09-06T20:15:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1639,6 +1692,7 @@
               "title": "Trabzonspor vs Gençlerbirliği",
               "time": "2026-09-06T12:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T12:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1674,6 +1728,7 @@
               "title": "Antofagasta vs Recoleta",
               "time": "2026-09-06T10:30:00",
               "timezone": "America/Santiago",
+              "utcTime": "2026-09-06T13:30:00.000Z",
               "flagCode": "CH",
               "servers": [
                 {
@@ -1694,6 +1749,7 @@
               "title": "Tigres UANL vs Santos Laguna",
               "time": "2026-09-06T19:06:00",
               "timezone": "America/Mexico_City",
+              "utcTime": "2026-09-07T01:06:00.000Z",
               "flagCode": "LEAGUESCUP",
               "servers": [
                 {
@@ -1729,6 +1785,7 @@
               "title": "Eibar vs Granada",
               "time": "2026-09-06T07:00:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T05:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1743,6 +1800,7 @@
               "title": "Real Oviedo vs Burgos",
               "time": "2026-09-06T09:15:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T07:15:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1757,6 +1815,7 @@
               "title": "CD Castellon vs Albacete",
               "time": "2026-09-06T11:30:00",
               "timezone": "Europe/Madrid",
+              "utcTime": "2026-09-06T09:30:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1777,6 +1836,7 @@
               "title": "Ciclismo – La Vuelta – Etapa #15",
               "time": "2026-09-06T07:55:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T07:55:00.000Z",
               "flagCode": "CICLISMO",
               "servers": [
                 {
@@ -1812,6 +1872,7 @@
               "title": "Rugby – Top 14 – La Rochelle vs. Toulouse",
               "time": "2026-09-06T13:55:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T13:55:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1847,6 +1908,7 @@
               "title": "Kings League",
               "time": "2026-09-06T15:55:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T15:55:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1888,6 +1950,7 @@
               "title": "Tenis – US Open – Octavos de Final",
               "time": "2026-09-06T18:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T18:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1917,6 +1980,7 @@
               "title": "Tenis – US Open – Octavos de Final: Sabalenka A. vs Townsend T.",
               "time": "2026-09-06T10:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T10:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1958,6 +2022,7 @@
               "title": "IndyCar Series – Laguna Seca",
               "time": "2026-09-06T14:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T14:00:00.000Z",
               "flagCode": "",
               "servers": [
                 {
@@ -1999,6 +2064,7 @@
               "title": "MLB – Chicago White Sox vs. Minnesota Twins",
               "time": "2026-09-06T17:00:00",
               "timezone": "UTC",
+              "utcTime": "2026-09-06T17:00:00.000Z",
               "flagCode": "MLB",
               "servers": [
                 {
