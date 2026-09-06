@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:52:44.594Z",
+  "generatedAt": "2026-09-06T11:59:53.694Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -428,6 +428,11 @@
                   "active": true
                 },
                 {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney12",
+                  "active": true
+                },
+                {
                   "name": "ESPN 3",
                   "url": "https://tvf90.com/1.php?stream=espn3",
                   "active": true
@@ -724,20 +729,31 @@
           "country": "Brasil",
           "events": [
             {
-              "id": "39071",
-              "title": "Coritiba vs Mirassol",
-              "time": "2026-09-06T09:00:00",
-              "timezone": "America/Sao_Paulo",
-              "flagCode": "BRA",
-              "servers": []
-            },
-            {
               "id": "39073",
               "title": "Internacional vs Santos",
               "time": "2026-09-06T14:00:00",
               "timezone": "America/Sao_Paulo",
               "flagCode": "BRA",
               "servers": []
+            },
+            {
+              "id": "39071",
+              "title": "Coritiba vs Mirassol",
+              "time": "2026-09-06T09:00:00",
+              "timezone": "America/Sao_Paulo",
+              "flagCode": "BRA",
+              "servers": [
+                {
+                  "name": "Premiere BR",
+                  "url": "https://tvf90.com/1.php?stream=premiere1",
+                  "active": true
+                },
+                {
+                  "name": "Premiere BR | HD",
+                  "url": "https://tvf90.com/2.php?stream=premiere1",
+                  "active": true
+                }
+              ]
             },
             {
               "id": "39072",
@@ -1124,20 +1140,26 @@
           "country": "Uruguay",
           "events": [
             {
-              "id": "39089",
-              "title": "Cerro vs Racing",
-              "time": "2026-09-06T08:00:00",
-              "timezone": "America/Montevideo",
-              "flagCode": "URU",
-              "servers": []
-            },
-            {
               "id": "39091",
               "title": "Nacional vs Juventud",
               "time": "2026-09-06T14:30:00",
               "timezone": "America/Montevideo",
               "flagCode": "URU",
               "servers": []
+            },
+            {
+              "id": "39089",
+              "title": "Cerro vs Racing",
+              "time": "2026-09-06T08:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "URU",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney11",
+                  "active": true
+                }
+              ]
             },
             {
               "id": "39090",
@@ -1474,6 +1496,40 @@
           ]
         },
         {
+          "name": "General",
+          "country": "mundial 2026",
+          "events": [
+            {
+              "id": "39128",
+              "title": "Copa Mundial Femenina: Japón Sub-20 vs Nueva Zelanda Sub-20",
+              "time": "2026-09-06T08:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Dsports 2",
+                  "url": "https://tvf90.com/3.php?stream=dsports2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39127",
+              "title": "Copa Mundial Femenina",
+              "time": "2026-09-06T09:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "TUDN MX",
+                  "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Liga de Expansión MX",
           "country": "México",
           "events": [
@@ -1547,18 +1603,23 @@
               "flagCode": "",
               "servers": [
                 {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                },
+                {
                   "name": "DSports | HD",
                   "url": "https://tv-90.com/dsportsar.php",
                   "active": true
                 },
                 {
-                  "name": "Dsports Argentina",
-                  "url": "https://tv-90.com/dsportsar.php",
+                  "name": "DSports Eventos",
+                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
                   "active": true
                 },
                 {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "name": "Dsports Argentina",
+                  "url": "https://tv-90.com/dsportsar.php",
                   "active": true
                 },
                 {
@@ -1569,11 +1630,6 @@
                 {
                   "name": "DSports | OP3",
                   "url": "https://tvf90.com/2.php?stream=dsports",
-                  "active": true
-                },
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://tvf90.com/1.php?stream=dsports_eventos",
                   "active": true
                 },
                 {
@@ -1827,26 +1883,6 @@
                 {
                   "name": "ESPN 3 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn3",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "mundial 2026",
-          "events": [
-            {
-              "id": "39127",
-              "title": "Copa Mundial Femenina",
-              "time": "2026-09-06T09:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://fltvhd.com/canales.php?stream=tudn_mx",
                   "active": true
                 }
               ]
