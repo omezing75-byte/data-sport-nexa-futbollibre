@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:12:49.147Z",
+  "generatedAt": "2026-09-06T14:24:52.971Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1589,6 +1589,20 @@
               ]
             },
             {
+              "id": "39051",
+              "title": "Espanyol vs Sevilla",
+              "time": "2026-09-06T14:00:00",
+              "timezone": "Europe/Madrid",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://tvf90.com/1.php?stream=dsports",
+                  "active": true
+                }
+              ]
+            },
+            {
               "id": "39048",
               "title": "Valencia vs Barcelona",
               "time": "2026-09-06T09:15:00",
@@ -1598,6 +1612,11 @@
                 {
                   "name": "DSports | HD",
                   "url": "https://tv-90.com/dsportsar.php",
+                  "active": true
+                },
+                {
+                  "name": "Dsports TV",
+                  "url": "https://tvf90.com/canal.php?stream=dsports",
                   "active": true
                 },
                 {
@@ -1638,20 +1657,6 @@
                 {
                   "name": "ESPN Deportes  | OP3",
                   "url": "https://tvf90.com/3.php?stream=espndeportes",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39051",
-              "title": "Espanyol vs Sevilla",
-              "time": "2026-09-06T14:00:00",
-              "timezone": "Europe/Madrid",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://tvf90.com/1.php?stream=dsports",
                   "active": true
                 }
               ]
