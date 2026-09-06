@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:46:38.400Z",
+  "generatedAt": "2026-09-06T12:55:35.507Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1395,85 +1395,6 @@
           ]
         },
         {
-          "name": "General",
-          "country": "Formula 1",
-          "events": [
-            {
-              "id": "39118",
-              "title": "Porsche Supercup – GP Italia – Carrera",
-              "time": "2026-09-06T04:40:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://tvf90.com/3.php?stream=canal5",
-                  "active": true
-                },
-                {
-                  "name": "Canal 5 MX HD",
-                  "url": "https://tv-90.com/canal5.php",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "mundial 2026",
-          "events": [
-            {
-              "id": "39128",
-              "title": "Copa Mundial Femenina: Japón Sub-20 vs Nueva Zelanda Sub-20",
-              "time": "2026-09-06T08:30:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "Dsports 2",
-                  "url": "https://tvf90.com/3.php?stream=dsports2",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39127",
-              "title": "Copa Mundial Femenina",
-              "time": "2026-09-06T09:00:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://tvf90.com/1.php?stream=tudn_mx",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Ligue 1",
           "country": "Francia",
           "events": [
@@ -1634,6 +1555,40 @@
                 {
                   "name": "ESPN 3 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn3",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "country": "mundial 2026",
+          "events": [
+            {
+              "id": "39128",
+              "title": "Copa Mundial Femenina Sub-20: Japón  vs Nueva Zelanda",
+              "time": "2026-09-06T08:30:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "Dsports 2",
+                  "url": "https://tvf90.com/3.php?stream=dsports2",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": "39127",
+              "title": "Copa Mundial Femenina",
+              "time": "2026-09-06T09:00:00",
+              "timezone": "UTC",
+              "flagCode": "",
+              "servers": [
+                {
+                  "name": "TUDN MX",
+                  "url": "https://tvf90.com/1.php?stream=tudn_mx",
                   "active": true
                 }
               ]
