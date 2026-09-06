@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:24:52.971Z",
+  "generatedAt": "2026-09-06T14:42:42.866Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "sports": [
     {
@@ -1268,59 +1268,6 @@
           ]
         },
         {
-          "name": "2. Bundesliga",
-          "country": "Alemania",
-          "events": [
-            {
-              "id": "39095",
-              "title": "Osnabrück vs Eintracht Braunschweig",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney4",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39094",
-              "title": "Hertha BSC vs Magdeburg",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Fox Sports 2",
-                  "url": "https://tvf90.com/3.php?stream=foxsports2",
-                  "active": true
-                },
-                {
-                  "name": "Fox Sports 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=foxsports2",
-                  "active": true
-                }
-              ]
-            },
-            {
-              "id": "39096",
-              "title": "Greuther Fürth vs Heidenheim",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "Europe/Berlin",
-              "flagCode": "ALE",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://tvf90.com/1.php?stream=disney3",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Ligue 1",
           "country": "Francia",
           "events": [
@@ -1610,11 +1557,6 @@
               "flagCode": "",
               "servers": [
                 {
-                  "name": "DSports | HD",
-                  "url": "https://tv-90.com/dsportsar.php",
-                  "active": true
-                },
-                {
                   "name": "Dsports TV",
                   "url": "https://tvf90.com/canal.php?stream=dsports",
                   "active": true
@@ -1622,6 +1564,11 @@
                 {
                   "name": "DSports Eventos",
                   "url": "https://tvf90.com/1.php?stream=dsports_eventos",
+                  "active": true
+                },
+                {
+                  "name": "DSports | HD",
+                  "url": "https://tv-90.com/dsportsar.php",
                   "active": true
                 },
                 {
@@ -2031,41 +1978,6 @@
                 {
                   "name": "ESPN 5 | OP3",
                   "url": "https://tvf90.com/3.php?stream=espn5",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "General",
-          "country": "Formula 1",
-          "events": [
-            {
-              "id": "39119",
-              "title": "F1 GP Italia – La Previa",
-              "time": "2026-09-06T06:30:00",
-              "timezone": "UTC",
-              "flagCode": "",
-              "servers": [
-                {
-                  "name": "ESPN 2 | HD",
-                  "url": "https://tvf90.com/hd.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://tvf90.com/1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP2",
-                  "url": "https://tvf90.com/2.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 | OP3",
-                  "url": "https://tvf90.com/3.php?stream=espn2",
                   "active": true
                 }
               ]
