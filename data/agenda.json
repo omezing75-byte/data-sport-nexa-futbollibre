@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:58:34.195255Z",
+  "updated_at": "2026-09-07T22:14:50.305479Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
     {
@@ -11,26 +11,6 @@
       "source_local": "2026-09-07T14:30:00",
       "source_timezone": "Europe/Madrid",
       "start_utc": "2026-09-07T12:30:00Z"
-    },
-    {
-      "id": 39141,
-      "title": "Primeira Liga: Estoril vs Arouca",
-      "competition": "Primeira Liga",
-      "country": "Portugal",
-      "flag": "pt",
-      "source_local": "2026-09-07T14:00:00",
-      "source_timezone": "Europe/Lisbon",
-      "start_utc": "2026-09-07T13:00:00Z"
-    },
-    {
-      "id": 39149,
-      "title": "Primera División: Guaraní vs Deportivo Recoleta",
-      "competition": "Primera División",
-      "country": "Paraguay",
-      "flag": "py",
-      "source_local": "2026-09-07T14:00:00",
-      "source_timezone": "America/Asuncion",
-      "start_utc": "2026-09-07T17:00:00Z"
     },
     {
       "id": 39153,
