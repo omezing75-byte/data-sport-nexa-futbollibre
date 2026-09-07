@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-07T19:40:13.660436Z",
+  "updated_at": "2026-09-07T19:54:46.185665Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39139,
-      "title": "Serie A: Cagliari vs Lecce",
-      "competition": "Serie A",
-      "country": "Italia",
-      "flag": "it",
-      "source_local": "2026-09-07T11:30:00",
-      "source_timezone": "Europe/Rome",
-      "start_utc": "2026-09-07T09:30:00Z"
-    },
     {
       "id": 39157,
       "title": "Pro League: Al Hilal vs NEOM",
