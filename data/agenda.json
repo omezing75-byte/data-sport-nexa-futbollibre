@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-07T22:40:08.504237Z",
+  "updated_at": "2026-09-07T22:53:55.442084Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39138,
-      "title": "LaLiga: Elche vs Real Sociedad",
-      "competition": "LaLiga",
-      "country": "España",
-      "flag": "es",
-      "source_local": "2026-09-07T14:30:00",
-      "source_timezone": "Europe/Madrid",
-      "start_utc": "2026-09-07T12:30:00Z"
-    },
     {
       "id": 39153,
       "title": "Brasileiro Femenino: Corinthians vs Cruzeiro",
