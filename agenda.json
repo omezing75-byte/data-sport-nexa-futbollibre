@@ -1,0 +1,556 @@
+{
+  "sports": [
+    {
+      "name": "Baseball",
+      "icon": "⚾",
+      "leagues": [
+        {
+          "name": "MLB Preseason",
+          "events": [
+            {
+              "id": "39133",
+              "date": "2026-09-07",
+              "time": "13:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "MLB – Milwaukee Brewers vs. Chicago Cubs",
+              "servers": [
+                {
+                  "name": "ESPN 5 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn5",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39133
+            },
+            {
+              "id": "39135",
+              "date": "2026-09-07",
+              "time": "20:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "MLB – Los Angeles Dodgers vs. Cincinnati Reds",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soccer",
+      "icon": "⚽",
+      "leagues": [
+        {
+          "name": "Tennis",
+          "events": [
+            {
+              "id": "39131",
+              "date": "2026-09-07",
+              "time": "10:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Tenis – US Open – Octavos de Final: Andreeva M. vs Potapova A.",
+              "servers": [
+                {
+                  "name": "ESPN 3 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn3",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39131
+            },
+            {
+              "id": "39132",
+              "date": "2026-09-07",
+              "time": "10:30:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Tenis – US Open – Octavos de Final: Swiatek I. vs Zheng Q.",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39132
+            },
+            {
+              "id": "39136",
+              "date": "2026-09-07",
+              "time": "12:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Tenis – US Open – Octavos de Final: Cerúndolo F. vs Blockx A.",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39136
+            },
+            {
+              "id": "39134",
+              "date": "2026-09-07",
+              "time": "18:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Tenis – US Open – Octavos de Final: Jovic I. vs Gauff C.",
+              "servers": [
+                {
+                  "name": "ESPN 2 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn2",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39134
+            }
+          ]
+        },
+        {
+          "name": "Argentina",
+          "events": [
+            {
+              "id": "39142",
+              "date": "2026-09-07",
+              "time": "17:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Liga Profesional:  Barracas Central vs Argentinos Juniors",
+              "servers": [
+                {
+                  "name": "ESPN Premium┃HD",
+                  "url": "https://tvf90.com/1.php?stream=espnpremium",
+                  "active": true
+                },
+                {
+                  "name": "ESPN",
+                  "url": "https://tvf90.com/1.php?stream=espn",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39142
+            },
+            {
+              "id": "39143",
+              "date": "2026-09-07",
+              "time": "19:15:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Liga Profesional:  Unión Santa Fe vs Instituto",
+              "servers": [
+                {
+                  "name": "TNT Sports | HD",
+                  "url": "https://tvf90.com/1.php?stream=tntsports",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39143
+            }
+          ]
+        },
+        {
+          "name": "Brasil",
+          "events": [
+            {
+              "id": "39153",
+              "date": "2026-09-07",
+              "time": "15:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Brasileiro Femenino:  Corinthians vs Cruzeiro",
+              "servers": [
+                {
+                  "name": "Sportv BR HD",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39153
+            },
+            {
+              "id": "39144",
+              "date": "2026-09-07",
+              "time": "18:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Brasileirão:  Vitória vs Grêmio",
+              "servers": [
+                {
+                  "name": "Sportv BR HD",
+                  "url": "https://tvf90.com/1.php?stream=sportv",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39144
+            }
+          ]
+        },
+        {
+          "name": "Colombia",
+          "events": [
+            {
+              "id": "39146",
+              "date": "2026-09-07",
+              "time": "18:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Primera A:  Llaneros vs Deportes Tolima",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39146
+            },
+            {
+              "id": "39147",
+              "date": "2026-09-07",
+              "time": "20:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Primera A:  Llaneros vs Deportivo Cali",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39147
+            },
+            {
+              "id": "39154",
+              "date": "2026-09-07",
+              "time": "20:15:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Copa Colombia: Atlético Nacional vs Deportivo Cali",
+              "servers": [
+                {
+                  "name": "Win Sports + | HD",
+                  "url": "https://tvf90.com/1.php?stream=winsports2",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39154
+            }
+          ]
+        },
+        {
+          "name": "Ecuador",
+          "events": [
+            {
+              "id": "39148",
+              "date": "2026-09-07",
+              "time": "19:00:00",
+              "timezone": "America/Guayaquil",
+              "flagCode": "ec",
+              "title": "Serie A:  Emelec vs Manta",
+              "servers": [
+                {
+                  "name": "ECDF LigaPRO | HD",
+                  "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                  "active": true
+                },
+                {
+                  "name": "ECUAVISA",
+                  "url": "https://tvf90.com/1.php?stream=ecdf",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39148
+            }
+          ]
+        },
+        {
+          "name": "Paraguay",
+          "events": [
+            {
+              "id": "39149",
+              "date": "2026-09-07",
+              "time": "14:00:00",
+              "timezone": "America/Asuncion",
+              "flagCode": "py",
+              "title": "Primera División:  Guaraní vs Deportivo Recoleta",
+              "servers": [
+                {
+                  "name": "fanatiz 01",
+                  "url": "https://tvf90.com/1.php?stream=fanatiz1",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39149
+            },
+            {
+              "id": "39150",
+              "date": "2026-09-07",
+              "time": "16:30:00",
+              "timezone": "America/Asuncion",
+              "flagCode": "py",
+              "title": "Primera División:  Cerro Porteño vs Nacional Asunción",
+              "servers": [],
+              "agendaOrder": 39150
+            }
+          ]
+        },
+        {
+          "name": "Uruguay",
+          "events": [
+            {
+              "id": "39151",
+              "date": "2026-09-07",
+              "time": "13:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "uy",
+              "title": "Primera División:  Albion vs Progreso",
+              "servers": [
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney3",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39151
+            },
+            {
+              "id": "39152",
+              "date": "2026-09-07",
+              "time": "17:00:00",
+              "timezone": "America/Montevideo",
+              "flagCode": "uy",
+              "title": "Segunda División:  Plaza Colonia vs Uruguay Montevideo",
+              "servers": [],
+              "agendaOrder": 39152
+            }
+          ]
+        },
+        {
+          "name": "Paises Bajos",
+          "events": [
+            {
+              "id": "39155",
+              "date": "2026-09-07",
+              "time": "13:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Eerste Divisie:  PSV II vs Den Bosch",
+              "servers": [
+                {
+                  "name": "ESPN NL",
+                  "url": "https://tvf90.com/1.php?stream=espn1_nl",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39155
+            },
+            {
+              "id": "39156",
+              "date": "2026-09-07",
+              "time": "13:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Eerste Divisie: Utrecht II vs Eindhoven",
+              "servers": [
+                {
+                  "name": "ESPN 2 NL",
+                  "url": "https://tvf90.com/1.php?stream=espn2_nl",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39156
+            }
+          ]
+        },
+        {
+          "name": "España",
+          "events": [
+            {
+              "id": "39137",
+              "date": "2026-09-07",
+              "time": "12:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "LaLiga:  Getafe vs Celta de Vigo",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney2",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39137
+            },
+            {
+              "id": "39158",
+              "date": "2026-09-07",
+              "time": "13:30:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "LaLiga SmartBank:  Sabadell vs Córdoba",
+              "servers": [
+                {
+                  "name": "LaLiga TV Hypermotion",
+                  "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39158
+            },
+            {
+              "id": "39138",
+              "date": "2026-09-07",
+              "time": "14:30:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "LaLiga: Elche vs Real Sociedad",
+              "servers": [
+                {
+                  "name": "ESPN 4 | HD",
+                  "url": "https://tvf90.com/1.php?stream=espn4",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://tvf90.com/1.php?stream=espndeportes",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39138
+            }
+          ]
+        },
+        {
+          "name": "Italia",
+          "events": [
+            {
+              "id": "39139",
+              "date": "2026-09-07",
+              "time": "11:30:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Serie A:  Cagliari vs Lecce",
+              "servers": [
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney1",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39139
+            },
+            {
+              "id": "39140",
+              "date": "2026-09-07",
+              "time": "13:45:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Serie A:  Udinese vs Lazio",
+              "servers": [
+                {
+                  "name": "Universo | HD",
+                  "url": "https://tvf90.com/1.php?stream=universo",
+                  "active": true
+                },
+                {
+                  "name": "Disney+",
+                  "url": "https://tvf90.com/1.php?stream=disney4",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39140
+            }
+          ]
+        },
+        {
+          "name": "Portugal",
+          "events": [
+            {
+              "id": "39141",
+              "date": "2026-09-07",
+              "time": "14:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Primeira Liga: Estoril vs Arouca",
+              "servers": [],
+              "agendaOrder": 39141
+            }
+          ]
+        },
+        {
+          "name": "Chile",
+          "events": [
+            {
+              "id": "39145",
+              "date": "2026-09-07",
+              "time": "18:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Primera División:  Deportes Limache vs Cobresal",
+              "servers": [
+                {
+                  "name": "TNT Sports Premiun CL HD",
+                  "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39145
+            }
+          ]
+        },
+        {
+          "name": "Arabia Saudita",
+          "events": [
+            {
+              "id": "39157",
+              "date": "2026-09-07",
+              "time": "13:00:00",
+              "timezone": "America/Lima",
+              "flagCode": "pe",
+              "title": "Pro League:  Al Hilal vs NEOM",
+              "servers": [
+                {
+                  "name": "FOX Deportes | HD",
+                  "url": "https://tvf90.com/1.php?stream=foxdeportes",
+                  "active": true
+                }
+              ],
+              "agendaOrder": 39157
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
