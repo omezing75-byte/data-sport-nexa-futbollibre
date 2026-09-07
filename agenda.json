@@ -79,6 +79,109 @@
     ]
   },
   {
+    "id": "39140",
+    "date": "2026-09-07",
+    "time": "13:45:00",
+    "datetime": "2026-09-07T13:45:00",
+    "title": "Serie A: \nUdinese vs Lazio",
+    "category": "Italia",
+    "stream": "universo",
+    "servers": [
+      {
+        "name": "Universo | HD",
+        "stream": "universo"
+      }
+    ]
+  },
+  {
+    "id": "39142",
+    "date": "2026-09-07",
+    "time": "17:00:00",
+    "datetime": "2026-09-07T17:00:00",
+    "title": "Liga Profesional: \nBarracas Central vs Argentinos Juniors",
+    "category": "Argentina",
+    "stream": "espnpremium",
+    "servers": [
+      {
+        "name": "ESPN Premium┃HD",
+        "stream": "espnpremium"
+      },
+      {
+        "name": "ESPN",
+        "stream": "espn"
+      }
+    ]
+  },
+  {
+    "id": "39144",
+    "date": "2026-09-07",
+    "time": "18:00:00",
+    "datetime": "2026-09-07T18:00:00",
+    "title": "Brasileirão: \nVitória vs Grêmio",
+    "category": "Brasil",
+    "stream": "sportv",
+    "servers": [
+      {
+        "name": "Sportv BR HD",
+        "stream": "sportv"
+      }
+    ]
+  },
+  {
+    "id": "39146",
+    "date": "2026-09-07",
+    "time": "18:00:00",
+    "datetime": "2026-09-07T18:00:00",
+    "title": "Primera A: \nLlaneros vs Deportes Tolima",
+    "category": "Colombia",
+    "stream": "winsports2",
+    "servers": [
+      {
+        "name": "Win Sports + | HD",
+        "stream": "winsports2"
+      }
+    ]
+  },
+  {
+    "id": "39148",
+    "date": "2026-09-07",
+    "time": "19:00:00",
+    "datetime": "2026-09-07T19:00:00",
+    "title": "Serie A: \nEmelec vs Manta",
+    "category": "Ecuador",
+    "stream": "ecdf_ligapro",
+    "servers": [
+      {
+        "name": "ECDF LigaPRO | HD",
+        "stream": "ecdf_ligapro"
+      },
+      {
+        "name": "ECUAVISA",
+        "stream": "ecdf"
+      }
+    ]
+  },
+  {
+    "id": "39150",
+    "date": "2026-09-07",
+    "time": "16:30:00",
+    "datetime": "2026-09-07T16:30:00",
+    "title": "Primera División: \nCerro Porteño vs Nacional Asunción",
+    "category": "Paraguay",
+    "stream": "",
+    "servers": []
+  },
+  {
+    "id": "39152",
+    "date": "2026-09-07",
+    "time": "17:00:00",
+    "datetime": "2026-09-07T17:00:00",
+    "title": "Segunda División: \nPlaza Colonia vs Uruguay Montevideo",
+    "category": "Uruguay",
+    "stream": "",
+    "servers": []
+  },
+  {
     "id": "39132",
     "date": "2026-09-07",
     "time": "10:30:00",
@@ -126,5 +229,95 @@
         "stream": "espndeportes"
       }
     ]
+  },
+  {
+    "id": "39139",
+    "date": "2026-09-07",
+    "time": "11:30:00",
+    "datetime": "2026-09-07T11:30:00",
+    "title": "Serie A: \nCagliari vs Lecce",
+    "category": "Italia",
+    "stream": "universo",
+    "servers": [
+      {
+        "name": "Universo | HD",
+        "stream": "universo"
+      }
+    ]
+  },
+  {
+    "id": "39141",
+    "date": "2026-09-07",
+    "time": "14:00:00",
+    "datetime": "2026-09-07T14:00:00",
+    "title": "Primeira Liga: Estoril vs Arouca",
+    "category": "Portugal",
+    "stream": "",
+    "servers": []
+  },
+  {
+    "id": "39143",
+    "date": "2026-09-07",
+    "time": "19:15:00",
+    "datetime": "2026-09-07T19:15:00",
+    "title": "Liga Profesional: \nUnión Santa Fe vs Instituto",
+    "category": "Argentina",
+    "stream": "tntsports",
+    "servers": [
+      {
+        "name": "TNT Sports | HD",
+        "stream": "tntsports"
+      }
+    ]
+  },
+  {
+    "id": "39145",
+    "date": "2026-09-07",
+    "time": "18:00:00",
+    "datetime": "2026-09-07T18:00:00",
+    "title": "Primera División: \nDeportes Limache vs Cobresal",
+    "category": "Chile",
+    "stream": "tntsportschile",
+    "servers": [
+      {
+        "name": "TNT Sports Premiun CL HD",
+        "stream": "tntsportschile"
+      }
+    ]
+  },
+  {
+    "id": "39147",
+    "date": "2026-09-07",
+    "time": "20:00:00",
+    "datetime": "2026-09-07T20:00:00",
+    "title": "Primera A: \nLlaneros vs Deportivo Cali",
+    "category": "Colombia",
+    "stream": "winsports2",
+    "servers": [
+      {
+        "name": "Win Sports + | HD",
+        "stream": "winsports2"
+      }
+    ]
+  },
+  {
+    "id": "39149",
+    "date": "2026-09-07",
+    "time": "14:00:00",
+    "datetime": "2026-09-07T14:00:00",
+    "title": "Primera División: \nGuaraní vs Deportivo Recoleta",
+    "category": "Paraguay",
+    "stream": "",
+    "servers": []
+  },
+  {
+    "id": "39151",
+    "date": "2026-09-07",
+    "time": "13:00:00",
+    "datetime": "2026-09-07T13:00:00",
+    "title": "Primera División: \nAlbion vs Progreso",
+    "category": "Uruguay",
+    "stream": "",
+    "servers": []
   }
 ]
