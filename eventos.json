@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:24:27.644Z",
+  "generatedAt": "2026-09-07T02:38:31.245Z",
   "source": "https://agenda18.com/agenda.json",
   "sports": [
     {
@@ -57,26 +57,6 @@
           ]
         },
         {
-          "name": "Liga de Expansión MX",
-          "country": "México",
-          "events": [
-            {
-              "id": "35217",
-              "title": "Tapatío vs Leones Negros UdeG",
-              "time": "2026-09-06T18:00:00",
-              "timezone": "America/Mexico_City",
-              "flagCode": "LEAGUESCUP",
-              "servers": [
-                {
-                  "name": "Disney+",
-                  "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Liga Profesional",
           "country": "Argentina",
           "events": [
@@ -95,46 +75,6 @@
                 {
                   "name": "ESPN Premium Movil",
                   "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Liga MX",
-          "country": "México",
-          "events": [
-            {
-              "id": "35216",
-              "title": "Cruz Azul vs Santos Laguna",
-              "time": "2026-09-06T18:00:00",
-              "timezone": "America/Mexico_City",
-              "flagCode": "LEAGUESCUP",
-              "servers": [
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
-                  "active": true
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://la18hd.su/vivo/canal.php?stream=tudn_mx",
-                  "active": true
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-                  "active": true
-                },
-                {
-                  "name": "TUDN USA Movil",
-                  "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
-                  "active": true
-                },
-                {
-                  "name": "Univisión",
-                  "url": "https://la18hd.su/vivo/canal.php?stream=univision",
                   "active": true
                 }
               ]
