@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:08:15.752833Z",
+  "updated_at": "2026-09-07T20:23:32.356491Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
     {
@@ -10,16 +10,6 @@
       "flag": "sa",
       "source_local": "2026-09-07T13:00:00",
       "source_timezone": "Asia/Riyadh",
-      "start_utc": "2026-09-07T10:00:00Z"
-    },
-    {
-      "id": 39137,
-      "title": "LaLiga: Getafe vs Celta de Vigo",
-      "competition": "LaLiga",
-      "country": "España",
-      "flag": "es",
-      "source_local": "2026-09-07T12:00:00",
-      "source_timezone": "Europe/Madrid",
       "start_utc": "2026-09-07T10:00:00Z"
     },
     {
