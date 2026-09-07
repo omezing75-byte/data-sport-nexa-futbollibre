@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-07T21:38:17.997244Z",
+  "updated_at": "2026-09-07T21:49:35.001221Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39158,
-      "title": "LaLiga SmartBank: Sabadell vs Córdoba",
-      "competition": "LaLiga SmartBank",
-      "country": "España",
-      "flag": "es",
-      "source_local": "2026-09-07T13:30:00",
-      "source_timezone": "Europe/Madrid",
-      "start_utc": "2026-09-07T11:30:00Z"
-    },
     {
       "id": 39140,
       "title": "Serie A: Udinese vs Lazio",
