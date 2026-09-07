@@ -1,39 +1,5 @@
 [
   {
-    "id": "39067",
-    "time": "2026-09-06T19:30:00",
-    "timezone": "America/Lima",
-    "title": "Racing Club vs Atlético Tucumán",
-    "category": "Liga Profesional",
-    "country": "Argentina",
-    "flagCode": "ar",
-    "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-    "servers": [
-      {
-        "name": "ESPN Premium┃HD",
-        "url": "https://tvf90.com/hd.php?stream=espnpremium",
-        "active": true
-      },
-      {
-        "name": "ESPN Premium",
-        "url": "https://tvf90.com/1.php?stream=espnpremium",
-        "active": true
-      },
-      {
-        "name": "ESPN Premium┃OP2",
-        "url": "https://tvf90.com/2.php?stream=espnpremium",
-        "active": true
-      },
-      {
-        "name": "ESPN Premium┃OP3",
-        "url": "https://tvf90.com/3.php?stream=espnpremium",
-        "active": true
-      }
-    ],
-    "source": "https://futbollibretv.org.pe/diaries.json",
-    "updatedAt": "2026-09-06T01:10:08.721Z"
-  },
-  {
     "id": "39062",
     "time": "2026-09-06T20:15:00",
     "timezone": "America/Lima",
