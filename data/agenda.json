@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-07T21:07:44.475782Z",
+  "updated_at": "2026-09-07T21:22:36.443234Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39157,
-      "title": "Pro League: Al Hilal vs NEOM",
-      "competition": "Pro League",
-      "country": "Arabia Saudita",
-      "flag": "sa",
-      "source_local": "2026-09-07T13:00:00",
-      "source_timezone": "Asia/Riyadh",
-      "start_utc": "2026-09-07T10:00:00Z"
-    },
     {
       "id": 39158,
       "title": "LaLiga SmartBank: Sabadell vs Córdoba",
@@ -43,16 +33,6 @@
       "start_utc": "2026-09-07T12:30:00Z"
     },
     {
-      "id": 39156,
-      "title": "Eerste Divisie: Utrecht II vs Eindhoven",
-      "competition": "Eerste Divisie",
-      "country": "Paises Bajos",
-      "flag": "",
-      "source_local": "2026-09-07T13:00:00",
-      "source_timezone": "UTC",
-      "start_utc": "2026-09-07T13:00:00Z"
-    },
-    {
       "id": 39141,
       "title": "Primeira Liga: Estoril vs Arouca",
       "competition": "Primeira Liga",
@@ -61,26 +41,6 @@
       "source_local": "2026-09-07T14:00:00",
       "source_timezone": "Europe/Lisbon",
       "start_utc": "2026-09-07T13:00:00Z"
-    },
-    {
-      "id": 39155,
-      "title": "Eerste Divisie: PSV II vs Den Bosch",
-      "competition": "Eerste Divisie",
-      "country": "Paises Bajos",
-      "flag": "",
-      "source_local": "2026-09-07T13:00:00",
-      "source_timezone": "UTC",
-      "start_utc": "2026-09-07T13:00:00Z"
-    },
-    {
-      "id": 39151,
-      "title": "Primera División: Albion vs Progreso",
-      "competition": "Primera División",
-      "country": "Uruguay",
-      "flag": "uy",
-      "source_local": "2026-09-07T13:00:00",
-      "source_timezone": "America/Montevideo",
-      "start_utc": "2026-09-07T16:00:00Z"
     },
     {
       "id": 39149,
