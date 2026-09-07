@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-07T23:07:49.223842Z",
+  "updated_at": "2026-09-07T23:22:07.492356Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39153,
-      "title": "Brasileiro Femenino: Corinthians vs Cruzeiro",
-      "competition": "Brasileiro Femenino",
-      "country": "Brasil",
-      "flag": "br",
-      "source_local": "2026-09-07T15:00:00",
-      "source_timezone": "America/Sao_Paulo",
-      "start_utc": "2026-09-07T18:00:00Z"
-    },
     {
       "id": 39150,
       "title": "Primera División: Cerro Porteño vs Nacional Asunción",
