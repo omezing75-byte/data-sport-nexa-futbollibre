@@ -1,0 +1,44 @@
+name: Sinkronisasi agenda dari Futbol Libre TV
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-agenda
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Siapkan Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Ambil diaries.json dan buat agenda.json
+        run: node scripts/sync-agenda.mjs
+
+      - name: Simpan perubahan ke GitHub
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add agenda.json
+          if git diff --cached --quiet; then
+            echo 'Tidak ada perubahan jadwal.'
+            exit 0
+          fi
+          git commit -m 'sync: update agenda.json from Futbol Libre TV'
+          git push
