@@ -36,7 +36,7 @@ try {
 }
 
 if (!source || !Array.isArray(source.data)) {
-  throw new Error('Format diaries.json tidak sesuai: properti "data" tidak ditemukan.');
+  throw new Error('Format agenda.json tidak sesuai: properti "data" tidak ditemukan.');
 }
 
 const TZ = {
