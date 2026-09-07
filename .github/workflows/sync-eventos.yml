@@ -1,4 +1,4 @@
-name: Sinkronisasi eventos.json dari diaries.json
+name: Sinkronisasi eventos.json dari agenda.json
 
 on:
   workflow_dispatch:
@@ -40,5 +40,5 @@ jobs:
             echo 'Tidak ada perubahan jadwal.'
             exit 0
           fi
-          git commit -m 'sync: update eventos.json from diaries.json'
+          git commit -m 'sync: update eventos.json from agenda.json'
           git push
