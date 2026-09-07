@@ -1,39 +1,5 @@
 [
   {
-    "id": "39108",
-    "time": "2026-09-06T19:06:00",
-    "timezone": "America/Lima",
-    "title": "Tigres UANL vs Santos Laguna",
-    "category": "Liga MX Femenil",
-    "country": "México",
-    "flagCode": "mx",
-    "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
-    "servers": [
-      {
-        "name": "FOX Deportes | HD",
-        "url": "https://tvf90.com/hd.php?stream=foxdeportes",
-        "active": true
-      },
-      {
-        "name": "FOX Deportes",
-        "url": "https://tvf90.com/1.php?stream=foxdeportes",
-        "active": true
-      },
-      {
-        "name": "FOX Deportes | OP2",
-        "url": "https://tvf90.com/2.php?stream=foxdeportes",
-        "active": true
-      },
-      {
-        "name": "FOX Deportes | OP3",
-        "url": "https://tvf90.com/3.php?stream=foxdeportes",
-        "active": true
-      }
-    ],
-    "source": "https://futbollibretv.org.pe/diaries.json",
-    "updatedAt": "2026-09-06T02:13:24.042Z"
-  },
-  {
     "id": "39067",
     "time": "2026-09-06T19:30:00",
     "timezone": "America/Lima",
