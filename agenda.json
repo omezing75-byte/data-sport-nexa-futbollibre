@@ -60,40 +60,6 @@
     ]
   },
   {
-    "id": "39138",
-    "date": "2026-09-07",
-    "time": "14:30:00",
-    "datetime": "2026-09-07T14:30:00",
-    "title": "LaLiga: Elche vs Real Sociedad",
-    "category": "España",
-    "stream": "espn4",
-    "servers": [
-      {
-        "name": "ESPN 4 | HD",
-        "stream": "espn4"
-      },
-      {
-        "name": "ESPN Deportes",
-        "stream": "espndeportes"
-      }
-    ]
-  },
-  {
-    "id": "39140",
-    "date": "2026-09-07",
-    "time": "13:45:00",
-    "datetime": "2026-09-07T13:45:00",
-    "title": "Serie A: \nUdinese vs Lazio",
-    "category": "Italia",
-    "stream": "universo",
-    "servers": [
-      {
-        "name": "Universo | HD",
-        "stream": "universo"
-      }
-    ]
-  },
-  {
     "id": "39142",
     "date": "2026-09-07",
     "time": "17:00:00",
@@ -227,6 +193,48 @@
     ]
   },
   {
+    "id": "39140",
+    "date": "2026-09-07",
+    "time": "13:45:00",
+    "datetime": "2026-09-07T13:45:00",
+    "title": "Serie A: \nUdinese vs Lazio",
+    "category": "Italia",
+    "stream": "universo",
+    "servers": [
+      {
+        "name": "Universo | HD",
+        "stream": "universo"
+      },
+      {
+        "name": "Disney+",
+        "stream": "disney4"
+      }
+    ]
+  },
+  {
+    "id": "39138",
+    "date": "2026-09-07",
+    "time": "14:30:00",
+    "datetime": "2026-09-07T14:30:00",
+    "title": "LaLiga: Elche vs Real Sociedad",
+    "category": "España",
+    "stream": "espn4",
+    "servers": [
+      {
+        "name": "ESPN 4 | HD",
+        "stream": "espn4"
+      },
+      {
+        "name": "Disney+",
+        "stream": "disney5"
+      },
+      {
+        "name": "ESPN Deportes",
+        "stream": "espndeportes"
+      }
+    ]
+  },
+  {
     "id": "39132",
     "date": "2026-09-07",
     "time": "10:30:00",
@@ -253,40 +261,6 @@
       {
         "name": "ESPN 2 | HD",
         "stream": "espn2"
-      }
-    ]
-  },
-  {
-    "id": "39137",
-    "date": "2026-09-07",
-    "time": "12:00:00",
-    "datetime": "2026-09-07T12:00:00",
-    "title": "LaLiga: \nGetafe vs Celta de Vigo",
-    "category": "España",
-    "stream": "espn4",
-    "servers": [
-      {
-        "name": "ESPN 4 | HD",
-        "stream": "espn4"
-      },
-      {
-        "name": "ESPN Deportes",
-        "stream": "espndeportes"
-      }
-    ]
-  },
-  {
-    "id": "39139",
-    "date": "2026-09-07",
-    "time": "11:30:00",
-    "datetime": "2026-09-07T11:30:00",
-    "title": "Serie A: \nCagliari vs Lecce",
-    "category": "Italia",
-    "stream": "universo",
-    "servers": [
-      {
-        "name": "Universo | HD",
-        "stream": "universo"
       }
     ]
   },
@@ -346,26 +320,6 @@
     ]
   },
   {
-    "id": "39149",
-    "date": "2026-09-07",
-    "time": "14:00:00",
-    "datetime": "2026-09-07T14:00:00",
-    "title": "Primera División: \nGuaraní vs Deportivo Recoleta",
-    "category": "Paraguay",
-    "stream": "",
-    "servers": []
-  },
-  {
-    "id": "39151",
-    "date": "2026-09-07",
-    "time": "13:00:00",
-    "datetime": "2026-09-07T13:00:00",
-    "title": "Primera División: \nAlbion vs Progreso",
-    "category": "Uruguay",
-    "stream": "",
-    "servers": []
-  },
-  {
     "id": "39154",
     "date": "2026-09-07",
     "time": "20:15:00",
@@ -407,6 +361,78 @@
       {
         "name": "FOX Deportes | HD",
         "stream": "foxdeportes"
+      }
+    ]
+  },
+  {
+    "id": "39139",
+    "date": "2026-09-07",
+    "time": "11:30:00",
+    "datetime": "2026-09-07T11:30:00",
+    "title": "Serie A: \nCagliari vs Lecce",
+    "category": "Italia",
+    "stream": "universo",
+    "servers": [
+      {
+        "name": "Universo | HD",
+        "stream": "universo"
+      },
+      {
+        "name": "Disney+",
+        "stream": "disney1"
+      }
+    ]
+  },
+  {
+    "id": "39137",
+    "date": "2026-09-07",
+    "time": "12:00:00",
+    "datetime": "2026-09-07T12:00:00",
+    "title": "LaLiga: \nGetafe vs Celta de Vigo",
+    "category": "España",
+    "stream": "espn4",
+    "servers": [
+      {
+        "name": "ESPN 4 | HD",
+        "stream": "espn4"
+      },
+      {
+        "name": "Disney+",
+        "stream": "disney2"
+      },
+      {
+        "name": "ESPN Deportes",
+        "stream": "espndeportes"
+      }
+    ]
+  },
+  {
+    "id": "39151",
+    "date": "2026-09-07",
+    "time": "13:00:00",
+    "datetime": "2026-09-07T13:00:00",
+    "title": "Primera División: \nAlbion vs Progreso",
+    "category": "Uruguay",
+    "stream": "disney3",
+    "servers": [
+      {
+        "name": "Disney+",
+        "stream": "disney3"
+      }
+    ]
+  },
+  {
+    "id": "39149",
+    "date": "2026-09-07",
+    "time": "14:00:00",
+    "datetime": "2026-09-07T14:00:00",
+    "title": "Primera División: \nGuaraní vs Deportivo Recoleta",
+    "category": "Paraguay",
+    "stream": "fanatiz1",
+    "servers": [
+      {
+        "name": "fanatiz 01",
+        "stream": "fanatiz1"
       }
     ]
   }
