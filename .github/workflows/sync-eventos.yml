@@ -42,4 +42,3 @@ jobs:
           fi
           git commit -m 'sync: update eventos.json from diaries.json'
           git push
-
