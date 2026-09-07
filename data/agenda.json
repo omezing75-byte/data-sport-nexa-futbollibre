@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-07T21:49:35.001221Z",
+  "updated_at": "2026-09-07T21:58:34.195255Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39140,
-      "title": "Serie A: Udinese vs Lazio",
-      "competition": "Serie A",
-      "country": "Italia",
-      "flag": "it",
-      "source_local": "2026-09-07T13:45:00",
-      "source_timezone": "Europe/Rome",
-      "start_utc": "2026-09-07T11:45:00Z"
-    },
     {
       "id": 39138,
       "title": "LaLiga: Elche vs Real Sociedad",
