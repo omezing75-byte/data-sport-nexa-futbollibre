@@ -1,175 +1,8 @@
 {
-  "updated_at": "2026-09-08T11:49:46.061414Z",
+  "updated_at": "2026-09-08T12:02:56.066663Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39175,
-      "title": "Mundial Femenina Sub-20 de la FIFA: Brasil vs Canadá",
-      "competition": "Mundial Femenina Sub-20 de la FIFA",
-      "date_diary": "2026-09-08",
-      "diary_hour": "08:00:00",
-      "country": "Copa mundial sub20 fifa",
-      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-08T08:00:00",
-      "start_utc": "2026-09-08T08:00:00Z",
-      "embeds": [
-        {
-          "id": 771,
-          "name": "Sportv 2 BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Mundial Femenina Sub-20 de la FIFA: \nBrasil  vs Canadá",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-09-08",
-        "createdAt": "2026-09-08T11:45:58.603Z",
-        "updatedAt": "2026-09-08T11:46:00.498Z",
-        "publishedAt": "2026-09-08T11:46:00.495Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 771,
-              "attributes": {
-                "embed_name": "Sportv 2 BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 23,
-            "attributes": {
-              "name": "Copa mundial sub20 fifa",
-              "createdAt": "2023-11-24T11:43:09.315Z",
-              "updatedAt": "2026-06-24T23:22:48.740Z",
-              "publishedAt": "2023-11-24T11:43:11.351Z",
-              "image": {
-                "data": {
-                  "id": 437,
-                  "attributes": {
-                    "name": "copamundial.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copamundial_69c33e7ee4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/copamundial_69c33e7ee4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-06-24T23:22:08.564Z",
-                    "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39176,
-      "title": "Mundial Femenina Sub-20 de la FIFA: Benín vs Argentina",
-      "competition": "Mundial Femenina Sub-20 de la FIFA",
-      "date_diary": "2026-09-08",
-      "diary_hour": "08:00:00",
-      "country": "Copa mundial sub20 fifa",
-      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-08T08:00:00",
-      "start_utc": "2026-09-08T08:00:00Z",
-      "embeds": [
-        {
-          "id": 1458,
-          "name": "Telemundo | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=telemundo"
-        },
-        {
-          "id": 787,
-          "name": "Telemundo",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=telemundo"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Mundial Femenina Sub-20 de la FIFA: \nBenín  vs Argentina",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-09-08",
-        "createdAt": "2026-09-08T11:49:00.690Z",
-        "updatedAt": "2026-09-08T11:49:02.900Z",
-        "publishedAt": "2026-09-08T11:49:02.896Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1458,
-              "attributes": {
-                "embed_name": "Telemundo | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-              }
-            },
-            {
-              "id": 787,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 23,
-            "attributes": {
-              "name": "Copa mundial sub20 fifa",
-              "createdAt": "2023-11-24T11:43:09.315Z",
-              "updatedAt": "2026-06-24T23:22:48.740Z",
-              "publishedAt": "2023-11-24T11:43:11.351Z",
-              "image": {
-                "data": {
-                  "id": 437,
-                  "attributes": {
-                    "name": "copamundial.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copamundial_69c33e7ee4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/copamundial_69c33e7ee4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-06-24T23:22:08.564Z",
-                    "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39160,
       "title": "UEFA Youth League: Real Madrid vs Inter",
@@ -224,6 +57,199 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-16T12:44:15.190Z",
                     "updatedAt": "2025-09-16T12:44:15.190Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39184,
+      "title": "Eredivisie: NEC vs Excelsior",
+      "competition": "Eredivisie",
+      "date_diary": "2026-09-08",
+      "diary_hour": "11:45:00",
+      "country": "Paises Bajos",
+      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+      "logo_fallback": "",
+      "source_timezone": "Europe/Amsterdam",
+      "source_local": "2026-09-08T11:45:00",
+      "start_utc": "2026-09-08T09:45:00Z",
+      "embeds": [
+        {
+          "id": 282,
+          "name": "ESPN NL",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        },
+        {
+          "id": 1251,
+          "name": "ESPN NL | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        },
+        {
+          "id": 1409,
+          "name": "ESPN NL | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Eredivisie: \nNEC vs Excelsior",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:59:59.768Z",
+        "updatedAt": "2026-09-08T12:00:02.230Z",
+        "publishedAt": "2026-09-08T12:00:02.223Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 282,
+              "attributes": {
+                "embed_name": "ESPN NL ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            },
+            {
+              "id": 1251,
+              "attributes": {
+                "embed_name": "ESPN NL | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            },
+            {
+              "id": 1409,
+              "attributes": {
+                "embed_name": "ESPN NL | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 27,
+            "attributes": {
+              "name": "Paises Bajos",
+              "createdAt": "2023-11-25T14:14:00.773Z",
+              "updatedAt": "2025-08-09T13:06:21.819Z",
+              "publishedAt": "2023-11-25T14:14:01.960Z",
+              "image": {
+                "data": {
+                  "id": 371,
+                  "attributes": {
+                    "name": "paises_bajos_f773e994b9.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.95,
+                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-09T13:06:16.926Z",
+                    "updatedAt": "2025-08-09T13:06:16.926Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39185,
+      "title": "Pro League: Al Ittihad vs Al-Fayha",
+      "competition": "Pro League",
+      "date_diary": "2026-09-08",
+      "diary_hour": "13:00:00",
+      "country": "Arabia Saudita",
+      "logo": "https://futbollibretv.org.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/sa.png",
+      "source_timezone": "Asia/Riyadh",
+      "source_local": "2026-09-08T13:00:00",
+      "start_utc": "2026-09-08T10:00:00Z",
+      "embeds": [
+        {
+          "id": 1465,
+          "name": "Sportv BR HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        },
+        {
+          "id": 1209,
+          "name": "Sportv BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Pro League: \nAl Ittihad vs Al-Fayha",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T12:00:56.241Z",
+        "updatedAt": "2026-09-08T12:00:58.263Z",
+        "publishedAt": "2026-09-08T12:00:58.258Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+              }
+            },
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "Arabia Saudita",
+              "createdAt": "2023-11-24T12:55:08.381Z",
+              "updatedAt": "2025-08-23T15:08:33.177Z",
+              "publishedAt": "2023-11-24T12:55:09.649Z",
+              "image": {
+                "data": {
+                  "id": 385,
+                  "attributes": {
+                    "name": "arabia_saudita_82c6f9c376.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "arabia_saudita_82c6f9c376_70d77b2bc2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.18,
+                    "url": "/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T15:08:29.368Z",
+                    "updatedAt": "2025-08-23T15:08:43.679Z"
                   }
                 }
               }
@@ -340,6 +366,238 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:36:38.398Z",
                     "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39178,
+      "title": "Mundial Femenina Sub-20 de la FIFA: Polonia vs México",
+      "competition": "Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-08",
+      "diary_hour": "11:00:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T11:00:00",
+      "start_utc": "2026-09-08T11:00:00Z",
+      "embeds": [
+        {
+          "id": 607,
+          "name": "Fox Sports 2 USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
+        },
+        {
+          "id": 1379,
+          "name": "Fox Sports 2 USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
+        },
+        {
+          "id": 1474,
+          "name": "Universo | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        },
+        {
+          "id": 790,
+          "name": "Universo",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Mundial Femenina Sub-20 de la FIFA: Polonia  vs México",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:53:03.791Z",
+        "updatedAt": "2026-09-08T11:53:05.983Z",
+        "publishedAt": "2026-09-08T11:53:05.976Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 607,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            },
+            {
+              "id": 1379,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            },
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39177,
+      "title": "Mundial Femenina Sub-20 de la FIFA: Inglaterra vs Tanzania",
+      "competition": "Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-08",
+      "diary_hour": "11:00:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T11:00:00",
+      "start_utc": "2026-09-08T11:00:00Z",
+      "embeds": [
+        {
+          "id": 1455,
+          "name": "DSports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 644,
+          "name": "DSports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 341,
+          "name": "DSports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 748,
+          "name": "DSports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Mundial Femenina Sub-20 de la FIFA: Inglaterra  vs Tanzania",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:50:52.825Z",
+        "updatedAt": "2026-09-08T11:51:13.415Z",
+        "publishedAt": "2026-09-08T11:50:54.503Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
                   }
                 }
               }
@@ -1120,6 +1378,122 @@
       }
     },
     {
+      "id": 39179,
+      "title": "Torneo de Reserva: Racing Club vs Argentinos Juniors",
+      "competition": "Torneo de Reserva",
+      "date_diary": "2026-09-08",
+      "diary_hour": "13:00:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-08T13:00:00",
+      "start_utc": "2026-09-08T16:00:00Z",
+      "embeds": [
+        {
+          "id": 1490,
+          "name": "TNT Sports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 257,
+          "name": "TNT Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1322,
+          "name": "TNT Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1405,
+          "name": "TNT Sports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Torneo de Reserva: \nRacing Club  vs Argentinos Juniors",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:55:53.126Z",
+        "updatedAt": "2026-09-08T11:55:56.488Z",
+        "publishedAt": "2026-09-08T11:55:56.483Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1490,
+              "attributes": {
+                "embed_name": "TNT Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 257,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1322,
+              "attributes": {
+                "embed_name": "TNT Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1405,
+              "attributes": {
+                "embed_name": "TNT Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39171,
       "title": "Copa Sudamericana: Santa Fe vs Vasco da Gama",
       "competition": "Copa Sudamericana",
@@ -1330,6 +1704,117 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-12T18:16:39.409Z",
                     "updatedAt": "2025-08-12T18:16:39.409Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39180,
+      "title": "Copa de la División Profesional: ABB vs San Antonio Bulo Bulo",
+      "competition": "Copa de la División Profesional",
+      "date_diary": "2026-09-08",
+      "diary_hour": "14:00:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-08T14:00:00",
+      "start_utc": "2026-09-08T18:00:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa de la División Profesional: \nABB vs San Antonio Bulo Bulo",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:56:37.174Z",
+        "updatedAt": "2026-09-08T11:56:39.202Z",
+        "publishedAt": "2026-09-08T11:56:39.198Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
                   }
                 }
               }
@@ -1665,6 +2150,344 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:07.537Z",
                     "updatedAt": "2025-08-03T14:39:07.537Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39181,
+      "title": "Copa de la División Profesional: Aurora vs Real Potosí",
+      "competition": "Copa de la División Profesional",
+      "date_diary": "2026-09-08",
+      "diary_hour": "17:30:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-08T17:30:00",
+      "start_utc": "2026-09-08T21:30:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa de la División Profesional: \nAurora vs Real Potosí",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:57:13.089Z",
+        "updatedAt": "2026-09-08T11:57:15.012Z",
+        "publishedAt": "2026-09-08T11:57:15.007Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39182,
+      "title": "Copa de la División Profesional: Oriente Petrolero vs Guabirá",
+      "competition": "Copa de la División Profesional",
+      "date_diary": "2026-09-08",
+      "diary_hour": "19:30:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-08T19:30:00",
+      "start_utc": "2026-09-08T23:30:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa de la División Profesional: \nOriente Petrolero vs Guabirá",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:57:50.682Z",
+        "updatedAt": "2026-09-08T11:57:52.498Z",
+        "publishedAt": "2026-09-08T11:57:52.494Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39183,
+      "title": "Primera B: Internacional Palmira vs Atlético Cali",
+      "competition": "Primera B",
+      "date_diary": "2026-09-08",
+      "diary_hour": "19:30:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-08T19:30:00",
+      "start_utc": "2026-09-09T00:30:00Z",
+      "embeds": [
+        {
+          "id": 1491,
+          "name": "Win Sports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
+        },
+        {
+          "id": 691,
+          "name": "Win Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
+        },
+        {
+          "id": 700,
+          "name": "Win Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
+        },
+        {
+          "id": 1406,
+          "name": "Win Sports ┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera B: \nInternacional Palmira vs Atlético Cali",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:59:05.722Z",
+        "updatedAt": "2026-09-08T11:59:07.737Z",
+        "publishedAt": "2026-09-08T11:59:07.732Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1491,
+              "attributes": {
+                "embed_name": "Win Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
+              }
+            },
+            {
+              "id": 691,
+              "attributes": {
+                "embed_name": "Win Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+              }
+            },
+            {
+              "id": 700,
+              "attributes": {
+                "embed_name": "Win Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1406,
+              "attributes": {
+                "embed_name": "Win Sports ┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
                   }
                 }
               }
