@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-09-08T00:12:54.788765Z",
+  "updated_at": "2026-09-08T00:40:45.702708Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39150,
-      "title": "Primera División: Cerro Porteño vs Nacional Asunción",
-      "competition": "Primera División",
-      "country": "Paraguay",
-      "flag": "py",
-      "source_local": "2026-09-07T16:30:00",
-      "source_timezone": "America/Asuncion",
-      "start_utc": "2026-09-07T19:30:00Z"
-    },
     {
       "id": 39142,
       "title": "Liga Profesional: Barracas Central vs Argentinos Juniors",
