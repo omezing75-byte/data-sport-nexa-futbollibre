@@ -1,48 +1,194 @@
 {
-  "updated_at": "2026-09-08T11:13:05.772343Z",
+  "updated_at": "2026-09-08T11:32:16.205562Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
     {
-      "id": 39159,
-      "title": "UEFA Youth League: Club Brugge vs Aston Villa FC",
-      "competition": "UEFA Youth League",
+      "id": 39161,
+      "title": "Ciclismo – La Vuelta – Etapa #16",
+      "competition": "Ciclismo",
       "date_diary": "2026-09-08",
-      "diary_hour": "14:35:00",
-      "country": "UEFA Youth League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefa_youth_league_340883829a.png",
+      "diary_hour": "07:45:00",
+      "country": "Ciclismo",
+      "logo": "https://futbollibretv.org.pe/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
       "logo_fallback": "",
       "source_timezone": "UTC",
-      "source_local": "2026-09-08T14:35:00",
-      "start_utc": "2026-09-08T14:35:00Z",
+      "source_local": "2026-09-08T07:45:00",
+      "start_utc": "2026-09-08T07:45:00Z",
       "embeds": [
         {
-          "id": 833,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
         }
       ],
       "source_data": {
-        "diary_description": "UEFA Youth League: \nClub Brugge vs Aston Villa FC",
-        "diary_hour": "14:35:00",
+        "diary_description": "Ciclismo – La Vuelta – Etapa #16",
+        "diary_hour": "07:45:00",
         "date_diary": "2026-09-08",
-        "createdAt": "2026-09-08T11:11:49.170Z",
-        "updatedAt": "2026-09-08T11:11:51.299Z",
-        "publishedAt": "2026-09-08T11:11:51.293Z",
+        "createdAt": "2026-09-08T11:17:14.349Z",
+        "updatedAt": "2026-09-08T11:18:42.545Z",
+        "publishedAt": "2026-09-08T11:17:16.419Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 833,
+              "id": 1461,
               "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
               }
             }
           ]
+        },
+        "country": {
+          "data": {
+            "id": 82,
+            "attributes": {
+              "name": "Ciclismo",
+              "createdAt": "2024-03-06T10:31:11.902Z",
+              "updatedAt": "2025-09-11T14:01:56.949Z",
+              "publishedAt": "2024-03-06T10:31:39.259Z",
+              "image": {
+                "data": {
+                  "id": 397,
+                  "attributes": {
+                    "name": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 5000,
+                    "height": 5000,
+                    "formats": {
+                      "large": {
+                        "ext": ".png",
+                        "url": "/uploads/large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "large_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 77.03,
+                        "width": 1000,
+                        "height": 1000
+                      },
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "small_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 33.72,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "medium_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 57.91,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                        "hash": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                        "mime": "image/png",
+                        "name": "thumbnail_Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148.png",
+                        "path": null,
+                        "size": 8.01,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 87.91,
+                    "url": "/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T14:01:52.942Z",
+                    "updatedAt": "2025-09-11T14:01:52.942Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39160,
+      "title": "UEFA Youth League: Real Madrid vs Inter",
+      "competition": "UEFA Youth League",
+      "date_diary": "2026-09-08",
+      "diary_hour": "09:00:00",
+      "country": "UEFA Youth League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefa_youth_league_340883829a.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T09:00:00",
+      "start_utc": "2026-09-08T09:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "UEFA Youth League: \nReal Madrid  vs Inter",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:13:11.569Z",
+        "updatedAt": "2026-09-08T11:19:39.954Z",
+        "publishedAt": "2026-09-08T11:13:13.589Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
         },
         "country": {
           "data": {
@@ -72,6 +218,599 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-16T12:44:15.190Z",
                     "updatedAt": "2025-09-16T12:44:15.190Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39162,
+      "title": "Tenis – US Open – Cuartos de Final",
+      "competition": "Tennis",
+      "date_diary": "2026-09-08",
+      "diary_hour": "10:30:00",
+      "country": "Tennis",
+      "logo": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T10:30:00",
+      "start_utc": "2026-09-08T10:30:00Z",
+      "embeds": [
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Tenis – US Open – Cuartos de Final",
+        "diary_hour": "10:30:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:25:18.411Z",
+        "updatedAt": "2026-09-08T11:25:21.658Z",
+        "publishedAt": "2026-09-08T11:25:21.648Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39165,
+      "title": "UEFA Champions League: AEK Athens vs LASK Linz",
+      "competition": "UEFA Champions League",
+      "date_diary": "2026-09-08",
+      "diary_hour": "11:45:00",
+      "country": "UEFA Champions League",
+      "logo": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T11:45:00",
+      "start_utc": "2026-09-08T11:45:00Z",
+      "embeds": [
+        {
+          "id": 1466,
+          "name": "ESPN 5 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 645,
+          "name": "ESPN 5",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 474,
+          "name": "ESPN 5 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 599,
+          "name": "ESPN 5 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Champions League: \nAEK Athens vs LASK Linz",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:29:24.063Z",
+        "updatedAt": "2026-09-08T11:29:26.023Z",
+        "publishedAt": "2026-09-08T11:29:26.018Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            },
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2025-08-19T19:32:19.266Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 382,
+                  "attributes": {
+                    "name": "UEFA_Champions_L_e95eab40e4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Champions_L_e95eab40e4_9fff1e273b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.97,
+                    "url": "/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-19T19:32:16.064Z",
+                    "updatedAt": "2025-08-19T19:32:16.064Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39166,
+      "title": "UEFA Champions League: Club Brugge vs Aston Villa",
+      "competition": "UEFA Champions League",
+      "date_diary": "2026-09-08",
+      "diary_hour": "11:45:00",
+      "country": "UEFA Champions League",
+      "logo": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T11:45:00",
+      "start_utc": "2026-09-08T11:45:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 120,
+          "name": "Fox Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1004,
+          "name": "Fox Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Champions League: \nClub Brugge vs Aston Villa",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:31:25.279Z",
+        "updatedAt": "2026-09-08T11:31:27.826Z",
+        "publishedAt": "2026-09-08T11:31:27.821Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Fox Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2025-08-19T19:32:19.266Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 382,
+                  "attributes": {
+                    "name": "UEFA_Champions_L_e95eab40e4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Champions_L_e95eab40e4_9fff1e273b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.97,
+                    "url": "/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-19T19:32:16.064Z",
+                    "updatedAt": "2025-08-19T19:32:16.064Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39163,
+      "title": "Tenis – US Open – Cuartos de Final",
+      "competition": "Tennis",
+      "date_diary": "2026-09-08",
+      "diary_hour": "18:00:00",
+      "country": "Tennis",
+      "logo": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T18:00:00",
+      "start_utc": "2026-09-08T18:00:00Z",
+      "embeds": [
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Tenis – US Open – Cuartos de Final",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:26:21.819Z",
+        "updatedAt": "2026-09-08T11:26:24.131Z",
+        "publishedAt": "2026-09-08T11:26:24.126Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39164,
+      "title": "MLB – Seattle Mariners vs. Texas Rangers",
+      "competition": "MLB Preseason",
+      "date_diary": "2026-09-08",
+      "diary_hour": "20:30:00",
+      "country": "MLB Preseason",
+      "logo": "https://futbollibretv.org.pe/uploads/mlb_f5711cc440_dde64767e4.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mlb.png",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T20:30:00",
+      "start_utc": "2026-09-08T20:30:00Z",
+      "embeds": [
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
+      "source_data": {
+        "diary_description": "MLB – Seattle Mariners vs. Texas Rangers",
+        "diary_hour": "20:30:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:27:09.639Z",
+        "updatedAt": "2026-09-08T11:27:11.589Z",
+        "publishedAt": "2026-09-08T11:27:11.582Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 70,
+            "attributes": {
+              "name": "MLB Preseason",
+              "createdAt": "2024-02-23T06:14:15.840Z",
+              "updatedAt": "2025-08-03T14:39:12.740Z",
+              "publishedAt": "2024-02-23T06:14:18.809Z",
+              "image": {
+                "data": {
+                  "id": 352,
+                  "attributes": {
+                    "name": "mlb_f5711cc440.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "mlb_f5711cc440_dde64767e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.66,
+                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:07.537Z",
+                    "updatedAt": "2025-08-03T14:39:07.537Z"
                   }
                 }
               }
