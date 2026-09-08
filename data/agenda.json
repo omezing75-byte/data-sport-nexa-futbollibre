@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T03:25:13.850131Z",
+  "updated_at": "2026-09-08T03:44:30.047550Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -11,6 +11,7 @@
       "diary_hour": "20:00:00",
       "country": "Colombia",
       "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
       "source_timezone": "America/Bogota",
       "source_local": "2026-09-07T20:00:00",
       "start_utc": "2026-09-08T01:00:00Z",
@@ -122,6 +123,7 @@
       "diary_hour": "20:15:00",
       "country": "Colombia",
       "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
       "source_timezone": "America/Bogota",
       "source_local": "2026-09-07T20:15:00",
       "start_utc": "2026-09-08T01:15:00Z",
