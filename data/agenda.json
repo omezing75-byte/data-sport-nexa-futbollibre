@@ -1,27 +1,7 @@
 {
-  "updated_at": "2026-09-08T00:58:47.278623Z",
+  "updated_at": "2026-09-08T01:15:07.229590Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39142,
-      "title": "Liga Profesional: Barracas Central vs Argentinos Juniors",
-      "competition": "Liga Profesional",
-      "country": "Argentina",
-      "flag": "ar",
-      "source_local": "2026-09-07T17:00:00",
-      "source_timezone": "America/Argentina/Buenos_Aires",
-      "start_utc": "2026-09-07T20:00:00Z"
-    },
-    {
-      "id": 39152,
-      "title": "Segunda División: Plaza Colonia vs Uruguay Montevideo",
-      "competition": "Segunda División",
-      "country": "Uruguay",
-      "flag": "uy",
-      "source_local": "2026-09-07T17:00:00",
-      "source_timezone": "America/Montevideo",
-      "start_utc": "2026-09-07T20:00:00Z"
-    },
     {
       "id": 39144,
       "title": "Brasileirão: Vitória vs Grêmio",
