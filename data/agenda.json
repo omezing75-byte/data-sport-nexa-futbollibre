@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T03:57:58.748892Z",
+  "updated_at": "2026-09-08T04:03:39.871602Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -19,22 +19,26 @@
         {
           "id": 293,
           "name": "Win Sports + | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         },
         {
           "id": 164,
           "name": "Win Sports +",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         },
         {
           "id": 747,
           "name": "Win Sports + | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         },
         {
           "id": 1457,
           "name": "Win Sports + | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         }
       ],
       "source_data": {
@@ -131,22 +135,26 @@
         {
           "id": 293,
           "name": "Win Sports + | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         },
         {
           "id": 164,
           "name": "Win Sports +",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         },
         {
           "id": 747,
           "name": "Win Sports + | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         },
         {
           "id": 1457,
           "name": "Win Sports + | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
         }
       ],
       "source_data": {
