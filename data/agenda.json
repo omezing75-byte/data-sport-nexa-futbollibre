@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:02:56.066663Z",
+  "updated_at": "2026-09-08T12:29:51.430835Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -15,19 +15,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-08T09:00:00",
       "start_utc": "2026-09-08T09:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 834,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
+        }
+      ],
       "source_data": {
         "diary_description": "UEFA Youth League: \nReal Madrid  vs Inter",
         "diary_hour": "09:00:00",
         "date_diary": "2026-09-08",
         "createdAt": "2026-09-08T11:13:11.569Z",
-        "updatedAt": "2026-09-08T11:19:39.954Z",
+        "updatedAt": "2026-09-08T12:09:04.091Z",
         "publishedAt": "2026-09-08T11:13:13.589Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -259,6 +274,148 @@
       }
     },
     {
+      "id": 39186,
+      "title": "Pro League: Al Quadisiya vs Al-Ahli",
+      "competition": "Pro League",
+      "date_diary": "2026-09-08",
+      "diary_hour": "13:00:00",
+      "country": "Arabia Saudita",
+      "logo": "https://futbollibretv.org.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/sa.png",
+      "source_timezone": "Asia/Riyadh",
+      "source_local": "2026-09-08T13:00:00",
+      "start_utc": "2026-09-08T10:00:00Z",
+      "embeds": [
+        {
+          "id": 1477,
+          "name": "FOX Deportes | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 288,
+          "name": "FOX Deportes",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 698,
+          "name": "FOX Deportes | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 1407,
+          "name": "FOX Deportes | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 607,
+          "name": "Fox Sports 2 USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
+        },
+        {
+          "id": 1379,
+          "name": "Fox Sports 2 USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Pro League: \nAl Quadisiya vs Al-Ahli",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T12:03:05.932Z",
+        "updatedAt": "2026-09-08T12:03:07.787Z",
+        "publishedAt": "2026-09-08T12:03:07.782Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1477,
+              "attributes": {
+                "embed_name": "FOX Deportes | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 698,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 1407,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 607,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            },
+            {
+              "id": 1379,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "Arabia Saudita",
+              "createdAt": "2023-11-24T12:55:08.381Z",
+              "updatedAt": "2025-08-23T15:08:33.177Z",
+              "publishedAt": "2023-11-24T12:55:09.649Z",
+              "image": {
+                "data": {
+                  "id": 385,
+                  "attributes": {
+                    "name": "arabia_saudita_82c6f9c376.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "arabia_saudita_82c6f9c376_70d77b2bc2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.18,
+                    "url": "/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T15:08:29.368Z",
+                    "updatedAt": "2025-08-23T15:08:43.679Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39162,
       "title": "Tenis – US Open – Cuartos de Final",
       "competition": "Tennis",
@@ -410,6 +567,12 @@
           "name": "Universo",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        },
+        {
+          "id": 737,
+          "name": "TUDN MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn_mx"
         }
       ],
       "source_data": {
@@ -417,7 +580,7 @@
         "diary_hour": "11:00:00",
         "date_diary": "2026-09-08",
         "createdAt": "2026-09-08T11:53:03.791Z",
-        "updatedAt": "2026-09-08T11:53:05.983Z",
+        "updatedAt": "2026-09-08T12:10:27.953Z",
         "publishedAt": "2026-09-08T11:53:05.976Z",
         "channels": {
           "data": []
@@ -450,6 +613,13 @@
               "attributes": {
                 "embed_name": "Universo",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+              }
+            },
+            {
+              "id": 737,
+              "attributes": {
+                "embed_name": "TUDN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
               }
             }
           ]
@@ -504,28 +674,28 @@
       "start_utc": "2026-09-08T11:00:00Z",
       "embeds": [
         {
-          "id": 1455,
-          "name": "DSports | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
-          "player_url": ""
+          "id": 1468,
+          "name": "Dsports 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
         },
         {
-          "id": 644,
-          "name": "DSports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+          "id": 181,
+          "name": "Dsports 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
         },
         {
-          "id": 341,
-          "name": "DSports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+          "id": 1250,
+          "name": "Dsports 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
         },
         {
-          "id": 748,
-          "name": "DSports | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+          "id": 1410,
+          "name": "Dsports 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
         }
       ],
       "source_data": {
@@ -533,7 +703,7 @@
         "diary_hour": "11:00:00",
         "date_diary": "2026-09-08",
         "createdAt": "2026-09-08T11:50:52.825Z",
-        "updatedAt": "2026-09-08T11:51:13.415Z",
+        "updatedAt": "2026-09-08T12:09:48.306Z",
         "publishedAt": "2026-09-08T11:50:54.503Z",
         "channels": {
           "data": []
@@ -541,31 +711,31 @@
         "embeds": {
           "data": [
             {
-              "id": 1455,
+              "id": 1468,
               "attributes": {
-                "embed_name": "DSports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+                "embed_name": "Dsports 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
               }
             },
             {
-              "id": 644,
+              "id": 181,
               "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+                "embed_name": "Dsports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
               }
             },
             {
-              "id": 341,
+              "id": 1250,
               "attributes": {
-                "embed_name": "DSports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+                "embed_name": "Dsports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
               }
             },
             {
-              "id": 748,
+              "id": 1410,
               "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+                "embed_name": "Dsports 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
               }
             }
           ]
@@ -598,6 +768,161 @@
                     "provider_metadata": null,
                     "createdAt": "2026-06-24T23:22:08.564Z",
                     "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39166,
+      "title": "UEFA Champions League: Club Brugge vs Aston Villa",
+      "competition": "UEFA Champions League",
+      "date_diary": "2026-09-08",
+      "diary_hour": "11:45:00",
+      "country": "UEFA Champions League",
+      "logo": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-08T11:45:00",
+      "start_utc": "2026-09-08T11:45:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 827,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
+        },
+        {
+          "id": 120,
+          "name": "Fox Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1004,
+          "name": "Fox Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1084,
+          "name": "Paramount+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=paramount2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Champions League: \nClub Brugge vs Aston Villa",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T11:31:25.279Z",
+        "updatedAt": "2026-09-08T12:11:46.466Z",
+        "publishedAt": "2026-09-08T11:31:27.821Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Fox Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1084,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2025-08-19T19:32:19.266Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 382,
+                  "attributes": {
+                    "name": "UEFA_Champions_L_e95eab40e4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Champions_L_e95eab40e4_9fff1e273b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.97,
+                    "url": "/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-19T19:32:16.064Z",
+                    "updatedAt": "2025-08-19T19:32:16.064Z"
                   }
                 }
               }
@@ -642,6 +967,18 @@
           "name": "ESPN 5 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 835,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney3"
+        },
+        {
+          "id": 1083,
+          "name": "Paramount+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=paramount1"
         }
       ],
       "source_data": {
@@ -649,7 +986,7 @@
         "diary_hour": "11:45:00",
         "date_diary": "2026-09-08",
         "createdAt": "2026-09-08T11:29:24.063Z",
-        "updatedAt": "2026-09-08T11:29:26.023Z",
+        "updatedAt": "2026-09-08T12:12:56.632Z",
         "publishedAt": "2026-09-08T11:29:26.018Z",
         "channels": {
           "data": []
@@ -682,6 +1019,20 @@
               "attributes": {
                 "embed_name": "ESPN 5 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            },
+            {
+              "id": 1083,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
               }
             }
           ]
@@ -723,126 +1074,228 @@
       }
     },
     {
-      "id": 39166,
-      "title": "UEFA Champions League: Club Brugge vs Aston Villa",
-      "competition": "UEFA Champions League",
+      "id": 39187,
+      "title": "Carabao Cup: Crystal Palace vs Middlesbrough",
+      "competition": "Carabao Cup",
       "date_diary": "2026-09-08",
-      "diary_hour": "11:45:00",
-      "country": "UEFA Champions League",
-      "logo": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-08T11:45:00",
-      "start_utc": "2026-09-08T11:45:00Z",
+      "diary_hour": "13:45:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-08T13:45:00",
+      "start_utc": "2026-09-08T12:45:00Z",
       "embeds": [
         {
-          "id": 657,
-          "name": "ESPN",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 652,
-          "name": "ESPN AR┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 234,
-          "name": "ESPN AR┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 120,
-          "name": "Fox Sports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
-        },
-        {
-          "id": 1004,
-          "name": "Fox Sports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+          "id": 831,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
         }
       ],
       "source_data": {
-        "diary_description": "UEFA Champions League: \nClub Brugge vs Aston Villa",
-        "diary_hour": "11:45:00",
+        "diary_description": "Carabao Cup: Crystal Palace vs Middlesbrough",
+        "diary_hour": "13:45:00",
         "date_diary": "2026-09-08",
-        "createdAt": "2026-09-08T11:31:25.279Z",
-        "updatedAt": "2026-09-08T11:31:27.826Z",
-        "publishedAt": "2026-09-08T11:31:27.821Z",
+        "createdAt": "2026-09-08T12:16:25.663Z",
+        "updatedAt": "2026-09-08T12:16:27.637Z",
+        "publishedAt": "2026-09-08T12:16:27.632Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 657,
+              "id": 831,
               "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-              }
-            },
-            {
-              "id": 652,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 234,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 120,
-              "attributes": {
-                "embed_name": "Fox Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1004,
-              "attributes": {
-                "embed_name": "Fox Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 33,
+            "id": 8,
             "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2025-08-19T19:32:19.266Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 382,
+                  "id": 346,
                   "attributes": {
-                    "name": "UEFA_Champions_L_e95eab40e4.png",
+                    "name": "inglaterra_823176495f.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "UEFA_Champions_L_e95eab40e4_9fff1e273b",
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.97,
-                    "url": "/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-19T19:32:16.064Z",
-                    "updatedAt": "2025-08-19T19:32:16.064Z"
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39189,
+      "title": "Carabao Cup: Sunderland vs Hull City",
+      "competition": "Carabao Cup",
+      "date_diary": "2026-09-08",
+      "diary_hour": "13:45:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-08T13:45:00",
+      "start_utc": "2026-09-08T12:45:00Z",
+      "embeds": [
+        {
+          "id": 846,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney7"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Carabao Cup: Sunderland vs Hull City",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T12:18:55.392Z",
+        "updatedAt": "2026-09-08T12:18:57.105Z",
+        "publishedAt": "2026-09-08T12:18:57.101Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39188,
+      "title": "Carabao Cup: AFC Bournemouth vs Lincoln City",
+      "competition": "Carabao Cup",
+      "date_diary": "2026-09-08",
+      "diary_hour": "13:45:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-08T13:45:00",
+      "start_utc": "2026-09-08T12:45:00Z",
+      "embeds": [
+        {
+          "id": 849,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney6"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Carabao Cup: AFC Bournemouth vs Lincoln City",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-08",
+        "createdAt": "2026-09-08T12:17:26.626Z",
+        "updatedAt": "2026-09-08T12:17:28.865Z",
+        "publishedAt": "2026-09-08T12:17:28.861Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
                   }
                 }
               }
