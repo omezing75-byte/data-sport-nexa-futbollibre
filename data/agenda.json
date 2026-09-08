@@ -1,27 +1,7 @@
 {
-  "updated_at": "2026-09-08T01:56:41.597981Z",
+  "updated_at": "2026-09-08T02:11:09.644547Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "events": [
-    {
-      "id": 39144,
-      "title": "Brasileirão: Vitória vs Grêmio",
-      "competition": "Brasileirão",
-      "country": "Brasil",
-      "flag": "br",
-      "source_local": "2026-09-07T18:00:00",
-      "source_timezone": "America/Sao_Paulo",
-      "start_utc": "2026-09-07T21:00:00Z"
-    },
-    {
-      "id": 39145,
-      "title": "Primera División: Deportes Limache vs Cobresal",
-      "competition": "Primera División",
-      "country": "Chile",
-      "flag": "cl",
-      "source_local": "2026-09-07T18:00:00",
-      "source_timezone": "America/Santiago",
-      "start_utc": "2026-09-07T21:00:00Z"
-    },
     {
       "id": 39143,
       "title": "Liga Profesional: Unión Santa Fe vs Instituto",
@@ -31,16 +11,6 @@
       "source_local": "2026-09-07T19:15:00",
       "source_timezone": "America/Argentina/Buenos_Aires",
       "start_utc": "2026-09-07T22:15:00Z"
-    },
-    {
-      "id": 39146,
-      "title": "Primera A: Llaneros vs Deportes Tolima",
-      "competition": "Primera A",
-      "country": "Colombia",
-      "flag": "co",
-      "source_local": "2026-09-07T18:00:00",
-      "source_timezone": "America/Bogota",
-      "start_utc": "2026-09-07T23:00:00Z"
     },
     {
       "id": 39148,
