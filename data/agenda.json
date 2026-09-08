@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:13:09.934441Z",
+  "updated_at": "2026-09-08T22:30:55.438184Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -23,6 +23,30 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
         },
         {
+          "id": 666,
+          "name": "ESPN TV",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 594,
+          "name": "ESPN TV HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even2"
+        },
+        {
+          "id": 932,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney15"
+        },
+        {
+          "id": 1050,
+          "name": "fanatiz 03",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz3"
+        },
+        {
           "id": 652,
           "name": "ESPN AR┃OP2",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
@@ -40,7 +64,7 @@
         "diary_hour": "19:30:00",
         "date_diary": "2026-09-08",
         "createdAt": "2026-09-08T11:40:55.656Z",
-        "updatedAt": "2026-09-08T11:40:58.744Z",
+        "updatedAt": "2026-09-08T22:30:26.621Z",
         "publishedAt": "2026-09-08T11:40:58.738Z",
         "channels": {
           "data": []
@@ -52,6 +76,34 @@
               "attributes": {
                 "embed_name": "ESPN",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 666,
+              "attributes": {
+                "embed_name": "ESPN TV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 594,
+              "attributes": {
+                "embed_name": "ESPN TV HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y"
+              }
+            },
+            {
+              "id": 932,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
+              }
+            },
+            {
+              "id": 1050,
+              "attributes": {
+                "embed_name": "fanatiz 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz"
               }
             },
             {
