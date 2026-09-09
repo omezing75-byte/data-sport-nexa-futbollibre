@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:31:11.112815Z",
+  "updated_at": "2026-09-09T23:46:45.354561Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -201,122 +201,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-05T15:27:50.673Z",
                     "updatedAt": "2025-08-05T15:27:50.673Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39217,
-      "title": "Primera B: Ind. Yumbo vs Deportes Quindío",
-      "competition": "Primera B",
-      "date_diary": "2026-09-09",
-      "diary_hour": "15:30:00",
-      "country": "Colombia",
-      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
-      "source_timezone": "America/Bogota",
-      "source_local": "2026-09-09T15:30:00",
-      "start_utc": "2026-09-09T20:30:00Z",
-      "embeds": [
-        {
-          "id": 293,
-          "name": "Win Sports + | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 164,
-          "name": "Win Sports +",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 747,
-          "name": "Win Sports + | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 1457,
-          "name": "Win Sports + | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera B: \nInd. Yumbo vs Deportes Quindío",
-        "diary_hour": "15:30:00",
-        "date_diary": "2026-09-09",
-        "createdAt": "2026-09-09T04:13:36.951Z",
-        "updatedAt": "2026-09-09T04:13:36.951Z",
-        "publishedAt": "2026-09-09T04:24:15.218Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 293,
-              "attributes": {
-                "embed_name": "Win Sports + | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
-              }
-            },
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 747,
-              "attributes": {
-                "embed_name": "Win Sports + | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1457,
-              "attributes": {
-                "embed_name": "Win Sports + | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2025-08-03T15:05:58.494Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 354,
-                  "attributes": {
-                    "name": "colombia_dcf9cc2637.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "colombia_dcf9cc2637_a1661b26da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:05:54.509Z",
-                    "updatedAt": "2025-08-03T15:05:54.509Z"
                   }
                 }
               }
