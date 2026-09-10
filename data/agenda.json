@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:22:57.711178Z",
+  "updated_at": "2026-09-10T16:41:47.401746Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -405,6 +405,24 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
         },
         {
+          "id": 666,
+          "name": "ESPN.",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 594,
+          "name": "ESPN HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even2"
+        },
+        {
+          "id": 827,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
+        },
+        {
           "id": 652,
           "name": "ESPN AR┃OP2",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
@@ -415,12 +433,6 @@
           "name": "ESPN AR┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 827,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
         },
         {
           "id": 1478,
@@ -458,7 +470,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-10",
         "createdAt": "2026-09-10T00:36:08.700Z",
-        "updatedAt": "2026-09-10T12:46:41.121Z",
+        "updatedAt": "2026-09-10T16:37:49.850Z",
         "publishedAt": "2026-09-10T05:40:31.068Z",
         "channels": {
           "data": []
@@ -473,6 +485,27 @@
               }
             },
             {
+              "id": 666,
+              "attributes": {
+                "embed_name": "ESPN.",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 594,
+              "attributes": {
+                "embed_name": "ESPN HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y"
+              }
+            },
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
               "id": 652,
               "attributes": {
                 "embed_name": "ESPN AR┃OP2",
@@ -484,13 +517,6 @@
               "attributes": {
                 "embed_name": "ESPN AR┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 827,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
               }
             },
             {
