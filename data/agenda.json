@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-10T12:46:54.771713Z",
+  "updated_at": "2026-09-10T13:00:06.006172Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39246,
-      "title": "UEFA Youth League: Bayern vs Bodø / Glimt",
-      "competition": "UEFA Youth League",
-      "date_diary": "2026-09-10",
-      "diary_hour": "09:00:00",
-      "country": "UEFA Youth League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefa_youth_league_340883829a.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-10T09:00:00",
-      "start_utc": "2026-09-10T09:00:00Z",
-      "embeds": [
-        {
-          "id": 833,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "UEFA Youth League: Bayern vs Bodø / Glimt",
-        "diary_hour": "09:00:00",
-        "date_diary": "2026-09-10",
-        "createdAt": "2026-09-10T05:22:52.095Z",
-        "updatedAt": "2026-09-10T05:22:52.095Z",
-        "publishedAt": "2026-09-10T05:40:39.812Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 59,
-            "attributes": {
-              "name": "UEFA Youth League",
-              "createdAt": "2024-02-06T05:35:54.159Z",
-              "updatedAt": "2025-09-16T12:44:19.242Z",
-              "publishedAt": "2024-02-06T05:35:54.901Z",
-              "image": {
-                "data": {
-                  "id": 404,
-                  "attributes": {
-                    "name": "uefa-youth-league.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefa_youth_league_340883829a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.01,
-                    "url": "/uploads/uefa_youth_league_340883829a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-16T12:44:15.190Z",
-                    "updatedAt": "2025-09-16T12:44:15.190Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39242,
       "title": "Copa Mundial Femenina Sub-20 de la FIFA: China PR vs Nigeria",
