@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:41:47.401746Z",
+  "updated_at": "2026-09-10T16:57:09.967495Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -15,19 +15,34 @@
       "source_timezone": "Europe/London",
       "source_local": "2026-09-10T14:00:00",
       "start_utc": "2026-09-10T13:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 838,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney8"
+        }
+      ],
       "source_data": {
         "diary_description": "League One: \nStevenage vs Luton Town",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-10",
         "createdAt": "2026-09-10T05:04:14.712Z",
-        "updatedAt": "2026-09-10T05:04:14.712Z",
+        "updatedAt": "2026-09-10T16:42:33.464Z",
         "publishedAt": "2026-09-10T05:40:39.812Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -163,6 +178,12 @@
           "name": "ESPN 3 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 849,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney6"
         }
       ],
       "source_data": {
@@ -170,7 +191,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-10",
         "createdAt": "2026-09-10T00:33:47.916Z",
-        "updatedAt": "2026-09-10T00:33:47.916Z",
+        "updatedAt": "2026-09-10T16:43:19.383Z",
         "publishedAt": "2026-09-10T05:40:31.068Z",
         "channels": {
           "data": []
@@ -203,6 +224,13 @@
               "attributes": {
                 "embed_name": "ESPN 3 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
               }
             }
           ]
@@ -630,6 +658,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
         },
         {
+          "id": 846,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney7"
+        },
+        {
           "id": 120,
           "name": "Fox Sports",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
@@ -647,7 +681,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-10",
         "createdAt": "2026-09-10T00:36:58.645Z",
-        "updatedAt": "2026-09-10T00:37:25.688Z",
+        "updatedAt": "2026-09-10T16:44:24.437Z",
         "publishedAt": "2026-09-10T05:40:31.068Z",
         "channels": {
           "data": []
@@ -680,6 +714,13 @@
               "attributes": {
                 "embed_name": "ESPN 5 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
               }
             },
             {
@@ -967,6 +1008,200 @@
       }
     },
     {
+      "id": 39237,
+      "title": "Copa Libertadores: Independiente del Valle vs Flamengo",
+      "competition": "Copa Libertadores",
+      "date_diary": "2026-09-10",
+      "diary_hour": "19:30:00",
+      "country": "Copa Libertadores",
+      "logo": "https://futbollibretv.org.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-10T19:30:00",
+      "start_utc": "2026-09-10T19:30:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 120,
+          "name": "Fox Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1004,
+          "name": "Fox Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 586,
+          "name": "ESPN 3 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3mx"
+        },
+        {
+          "id": 832,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney9"
+        },
+        {
+          "id": 282,
+          "name": "ESPN NL",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        },
+        {
+          "id": 1251,
+          "name": "ESPN NL | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        },
+        {
+          "id": 1409,
+          "name": "ESPN NL | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa Libertadores: \nIndependiente del Valle vs Flamengo",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-10",
+        "createdAt": "2026-09-10T05:00:37.273Z",
+        "updatedAt": "2026-09-10T16:45:36.295Z",
+        "publishedAt": "2026-09-10T05:40:31.068Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Fox Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 586,
+              "attributes": {
+                "embed_name": "ESPN 3 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
+              }
+            },
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+              }
+            },
+            {
+              "id": 282,
+              "attributes": {
+                "embed_name": "ESPN NL ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            },
+            {
+              "id": 1251,
+              "attributes": {
+                "embed_name": "ESPN NL | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            },
+            {
+              "id": 1409,
+              "attributes": {
+                "embed_name": "ESPN NL | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 61,
+            "attributes": {
+              "name": "Copa Libertadores",
+              "createdAt": "2024-02-07T06:05:32.798Z",
+              "updatedAt": "2025-08-12T18:16:44.009Z",
+              "publishedAt": "2024-02-07T06:05:33.983Z",
+              "image": {
+                "data": {
+                  "id": 373,
+                  "attributes": {
+                    "name": "copa_libertadores_f60faf808a.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_libertadores_f60faf808a_6fb4deda1f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.95,
+                    "url": "/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-12T18:16:39.409Z",
+                    "updatedAt": "2025-08-12T18:16:39.409Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39236,
       "title": "Copa Sudamericana: Cienciano vs Torque",
       "competition": "Copa Sudamericana",
@@ -1087,187 +1322,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-12T18:17:29.414Z",
                     "updatedAt": "2025-08-12T18:17:29.414Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39237,
-      "title": "Copa Libertadores: Independiente del Valle vs Flamengo",
-      "competition": "Copa Libertadores",
-      "date_diary": "2026-09-10",
-      "diary_hour": "19:30:00",
-      "country": "Copa Libertadores",
-      "logo": "https://futbollibretv.org.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-10T19:30:00",
-      "start_utc": "2026-09-10T19:30:00Z",
-      "embeds": [
-        {
-          "id": 657,
-          "name": "ESPN",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 652,
-          "name": "ESPN AR┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 234,
-          "name": "ESPN AR┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 120,
-          "name": "Fox Sports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
-        },
-        {
-          "id": 1004,
-          "name": "Fox Sports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
-        },
-        {
-          "id": 586,
-          "name": "ESPN 3 MX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3mx"
-        },
-        {
-          "id": 282,
-          "name": "ESPN NL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        },
-        {
-          "id": 1251,
-          "name": "ESPN NL | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        },
-        {
-          "id": 1409,
-          "name": "ESPN NL | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Copa Libertadores: \nIndependiente del Valle vs Flamengo",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-09-10",
-        "createdAt": "2026-09-10T05:00:37.273Z",
-        "updatedAt": "2026-09-10T05:02:02.938Z",
-        "publishedAt": "2026-09-10T05:40:31.068Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-              }
-            },
-            {
-              "id": 652,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 234,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 120,
-              "attributes": {
-                "embed_name": "Fox Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1004,
-              "attributes": {
-                "embed_name": "Fox Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 586,
-              "attributes": {
-                "embed_name": "ESPN 3 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
-              }
-            },
-            {
-              "id": 282,
-              "attributes": {
-                "embed_name": "ESPN NL ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            },
-            {
-              "id": 1251,
-              "attributes": {
-                "embed_name": "ESPN NL | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            },
-            {
-              "id": 1409,
-              "attributes": {
-                "embed_name": "ESPN NL | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 61,
-            "attributes": {
-              "name": "Copa Libertadores",
-              "createdAt": "2024-02-07T06:05:32.798Z",
-              "updatedAt": "2025-08-12T18:16:44.009Z",
-              "publishedAt": "2024-02-07T06:05:33.983Z",
-              "image": {
-                "data": {
-                  "id": 373,
-                  "attributes": {
-                    "name": "copa_libertadores_f60faf808a.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copa_libertadores_f60faf808a_6fb4deda1f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.95,
-                    "url": "/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-12T18:16:39.409Z",
-                    "updatedAt": "2025-08-12T18:16:39.409Z"
                   }
                 }
               }
@@ -1559,19 +1613,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-10T20:05:00",
       "start_utc": "2026-09-10T20:05:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 938,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney10"
+        }
+      ],
       "source_data": {
         "diary_description": "Copa Centroamericana de CONCACAF: \nMarathón vs Alajuelense",
         "diary_hour": "20:05:00",
         "date_diary": "2026-09-10",
         "createdAt": "2026-09-10T05:21:07.636Z",
-        "updatedAt": "2026-09-10T05:21:07.636Z",
+        "updatedAt": "2026-09-10T16:47:35.764Z",
         "publishedAt": "2026-09-10T05:40:39.812Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1925,19 +1994,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-10T22:05:00",
       "start_utc": "2026-09-10T22:05:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 936,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney11"
+        }
+      ],
       "source_data": {
         "diary_description": "Copa Centroamericana de CONCACAF: Firpo vs Olimpia",
         "diary_hour": "22:05:00",
         "date_diary": "2026-09-10",
         "createdAt": "2026-09-10T05:21:43.709Z",
-        "updatedAt": "2026-09-10T05:21:43.709Z",
+        "updatedAt": "2026-09-10T16:41:42.084Z",
         "publishedAt": "2026-09-10T05:40:39.812Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
