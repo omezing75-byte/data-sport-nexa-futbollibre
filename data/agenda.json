@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-11T02:01:13.910701Z",
+  "updated_at": "2026-09-11T02:23:18.267100Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39245,
-      "title": "Copa Centroamericana de CONCACAF: Firpo vs Olimpia",
-      "competition": "Copa Centroamericana de CONCACAF",
-      "date_diary": "2026-09-10",
-      "diary_hour": "22:05:00",
-      "country": "Copa Centroamericana",
-      "logo": "https://futbollibretv.org.pe/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-10T22:05:00",
-      "start_utc": "2026-09-10T22:05:00Z",
-      "embeds": [
-        {
-          "id": 936,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney11"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Copa Centroamericana de CONCACAF: Firpo vs Olimpia",
-        "diary_hour": "22:05:00",
-        "date_diary": "2026-09-10",
-        "createdAt": "2026-09-10T05:21:43.709Z",
-        "updatedAt": "2026-09-10T16:41:42.084Z",
-        "publishedAt": "2026-09-10T05:40:39.812Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 936,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 34,
-            "attributes": {
-              "name": "Copa Centroamericana",
-              "createdAt": "2023-11-28T14:54:06.416Z",
-              "updatedAt": "2025-08-05T15:27:54.666Z",
-              "publishedAt": "2023-11-28T14:54:07.576Z",
-              "image": {
-                "data": {
-                  "id": 367,
-                  "attributes": {
-                    "name": "copa_centroamericana_59d23aa32c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copa_centroamericana_59d23aa32c_8e7ab9174a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-05T15:27:50.673Z",
-                    "updatedAt": "2025-08-05T15:27:50.673Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39250,
       "title": "Copa de la División Profesional: Bolívar vs Independiente Petrolero",
