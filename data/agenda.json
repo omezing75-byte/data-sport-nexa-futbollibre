@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:35:21.545820Z",
+  "updated_at": "2026-09-11T13:50:08.966489Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -364,96 +364,6 @@
       }
     },
     {
-      "id": 39282,
-      "title": "Eredivisie: Eredivisie: AZ vs Willem II",
-      "competition": "Eredivisie",
-      "date_diary": "2026-09-11",
-      "diary_hour": "13:00:00",
-      "country": "Paises Bajos",
-      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-      "logo_fallback": "",
-      "source_timezone": "Europe/Amsterdam",
-      "source_local": "2026-09-11T13:00:00",
-      "start_utc": "2026-09-11T11:00:00Z",
-      "embeds": [
-        {
-          "id": 310,
-          "name": "ESPN 2 MX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2mx"
-        },
-        {
-          "id": 322,
-          "name": "ESPN 2 NL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2_nl"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Eredivisie:  Eredivisie: AZ vs Willem II",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:15:53.709Z",
-        "updatedAt": "2026-09-11T09:16:46.115Z",
-        "publishedAt": "2026-09-11T09:15:55.683Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 310,
-              "attributes": {
-                "embed_name": "ESPN 2 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg="
-              }
-            },
-            {
-              "id": 322,
-              "attributes": {
-                "embed_name": "ESPN 2 NL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 27,
-            "attributes": {
-              "name": "Paises Bajos",
-              "createdAt": "2023-11-25T14:14:00.773Z",
-              "updatedAt": "2025-08-09T13:06:21.819Z",
-              "publishedAt": "2023-11-25T14:14:01.960Z",
-              "image": {
-                "data": {
-                  "id": 371,
-                  "attributes": {
-                    "name": "paises_bajos_f773e994b9.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.95,
-                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-09T13:06:16.926Z",
-                    "updatedAt": "2025-08-09T13:06:16.926Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 39279,
       "title": "Copa Mundial Femenina Sub-20 de la FIFA: Argentina vs México",
       "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
@@ -635,139 +545,100 @@
       }
     },
     {
-      "id": 39262,
-      "title": "Bundesliga: Union Berlin vs Schalke 04",
-      "competition": "Bundesliga",
+      "id": 39282,
+      "title": "Eredivisie: Eredivisie: AZ vs Willem II",
+      "competition": "Eredivisie",
       "date_diary": "2026-09-11",
-      "diary_hour": "13:30:00",
-      "country": "Alemania",
-      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
-      "source_timezone": "Europe/Berlin",
-      "source_local": "2026-09-11T13:30:00",
-      "start_utc": "2026-09-11T11:30:00Z",
+      "diary_hour": "13:00:00",
+      "country": "Paises Bajos",
+      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+      "logo_fallback": "",
+      "source_timezone": "Europe/Amsterdam",
+      "source_local": "2026-09-11T13:00:00",
+      "start_utc": "2026-09-11T11:00:00Z",
       "embeds": [
         {
-          "id": 1465,
-          "name": "Sportv BR HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+          "id": 310,
+          "name": "ESPN 2 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2mx"
         },
         {
-          "id": 1209,
-          "name": "Sportv BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+          "id": 827,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
         },
         {
-          "id": 1466,
-          "name": "ESPN 5 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        },
-        {
-          "id": 645,
-          "name": "ESPN 5",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        },
-        {
-          "id": 474,
-          "name": "ESPN 5 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        },
-        {
-          "id": 599,
-          "name": "ESPN 5 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+          "id": 322,
+          "name": "ESPN 2 NL",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2_nl"
         }
       ],
       "source_data": {
-        "diary_description": "Bundesliga: \nUnion Berlin vs Schalke 04",
-        "diary_hour": "13:30:00",
+        "diary_description": "Eredivisie:  Eredivisie: AZ vs Willem II",
+        "diary_hour": "13:00:00",
         "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T08:50:17.193Z",
-        "updatedAt": "2026-09-11T08:50:19.386Z",
-        "publishedAt": "2026-09-11T08:50:19.381Z",
+        "createdAt": "2026-09-11T09:15:53.709Z",
+        "updatedAt": "2026-09-11T13:36:52.722Z",
+        "publishedAt": "2026-09-11T09:15:55.683Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 1465,
+              "id": 310,
               "attributes": {
-                "embed_name": "Sportv BR HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+                "embed_name": "ESPN 2 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg="
               }
             },
             {
-              "id": 1209,
+              "id": 827,
               "attributes": {
-                "embed_name": "Sportv BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
               }
             },
             {
-              "id": 1466,
+              "id": 322,
               "attributes": {
-                "embed_name": "ESPN 5 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
-              }
-            },
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+                "embed_name": "ESPN 2 NL",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 73,
+            "id": 27,
             "attributes": {
-              "name": "Alemania",
-              "createdAt": "2024-02-25T19:06:53.075Z",
-              "updatedAt": "2025-08-03T13:12:58.302Z",
-              "publishedAt": "2024-02-25T19:06:54.639Z",
+              "name": "Paises Bajos",
+              "createdAt": "2023-11-25T14:14:00.773Z",
+              "updatedAt": "2025-08-09T13:06:21.819Z",
+              "publishedAt": "2023-11-25T14:14:01.960Z",
               "image": {
                 "data": {
-                  "id": 348,
+                  "id": 371,
                   "attributes": {
-                    "name": "alemania_e50aa475de.png",
+                    "name": "paises_bajos_f773e994b9.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
+                    "width": 128,
+                    "height": 128,
                     "formats": null,
-                    "hash": "alemania_e50aa475de_965dccfbbd",
+                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.52,
-                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
+                    "size": 0.95,
+                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:53.760Z",
-                    "updatedAt": "2025-08-03T13:12:53.760Z"
+                    "createdAt": "2025-08-09T13:06:16.926Z",
+                    "updatedAt": "2025-08-09T13:06:16.926Z"
                   }
                 }
               }
@@ -845,6 +716,161 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-15T18:33:34.734Z",
                     "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39262,
+      "title": "Bundesliga: Union Berlin vs Schalke 04",
+      "competition": "Bundesliga",
+      "date_diary": "2026-09-11",
+      "diary_hour": "13:30:00",
+      "country": "Alemania",
+      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
+      "source_timezone": "Europe/Berlin",
+      "source_local": "2026-09-11T13:30:00",
+      "start_utc": "2026-09-11T11:30:00Z",
+      "embeds": [
+        {
+          "id": 1466,
+          "name": "ESPN 5 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 645,
+          "name": "ESPN 5",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 474,
+          "name": "ESPN 5 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 599,
+          "name": "ESPN 5 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 1465,
+          "name": "Sportv BR HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        },
+        {
+          "id": 831,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
+        },
+        {
+          "id": 1209,
+          "name": "Sportv BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Bundesliga: \nUnion Berlin vs Schalke 04",
+        "diary_hour": "13:30:00",
+        "date_diary": "2026-09-11",
+        "createdAt": "2026-09-11T08:50:17.193Z",
+        "updatedAt": "2026-09-11T13:38:47.870Z",
+        "publishedAt": "2026-09-11T08:50:19.381Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            },
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+              }
+            },
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 73,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2024-02-25T19:06:53.075Z",
+              "updatedAt": "2025-08-03T13:12:58.302Z",
+              "publishedAt": "2024-02-25T19:06:54.639Z",
+              "image": {
+                "data": {
+                  "id": 348,
+                  "attributes": {
+                    "name": "alemania_e50aa475de.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de_965dccfbbd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.52,
+                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:12:53.760Z",
+                    "updatedAt": "2025-08-03T13:12:53.760Z"
                   }
                 }
               }
