@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-11T23:29:11.854306Z",
+  "updated_at": "2026-09-11T23:41:54.298591Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39273,
-      "title": "Primera División: 2 de Mayo vs Libertad",
-      "competition": "Primera División",
-      "date_diary": "2026-09-11",
-      "diary_hour": "16:30:00",
-      "country": "Paraguay",
-      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
-      "source_timezone": "America/Asuncion",
-      "source_local": "2026-09-11T16:30:00",
-      "start_utc": "2026-09-11T19:30:00Z",
-      "embeds": [
-        {
-          "id": 1050,
-          "name": "fanatiz 03",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz3"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera División: \n2 de Mayo vs Libertad",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:02:42.941Z",
-        "updatedAt": "2026-09-11T18:15:31.249Z",
-        "publishedAt": "2026-09-11T09:02:45.153Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1050,
-              "attributes": {
-                "embed_name": "fanatiz 03",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2025-08-03T15:06:51.427Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 356,
-                  "attributes": {
-                    "name": "paraguay_fc9dd78de7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7_fda39878d0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:47.480Z",
-                    "updatedAt": "2025-08-03T15:06:47.480Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39299,
       "title": "ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor",
