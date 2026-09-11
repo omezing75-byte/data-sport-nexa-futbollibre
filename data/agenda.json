@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-11T20:49:49.162718Z",
+  "updated_at": "2026-09-11T21:02:04.153551Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39272,
-      "title": "Primera División: Sportivo Ameliano vs Sportivo San Lorenzo",
-      "competition": "Primera División",
-      "date_diary": "2026-09-11",
-      "diary_hour": "14:00:00",
-      "country": "Paraguay",
-      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
-      "source_timezone": "America/Asuncion",
-      "source_local": "2026-09-11T14:00:00",
-      "start_utc": "2026-09-11T17:00:00Z",
-      "embeds": [
-        {
-          "id": 1087,
-          "name": "fanatiz 01",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera División: Sportivo Ameliano vs Sportivo San Lorenzo",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:01:59.692Z",
-        "updatedAt": "2026-09-11T17:59:33.628Z",
-        "publishedAt": "2026-09-11T09:02:01.849Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1087,
-              "attributes": {
-                "embed_name": "fanatiz 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2025-08-03T15:06:51.427Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 356,
-                  "attributes": {
-                    "name": "paraguay_fc9dd78de7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7_fda39878d0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:47.480Z",
-                    "updatedAt": "2025-08-03T15:06:47.480Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39264,
       "title": "Liga Profesional: Newell's Old Boys vs Vélez Sarsfield",
