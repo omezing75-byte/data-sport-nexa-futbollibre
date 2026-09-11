@@ -1,70 +1,8 @@
 {
-  "updated_at": "2026-09-11T12:59:14.100188Z",
+  "updated_at": "2026-09-11T13:19:33.582773Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39283,
-      "title": "Super Lig: Beşiktaş vs BB Erzurumspor",
-      "competition": "Super Lig",
-      "date_diary": "2026-09-11",
-      "diary_hour": "12:00:00",
-      "country": "Turquía",
-      "logo": "https://futbollibretv.org.pe/uploads/pavo_980d87b7ad_8827bbb7ba.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/tr.png",
-      "source_timezone": "Europe/Istanbul",
-      "source_local": "2026-09-11T12:00:00",
-      "start_utc": "2026-09-11T09:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Super Lig: Beşiktaş vs BB Erzurumspor",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:18:08.789Z",
-        "updatedAt": "2026-09-11T09:18:10.753Z",
-        "publishedAt": "2026-09-11T09:18:10.747Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 28,
-            "attributes": {
-              "name": "Turquía",
-              "createdAt": "2023-11-25T14:17:47.734Z",
-              "updatedAt": "2025-08-08T17:09:06.346Z",
-              "publishedAt": "2023-11-25T14:17:48.907Z",
-              "image": {
-                "data": {
-                  "id": 369,
-                  "attributes": {
-                    "name": "pavo_980d87b7ad.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "pavo_980d87b7ad_8827bbb7ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.97,
-                    "url": "/uploads/pavo_980d87b7ad_8827bbb7ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-08T17:09:01.764Z",
-                    "updatedAt": "2025-08-08T17:09:01.764Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39275,
       "title": "2. Bundesliga: Nürnberg vs Hannover 96",
