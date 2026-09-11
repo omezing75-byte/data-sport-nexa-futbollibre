@@ -1,124 +1,8 @@
 {
-  "updated_at": "2026-09-11T17:58:27.154861Z",
+  "updated_at": "2026-09-11T18:21:13.642942Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39295,
-      "title": "Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K.",
-      "competition": "Tenis – US Open – Semifinal Masculina",
-      "date_diary": "2026-09-11",
-      "diary_hour": "14:00:00",
-      "country": "Tennis",
-      "logo": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-11T14:00:00",
-      "start_utc": "2026-09-11T14:00:00Z",
-      "embeds": [
-        {
-          "id": 1461,
-          "name": "ESPN 2 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 640,
-          "name": "ESPN 2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1133,
-          "name": "ESPN 2 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1377,
-          "name": "ESPN 2 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K.",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:40:03.944Z",
-        "updatedAt": "2026-09-11T09:45:03.830Z",
-        "publishedAt": "2026-09-11T09:40:05.977Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-              }
-            },
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39272,
       "title": "Primera División: Sportivo Ameliano vs Sportivo San Lorenzo",
@@ -131,19 +15,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-11T14:00:00",
       "start_utc": "2026-09-11T17:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1087,
+          "name": "fanatiz 01",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz1"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: Sportivo Ameliano vs Sportivo San Lorenzo",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T09:01:59.692Z",
-        "updatedAt": "2026-09-11T09:02:01.854Z",
+        "updatedAt": "2026-09-11T17:59:33.628Z",
         "publishedAt": "2026-09-11T09:02:01.849Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1087,
+              "attributes": {
+                "embed_name": "fanatiz 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -195,24 +94,6 @@
       "start_utc": "2026-09-11T18:00:00Z",
       "embeds": [
         {
-          "id": 657,
-          "name": "ESPN",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 652,
-          "name": "ESPN AR┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 234,
-          "name": "ESPN AR┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
           "id": 1487,
           "name": "ESPN Premium┃HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
@@ -235,6 +116,24 @@
           "name": "ESPN Premium┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
         }
       ],
       "source_data": {
@@ -242,34 +141,13 @@
         "diary_hour": "15:00:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T08:52:48.519Z",
-        "updatedAt": "2026-09-11T08:53:51.845Z",
+        "updatedAt": "2026-09-11T18:14:39.725Z",
         "publishedAt": "2026-09-11T08:53:51.841Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-              }
-            },
-            {
-              "id": 652,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 234,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
             {
               "id": 1487,
               "attributes": {
@@ -296,6 +174,27 @@
               "attributes": {
                 "embed_name": "ESPN Premium┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
               }
             }
           ]
@@ -683,19 +582,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-11T16:30:00",
       "start_utc": "2026-09-11T19:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1050,
+          "name": "fanatiz 03",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz3"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \n2 de Mayo vs Libertad",
         "diary_hour": "16:30:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T09:02:42.941Z",
-        "updatedAt": "2026-09-11T09:02:45.157Z",
+        "updatedAt": "2026-09-11T18:15:31.249Z",
         "publishedAt": "2026-09-11T09:02:45.153Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1050,
+              "attributes": {
+                "embed_name": "fanatiz 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1001,6 +915,12 @@
           "name": "TNT Sports | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1049,
+          "name": "fanatiz 04",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz4"
         }
       ],
       "source_data": {
@@ -1008,7 +928,7 @@
         "diary_hour": "17:15:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T08:54:58.491Z",
-        "updatedAt": "2026-09-11T08:55:00.403Z",
+        "updatedAt": "2026-09-11T18:16:02.080Z",
         "publishedAt": "2026-09-11T08:55:00.398Z",
         "channels": {
           "data": []
@@ -1041,6 +961,13 @@
               "attributes": {
                 "embed_name": "TNT Sports | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1049,
+              "attributes": {
+                "embed_name": "fanatiz 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
               }
             }
           ]
@@ -1216,6 +1143,18 @@
           "name": "Sportv BR",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        },
+        {
+          "id": 1481,
+          "name": "Premiere BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        },
+        {
+          "id": 269,
+          "name": "Premiere 8 BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlOA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere8"
         }
       ],
       "source_data": {
@@ -1223,7 +1162,7 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T08:59:31.210Z",
-        "updatedAt": "2026-09-11T08:59:33.174Z",
+        "updatedAt": "2026-09-11T18:17:53.893Z",
         "publishedAt": "2026-09-11T08:59:33.169Z",
         "channels": {
           "data": []
@@ -1242,6 +1181,20 @@
               "attributes": {
                 "embed_name": "Sportv BR",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            },
+            {
+              "id": 1481,
+              "attributes": {
+                "embed_name": "Premiere BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 269,
+              "attributes": {
+                "embed_name": "Premiere 8 BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlOA=="
               }
             }
           ]
@@ -1294,19 +1247,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-11T19:00:00",
       "start_utc": "2026-09-11T22:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 934,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney12"
+        }
+      ],
       "source_data": {
         "diary_description": "Segunda División: \nOriental vs Miramar Misiones",
         "diary_hour": "19:00:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T09:18:56.182Z",
-        "updatedAt": "2026-09-11T09:18:58.269Z",
+        "updatedAt": "2026-09-11T18:18:42.084Z",
         "publishedAt": "2026-09-11T09:18:58.264Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1376,6 +1344,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
         },
         {
+          "id": 933,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney13"
+        },
+        {
           "id": 1487,
           "name": "ESPN Premium┃HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
@@ -1405,7 +1379,7 @@
         "diary_hour": "19:30:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T08:56:23.674Z",
-        "updatedAt": "2026-09-11T08:56:55.388Z",
+        "updatedAt": "2026-09-11T18:19:45.427Z",
         "publishedAt": "2026-09-11T08:56:55.381Z",
         "channels": {
           "data": []
@@ -1431,6 +1405,13 @@
               "attributes": {
                 "embed_name": "ESPN AR┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
               }
             },
             {
@@ -1976,6 +1957,12 @@
           "name": "ESPN 2 MX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2mx"
+        },
+        {
+          "id": 935,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney14"
         }
       ],
       "source_data": {
@@ -1983,7 +1970,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T09:14:23.864Z",
-        "updatedAt": "2026-09-11T09:14:26.198Z",
+        "updatedAt": "2026-09-11T18:20:38.142Z",
         "publishedAt": "2026-09-11T09:14:26.194Z",
         "channels": {
           "data": []
@@ -1995,6 +1982,13 @@
               "attributes": {
                 "embed_name": "ESPN 2 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg="
+              }
+            },
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
               }
             }
           ]
