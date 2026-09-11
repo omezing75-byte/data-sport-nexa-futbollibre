@@ -1,147 +1,8 @@
 {
-  "updated_at": "2026-09-11T13:19:33.582773Z",
+  "updated_at": "2026-09-11T13:35:21.545820Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39275,
-      "title": "2. Bundesliga: Nürnberg vs Hannover 96",
-      "competition": "2. Bundesliga",
-      "date_diary": "2026-09-11",
-      "diary_hour": "11:30:00",
-      "country": "Alemania",
-      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
-      "source_timezone": "Europe/Berlin",
-      "source_local": "2026-09-11T11:30:00",
-      "start_utc": "2026-09-11T09:30:00Z",
-      "embeds": [
-        {
-          "id": 962,
-          "name": "Fox Sports 3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports3"
-        }
-      ],
-      "source_data": {
-        "diary_description": "2. Bundesliga: Nürnberg vs Hannover 96",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:04:32.127Z",
-        "updatedAt": "2026-09-11T09:04:34.327Z",
-        "publishedAt": "2026-09-11T09:04:34.320Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 962,
-              "attributes": {
-                "embed_name": "Fox Sports 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czM="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 73,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2024-02-25T19:06:53.075Z",
-              "updatedAt": "2025-08-03T13:12:58.302Z",
-              "publishedAt": "2024-02-25T19:06:54.639Z",
-              "image": {
-                "data": {
-                  "id": 348,
-                  "attributes": {
-                    "name": "alemania_e50aa475de.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de_965dccfbbd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.52,
-                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:53.760Z",
-                    "updatedAt": "2025-08-03T13:12:53.760Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39276,
-      "title": "2. Bundesliga: Darmstadt 98 vs Arminia Bielefeld",
-      "competition": "2. Bundesliga",
-      "date_diary": "2026-09-11",
-      "diary_hour": "11:30:00",
-      "country": "Alemania",
-      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
-      "source_timezone": "Europe/Berlin",
-      "source_local": "2026-09-11T11:30:00",
-      "start_utc": "2026-09-11T09:30:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "2. Bundesliga: Darmstadt 98 vs Arminia Bielefeld",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:05:28.843Z",
-        "updatedAt": "2026-09-11T09:05:31.295Z",
-        "publishedAt": "2026-09-11T09:05:31.291Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 73,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2024-02-25T19:06:53.075Z",
-              "updatedAt": "2025-08-03T13:12:58.302Z",
-              "publishedAt": "2024-02-25T19:06:54.639Z",
-              "image": {
-                "data": {
-                  "id": 348,
-                  "attributes": {
-                    "name": "alemania_e50aa475de.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de_965dccfbbd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.52,
-                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:53.760Z",
-                    "updatedAt": "2025-08-03T13:12:53.760Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39294,
       "title": "F1 GP España – Práctica #2",
@@ -178,6 +39,24 @@
           "name": "ESPN 2 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 834,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
+        },
+        {
+          "id": 120,
+          "name": "Fox Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1004,
+          "name": "Fox Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
         }
       ],
       "source_data": {
@@ -185,7 +64,7 @@
         "diary_hour": "09:55:00",
         "date_diary": "2026-09-11",
         "createdAt": "2026-09-11T09:39:01.034Z",
-        "updatedAt": "2026-09-11T09:39:03.319Z",
+        "updatedAt": "2026-09-11T13:26:54.516Z",
         "publishedAt": "2026-09-11T09:39:03.313Z",
         "channels": {
           "data": []
@@ -218,6 +97,27 @@
               "attributes": {
                 "embed_name": "ESPN 2 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Fox Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
               }
             }
           ]
@@ -464,161 +364,6 @@
       }
     },
     {
-      "id": 39279,
-      "title": "Copa Mundial Femenina Sub-20 de la FIFA: Argentina vs México",
-      "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
-      "date_diary": "2026-09-11",
-      "diary_hour": "11:00:00",
-      "country": "Copa mundial sub20 fifa",
-      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-11T11:00:00",
-      "start_utc": "2026-09-11T11:00:00Z",
-      "embeds": [
-        {
-          "id": 1468,
-          "name": "Dsports 2 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
-        },
-        {
-          "id": 181,
-          "name": "Dsports 2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
-        },
-        {
-          "id": 737,
-          "name": "TUDN MX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn_mx"
-        },
-        {
-          "id": 607,
-          "name": "Fox Sports 2 USA",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
-        },
-        {
-          "id": 1379,
-          "name": "Fox Sports 2 USA | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
-        },
-        {
-          "id": 1474,
-          "name": "Universo | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
-        },
-        {
-          "id": 790,
-          "name": "Universo",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: \nArgentina vs México",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-09-11",
-        "createdAt": "2026-09-11T09:10:06.518Z",
-        "updatedAt": "2026-09-11T09:11:31.086Z",
-        "publishedAt": "2026-09-11T09:11:31.083Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1468,
-              "attributes": {
-                "embed_name": "Dsports 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
-              }
-            },
-            {
-              "id": 181,
-              "attributes": {
-                "embed_name": "Dsports 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
-              }
-            },
-            {
-              "id": 737,
-              "attributes": {
-                "embed_name": "TUDN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
-              }
-            },
-            {
-              "id": 607,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-              }
-            },
-            {
-              "id": 1379,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-              }
-            },
-            {
-              "id": 1474,
-              "attributes": {
-                "embed_name": "Universo | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
-              }
-            },
-            {
-              "id": 790,
-              "attributes": {
-                "embed_name": "Universo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 23,
-            "attributes": {
-              "name": "Copa mundial sub20 fifa",
-              "createdAt": "2023-11-24T11:43:09.315Z",
-              "updatedAt": "2026-06-24T23:22:48.740Z",
-              "publishedAt": "2023-11-24T11:43:11.351Z",
-              "image": {
-                "data": {
-                  "id": 437,
-                  "attributes": {
-                    "name": "copamundial.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copamundial_69c33e7ee4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/copamundial_69c33e7ee4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-06-24T23:22:08.564Z",
-                    "updatedAt": "2026-06-24T23:22:42.745Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 39282,
       "title": "Eredivisie: Eredivisie: AZ vs Willem II",
       "competition": "Eredivisie",
@@ -700,6 +445,187 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-09T13:06:16.926Z",
                     "updatedAt": "2025-08-09T13:06:16.926Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39279,
+      "title": "Copa Mundial Femenina Sub-20 de la FIFA: Argentina vs México",
+      "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-11",
+      "diary_hour": "11:00:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-11T11:00:00",
+      "start_utc": "2026-09-11T11:00:00Z",
+      "embeds": [
+        {
+          "id": 1468,
+          "name": "Dsports 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 181,
+          "name": "Dsports 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 737,
+          "name": "TUDN MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn_mx"
+        },
+        {
+          "id": 1250,
+          "name": "Dsports 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 1410,
+          "name": "Dsports 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 607,
+          "name": "Fox Sports 2 USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
+        },
+        {
+          "id": 1379,
+          "name": "Fox Sports 2 USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2_usa"
+        },
+        {
+          "id": 1474,
+          "name": "Universo | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        },
+        {
+          "id": 790,
+          "name": "Universo",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: \nArgentina vs México",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-11",
+        "createdAt": "2026-09-11T09:10:06.518Z",
+        "updatedAt": "2026-09-11T13:28:54.651Z",
+        "publishedAt": "2026-09-11T09:11:31.083Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1468,
+              "attributes": {
+                "embed_name": "Dsports 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+              }
+            },
+            {
+              "id": 181,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 737,
+              "attributes": {
+                "embed_name": "TUDN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
+              }
+            },
+            {
+              "id": 1250,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1410,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 607,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            },
+            {
+              "id": 1379,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            },
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
                   }
                 }
               }
