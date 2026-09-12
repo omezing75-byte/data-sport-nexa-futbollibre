@@ -1,403 +1,8 @@
 {
-  "updated_at": "2026-09-12T19:41:52.590260Z",
+  "updated_at": "2026-09-12T19:58:28.269729Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39332,
-      "title": "Liga Profesional: Independiente Rivadavia vs Aldosivi",
-      "competition": "Liga Profesional",
-      "date_diary": "2026-09-12",
-      "diary_hour": "12:45:00",
-      "country": "Argentina",
-      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
-      "source_timezone": "America/Argentina/Buenos_Aires",
-      "source_local": "2026-09-12T12:45:00",
-      "start_utc": "2026-09-12T15:45:00Z",
-      "embeds": [
-        {
-          "id": 1490,
-          "name": "TNT Sports | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
-        },
-        {
-          "id": 257,
-          "name": "TNT Sports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
-        },
-        {
-          "id": 1322,
-          "name": "TNT Sports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
-        },
-        {
-          "id": 1405,
-          "name": "TNT Sports | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
-        },
-        {
-          "id": 1051,
-          "name": "fanatiz 02",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga Profesional: \nIndependiente Rivadavia vs Aldosivi",
-        "diary_hour": "12:45:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:09:24.063Z",
-        "updatedAt": "2026-09-12T16:04:03.274Z",
-        "publishedAt": "2026-09-12T05:18:29.247Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1490,
-              "attributes": {
-                "embed_name": "TNT Sports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 257,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1322,
-              "attributes": {
-                "embed_name": "TNT Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1405,
-              "attributes": {
-                "embed_name": "TNT Sports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1051,
-              "attributes": {
-                "embed_name": "fanatiz 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39331,
-      "title": "Liga Profesional: Estudiantes vs Platense",
-      "competition": "Liga Profesional",
-      "date_diary": "2026-09-12",
-      "diary_hour": "12:45:00",
-      "country": "Argentina",
-      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
-      "source_timezone": "America/Argentina/Buenos_Aires",
-      "source_local": "2026-09-12T12:45:00",
-      "start_utc": "2026-09-12T15:45:00Z",
-      "embeds": [
-        {
-          "id": 1487,
-          "name": "ESPN Premium┃HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 793,
-          "name": "ESPN Premium",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 502,
-          "name": "ESPN Premium┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 100,
-          "name": "ESPN Premium┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga Profesional: \nEstudiantes vs Platense",
-        "diary_hour": "12:45:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:08:17.563Z",
-        "updatedAt": "2026-09-12T04:08:17.563Z",
-        "publishedAt": "2026-09-12T05:18:29.247Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1487,
-              "attributes": {
-                "embed_name": "ESPN Premium┃HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
-              }
-            },
-            {
-              "id": 793,
-              "attributes": {
-                "embed_name": "ESPN Premium",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 502,
-              "attributes": {
-                "embed_name": "ESPN Premium┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 100,
-              "attributes": {
-                "embed_name": "ESPN Premium┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39398,
-      "title": "Rugby – Test Match Internacional – Sudáfrica vs. Nueva Zelanda",
-      "competition": "Rugby",
-      "date_diary": "2026-09-12",
-      "diary_hour": "15:45:00",
-      "country": "Rugby",
-      "logo": "https://futbollibretv.org.pe/uploads/Rugby_f99a2b54da.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-12T15:45:00",
-      "start_utc": "2026-09-12T15:45:00Z",
-      "embeds": [
-        {
-          "id": 1462,
-          "name": "ESPN 3 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 656,
-          "name": "ESPN 3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1357,
-          "name": "ESPN 3 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1358,
-          "name": "ESPN 3 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Rugby – Test Match Internacional – Sudáfrica vs. Nueva Zelanda",
-        "diary_hour": "15:45:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T05:15:49.635Z",
-        "updatedAt": "2026-09-12T05:15:49.635Z",
-        "publishedAt": "2026-09-12T05:19:23.054Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
-              }
-            },
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 134,
-            "attributes": {
-              "name": "Rugby",
-              "createdAt": "2025-03-01T00:16:20.346Z",
-              "updatedAt": "2025-11-16T14:52:22.575Z",
-              "publishedAt": "2025-03-01T00:16:22.392Z",
-              "image": {
-                "data": {
-                  "id": 413,
-                  "attributes": {
-                    "name": "Rugby.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 763,
-                    "height": 763,
-                    "formats": {
-                      "small": {
-                        "ext": ".png",
-                        "url": "/uploads/small_Rugby_f99a2b54da.png",
-                        "hash": "small_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "small_Rugby.png",
-                        "path": null,
-                        "size": 138.17,
-                        "width": 500,
-                        "height": 500
-                      },
-                      "medium": {
-                        "ext": ".png",
-                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
-                        "hash": "medium_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "medium_Rugby.png",
-                        "path": null,
-                        "size": 250.24,
-                        "width": 750,
-                        "height": 750
-                      },
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
-                        "hash": "thumbnail_Rugby_f99a2b54da",
-                        "mime": "image/png",
-                        "name": "thumbnail_Rugby.png",
-                        "path": null,
-                        "size": 22.03,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "Rugby_f99a2b54da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 74.94,
-                    "url": "/uploads/Rugby_f99a2b54da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-11-16T14:52:15.177Z",
-                    "updatedAt": "2025-11-16T14:52:15.177Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39345,
       "title": "Primera División: Cobresal vs Coquimbo Unido",
@@ -1651,6 +1256,24 @@
           "name": "ECDF LigaPro | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1161,
+          "name": "ECUAVISA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1162,
+          "name": "ECUAVISA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1163,
+          "name": "ECUAVISA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
         }
       ],
       "source_data": {
@@ -1658,7 +1281,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:23:19.260Z",
-        "updatedAt": "2026-09-12T04:23:19.260Z",
+        "updatedAt": "2026-09-12T19:45:13.647Z",
         "publishedAt": "2026-09-12T05:18:45.820Z",
         "channels": {
           "data": []
@@ -1691,6 +1314,27 @@
               "attributes": {
                 "embed_name": "ECDF LigaPro | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1161,
+              "attributes": {
+                "embed_name": "ECUAVISA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1162,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1163,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
               }
             }
           ]
