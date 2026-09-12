@@ -1,70 +1,8 @@
 {
-  "updated_at": "2026-09-12T09:18:44.939892Z",
+  "updated_at": "2026-09-12T09:32:46.926557Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39358,
-      "title": "Championship: Derby County vs Birmingham City",
-      "competition": "Championship",
-      "date_diary": "2026-09-12",
-      "diary_hour": "06:30:00",
-      "country": "Inglaterra",
-      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
-      "source_timezone": "Europe/London",
-      "source_local": "2026-09-12T06:30:00",
-      "start_utc": "2026-09-12T05:30:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Championship: \nDerby County vs Birmingham City",
-        "diary_hour": "06:30:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:29:05.462Z",
-        "updatedAt": "2026-09-12T04:29:05.462Z",
-        "publishedAt": "2026-09-12T05:18:45.820Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 8,
-            "attributes": {
-              "name": "Inglaterra",
-              "createdAt": "2023-11-22T15:34:59.892Z",
-              "updatedAt": "2025-08-03T13:11:39.073Z",
-              "publishedAt": "2023-11-22T15:35:01.179Z",
-              "image": {
-                "data": {
-                  "id": 346,
-                  "attributes": {
-                    "name": "inglaterra_823176495f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "inglaterra_823176495f_fc4f47c43e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.48,
-                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:11:35.093Z",
-                    "updatedAt": "2025-08-03T13:11:35.093Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39316,
       "title": "Serie A: Genoa vs Frosinone",
