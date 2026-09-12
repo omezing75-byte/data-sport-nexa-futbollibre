@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:11:44.591634Z",
+  "updated_at": "2026-09-12T13:29:21.282725Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -2033,19 +2033,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-12T10:00:00",
       "start_utc": "2026-09-12T13:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1079,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE5",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney19"
+        }
+      ],
       "source_data": {
         "diary_description": "Segunda División: \nUruguay Montevideo vs Tacuarembó",
         "diary_hour": "10:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:42:19.497Z",
-        "updatedAt": "2026-09-12T04:42:19.497Z",
+        "updatedAt": "2026-09-12T13:23:38.220Z",
         "publishedAt": "2026-09-12T05:19:06.652Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1079,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE5"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
