@@ -1,498 +1,8 @@
 {
-  "updated_at": "2026-09-12T20:49:52.021444Z",
+  "updated_at": "2026-09-12T21:02:02.732077Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39399,
-      "title": "Queens League",
-      "competition": "Amistosos Paises",
-      "date_diary": "2026-09-12",
-      "diary_hour": "16:55:00",
-      "country": "Amistosos Paises",
-      "logo": "https://futbollibretv.org.pe/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-12T16:55:00",
-      "start_utc": "2026-09-12T16:55:00Z",
-      "embeds": [
-        {
-          "id": 1479,
-          "name": "ESPN 4 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 520,
-          "name": "ESPN 4",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1398,
-          "name": "ESPN 4 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1399,
-          "name": "ESPN 4 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Queens League",
-        "diary_hour": "16:55:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T05:16:39.149Z",
-        "updatedAt": "2026-09-12T05:16:39.149Z",
-        "publishedAt": "2026-09-12T05:19:23.054Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1479,
-              "attributes": {
-                "embed_name": "ESPN 4 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2025-08-03T13:20:12.777Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 347,
-                  "attributes": {
-                    "name": "amistosos_bbe2ec4c17.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:14.467Z",
-                    "updatedAt": "2025-08-15T11:15:10.464Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39339,
-      "title": "Brasileirão: Grêmio vs Vasco da Gama",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-12",
-      "diary_hour": "14:00:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-12T14:00:00",
-      "start_utc": "2026-09-12T17:00:00Z",
-      "embeds": [
-        {
-          "id": 1491,
-          "name": "Win Sports | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 691,
-          "name": "Win Sports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 700,
-          "name": "Win Sports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 1406,
-          "name": "Win Sports ┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 1484,
-          "name": "Premiere 4 BR | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere4"
-        },
-        {
-          "id": 266,
-          "name": "Premiere 4 BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere4"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Brasileirão: Grêmio vs Vasco da Gama",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:15:08.352Z",
-        "updatedAt": "2026-09-12T19:13:36.006Z",
-        "publishedAt": "2026-09-12T05:18:29.247Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1491,
-              "attributes": {
-                "embed_name": "Win Sports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
-              }
-            },
-            {
-              "id": 691,
-              "attributes": {
-                "embed_name": "Win Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-              }
-            },
-            {
-              "id": 700,
-              "attributes": {
-                "embed_name": "Win Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1406,
-              "attributes": {
-                "embed_name": "Win Sports ┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1484,
-              "attributes": {
-                "embed_name": "Premiere 4 BR | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ="
-              }
-            },
-            {
-              "id": 266,
-              "attributes": {
-                "embed_name": "Premiere 4 BR ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39338,
-      "title": "Brasileirão: Atlético Mineiro vs Fluminense",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-12",
-      "diary_hour": "14:00:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-12T14:00:00",
-      "start_utc": "2026-09-12T17:00:00Z",
-      "embeds": [
-        {
-          "id": 293,
-          "name": "Win Sports + | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 164,
-          "name": "Win Sports +",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 747,
-          "name": "Win Sports + | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 1457,
-          "name": "Win Sports + | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
-        },
-        {
-          "id": 1485,
-          "name": "Premiere 3 BR | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere3"
-        },
-        {
-          "id": 264,
-          "name": "Premiere 3 BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere3"
-        },
-        {
-          "id": 1088,
-          "name": "fanatiz 05",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo1",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz5"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Brasileirão: \nAtlético Mineiro vs Fluminense",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:14:18.874Z",
-        "updatedAt": "2026-09-12T19:12:55.612Z",
-        "publishedAt": "2026-09-12T05:18:29.247Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 293,
-              "attributes": {
-                "embed_name": "Win Sports + | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
-              }
-            },
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 747,
-              "attributes": {
-                "embed_name": "Win Sports + | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1457,
-              "attributes": {
-                "embed_name": "Win Sports + | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1485,
-              "attributes": {
-                "embed_name": "Premiere 3 BR | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM="
-              }
-            },
-            {
-              "id": 264,
-              "attributes": {
-                "embed_name": "Premiere 3 BR ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw=="
-              }
-            },
-            {
-              "id": 1088,
-              "attributes": {
-                "embed_name": "fanatiz 05",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39353,
-      "title": "Primera División: Guaraní vs Cerro Porteño",
-      "competition": "Primera División",
-      "date_diary": "2026-09-12",
-      "diary_hour": "14:00:00",
-      "country": "Paraguay",
-      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
-      "source_timezone": "America/Asuncion",
-      "source_local": "2026-09-12T14:00:00",
-      "start_utc": "2026-09-12T17:00:00Z",
-      "embeds": [
-        {
-          "id": 1049,
-          "name": "fanatiz 04",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz4"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera División: \nGuaraní vs Cerro Porteño",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:25:50.407Z",
-        "updatedAt": "2026-09-12T19:18:23.398Z",
-        "publishedAt": "2026-09-12T05:18:45.820Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1049,
-              "attributes": {
-                "embed_name": "fanatiz 04",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2025-08-03T15:06:51.427Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 356,
-                  "attributes": {
-                    "name": "paraguay_fc9dd78de7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7_fda39878d0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:47.480Z",
-                    "updatedAt": "2025-08-03T15:06:47.480Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39356,
       "title": "Primera División: Wanderers vs Nacional",
@@ -1222,19 +732,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-12T16:00:00",
       "start_utc": "2026-09-12T19:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1059,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney16"
+        }
+      ],
       "source_data": {
         "diary_description": "Segunda División: Paysandu vs La Luz",
         "diary_hour": "16:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:43:15.903Z",
-        "updatedAt": "2026-09-12T04:43:15.903Z",
+        "updatedAt": "2026-09-12T20:57:48.302Z",
         "publishedAt": "2026-09-12T05:19:06.652Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1059,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1426,19 +951,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-12T16:30:00",
       "start_utc": "2026-09-12T19:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1049,
+          "name": "fanatiz 04",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz4"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nDeportivo Recoleta vs Sportivo Trinidense",
         "diary_hour": "16:30:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:26:19.677Z",
-        "updatedAt": "2026-09-12T04:26:19.677Z",
+        "updatedAt": "2026-09-12T20:58:33.882Z",
         "publishedAt": "2026-09-12T05:18:45.820Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1049,
+              "attributes": {
+                "embed_name": "fanatiz 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1792,19 +1332,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-12T18:00:00",
       "start_utc": "2026-09-12T21:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1058,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney18"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: Cerro Largo vs Central Español",
         "diary_hour": "18:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:27:54.721Z",
-        "updatedAt": "2026-09-12T04:27:54.721Z",
+        "updatedAt": "2026-09-12T20:59:27.220Z",
         "publishedAt": "2026-09-12T05:18:45.820Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -2189,19 +1744,34 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-12T18:30:00",
       "start_utc": "2026-09-12T21:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1222,
+          "name": "Amazon Prime",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVudG84",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=evento8"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nBotafogo vs RB Bragantino",
         "diary_hour": "18:30:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:16:56.620Z",
-        "updatedAt": "2026-09-12T04:16:56.620Z",
+        "updatedAt": "2026-09-12T21:01:36.468Z",
         "publishedAt": "2026-09-12T05:18:37.152Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1222,
+              "attributes": {
+                "embed_name": "Amazon Prime",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVudG84"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
