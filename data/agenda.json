@@ -1,124 +1,8 @@
 {
-  "updated_at": "2026-09-12T18:47:39.486363Z",
+  "updated_at": "2026-09-12T19:14:57.678389Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39300,
-      "title": "US Open, dura - Final: Sabalenka A. vs Rybakina E.",
-      "competition": "US Open, dura - Final",
-      "date_diary": "2026-09-12",
-      "diary_hour": "15:00:00",
-      "country": "Tennis",
-      "logo": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-12T15:00:00",
-      "start_utc": "2026-09-12T15:00:00Z",
-      "embeds": [
-        {
-          "id": 1461,
-          "name": "ESPN 2 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 640,
-          "name": "ESPN 2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1133,
-          "name": "ESPN 2 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1377,
-          "name": "ESPN 2 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "US Open, dura - Final: Sabalenka A. vs Rybakina E.",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-11T09:55:14.501Z",
-        "updatedAt": "2026-09-12T05:14:55.496Z",
-        "publishedAt": "2026-09-12T05:18:00.511Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-              }
-            },
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "Tennis",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2025-08-03T14:36:42.387Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39332,
       "title": "Liga Profesional: Independiente Rivadavia vs Aldosivi",
@@ -831,6 +715,18 @@
           "name": "Win Sports ┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
+        },
+        {
+          "id": 1484,
+          "name": "Premiere 4 BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere4"
+        },
+        {
+          "id": 266,
+          "name": "Premiere 4 BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere4"
         }
       ],
       "source_data": {
@@ -838,7 +734,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:15:08.352Z",
-        "updatedAt": "2026-09-12T04:15:08.352Z",
+        "updatedAt": "2026-09-12T19:13:36.006Z",
         "publishedAt": "2026-09-12T05:18:29.247Z",
         "channels": {
           "data": []
@@ -871,6 +767,20 @@
               "attributes": {
                 "embed_name": "Win Sports ┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1484,
+              "attributes": {
+                "embed_name": "Premiere 4 BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ="
+              }
+            },
+            {
+              "id": 266,
+              "attributes": {
+                "embed_name": "Premiere 4 BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNA=="
               }
             }
           ]
@@ -923,19 +833,112 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-12T14:00:00",
       "start_utc": "2026-09-12T17:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1485,
+          "name": "Premiere 3 BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere3"
+        },
+        {
+          "id": 264,
+          "name": "Premiere 3 BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere3"
+        },
+        {
+          "id": 1088,
+          "name": "fanatiz 05",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo1",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz5"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nAtlético Mineiro vs Fluminense",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:14:18.874Z",
-        "updatedAt": "2026-09-12T04:14:18.874Z",
+        "updatedAt": "2026-09-12T19:12:55.612Z",
         "publishedAt": "2026-09-12T05:18:29.247Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            },
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1485,
+              "attributes": {
+                "embed_name": "Premiere 3 BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM="
+              }
+            },
+            {
+              "id": 264,
+              "attributes": {
+                "embed_name": "Premiere 3 BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw=="
+              }
+            },
+            {
+              "id": 1088,
+              "attributes": {
+                "embed_name": "fanatiz 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo1"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
