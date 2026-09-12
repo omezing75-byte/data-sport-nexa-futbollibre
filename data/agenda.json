@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:33:22.696278Z",
+  "updated_at": "2026-09-12T18:47:39.486363Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -111,122 +111,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:36:38.398Z",
                     "updatedAt": "2025-08-03T14:36:38.398Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39301,
-      "title": "Liga 1: Los Chankas vs FC Cajamarca",
-      "competition": "Liga 1",
-      "date_diary": "2026-09-12",
-      "diary_hour": "10:30:00",
-      "country": "Perú",
-      "logo": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pe.png",
-      "source_timezone": "America/Lima",
-      "source_local": "2026-09-12T10:30:00",
-      "start_utc": "2026-09-12T15:30:00Z",
-      "embeds": [
-        {
-          "id": 1483,
-          "name": "Liga1MAX | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 774,
-          "name": "Liga1MAX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 738,
-          "name": "Liga1Max | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 315,
-          "name": "Liga1Max | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga 1: \nLos Chankas vs FC Cajamarca",
-        "diary_hour": "10:30:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T01:47:00.610Z",
-        "updatedAt": "2026-09-12T01:47:00.610Z",
-        "publishedAt": "2026-09-12T05:18:00.511Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
