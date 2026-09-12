@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:13:50.256043Z",
+  "updated_at": "2026-09-12T23:28:50.071283Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -291,122 +291,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39303,
-      "title": "Liga 1: Deportivo Moquegua vs Sporting Cristal",
-      "competition": "Liga 1",
-      "date_diary": "2026-09-12",
-      "diary_hour": "15:15:00",
-      "country": "Perú",
-      "logo": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pe.png",
-      "source_timezone": "America/Lima",
-      "source_local": "2026-09-12T15:15:00",
-      "start_utc": "2026-09-12T20:15:00Z",
-      "embeds": [
-        {
-          "id": 1483,
-          "name": "Liga1MAX | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 774,
-          "name": "Liga1MAX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 738,
-          "name": "Liga1Max | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 315,
-          "name": "Liga1Max | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga 1: \nDeportivo Moquegua vs Sporting Cristal",
-        "diary_hour": "15:15:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T01:55:25.880Z",
-        "updatedAt": "2026-09-12T01:55:25.880Z",
-        "publishedAt": "2026-09-12T05:18:00.511Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
@@ -2357,6 +2241,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
         },
         {
+          "id": 312,
+          "name": "Liga 1 Max Perú",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even6"
+        },
+        {
           "id": 774,
           "name": "Liga1MAX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
@@ -2380,7 +2270,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T01:56:07.002Z",
-        "updatedAt": "2026-09-12T01:56:07.002Z",
+        "updatedAt": "2026-09-12T23:18:53.805Z",
         "publishedAt": "2026-09-12T05:18:00.511Z",
         "channels": {
           "data": []
@@ -2392,6 +2282,13 @@
               "attributes": {
                 "embed_name": "Liga1MAX | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
+              }
+            },
+            {
+              "id": 312,
+              "attributes": {
+                "embed_name": "Liga 1 Max Perú",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42"
               }
             },
             {
