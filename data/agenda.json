@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-12T13:42:36.909334Z",
+  "updated_at": "2026-09-12T13:57:03.500564Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39369,
-      "title": "Eredivisie: Go Ahead Eagles vs Groningen",
-      "competition": "Eredivisie",
-      "date_diary": "2026-09-12",
-      "diary_hour": "11:45:00",
-      "country": "Paises Bajos",
-      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-      "logo_fallback": "",
-      "source_timezone": "Europe/Amsterdam",
-      "source_local": "2026-09-12T11:45:00",
-      "start_utc": "2026-09-12T09:45:00Z",
-      "embeds": [
-        {
-          "id": 1343,
-          "name": "ESPN 3 NL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3_nl"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Eredivisie: Go Ahead Eagles vs Groningen",
-        "diary_hour": "11:45:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:38:23.543Z",
-        "updatedAt": "2026-09-12T04:38:23.543Z",
-        "publishedAt": "2026-09-12T05:18:57.300Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1343,
-              "attributes": {
-                "embed_name": "ESPN 3 NL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zX25s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 27,
-            "attributes": {
-              "name": "Paises Bajos",
-              "createdAt": "2023-11-25T14:14:00.773Z",
-              "updatedAt": "2025-08-09T13:06:21.819Z",
-              "publishedAt": "2023-11-25T14:14:01.960Z",
-              "image": {
-                "data": {
-                  "id": 371,
-                  "attributes": {
-                    "name": "paises_bajos_f773e994b9.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.95,
-                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-09T13:06:16.926Z",
-                    "updatedAt": "2025-08-09T13:06:16.926Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39386,
       "title": "Pro League: Al Khaleej vs Al Nassr",
