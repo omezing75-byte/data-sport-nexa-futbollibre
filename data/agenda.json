@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T15:46:58.818551Z",
+  "updated_at": "2026-09-12T15:58:38.579479Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -527,19 +527,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-12T11:00:00",
       "start_utc": "2026-09-12T14:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 833,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: Racing vs Boston River",
         "diary_hour": "11:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:26:53.149Z",
-        "updatedAt": "2026-09-12T04:26:53.149Z",
+        "updatedAt": "2026-09-12T15:54:20.960Z",
         "publishedAt": "2026-09-12T05:18:45.820Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
