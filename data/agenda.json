@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-12T11:16:45.571857Z",
+  "updated_at": "2026-09-12T11:30:05.164119Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39368,
-      "title": "Eredivisie: Twente vs ADO Den Haag",
-      "competition": "Eredivisie",
-      "date_diary": "2026-09-12",
-      "diary_hour": "09:30:00",
-      "country": "Paises Bajos",
-      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-      "logo_fallback": "",
-      "source_timezone": "Europe/Amsterdam",
-      "source_local": "2026-09-12T09:30:00",
-      "start_utc": "2026-09-12T07:30:00Z",
-      "embeds": [
-        {
-          "id": 322,
-          "name": "ESPN 2 NL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2_nl"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Eredivisie: \nTwente vs ADO Den Haag",
-        "diary_hour": "09:30:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:37:47.019Z",
-        "updatedAt": "2026-09-12T04:37:47.019Z",
-        "publishedAt": "2026-09-12T05:18:57.300Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 322,
-              "attributes": {
-                "embed_name": "ESPN 2 NL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 27,
-            "attributes": {
-              "name": "Paises Bajos",
-              "createdAt": "2023-11-25T14:14:00.773Z",
-              "updatedAt": "2025-08-09T13:06:21.819Z",
-              "publishedAt": "2023-11-25T14:14:01.960Z",
-              "image": {
-                "data": {
-                  "id": 371,
-                  "attributes": {
-                    "name": "paises_bajos_f773e994b9.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.95,
-                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-09T13:06:16.926Z",
-                    "updatedAt": "2025-08-09T13:06:16.926Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39306,
       "title": "Premier League: AFC Bournemouth vs Brentford",
