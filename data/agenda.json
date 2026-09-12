@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:02:02.732077Z",
+  "updated_at": "2026-09-12T21:22:18.197502Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -162,122 +162,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39302,
-      "title": "Liga 1: Comerciantes Unidos vs Sport Huancayo",
-      "competition": "Liga 1",
-      "date_diary": "2026-09-12",
-      "diary_hour": "13:00:00",
-      "country": "Perú",
-      "logo": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pe.png",
-      "source_timezone": "America/Lima",
-      "source_local": "2026-09-12T13:00:00",
-      "start_utc": "2026-09-12T18:00:00Z",
-      "embeds": [
-        {
-          "id": 1483,
-          "name": "Liga1MAX | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 774,
-          "name": "Liga1MAX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 738,
-          "name": "Liga1Max | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        },
-        {
-          "id": 315,
-          "name": "Liga1Max | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga 1: \nComerciantes Unidos vs Sport Huancayo",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T01:54:43.418Z",
-        "updatedAt": "2026-09-12T01:54:43.418Z",
-        "publishedAt": "2026-09-12T05:18:00.511Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1483,
-              "attributes": {
-                "embed_name": "Liga1MAX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1MAX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 738,
-              "attributes": {
-                "embed_name": "Liga1Max | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 315,
-              "attributes": {
-                "embed_name": "Liga1Max | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2025-08-03T15:07:36.491Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 357,
-                  "attributes": {
-                    "name": "peru_ddc4e685cf.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf_43831ed9b0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:07:32.287Z",
-                    "updatedAt": "2025-08-03T15:07:32.287Z"
                   }
                 }
               }
@@ -1746,10 +1630,16 @@
       "start_utc": "2026-09-12T21:30:00Z",
       "embeds": [
         {
+          "id": 1427,
+          "name": "Amazon Prime 1",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=amazon_prime1"
+        },
+        {
           "id": 1222,
           "name": "Amazon Prime",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVudG84",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=evento8"
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=amazon_prime1"
         }
       ],
       "source_data": {
@@ -1757,7 +1647,7 @@
         "diary_hour": "18:30:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:16:56.620Z",
-        "updatedAt": "2026-09-12T21:01:36.468Z",
+        "updatedAt": "2026-09-12T21:02:59.395Z",
         "publishedAt": "2026-09-12T05:18:37.152Z",
         "channels": {
           "data": []
@@ -1765,10 +1655,17 @@
         "embeds": {
           "data": [
             {
+              "id": 1427,
+              "attributes": {
+                "embed_name": "Amazon Prime 1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
+              }
+            },
+            {
               "id": 1222,
               "attributes": {
                 "embed_name": "Amazon Prime",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVudG84"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
               }
             }
           ]
@@ -1978,6 +1875,18 @@
       "start_utc": "2026-09-12T22:00:00Z",
       "embeds": [
         {
+          "id": 263,
+          "name": "Premiere 2 BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere2"
+        },
+        {
+          "id": 1480,
+          "name": "Premiere 2 BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere2"
+        },
+        {
           "id": 1465,
           "name": "Sportv BR HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY=",
@@ -1995,13 +1904,27 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:17:36.939Z",
-        "updatedAt": "2026-09-12T04:17:36.939Z",
+        "updatedAt": "2026-09-12T21:11:42.336Z",
         "publishedAt": "2026-09-12T05:18:37.152Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 263,
+              "attributes": {
+                "embed_name": "Premiere 2 BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg=="
+              }
+            },
+            {
+              "id": 1480,
+              "attributes": {
+                "embed_name": "Premiere 2 BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI="
+              }
+            },
             {
               "id": 1465,
               "attributes": {
@@ -2108,6 +2031,109 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39401,
+      "title": "MLS: Inter Miami vs Nashville SC",
+      "competition": "MLS",
+      "date_diary": "2026-09-12",
+      "diary_hour": "18:30:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-12T18:30:00",
+      "start_utc": "2026-09-12T22:30:00Z",
+      "embeds": [
+        {
+          "id": 1177,
+          "name": "MLS 01 HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        },
+        {
+          "id": 1167,
+          "name": "MLS 01 | EN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        },
+        {
+          "id": 1497,
+          "name": "MLS 01 | Español",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        }
+      ],
+      "source_data": {
+        "diary_description": "MLS: Inter Miami vs Nashville SC",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-09-12",
+        "createdAt": "2026-09-12T21:04:55.892Z",
+        "updatedAt": "2026-09-12T21:04:57.824Z",
+        "publishedAt": "2026-09-12T21:04:57.814Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1177,
+              "attributes": {
+                "embed_name": "MLS 01 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM="
+              }
+            },
+            {
+              "id": 1167,
+              "attributes": {
+                "embed_name": "MLS 01 | EN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM="
+              }
+            },
+            {
+              "id": 1497,
+              "attributes": {
+                "embed_name": "MLS 01 | Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
                   }
                 }
               }
@@ -3218,19 +3244,47 @@
       "source_timezone": "America/Mexico_City",
       "source_local": "2026-09-12T20:00:00",
       "start_utc": "2026-09-13T02:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 536,
+          "name": "FOX ONE HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even8"
+        },
+        {
+          "id": 523,
+          "name": "FOX ONE",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW50b3M=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=eventos"
+        }
+      ],
       "source_data": {
         "diary_description": "Liga de Expansión MX: \nDorados vs Tapatío",
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:36:55.779Z",
-        "updatedAt": "2026-09-12T04:36:55.779Z",
+        "updatedAt": "2026-09-12T21:18:17.678Z",
         "publishedAt": "2026-09-12T05:18:57.300Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 536,
+              "attributes": {
+                "embed_name": "FOX ONE HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjg="
+              }
+            },
+            {
+              "id": 523,
+              "attributes": {
+                "embed_name": "FOX ONE",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW50b3M="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
