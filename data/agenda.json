@@ -1,304 +1,8 @@
 {
-  "updated_at": "2026-09-12T23:28:50.071283Z",
+  "updated_at": "2026-09-12T23:41:30.400811Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39341,
-      "title": "Brasileirão: Palmeiras vs São Paulo",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-12",
-      "diary_hour": "16:30:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-12T16:30:00",
-      "start_utc": "2026-09-12T19:30:00Z",
-      "embeds": [
-        {
-          "id": 1491,
-          "name": "Win Sports | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 691,
-          "name": "Win Sports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 700,
-          "name": "Win Sports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 1406,
-          "name": "Win Sports ┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
-        },
-        {
-          "id": 1481,
-          "name": "Premiere BR | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
-        },
-        {
-          "id": 1320,
-          "name": "Premiere BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Brasileirão: \nPalmeiras vs São Paulo",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:16:27.902Z",
-        "updatedAt": "2026-09-12T19:17:55.923Z",
-        "publishedAt": "2026-09-12T05:18:37.152Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1491,
-              "attributes": {
-                "embed_name": "Win Sports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
-              }
-            },
-            {
-              "id": 691,
-              "attributes": {
-                "embed_name": "Win Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-              }
-            },
-            {
-              "id": 700,
-              "attributes": {
-                "embed_name": "Win Sports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1406,
-              "attributes": {
-                "embed_name": "Win Sports ┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1481,
-              "attributes": {
-                "embed_name": "Premiere BR | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-              }
-            },
-            {
-              "id": 1320,
-              "attributes": {
-                "embed_name": "Premiere BR ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39354,
-      "title": "Primera División: Deportivo Recoleta vs Sportivo Trinidense",
-      "competition": "Primera División",
-      "date_diary": "2026-09-12",
-      "diary_hour": "16:30:00",
-      "country": "Paraguay",
-      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
-      "source_timezone": "America/Asuncion",
-      "source_local": "2026-09-12T16:30:00",
-      "start_utc": "2026-09-12T19:30:00Z",
-      "embeds": [
-        {
-          "id": 1049,
-          "name": "fanatiz 04",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz4"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera División: \nDeportivo Recoleta vs Sportivo Trinidense",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:26:19.677Z",
-        "updatedAt": "2026-09-12T20:58:33.882Z",
-        "publishedAt": "2026-09-12T05:18:45.820Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1049,
-              "attributes": {
-                "embed_name": "fanatiz 04",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2025-08-03T15:06:51.427Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 356,
-                  "attributes": {
-                    "name": "paraguay_fc9dd78de7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7_fda39878d0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:47.480Z",
-                    "updatedAt": "2025-08-03T15:06:47.480Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39340,
-      "title": "Brasileirão: Chapecoense vs Internacional",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-12",
-      "diary_hour": "16:30:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-12T16:30:00",
-      "start_utc": "2026-09-12T19:30:00Z",
-      "embeds": [
-        {
-          "id": 265,
-          "name": "Premiere 5 BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere5"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Brasileirão: \nChapecoense vs Internacional",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:15:36.186Z",
-        "updatedAt": "2026-09-12T19:16:05.053Z",
-        "publishedAt": "2026-09-12T05:18:37.152Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 265,
-              "attributes": {
-                "embed_name": "Premiere 5 BR ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39336,
       "title": "Primera División: The Strongest vs Real Oruro",
@@ -2241,16 +1945,16 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
         },
         {
-          "id": 312,
-          "name": "Liga 1 Max Perú",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even6"
-        },
-        {
           "id": 774,
           "name": "Liga1MAX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 312,
+          "name": "Liga 1 Max Perú",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even6"
         },
         {
           "id": 738,
@@ -2270,7 +1974,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T01:56:07.002Z",
-        "updatedAt": "2026-09-12T23:18:53.805Z",
+        "updatedAt": "2026-09-12T23:34:02.505Z",
         "publishedAt": "2026-09-12T05:18:00.511Z",
         "channels": {
           "data": []
@@ -2285,17 +1989,17 @@
               }
             },
             {
-              "id": 312,
-              "attributes": {
-                "embed_name": "Liga 1 Max Perú",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42"
-              }
-            },
-            {
               "id": 774,
               "attributes": {
                 "embed_name": "Liga1MAX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 312,
+              "attributes": {
+                "embed_name": "Liga 1 Max Perú",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42"
               }
             },
             {
