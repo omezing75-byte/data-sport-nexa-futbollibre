@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:14:57.678389Z",
+  "updated_at": "2026-09-12T19:28:22.762716Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -988,19 +988,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-12T14:00:00",
       "start_utc": "2026-09-12T17:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1049,
+          "name": "fanatiz 04",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz4"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nGuaraní vs Cerro Porteño",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:25:50.407Z",
-        "updatedAt": "2026-09-12T04:25:50.407Z",
+        "updatedAt": "2026-09-12T19:18:23.398Z",
         "publishedAt": "2026-09-12T05:18:45.820Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1049,
+              "attributes": {
+                "embed_name": "fanatiz 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1050,19 +1065,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-12T14:30:00",
       "start_utc": "2026-09-12T17:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 935,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney14"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nWanderers vs Nacional",
         "diary_hour": "14:30:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:27:22.875Z",
-        "updatedAt": "2026-09-12T04:27:22.875Z",
+        "updatedAt": "2026-09-12T19:14:19.534Z",
         "publishedAt": "2026-09-12T05:18:45.820Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1409,68 +1439,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39340,
-      "title": "Brasileirão: Chapecoense vs Internacional",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-12",
-      "diary_hour": "15:00:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-12T15:00:00",
-      "start_utc": "2026-09-12T18:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Brasileirão: \nChapecoense vs Internacional",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:15:36.186Z",
-        "updatedAt": "2026-09-12T04:15:36.186Z",
-        "publishedAt": "2026-09-12T05:18:37.152Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
                   }
                 }
               }
@@ -1861,6 +1829,18 @@
           "name": "Win Sports ┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports"
+        },
+        {
+          "id": 1481,
+          "name": "Premiere BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        },
+        {
+          "id": 1320,
+          "name": "Premiere BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
         }
       ],
       "source_data": {
@@ -1868,7 +1848,7 @@
         "diary_hour": "16:30:00",
         "date_diary": "2026-09-12",
         "createdAt": "2026-09-12T04:16:27.902Z",
-        "updatedAt": "2026-09-12T04:16:27.902Z",
+        "updatedAt": "2026-09-12T19:17:55.923Z",
         "publishedAt": "2026-09-12T05:18:37.152Z",
         "channels": {
           "data": []
@@ -1901,6 +1881,20 @@
               "attributes": {
                 "embed_name": "Win Sports ┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1481,
+              "attributes": {
+                "embed_name": "Premiere BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
               }
             }
           ]
@@ -1995,6 +1989,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:47.480Z",
                     "updatedAt": "2025-08-03T15:06:47.480Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39340,
+      "title": "Brasileirão: Chapecoense vs Internacional",
+      "competition": "Brasileirão",
+      "date_diary": "2026-09-12",
+      "diary_hour": "16:30:00",
+      "country": "Brasil",
+      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
+      "source_timezone": "America/Sao_Paulo",
+      "source_local": "2026-09-12T16:30:00",
+      "start_utc": "2026-09-12T19:30:00Z",
+      "embeds": [
+        {
+          "id": 265,
+          "name": "Premiere 5 BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere5"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Brasileirão: \nChapecoense vs Internacional",
+        "diary_hour": "16:30:00",
+        "date_diary": "2026-09-12",
+        "createdAt": "2026-09-12T04:15:36.186Z",
+        "updatedAt": "2026-09-12T19:16:05.053Z",
+        "publishedAt": "2026-09-12T05:18:37.152Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 265,
+              "attributes": {
+                "embed_name": "Premiere 5 BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
                   }
                 }
               }
