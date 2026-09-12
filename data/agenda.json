@@ -1,70 +1,8 @@
 {
-  "updated_at": "2026-09-12T13:57:03.500564Z",
+  "updated_at": "2026-09-12T14:15:21.560394Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39386,
-      "title": "Pro League: Al Khaleej vs Al Nassr",
-      "competition": "Pro League",
-      "date_diary": "2026-09-12",
-      "diary_hour": "13:00:00",
-      "country": "Arabia Saudita",
-      "logo": "https://futbollibretv.org.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/sa.png",
-      "source_timezone": "Asia/Riyadh",
-      "source_local": "2026-09-12T13:00:00",
-      "start_utc": "2026-09-12T10:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Pro League: \nAl Khaleej vs Al Nassr",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-09-12",
-        "createdAt": "2026-09-12T04:55:48.393Z",
-        "updatedAt": "2026-09-12T04:55:48.393Z",
-        "publishedAt": "2026-09-12T05:19:15.221Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 24,
-            "attributes": {
-              "name": "Arabia Saudita",
-              "createdAt": "2023-11-24T12:55:08.381Z",
-              "updatedAt": "2025-08-23T15:08:33.177Z",
-              "publishedAt": "2023-11-24T12:55:09.649Z",
-              "image": {
-                "data": {
-                  "id": 385,
-                  "attributes": {
-                    "name": "arabia_saudita_82c6f9c376.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "arabia_saudita_82c6f9c376_70d77b2bc2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.18,
-                    "url": "/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T15:08:29.368Z",
-                    "updatedAt": "2025-08-23T15:08:43.679Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39310,
       "title": "Premier League: Tottenham Hotspur vs Everton",
