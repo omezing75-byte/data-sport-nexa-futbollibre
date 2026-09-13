@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:15:28.659618Z",
+  "updated_at": "2026-09-13T14:30:29.884852Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -1047,8 +1047,8 @@
         {
           "id": 644,
           "name": "DSports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
         },
         {
           "id": 341,
@@ -1111,7 +1111,7 @@
               "id": 644,
               "attributes": {
                 "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M="
               }
             },
             {
