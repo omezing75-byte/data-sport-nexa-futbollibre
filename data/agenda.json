@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T17:39:28.454804Z",
+  "updated_at": "2026-09-13T17:50:44.003018Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -1924,19 +1924,47 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-13T15:30:00",
       "start_utc": "2026-09-13T18:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1320,
+          "name": "Premiere BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        },
+        {
+          "id": 1481,
+          "name": "Premiere BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nFlamengo vs Corinthians",
         "diary_hour": "15:30:00",
         "date_diary": "2026-09-13",
         "createdAt": "2026-09-13T02:02:14.246Z",
-        "updatedAt": "2026-09-13T02:02:14.246Z",
+        "updatedAt": "2026-09-13T17:40:13.431Z",
         "publishedAt": "2026-09-13T03:24:00.212Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 1481,
+              "attributes": {
+                "embed_name": "Premiere BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -2373,19 +2401,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-13T16:30:00",
       "start_utc": "2026-09-13T19:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1426,
+          "name": "Fanatiz 10",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz10"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nRubio Ñú vs Nacional Asunción",
         "diary_hour": "16:30:00",
         "date_diary": "2026-09-13",
         "createdAt": "2026-09-13T02:15:25.917Z",
-        "updatedAt": "2026-09-13T02:15:25.917Z",
+        "updatedAt": "2026-09-13T17:40:34.877Z",
         "publishedAt": "2026-09-13T03:24:08.622Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1426,
+              "attributes": {
+                "embed_name": "Fanatiz 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -2767,6 +2810,83 @@
       }
     },
     {
+      "id": 39449,
+      "title": "Primera División: Peñarol vs Albion",
+      "competition": "Primera División",
+      "date_diary": "2026-09-13",
+      "diary_hour": "17:30:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-13T17:30:00",
+      "start_utc": "2026-09-13T20:30:00Z",
+      "embeds": [
+        {
+          "id": 827,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera División: \nPeñarol vs Albion",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-09-13",
+        "createdAt": "2026-09-13T02:17:24.912Z",
+        "updatedAt": "2026-09-13T17:41:17.278Z",
+        "publishedAt": "2026-09-13T03:24:17.411Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39441,
       "title": "Serie A: Macará vs Emelec",
       "competition": "Serie A",
@@ -2913,68 +3033,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39449,
-      "title": "Primera División: Peñarol vs Albion",
-      "competition": "Primera División",
-      "date_diary": "2026-09-13",
-      "diary_hour": "17:30:00",
-      "country": "Uruguay",
-      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
-      "source_timezone": "America/Montevideo",
-      "source_local": "2026-09-13T17:30:00",
-      "start_utc": "2026-09-13T20:30:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Primera División: \nPeñarol vs Albion",
-        "diary_hour": "17:30:00",
-        "date_diary": "2026-09-13",
-        "createdAt": "2026-09-13T02:17:24.912Z",
-        "updatedAt": "2026-09-13T02:17:24.912Z",
-        "publishedAt": "2026-09-13T03:24:17.411Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -3985,6 +4043,109 @@
       }
     },
     {
+      "id": 39491,
+      "title": "MLS: San Diego vs Philadelphia Union",
+      "competition": "MLS",
+      "date_diary": "2026-09-13",
+      "diary_hour": "20:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-13T20:00:00",
+      "start_utc": "2026-09-14T00:00:00Z",
+      "embeds": [
+        {
+          "id": 1156,
+          "name": "MLS 03 | EN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczNlbg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls3en"
+        },
+        {
+          "id": 511,
+          "name": "MLS 03 HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bWxzM2Vu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls3en"
+        },
+        {
+          "id": 1494,
+          "name": "MLS 03 | Español",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczNlbg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls3en"
+        }
+      ],
+      "source_data": {
+        "diary_description": "MLS: San Diego vs Philadelphia Union",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-09-13",
+        "createdAt": "2026-09-13T17:42:47.710Z",
+        "updatedAt": "2026-09-13T17:42:49.702Z",
+        "publishedAt": "2026-09-13T17:42:49.698Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1156,
+              "attributes": {
+                "embed_name": "MLS 03 | EN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczNlbg=="
+              }
+            },
+            {
+              "id": 511,
+              "attributes": {
+                "embed_name": "MLS 03 HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bWxzM2Vu"
+              }
+            },
+            {
+              "id": 1494,
+              "attributes": {
+                "embed_name": "MLS 03 | Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczNlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39465,
       "title": "Primera División: Cartaginés vs Alajuelense",
       "competition": "Primera División",
@@ -4197,6 +4358,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
         },
         {
+          "id": 849,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney6"
+        },
+        {
           "id": 308,
           "name": "ESPN MX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
@@ -4220,7 +4387,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-13",
         "createdAt": "2026-09-13T02:36:50.657Z",
-        "updatedAt": "2026-09-13T02:36:50.657Z",
+        "updatedAt": "2026-09-13T17:41:53.005Z",
         "publishedAt": "2026-09-13T03:24:25.068Z",
         "channels": {
           "data": []
@@ -4232,6 +4399,13 @@
               "attributes": {
                 "embed_name": "ESPN MX | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+              }
+            },
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
               }
             },
             {
