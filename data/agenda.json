@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T22:33:27.278101Z",
+  "updated_at": "2026-09-13T22:47:58.862816Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -1261,6 +1261,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39492,
+      "title": "Costa Rica: Sporting FC vs Saprissa",
+      "competition": "Costa Rica",
+      "date_diary": "2026-09-13",
+      "diary_hour": "17:00:00",
+      "country": "Costa Rica",
+      "logo": "https://futbollibretv.org.pe/uploads/costa_rica_cb5e6c6746_67d705d4bb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/cr.png",
+      "source_timezone": "America/Costa_Rica",
+      "source_local": "2026-09-13T17:00:00",
+      "start_utc": "2026-09-13T23:00:00Z",
+      "embeds": [
+        {
+          "id": 1425,
+          "name": "FOX Costa Rica",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even7"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Costa Rica: Sporting FC vs Saprissa ",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-09-13",
+        "createdAt": "2026-09-13T22:33:46.924Z",
+        "updatedAt": "2026-09-13T22:34:01.570Z",
+        "publishedAt": "2026-09-13T22:33:48.501Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1425,
+              "attributes": {
+                "embed_name": "FOX Costa Rica",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW43"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Costa Rica",
+              "createdAt": "2023-11-22T15:20:04.337Z",
+              "updatedAt": "2025-08-03T15:08:54.802Z",
+              "publishedAt": "2023-11-22T15:20:05.566Z",
+              "image": {
+                "data": {
+                  "id": 358,
+                  "attributes": {
+                    "name": "costa_rica_cb5e6c6746.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "costa_rica_cb5e6c6746_67d705d4bb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.47,
+                    "url": "/uploads/costa_rica_cb5e6c6746_67d705d4bb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:08:49.831Z",
+                    "updatedAt": "2025-08-03T15:08:49.831Z"
                   }
                 }
               }
