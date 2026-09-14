@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:50:24.539315Z",
+  "updated_at": "2026-09-14T18:14:38.419941Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -258,6 +258,54 @@
           "name": "ESPN 2 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 938,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney10"
+        },
+        {
+          "id": 57,
+          "name": "ESPN Deportes",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1374,
+          "name": "ESPN Deportes | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1408,
+          "name": "ESPN Deportes | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1486,
+          "name": "ESPN MX | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 308,
+          "name": "ESPN MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 945,
+          "name": "ESPN MX | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1008,
+          "name": "ESPN MX | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
         }
       ],
       "source_data": {
@@ -265,7 +313,7 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-09-14",
         "createdAt": "2026-09-14T09:58:25.433Z",
-        "updatedAt": "2026-09-14T09:58:27.342Z",
+        "updatedAt": "2026-09-14T17:59:32.440Z",
         "publishedAt": "2026-09-14T09:58:27.337Z",
         "channels": {
           "data": []
@@ -298,6 +346,62 @@
               "attributes": {
                 "embed_name": "ESPN 2 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+              }
+            },
+            {
+              "id": 1374,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 1408,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 1486,
+              "attributes": {
+                "embed_name": "ESPN MX | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 945,
+              "attributes": {
+                "embed_name": "ESPN MX | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1008,
+              "attributes": {
+                "embed_name": "ESPN MX | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
               }
             }
           ]
@@ -466,19 +570,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-14T17:00:00",
       "start_utc": "2026-09-14T20:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 832,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney9"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nTorque vs Liverpool",
         "diary_hour": "17:00:00",
         "date_diary": "2026-09-14",
         "createdAt": "2026-09-14T09:39:57.502Z",
-        "updatedAt": "2026-09-14T09:39:59.853Z",
+        "updatedAt": "2026-09-14T17:57:16.246Z",
         "publishedAt": "2026-09-14T09:39:59.849Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -552,6 +671,12 @@
           "name": "ESPN Premium┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 936,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney11"
         }
       ],
       "source_data": {
@@ -559,7 +684,7 @@
         "diary_hour": "17:00:00",
         "date_diary": "2026-09-14",
         "createdAt": "2026-09-14T09:33:14.834Z",
-        "updatedAt": "2026-09-14T09:33:17.155Z",
+        "updatedAt": "2026-09-14T17:56:34.679Z",
         "publishedAt": "2026-09-14T09:33:17.150Z",
         "channels": {
           "data": []
@@ -592,6 +717,13 @@
               "attributes": {
                 "embed_name": "ESPN Premium┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx"
               }
             }
           ]
@@ -644,19 +776,47 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-14T18:00:00",
       "start_utc": "2026-09-14T21:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1481,
+          "name": "Premiere BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        },
+        {
+          "id": 1320,
+          "name": "Premiere BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nBahia vs Remo",
         "diary_hour": "18:00:00",
         "date_diary": "2026-09-14",
         "createdAt": "2026-09-14T09:35:59.738Z",
-        "updatedAt": "2026-09-14T09:36:02.002Z",
+        "updatedAt": "2026-09-14T17:58:00.768Z",
         "publishedAt": "2026-09-14T09:36:01.993Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1481,
+              "attributes": {
+                "embed_name": "Premiere BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
