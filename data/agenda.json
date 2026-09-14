@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:18:47.958046Z",
+  "updated_at": "2026-09-14T16:35:40.371986Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -219,6 +219,12 @@
           "name": "ESPN 2 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 838,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney8"
         }
       ],
       "source_data": {
@@ -226,7 +232,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-14",
         "createdAt": "2026-09-14T09:27:55.435Z",
-        "updatedAt": "2026-09-14T09:27:58.867Z",
+        "updatedAt": "2026-09-14T16:20:35.358Z",
         "publishedAt": "2026-09-14T09:27:58.862Z",
         "channels": {
           "data": []
@@ -259,6 +265,13 @@
               "attributes": {
                 "embed_name": "ESPN 2 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
               }
             }
           ]
