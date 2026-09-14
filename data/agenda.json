@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T20:41:28.017837Z",
+  "updated_at": "2026-09-14T20:58:05.161805Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -973,8 +973,8 @@
         {
           "id": 669,
           "name": "TNT Sports Chile",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsportschile"
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even6"
         },
         {
           "id": 439,
@@ -999,7 +999,7 @@
               "id": 669,
               "attributes": {
                 "embed_name": "TNT Sports Chile",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW42"
               }
             },
             {
