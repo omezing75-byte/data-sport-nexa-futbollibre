@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-14T00:26:27.200148Z",
+  "updated_at": "2026-09-14T00:48:04.276184Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39449,
-      "title": "Primera División: Peñarol vs Albion",
-      "competition": "Primera División",
-      "date_diary": "2026-09-13",
-      "diary_hour": "17:30:00",
-      "country": "Uruguay",
-      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
-      "source_timezone": "America/Montevideo",
-      "source_local": "2026-09-13T17:30:00",
-      "start_utc": "2026-09-13T20:30:00Z",
-      "embeds": [
-        {
-          "id": 827,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera División: \nPeñarol vs Albion",
-        "diary_hour": "17:30:00",
-        "date_diary": "2026-09-13",
-        "createdAt": "2026-09-13T02:17:24.912Z",
-        "updatedAt": "2026-09-13T17:41:17.278Z",
-        "publishedAt": "2026-09-13T03:24:17.411Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 827,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39435,
       "title": "Primera División: Audax Italiano vs O'Higgins",
@@ -201,12 +124,6 @@
           "name": "MLS ES04HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW40",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even4"
-        },
-        {
-          "id": 833,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
         }
       ],
       "source_data": {
@@ -214,7 +131,7 @@
         "diary_hour": "18:00:00",
         "date_diary": "2026-09-13",
         "createdAt": "2026-09-13T23:45:35.558Z",
-        "updatedAt": "2026-09-14T00:09:18.144Z",
+        "updatedAt": "2026-09-14T00:31:05.459Z",
         "publishedAt": "2026-09-13T23:45:37.023Z",
         "channels": {
           "data": []
@@ -226,13 +143,6 @@
               "attributes": {
                 "embed_name": "MLS ES04HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW40"
-              }
-            },
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
               }
             }
           ]
@@ -569,6 +479,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:08:49.831Z",
                     "updatedAt": "2025-08-03T15:08:49.831Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39494,
+      "title": "NCAA Women’s Soccer: Kansas City vs Memphis",
+      "competition": "NCAA Women’s Soccer",
+      "date_diary": "2026-09-13",
+      "diary_hour": "19:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-13T19:00:00",
+      "start_utc": "2026-09-13T23:00:00Z",
+      "embeds": [
+        {
+          "id": 833,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "NCAA Women’s Soccer: Kansas City vs Memphis",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-09-13",
+        "createdAt": "2026-09-14T00:30:21.904Z",
+        "updatedAt": "2026-09-14T00:30:23.747Z",
+        "publishedAt": "2026-09-14T00:30:23.742Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
                   }
                 }
               }
