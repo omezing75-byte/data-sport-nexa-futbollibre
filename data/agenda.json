@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:47:11.220479Z",
+  "updated_at": "2026-09-15T21:58:32.576747Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -106,6 +106,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39560,
+      "title": "NCAA Men's Soccer: Temple vs Columbia",
+      "competition": "NCAA Men's Soccer",
+      "date_diary": "2026-09-15",
+      "diary_hour": "15:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-15T15:00:00",
+      "start_utc": "2026-09-15T19:00:00Z",
+      "embeds": [
+        {
+          "id": 1506,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney26"
+        }
+      ],
+      "source_data": {
+        "diary_description": "NCAA Men's Soccer: \nTemple vs Columbia",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-15",
+        "createdAt": "2026-09-15T21:47:55.933Z",
+        "updatedAt": "2026-09-15T21:53:40.290Z",
+        "publishedAt": "2026-09-15T21:51:08.235Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1506,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
                   }
                 }
               }
