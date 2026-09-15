@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:32:46.261440Z",
+  "updated_at": "2026-09-15T22:46:53.048108Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -248,6 +248,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
         },
         {
+          "id": 1011,
+          "name": "DSports Eventos",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
+        },
+        {
           "id": 1252,
           "name": "Dsports Argentina",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
@@ -278,12 +284,6 @@
           "player_url": ""
         },
         {
-          "id": 1011,
-          "name": "DSports Eventos",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
-        },
-        {
           "id": 816,
           "name": "Directv Eventos",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M=",
@@ -295,7 +295,7 @@
         "diary_hour": "19:30:00",
         "date_diary": "2026-09-15",
         "createdAt": "2026-09-15T04:22:34.190Z",
-        "updatedAt": "2026-09-15T21:00:41.571Z",
+        "updatedAt": "2026-09-15T22:45:48.274Z",
         "publishedAt": "2026-09-15T04:41:10.945Z",
         "channels": {
           "data": []
@@ -314,6 +314,13 @@
               "attributes": {
                 "embed_name": "DirecTV Sports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M="
+              }
+            },
+            {
+              "id": 1011,
+              "attributes": {
+                "embed_name": "DSports Eventos",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
               }
             },
             {
@@ -349,13 +356,6 @@
               "attributes": {
                 "embed_name": "DSports Colombia",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
-              }
-            },
-            {
-              "id": 1011,
-              "attributes": {
-                "embed_name": "DSports Eventos",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
               }
             },
             {
