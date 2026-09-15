@@ -1,124 +1,8 @@
 {
-  "updated_at": "2026-09-15T19:11:56.632401Z",
+  "updated_at": "2026-09-15T20:00:18.271038Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39547,
-      "title": "Torneo de Reserva: Argentinos Juniors vs River Plate",
-      "competition": "Torneo de Reserva",
-      "date_diary": "2026-09-15",
-      "diary_hour": "13:00:00",
-      "country": "Argentina",
-      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
-      "source_timezone": "America/Argentina/Buenos_Aires",
-      "source_local": "2026-09-15T13:00:00",
-      "start_utc": "2026-09-15T16:00:00Z",
-      "embeds": [
-        {
-          "id": 656,
-          "name": "ESPN 3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1357,
-          "name": "ESPN 3 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1358,
-          "name": "ESPN 3 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1462,
-          "name": "ESPN 3 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Torneo de Reserva: \nArgentinos Juniors vs River Plate",
-        "diary_hour": "13:00:00",
-        "date_diary": "2026-09-15",
-        "createdAt": "2026-09-15T04:33:43.177Z",
-        "updatedAt": "2026-09-15T04:33:43.177Z",
-        "publishedAt": "2026-09-15T04:41:26.846Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39534,
       "title": "Copa Sudamericana: Vasco da Gama vs Santa Fe",
@@ -792,9 +676,27 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
         },
         {
+          "id": 1252,
+          "name": "Dsports Argentina",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 1455,
+          "name": "DSports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        },
+        {
           "id": 341,
           "name": "DSports | OP2",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 748,
+          "name": "DSports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
         }
       ],
@@ -803,7 +705,7 @@
         "diary_hour": "19:30:00",
         "date_diary": "2026-09-15",
         "createdAt": "2026-09-15T04:22:34.190Z",
-        "updatedAt": "2026-09-15T04:22:34.190Z",
+        "updatedAt": "2026-09-15T19:40:10.512Z",
         "publishedAt": "2026-09-15T04:41:10.945Z",
         "channels": {
           "data": []
@@ -818,10 +720,31 @@
               }
             },
             {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports Argentina",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            },
+            {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            },
+            {
               "id": 341,
               "attributes": {
                 "embed_name": "DSports | OP2",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
               }
             }
           ]
