@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-15T17:11:54.877615Z",
+  "updated_at": "2026-09-15T17:29:39.525231Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39544,
-      "title": "AFC Champions League Elite: Al Hilal vs Al Gharafa",
-      "competition": "AFC Champions League Elite",
-      "date_diary": "2026-09-15",
-      "diary_hour": "13:15:00",
-      "country": "AFC Champions League",
-      "logo": "https://futbollibretv.org.pe/uploads/AFC_Champions_League_7f4a65ac2e.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-15T13:15:00",
-      "start_utc": "2026-09-15T13:15:00Z",
-      "embeds": [
-        {
-          "id": 831,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
-        }
-      ],
-      "source_data": {
-        "diary_description": "AFC Champions League Elite: Al Hilal vs Al Gharafa",
-        "diary_hour": "13:15:00",
-        "date_diary": "2026-09-15",
-        "createdAt": "2026-09-15T04:29:38.592Z",
-        "updatedAt": "2026-09-15T14:50:57.918Z",
-        "publishedAt": "2026-09-15T04:41:19.090Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 63,
-            "attributes": {
-              "name": "AFC Champions League",
-              "createdAt": "2024-02-12T23:24:23.051Z",
-              "updatedAt": "2025-09-15T10:54:21.750Z",
-              "publishedAt": "2024-02-12T23:24:26.129Z",
-              "image": {
-                "data": {
-                  "id": 402,
-                  "attributes": {
-                    "name": "AFC Champions League.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "AFC_Champions_League_7f4a65ac2e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.83,
-                    "url": "/uploads/AFC_Champions_League_7f4a65ac2e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-15T10:54:12.526Z",
-                    "updatedAt": "2025-09-15T10:54:12.526Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39547,
       "title": "Torneo de Reserva: Argentinos Juniors vs River Plate",
