@@ -1,227 +1,8 @@
 {
-  "updated_at": "2026-09-15T22:58:57.190593Z",
+  "updated_at": "2026-09-15T23:16:57.960744Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39550,
-      "title": "Primera B: San Luis vs Antofagasta",
-      "competition": "Primera B",
-      "date_diary": "2026-09-15",
-      "diary_hour": "16:00:00",
-      "country": "Chile",
-      "logo": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/cl.png",
-      "source_timezone": "America/Santiago",
-      "source_local": "2026-09-15T16:00:00",
-      "start_utc": "2026-09-15T19:00:00Z",
-      "embeds": [
-        {
-          "id": 624,
-          "name": "TNT Sports Premiun CL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsportschile"
-        },
-        {
-          "id": 318,
-          "name": "TNT Sports Premiun CL OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsportschile"
-        },
-        {
-          "id": 1464,
-          "name": "TNT Sports Premiun CL HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsportschile"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera B: \nSan Luis vs Antofagasta",
-        "diary_hour": "16:00:00",
-        "date_diary": "2026-09-15",
-        "createdAt": "2026-09-15T04:36:10.923Z",
-        "updatedAt": "2026-09-15T04:36:10.923Z",
-        "publishedAt": "2026-09-15T04:41:26.846Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-              }
-            },
-            {
-              "id": 318,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-              }
-            },
-            {
-              "id": 1464,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39553,
-      "title": "MLB – Texas Rangers vs. Boston Red Sox",
-      "competition": "MLB Preseason",
-      "date_diary": "2026-09-15",
-      "diary_hour": "19:00:00",
-      "country": "MLB Preseason",
-      "logo": "https://futbollibretv.org.pe/uploads/mlb_f5711cc440_dde64767e4.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mlb.png",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-15T19:00:00",
-      "start_utc": "2026-09-15T19:00:00Z",
-      "embeds": [
-        {
-          "id": 640,
-          "name": "ESPN 2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1133,
-          "name": "ESPN 2 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1377,
-          "name": "ESPN 2 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1461,
-          "name": "ESPN 2 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "MLB – Texas Rangers vs. Boston Red Sox",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-09-15",
-        "createdAt": "2026-09-15T04:40:20.291Z",
-        "updatedAt": "2026-09-15T04:40:20.291Z",
-        "publishedAt": "2026-09-15T04:41:26.846Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 70,
-            "attributes": {
-              "name": "MLB Preseason",
-              "createdAt": "2024-02-23T06:14:15.840Z",
-              "updatedAt": "2025-08-03T14:39:12.740Z",
-              "publishedAt": "2024-02-23T06:14:18.809Z",
-              "image": {
-                "data": {
-                  "id": 352,
-                  "attributes": {
-                    "name": "mlb_f5711cc440.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440_dde64767e4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.66,
-                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:39:07.537Z",
-                    "updatedAt": "2025-08-03T14:39:07.537Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39535,
       "title": "Copa Sudamericana: São Paulo vs Boca Juniors",
@@ -877,7 +658,7 @@
         {
           "id": 1502,
           "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIy",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney22"
         }
       ],
@@ -897,7 +678,7 @@
               "id": 1502,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIy"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg=="
               }
             }
           ]
