@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:35:25.210386Z",
+  "updated_at": "2026-09-15T14:51:38.134346Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -890,19 +890,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-15T13:15:00",
       "start_utc": "2026-09-15T13:15:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 831,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
+        }
+      ],
       "source_data": {
         "diary_description": "AFC Champions League Elite: Al Hilal vs Al Gharafa",
         "diary_hour": "13:15:00",
         "date_diary": "2026-09-15",
         "createdAt": "2026-09-15T04:29:38.592Z",
-        "updatedAt": "2026-09-15T04:29:38.592Z",
+        "updatedAt": "2026-09-15T14:50:57.918Z",
         "publishedAt": "2026-09-15T04:41:19.090Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
