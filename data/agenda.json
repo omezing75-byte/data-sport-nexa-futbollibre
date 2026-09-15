@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:42:12.288159Z",
+  "updated_at": "2026-09-15T10:58:17.941849Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -15,19 +15,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-15T07:15:00",
       "start_utc": "2026-09-15T07:15:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 833,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
+        }
+      ],
       "source_data": {
         "diary_description": "AFC Champions League Elite: Beijing Guoan vs Pohang Steelers",
         "diary_hour": "07:15:00",
         "date_diary": "2026-09-15",
         "createdAt": "2026-09-15T04:28:33.357Z",
-        "updatedAt": "2026-09-15T04:28:33.357Z",
+        "updatedAt": "2026-09-15T10:57:08.556Z",
         "publishedAt": "2026-09-15T04:41:19.090Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
