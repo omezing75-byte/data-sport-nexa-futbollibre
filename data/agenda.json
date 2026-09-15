@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:31:01.413908Z",
+  "updated_at": "2026-09-15T23:46:42.696921Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -839,6 +839,12 @@
           "name": "ESPN 4 MX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4mx"
+        },
+        {
+          "id": 934,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney12"
         }
       ],
       "source_data": {
@@ -846,7 +852,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-15",
         "createdAt": "2026-09-15T04:30:42.194Z",
-        "updatedAt": "2026-09-15T04:30:42.194Z",
+        "updatedAt": "2026-09-15T23:39:10.413Z",
         "publishedAt": "2026-09-15T04:41:19.090Z",
         "channels": {
           "data": []
@@ -858,6 +864,13 @@
               "attributes": {
                 "embed_name": "ESPN 4 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
+              }
+            },
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
               }
             }
           ]
