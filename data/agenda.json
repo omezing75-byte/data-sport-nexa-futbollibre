@@ -1,98 +1,8 @@
 {
-  "updated_at": "2026-09-15T00:46:50.601249Z",
+  "updated_at": "2026-09-15T01:00:45.035309Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39503,
-      "title": "Brasileirão: Bahia vs Remo",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-14",
-      "diary_hour": "18:00:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-14T18:00:00",
-      "start_utc": "2026-09-14T21:00:00Z",
-      "embeds": [
-        {
-          "id": 1481,
-          "name": "Premiere BR | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
-        },
-        {
-          "id": 1320,
-          "name": "Premiere BR",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Brasileirão: \nBahia vs Remo",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-09-14",
-        "createdAt": "2026-09-14T09:35:59.738Z",
-        "updatedAt": "2026-09-14T17:58:00.768Z",
-        "publishedAt": "2026-09-14T09:36:01.993Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1481,
-              "attributes": {
-                "embed_name": "Premiere BR | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-              }
-            },
-            {
-              "id": 1320,
-              "attributes": {
-                "embed_name": "Premiere BR ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39504,
       "title": "Primera División: Unión La Calera vs Deportes Limache",
@@ -691,6 +601,18 @@
           "name": "FOX ONE",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even8"
+        },
+        {
+          "id": 536,
+          "name": "FOX ONE HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even8"
+        },
+        {
+          "id": 682,
+          "name": "FOX HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even8"
         }
       ],
       "source_data": {
@@ -698,7 +620,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-14",
         "createdAt": "2026-09-14T09:45:27.280Z",
-        "updatedAt": "2026-09-14T09:45:29.185Z",
+        "updatedAt": "2026-09-15T00:57:47.331Z",
         "publishedAt": "2026-09-14T09:45:29.181Z",
         "channels": {
           "data": []
@@ -709,6 +631,20 @@
               "id": 523,
               "attributes": {
                 "embed_name": "FOX ONE",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44"
+              }
+            },
+            {
+              "id": 536,
+              "attributes": {
+                "embed_name": "FOX ONE HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44"
+              }
+            },
+            {
+              "id": 682,
+              "attributes": {
+                "embed_name": "FOX HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44"
               }
             }
