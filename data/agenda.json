@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:58:00.811302Z",
+  "updated_at": "2026-09-16T19:16:52.237951Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -419,7 +419,7 @@
         {
           "id": 1191,
           "name": "Entel TV PLUS+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
         }
       ],
@@ -439,7 +439,7 @@
               "id": 1191,
               "attributes": {
                 "embed_name": "Entel TV PLUS+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
               }
             }
           ]
@@ -1017,7 +1017,7 @@
         {
           "id": 1191,
           "name": "Entel TV PLUS+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
         }
       ],
@@ -1037,7 +1037,7 @@
               "id": 1191,
               "attributes": {
                 "embed_name": "Entel TV PLUS+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
               }
             }
           ]
@@ -1306,7 +1306,7 @@
         {
           "id": 1191,
           "name": "Entel TV PLUS+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
         }
       ],
@@ -1326,7 +1326,7 @@
               "id": 1191,
               "attributes": {
                 "embed_name": "Entel TV PLUS+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
               }
             }
           ]
