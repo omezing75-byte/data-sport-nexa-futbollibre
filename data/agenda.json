@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T13:19:44.794225Z",
+  "updated_at": "2026-09-16T13:36:29.020965Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -1536,122 +1536,6 @@
       }
     },
     {
-      "id": 39573,
-      "title": "UEFA Europa League: Olympiakos Piraeus vs Jagiellonia Białystok",
-      "competition": "UEFA Europa League",
-      "date_diary": "2026-09-16",
-      "diary_hour": "14:00:00",
-      "country": "UEFA Europa League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-16T14:00:00",
-      "start_utc": "2026-09-16T14:00:00Z",
-      "embeds": [
-        {
-          "id": 645,
-          "name": "ESPN 5",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        },
-        {
-          "id": 474,
-          "name": "ESPN 5 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        },
-        {
-          "id": 599,
-          "name": "ESPN 5 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        },
-        {
-          "id": 1466,
-          "name": "ESPN 5 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
-        }
-      ],
-      "source_data": {
-        "diary_description": "UEFA Europa League: Olympiakos Piraeus vs Jagiellonia Białystok",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:22:24.929Z",
-        "updatedAt": "2026-09-16T01:22:24.929Z",
-        "publishedAt": "2026-09-16T05:03:10.622Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN 5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
-              }
-            },
-            {
-              "id": 474,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
-              }
-            },
-            {
-              "id": 599,
-              "attributes": {
-                "embed_name": "ESPN 5 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
-              }
-            },
-            {
-              "id": 1466,
-              "attributes": {
-                "embed_name": "ESPN 5 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 37,
-            "attributes": {
-              "name": "UEFA Europa League",
-              "createdAt": "2023-11-30T05:01:42.926Z",
-              "updatedAt": "2025-09-24T21:45:08.241Z",
-              "publishedAt": "2023-11-30T05:01:44.247Z",
-              "image": {
-                "data": {
-                  "id": 405,
-                  "attributes": {
-                    "name": "uefael_2b6c82aa64.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefael_2b6c82aa64_3944ac820b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.51,
-                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-24T21:45:01.482Z",
-                    "updatedAt": "2025-09-24T21:45:01.482Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 39576,
       "title": "UEFA Europa League: Anderlecht vs Olympique Lyonnais",
       "competition": "UEFA Europa League",
@@ -1843,6 +1727,200 @@
               "attributes": {
                 "embed_name": "ESPN 2 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39573,
+      "title": "UEFA Europa League: Olympiakos Piraeus vs Jagiellonia Białystok",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-16",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-16T14:00:00",
+      "start_utc": "2026-09-16T14:00:00Z",
+      "embeds": [
+        {
+          "id": 645,
+          "name": "ESPN 5",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 474,
+          "name": "ESPN 5 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 599,
+          "name": "ESPN 5 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 1466,
+          "name": "ESPN 5 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 934,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney12"
+        },
+        {
+          "id": 206,
+          "name": "TUDN USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1164,
+          "name": "TUDN USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1165,
+          "name": "TUDN USA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1478,
+          "name": "TUDN USA | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1071,
+          "name": "Unimas",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaW1hcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=unimas"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: Olympiakos Piraeus vs Jagiellonia Białystok",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-16",
+        "createdAt": "2026-09-16T01:22:24.929Z",
+        "updatedAt": "2026-09-16T13:20:20.644Z",
+        "publishedAt": "2026-09-16T05:03:10.622Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            },
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1164,
+              "attributes": {
+                "embed_name": "TUDN USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1165,
+              "attributes": {
+                "embed_name": "TUDN USA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1478,
+              "attributes": {
+                "embed_name": "TUDN USA | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaW1hcw=="
               }
             }
           ]
