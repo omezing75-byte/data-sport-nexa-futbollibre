@@ -1,318 +1,8 @@
 {
-  "updated_at": "2026-09-16T13:53:17.069748Z",
+  "updated_at": "2026-09-16T14:14:24.406436Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39579,
-      "title": "LaLiga: Atlético Madrid vs Osasuna",
-      "competition": "LaLiga",
-      "date_diary": "2026-09-16",
-      "diary_hour": "12:00:00",
-      "country": "España",
-      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
-      "source_timezone": "Europe/Madrid",
-      "source_local": "2026-09-16T12:00:00",
-      "start_utc": "2026-09-16T10:00:00Z",
-      "embeds": [
-        {
-          "id": 657,
-          "name": "ESPN",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 652,
-          "name": "ESPN AR┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 234,
-          "name": "ESPN AR┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 827,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
-        },
-        {
-          "id": 57,
-          "name": "ESPN Deportes",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
-        },
-        {
-          "id": 1374,
-          "name": "ESPN Deportes | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
-        },
-        {
-          "id": 1408,
-          "name": "ESPN Deportes | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
-        },
-        {
-          "id": 1149,
-          "name": "Espn+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnplus1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "LaLiga: Atlético Madrid vs Osasuna",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:27:19.801Z",
-        "updatedAt": "2026-09-16T13:07:42.655Z",
-        "publishedAt": "2026-09-16T05:03:10.622Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-              }
-            },
-            {
-              "id": 652,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 234,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 827,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
-              }
-            },
-            {
-              "id": 57,
-              "attributes": {
-                "embed_name": "ESPN Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-              }
-            },
-            {
-              "id": 1374,
-              "attributes": {
-                "embed_name": "ESPN Deportes  | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-              }
-            },
-            {
-              "id": 1408,
-              "attributes": {
-                "embed_name": "ESPN Deportes  | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-              }
-            },
-            {
-              "id": 1149,
-              "attributes": {
-                "embed_name": "Espn+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39580,
-      "title": "LaLiga: Deportivo La Coruña vs Sevilla",
-      "competition": "LaLiga",
-      "date_diary": "2026-09-16",
-      "diary_hour": "12:00:00",
-      "country": "España",
-      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
-      "source_timezone": "Europe/Madrid",
-      "source_local": "2026-09-16T12:00:00",
-      "start_utc": "2026-09-16T10:00:00Z",
-      "embeds": [
-        {
-          "id": 520,
-          "name": "ESPN 4",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1398,
-          "name": "ESPN 4 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1399,
-          "name": "ESPN 4 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1479,
-          "name": "ESPN 4 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 831,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
-        },
-        {
-          "id": 1130,
-          "name": "Espn+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnplus2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "LaLiga: Deportivo La Coruña vs Sevilla",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:29:11.301Z",
-        "updatedAt": "2026-09-16T13:08:56.014Z",
-        "publishedAt": "2026-09-16T05:03:18.797Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1479,
-              "attributes": {
-                "embed_name": "ESPN 4 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
-              }
-            },
-            {
-              "id": 1130,
-              "attributes": {
-                "embed_name": "Espn+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39598,
       "title": "AFC Champions League Two: Al Wahda vs Al Kuwait",
@@ -918,8 +608,8 @@
       }
     },
     {
-      "id": 39581,
-      "title": "LaLiga: Barcelona vs Racing Santander",
+      "id": 39582,
+      "title": "LaLiga: Levante vs Athletic Club",
       "competition": "LaLiga",
       "date_diary": "2026-09-16",
       "diary_hour": "14:30:00",
@@ -929,19 +619,99 @@
       "source_timezone": "Europe/Madrid",
       "source_local": "2026-09-16T14:30:00",
       "start_utc": "2026-09-16T12:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1252,
+          "name": "Dsports Argentina",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 644,
+          "name": "DSports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 341,
+          "name": "DSports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 748,
+          "name": "DSports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 1455,
+          "name": "DSports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 1131,
+          "name": "Espn+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzNA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnplus4"
+        }
+      ],
       "source_data": {
-        "diary_description": "LaLiga: \nBarcelona vs Racing Santander",
+        "diary_description": "LaLiga: \nLevante vs Athletic Club",
         "diary_hour": "14:30:00",
         "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:29:54.746Z",
-        "updatedAt": "2026-09-16T01:29:54.746Z",
+        "createdAt": "2026-09-16T01:30:37.541Z",
+        "updatedAt": "2026-09-16T13:59:29.941Z",
         "publishedAt": "2026-09-16T05:03:18.797Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports Argentina",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            },
+            {
+              "id": 1131,
+              "attributes": {
+                "embed_name": "Espn+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzNA=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -980,8 +750,8 @@
       }
     },
     {
-      "id": 39582,
-      "title": "LaLiga: Levante vs Athletic Club",
+      "id": 39581,
+      "title": "LaLiga: Barcelona vs Racing Santander",
       "competition": "LaLiga",
       "date_diary": "2026-09-16",
       "diary_hour": "14:30:00",
@@ -991,19 +761,86 @@
       "source_timezone": "Europe/Madrid",
       "source_local": "2026-09-16T14:30:00",
       "start_utc": "2026-09-16T12:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1060,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE3",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney17"
+        },
+        {
+          "id": 1132,
+          "name": "Espn+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnplus3"
+        },
+        {
+          "id": 57,
+          "name": "ESPN Deportes",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1374,
+          "name": "ESPN Deportes | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1408,
+          "name": "ESPN Deportes | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        }
+      ],
       "source_data": {
-        "diary_description": "LaLiga: \nLevante vs Athletic Club",
+        "diary_description": "LaLiga: \nBarcelona vs Racing Santander",
         "diary_hour": "14:30:00",
         "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:30:37.541Z",
-        "updatedAt": "2026-09-16T01:30:37.541Z",
+        "createdAt": "2026-09-16T01:29:54.746Z",
+        "updatedAt": "2026-09-16T14:00:58.595Z",
         "publishedAt": "2026-09-16T05:03:18.797Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1060,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE3"
+              }
+            },
+            {
+              "id": 1132,
+              "attributes": {
+                "embed_name": "Espn+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+              }
+            },
+            {
+              "id": 1374,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 1408,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1536,238 +1373,6 @@
       }
     },
     {
-      "id": 39576,
-      "title": "UEFA Europa League: Anderlecht vs Olympique Lyonnais",
-      "competition": "UEFA Europa League",
-      "date_diary": "2026-09-16",
-      "diary_hour": "14:00:00",
-      "country": "UEFA Europa League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-16T14:00:00",
-      "start_utc": "2026-09-16T14:00:00Z",
-      "embeds": [
-        {
-          "id": 656,
-          "name": "ESPN 3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1357,
-          "name": "ESPN 3 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1358,
-          "name": "ESPN 3 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1462,
-          "name": "ESPN 3 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        }
-      ],
-      "source_data": {
-        "diary_description": "UEFA Europa League: Anderlecht vs Olympique Lyonnais",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:24:38.841Z",
-        "updatedAt": "2026-09-16T01:24:38.841Z",
-        "publishedAt": "2026-09-16T05:03:10.622Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 37,
-            "attributes": {
-              "name": "UEFA Europa League",
-              "createdAt": "2023-11-30T05:01:42.926Z",
-              "updatedAt": "2025-09-24T21:45:08.241Z",
-              "publishedAt": "2023-11-30T05:01:44.247Z",
-              "image": {
-                "data": {
-                  "id": 405,
-                  "attributes": {
-                    "name": "uefael_2b6c82aa64.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefael_2b6c82aa64_3944ac820b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.51,
-                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-24T21:45:01.482Z",
-                    "updatedAt": "2025-09-24T21:45:01.482Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39577,
-      "title": "UEFA Europa League: Milan vs Benfica",
-      "competition": "UEFA Europa League",
-      "date_diary": "2026-09-16",
-      "diary_hour": "14:00:00",
-      "country": "UEFA Europa League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-16T14:00:00",
-      "start_utc": "2026-09-16T14:00:00Z",
-      "embeds": [
-        {
-          "id": 640,
-          "name": "ESPN 2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1133,
-          "name": "ESPN 2 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1377,
-          "name": "ESPN 2 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1461,
-          "name": "ESPN 2 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "UEFA Europa League: \nMilan vs Benfica",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:25:29.531Z",
-        "updatedAt": "2026-09-16T01:25:29.531Z",
-        "publishedAt": "2026-09-16T05:03:10.622Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 37,
-            "attributes": {
-              "name": "UEFA Europa League",
-              "createdAt": "2023-11-30T05:01:42.926Z",
-              "updatedAt": "2025-09-24T21:45:08.241Z",
-              "publishedAt": "2023-11-30T05:01:44.247Z",
-              "image": {
-                "data": {
-                  "id": 405,
-                  "attributes": {
-                    "name": "uefael_2b6c82aa64.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefael_2b6c82aa64_3944ac820b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.51,
-                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-24T21:45:01.482Z",
-                    "updatedAt": "2025-09-24T21:45:01.482Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 39573,
       "title": "UEFA Europa League: Olympiakos Piraeus vs Jagiellonia Białystok",
       "competition": "UEFA Europa League",
@@ -1962,6 +1567,264 @@
       }
     },
     {
+      "id": 39576,
+      "title": "UEFA Europa League: Anderlecht vs Olympique Lyonnais",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-16",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-16T14:00:00",
+      "start_utc": "2026-09-16T14:00:00Z",
+      "embeds": [
+        {
+          "id": 656,
+          "name": "ESPN 3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1357,
+          "name": "ESPN 3 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1358,
+          "name": "ESPN 3 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1462,
+          "name": "ESPN 3 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 935,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney14"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: Anderlecht vs Olympique Lyonnais",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-16",
+        "createdAt": "2026-09-16T01:24:38.841Z",
+        "updatedAt": "2026-09-16T13:56:06.960Z",
+        "publishedAt": "2026-09-16T05:03:10.622Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1462,
+              "attributes": {
+                "embed_name": "ESPN 3 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+              }
+            },
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39577,
+      "title": "UEFA Europa League: Milan vs Benfica",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-16",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-16T14:00:00",
+      "start_utc": "2026-09-16T14:00:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 932,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney15"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nMilan vs Benfica",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-16",
+        "createdAt": "2026-09-16T01:25:29.531Z",
+        "updatedAt": "2026-09-16T13:56:50.557Z",
+        "publishedAt": "2026-09-16T05:03:10.622Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 932,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39572,
       "title": "UEFA Europa League: Sturm Graz vs Rennes",
       "competition": "UEFA Europa League",
@@ -2050,19 +1913,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-16T14:00:00",
       "start_utc": "2026-09-16T14:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 933,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney13"
+        }
+      ],
       "source_data": {
         "diary_description": "UEFA Europa League: Hapoel Be'er Sheva vs Dinamo Zagreb",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-16",
         "createdAt": "2026-09-16T01:22:55.033Z",
-        "updatedAt": "2026-09-16T01:22:55.033Z",
+        "updatedAt": "2026-09-16T13:55:24.800Z",
         "publishedAt": "2026-09-16T05:03:10.622Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -2136,6 +2014,12 @@
           "name": "ESPN 4 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1059,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney16"
         }
       ],
       "source_data": {
@@ -2143,7 +2027,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-16",
         "createdAt": "2026-09-16T01:23:51.935Z",
-        "updatedAt": "2026-09-16T01:23:51.935Z",
+        "updatedAt": "2026-09-16T13:57:34.085Z",
         "publishedAt": "2026-09-16T05:03:10.622Z",
         "channels": {
           "data": []
@@ -2176,6 +2060,13 @@
               "attributes": {
                 "embed_name": "ESPN 4 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1059,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2"
               }
             }
           ]
@@ -2460,19 +2351,86 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-16T17:00:00",
       "start_utc": "2026-09-16T17:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1252,
+          "name": "Dsports Argentina",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 644,
+          "name": "DSports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 341,
+          "name": "DSports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 748,
+          "name": "DSports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 1455,
+          "name": "DSports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+          "player_url": ""
+        }
+      ],
       "source_data": {
         "diary_description": "Copa Sudamericana: \nAtlético Mineiro vs Santos",
         "diary_hour": "17:00:00",
         "date_diary": "2026-09-16",
         "createdAt": "2026-09-16T01:38:44.816Z",
-        "updatedAt": "2026-09-16T01:39:02.462Z",
+        "updatedAt": "2026-09-16T14:03:08.132Z",
         "publishedAt": "2026-09-16T05:03:18.797Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports Argentina",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 1455,
+              "attributes": {
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -2540,6 +2498,30 @@
           "name": "ESPN AR┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 1058,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney18"
+        },
+        {
+          "id": 120,
+          "name": "Fox Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1004,
+          "name": "Fox Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 532,
+          "name": "ESPN 4 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4mx"
         }
       ],
       "source_data": {
@@ -2547,7 +2529,7 @@
         "diary_hour": "17:00:00",
         "date_diary": "2026-09-16",
         "createdAt": "2026-09-16T01:39:56.502Z",
-        "updatedAt": "2026-09-16T01:39:56.502Z",
+        "updatedAt": "2026-09-16T14:02:22.150Z",
         "publishedAt": "2026-09-16T05:03:26.718Z",
         "channels": {
           "data": []
@@ -2573,6 +2555,34 @@
               "attributes": {
                 "embed_name": "ESPN AR┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Fox Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 532,
+              "attributes": {
+                "embed_name": "ESPN 4 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
               }
             }
           ]
@@ -3006,68 +3016,6 @@
       }
     },
     {
-      "id": 39586,
-      "title": "Brasileirão: Botafogo vs Grêmio",
-      "competition": "Brasileirão",
-      "date_diary": "2026-09-16",
-      "diary_hour": "17:30:00",
-      "country": "Brasil",
-      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
-      "source_timezone": "America/Sao_Paulo",
-      "source_local": "2026-09-16T17:30:00",
-      "start_utc": "2026-09-16T20:30:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": " Brasileirão: \nBotafogo vs Grêmio",
-        "diary_hour": "17:30:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T01:33:19.547Z",
-        "updatedAt": "2026-09-16T01:33:19.547Z",
-        "publishedAt": "2026-09-16T05:03:18.797Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2025-08-03T15:06:25.755Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 355,
-                  "attributes": {
-                    "name": "brasil_25a533e5f7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.73,
-                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:21.382Z",
-                    "updatedAt": "2025-08-03T15:06:21.382Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 39606,
       "title": "MLB – Arizona Diamondbacks vs. Miami Marlins",
       "competition": "MLB Preseason",
@@ -3175,6 +3123,96 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:07.537Z",
                     "updatedAt": "2025-08-03T14:39:07.537Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39586,
+      "title": "Brasileirão: Botafogo vs Grêmio",
+      "competition": "Brasileirão",
+      "date_diary": "2026-09-16",
+      "diary_hour": "17:30:00",
+      "country": "Brasil",
+      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
+      "source_timezone": "America/Sao_Paulo",
+      "source_local": "2026-09-16T17:30:00",
+      "start_utc": "2026-09-16T20:30:00Z",
+      "embeds": [
+        {
+          "id": 1320,
+          "name": "Premiere BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        },
+        {
+          "id": 1481,
+          "name": "Premiere BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Brasileirão: \nBotafogo vs Grêmio",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-09-16",
+        "createdAt": "2026-09-16T01:33:19.547Z",
+        "updatedAt": "2026-09-16T14:04:16.891Z",
+        "publishedAt": "2026-09-16T05:03:18.797Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 1481,
+              "attributes": {
+                "embed_name": "Premiere BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
                   }
                 }
               }
