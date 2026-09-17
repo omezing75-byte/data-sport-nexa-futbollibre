@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T20:34:08.831821Z",
+  "updated_at": "2026-09-17T20:47:16.828251Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -726,10 +726,10 @@
       "start_utc": "2026-09-17T20:00:00Z",
       "embeds": [
         {
-          "id": 1501,
+          "id": 1067,
           "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQo=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney21"
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney20"
         }
       ],
       "source_data": {
@@ -737,7 +737,7 @@
         "diary_hour": "16:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-17T18:44:59.678Z",
-        "updatedAt": "2026-09-17T18:45:16.676Z",
+        "updatedAt": "2026-09-17T20:39:37.755Z",
         "publishedAt": "2026-09-17T18:45:01.623Z",
         "channels": {
           "data": []
@@ -745,10 +745,10 @@
         "embeds": {
           "data": [
             {
-              "id": 1501,
+              "id": 1067,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQo="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw"
               }
             }
           ]
