@@ -1,70 +1,8 @@
 {
-  "updated_at": "2026-09-17T13:58:04.890349Z",
+  "updated_at": "2026-09-17T14:19:47.294767Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39628,
-      "title": "LaLiga: Real Betis vs Getafe",
-      "competition": "LaLiga",
-      "date_diary": "2026-09-17",
-      "diary_hour": "12:00:00",
-      "country": "España",
-      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
-      "source_timezone": "Europe/Madrid",
-      "source_local": "2026-09-17T12:00:00",
-      "start_utc": "2026-09-17T10:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "LaLiga: \nReal Betis vs Getafe",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-09-17",
-        "createdAt": "2026-09-16T23:55:27.377Z",
-        "updatedAt": "2026-09-16T23:55:27.377Z",
-        "publishedAt": "2026-09-17T05:26:25.472Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39640,
       "title": "Copa Mundial Femenina Sub-20 de la FIFA: Corea del Norte vs Japón",
@@ -147,6 +85,24 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
         },
         {
+          "id": 1250,
+          "name": "Dsports 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 1468,
+          "name": "Dsports 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 1410,
+          "name": "Dsports 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
           "id": 737,
           "name": "TUDN MX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg=",
@@ -164,7 +120,7 @@
         "diary_hour": "11:30:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-17T00:04:00.506Z",
-        "updatedAt": "2026-09-17T12:40:58.268Z",
+        "updatedAt": "2026-09-17T14:19:02.725Z",
         "publishedAt": "2026-09-17T05:26:54.246Z",
         "channels": {
           "data": []
@@ -176,6 +132,27 @@
               "attributes": {
                 "embed_name": "Dsports 2",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1250,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1468,
+              "attributes": {
+                "embed_name": "Dsports 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+              }
+            },
+            {
+              "id": 1410,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
               }
             },
             {
