@@ -1,6 +1,2341 @@
 {
-  "updated_at": "2026-09-17T05:12:47.717297Z",
+  "updated_at": "2026-09-17T05:31:44.989810Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
-  "events": []
+  "events": [
+    {
+      "id": 39644,
+      "title": "Golf – BMW PGA Championship – Primera Vuelta",
+      "competition": "Golf",
+      "date_diary": "2026-09-17",
+      "diary_hour": "06:00:00",
+      "country": "Golf",
+      "logo": "https://futbollibretv.org.pe/uploads/golf_4a8d942645_6c3bec75aa.png",
+      "logo_fallback": "",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-17T06:00:00",
+      "start_utc": "2026-09-17T05:00:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Golf – BMW PGA Championship – Primera Vuelta",
+        "diary_hour": "06:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:46:31.285Z",
+        "updatedAt": "2026-09-17T00:46:31.285Z",
+        "publishedAt": "2026-09-17T05:26:54.246Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 22,
+            "attributes": {
+              "name": "Golf",
+              "createdAt": "2023-11-23T13:25:40.717Z",
+              "updatedAt": "2025-09-04T14:08:20.151Z",
+              "publishedAt": "2023-11-23T13:25:42.231Z",
+              "image": {
+                "data": {
+                  "id": 393,
+                  "attributes": {
+                    "name": "golf_4a8d942645.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "golf_4a8d942645_6c3bec75aa",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.51,
+                    "url": "/uploads/golf_4a8d942645_6c3bec75aa.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:08:15.762Z",
+                    "updatedAt": "2025-09-04T14:08:15.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39636,
+      "title": "AFC Champions League Two: Shanghai Shenhua vs Tampines Rovers",
+      "competition": "AFC Champions League Two",
+      "date_diary": "2026-09-17",
+      "diary_hour": "07:15:00",
+      "country": "AFC Champions League",
+      "logo": "https://futbollibretv.org.pe/uploads/AFC_Champions_League_7f4a65ac2e.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T07:15:00",
+      "start_utc": "2026-09-17T07:15:00Z",
+      "embeds": [
+        {
+          "id": 833,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "AFC Champions League Two: \nShanghai Shenhua vs Tampines Rovers",
+        "diary_hour": "07:15:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:02:03.034Z",
+        "updatedAt": "2026-09-17T00:02:03.034Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 63,
+            "attributes": {
+              "name": "AFC Champions League",
+              "createdAt": "2024-02-12T23:24:23.051Z",
+              "updatedAt": "2025-09-15T10:54:21.750Z",
+              "publishedAt": "2024-02-12T23:24:26.129Z",
+              "image": {
+                "data": {
+                  "id": 402,
+                  "attributes": {
+                    "name": "AFC Champions League.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "AFC_Champions_League_7f4a65ac2e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.83,
+                    "url": "/uploads/AFC_Champions_League_7f4a65ac2e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-15T10:54:12.526Z",
+                    "updatedAt": "2025-09-15T10:54:12.526Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39637,
+      "title": "Copa Mundial Femenina Sub-20 de la FIFA: Inglaterra vs Nigeria",
+      "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-17",
+      "diary_hour": "08:00:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T08:00:00",
+      "start_utc": "2026-09-17T08:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: \nInglaterra  vs Nigeria",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:02:57.524Z",
+        "updatedAt": "2026-09-17T00:02:57.524Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39638,
+      "title": "Copa Mundial Femenina Sub-20 de la FIFA: Francia vs Canadá",
+      "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-17",
+      "diary_hour": "08:00:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T08:00:00",
+      "start_utc": "2026-09-17T08:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: \nFrancia  vs Canadá",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:03:27.706Z",
+        "updatedAt": "2026-09-17T00:03:27.706Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39628,
+      "title": "LaLiga: Real Betis vs Getafe",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-17",
+      "diary_hour": "12:00:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-17T12:00:00",
+      "start_utc": "2026-09-17T10:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "LaLiga: \nReal Betis vs Getafe",
+        "diary_hour": "12:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:55:27.377Z",
+        "updatedAt": "2026-09-16T23:55:27.377Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39640,
+      "title": "Copa Mundial Femenina Sub-20 de la FIFA: Corea del Norte vs Japón",
+      "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-17",
+      "diary_hour": "11:30:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T11:30:00",
+      "start_utc": "2026-09-17T11:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: Corea del Norte  vs Japón",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:04:31.078Z",
+        "updatedAt": "2026-09-17T00:04:31.078Z",
+        "publishedAt": "2026-09-17T05:26:54.246Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39639,
+      "title": "Copa Mundial Femenina Sub-20 de la FIFA: Polonia vs Colombia",
+      "competition": "Copa Mundial Femenina Sub-20 de la FIFA",
+      "date_diary": "2026-09-17",
+      "diary_hour": "11:30:00",
+      "country": "Copa mundial sub20 fifa",
+      "logo": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T11:30:00",
+      "start_utc": "2026-09-17T11:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: \nPolonia  vs Colombia",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:04:00.506Z",
+        "updatedAt": "2026-09-17T00:04:00.506Z",
+        "publishedAt": "2026-09-17T05:26:54.246Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Copa mundial sub20 fifa",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2026-06-24T23:22:48.740Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 437,
+                  "attributes": {
+                    "name": "copamundial.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copamundial_69c33e7ee4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.91,
+                    "url": "/uploads/copamundial_69c33e7ee4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-06-24T23:22:08.564Z",
+                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39619,
+      "title": "UEFA Europa League: OFI vs Hoffenheim",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "11:45:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T11:45:00",
+      "start_utc": "2026-09-17T11:45:00Z",
+      "embeds": [
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nOFI vs Hoffenheim",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:48:21.400Z",
+        "updatedAt": "2026-09-16T23:48:21.400Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39620,
+      "title": "UEFA Europa League: Levski Sofia vs Salzburg",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "11:45:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T11:45:00",
+      "start_utc": "2026-09-17T11:45:00Z",
+      "embeds": [
+        {
+          "id": 656,
+          "name": "ESPN 3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1357,
+          "name": "ESPN 3 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1358,
+          "name": "ESPN 3 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1462,
+          "name": "ESPN 3 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nLevski Sofia vs Salzburg",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:49:40.874Z",
+        "updatedAt": "2026-09-16T23:49:40.874Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1462,
+              "attributes": {
+                "embed_name": "ESPN 3 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39629,
+      "title": "LaLiga: Málaga vs Villarreal",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:30:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-17T14:30:00",
+      "start_utc": "2026-09-17T12:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "LaLiga: Málaga vs Villarreal",
+        "diary_hour": "14:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:55:54.677Z",
+        "updatedAt": "2026-09-16T23:55:54.677Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39630,
+      "title": "EFL Cup: Manchester City vs Norwich City",
+      "competition": "EFL Cup",
+      "date_diary": "2026-09-17",
+      "diary_hour": "13:30:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-17T13:30:00",
+      "start_utc": "2026-09-17T12:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": " EFL Cup: \nManchester City vs Norwich City",
+        "diary_hour": "13:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:56:29.676Z",
+        "updatedAt": "2026-09-16T23:56:29.676Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39621,
+      "title": "UEFA Europa League: Viktoria Plzeň vs Union Saint-Gilloise",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nViktoria Plzeň vs Union Saint-Gilloise",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:50:13.706Z",
+        "updatedAt": "2026-09-16T23:50:13.706Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39623,
+      "title": "UEFA Europa League: Crystal Palace vs Lech Poznań",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nCrystal Palace vs Lech Poznań",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:51:38.379Z",
+        "updatedAt": "2026-09-16T23:51:38.379Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39625,
+      "title": "UEFA Europa League: Beşiktaş vs Olympique Marseille",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 656,
+          "name": "ESPN 3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1357,
+          "name": "ESPN 3 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1358,
+          "name": "ESPN 3 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1462,
+          "name": "ESPN 3 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: Beşiktaş vs Olympique Marseille",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:53:41.725Z",
+        "updatedAt": "2026-09-16T23:53:41.725Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1462,
+              "attributes": {
+                "embed_name": "ESPN 3 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39627,
+      "title": "UEFA Europa League: Real Sociedad vs AFC Bournemouth",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 653,
+          "name": "ESPN 7",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 1396,
+          "name": "ESPN 7 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 1397,
+          "name": "ESPN 7 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nReal Sociedad vs AFC Bournemouth",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:54:49.526Z",
+        "updatedAt": "2026-09-16T23:54:49.526Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 653,
+              "attributes": {
+                "embed_name": "ESPN 7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 1396,
+              "attributes": {
+                "embed_name": "ESPN 7 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 1397,
+              "attributes": {
+                "embed_name": "ESPN 7 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39622,
+      "title": "UEFA Europa League: Juventus vs NEC",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: Juventus vs NEC",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:50:53.072Z",
+        "updatedAt": "2026-09-16T23:50:53.072Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39624,
+      "title": "UEFA Europa League: Celtic vs Ferencváros",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 645,
+          "name": "ESPN 5",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 474,
+          "name": "ESPN 5 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 599,
+          "name": "ESPN 5 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 1466,
+          "name": "ESPN 5 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nCeltic vs Ferencváros",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:52:27.207Z",
+        "updatedAt": "2026-09-16T23:52:27.207Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39626,
+      "title": "UEFA Europa League: Lillestrøm vs Torreense",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nLillestrøm vs Torreense",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:54:11.855Z",
+        "updatedAt": "2026-09-16T23:54:11.855Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39641,
+      "title": "Torneo de Reserva: Estudiantes Rio Cuarto vs Estudiantes",
+      "competition": "Torneo de Reserva",
+      "date_diary": "2026-09-17",
+      "diary_hour": "13:00:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-17T13:00:00",
+      "start_utc": "2026-09-17T16:00:00Z",
+      "embeds": [
+        {
+          "id": 257,
+          "name": "TNT Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1322,
+          "name": "TNT Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1405,
+          "name": "TNT Sports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1490,
+          "name": "TNT Sports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Torneo de Reserva: Estudiantes Rio Cuarto  vs Estudiantes",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:05:35.382Z",
+        "updatedAt": "2026-09-17T00:05:35.382Z",
+        "publishedAt": "2026-09-17T05:26:54.246Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 257,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1322,
+              "attributes": {
+                "embed_name": "TNT Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1405,
+              "attributes": {
+                "embed_name": "TNT Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1490,
+              "attributes": {
+                "embed_name": "TNT Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39643,
+      "title": "Copa Uruguay: Juventud vs Racing",
+      "competition": "Copa Uruguay",
+      "date_diary": "2026-09-17",
+      "diary_hour": "13:30:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-17T13:30:00",
+      "start_utc": "2026-09-17T16:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Copa Uruguay: \nJuventud vs Racing",
+        "diary_hour": "13:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:44:35.046Z",
+        "updatedAt": "2026-09-17T00:44:35.046Z",
+        "publishedAt": "2026-09-17T05:26:54.246Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39642,
+      "title": "Copa Uruguay: Central Español vs Oriental",
+      "competition": "Copa Uruguay",
+      "date_diary": "2026-09-17",
+      "diary_hour": "13:30:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-17T13:30:00",
+      "start_utc": "2026-09-17T16:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Copa Uruguay: \nCentral Español vs Oriental",
+        "diary_hour": "13:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:44:08.752Z",
+        "updatedAt": "2026-09-17T00:44:08.752Z",
+        "publishedAt": "2026-09-17T05:26:54.246Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39634,
+      "title": "Copa Sudamericana: Torque vs Cienciano",
+      "competition": "Copa Sudamericana",
+      "date_diary": "2026-09-17",
+      "diary_hour": "19:30:00",
+      "country": "CONMEBOL Sudamericana",
+      "logo": "https://futbollibretv.org.pe/uploads/image_modified_f8ce531f01_b000a25a9e.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T19:30:00",
+      "start_utc": "2026-09-17T19:30:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa Sudamericana: \nTorque vs Cienciano",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:00:32.186Z",
+        "updatedAt": "2026-09-17T00:00:32.186Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 83,
+            "attributes": {
+              "name": "CONMEBOL Sudamericana",
+              "createdAt": "2024-03-06T11:08:44.716Z",
+              "updatedAt": "2025-08-12T18:17:34.431Z",
+              "publishedAt": "2024-03-06T11:08:46.058Z",
+              "image": {
+                "data": {
+                  "id": 374,
+                  "attributes": {
+                    "name": "image_modified_f8ce531f01.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 137,
+                    "height": 137,
+                    "formats": null,
+                    "hash": "image_modified_f8ce531f01_b000a25a9e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.4,
+                    "url": "/uploads/image_modified_f8ce531f01_b000a25a9e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-12T18:17:29.414Z",
+                    "updatedAt": "2025-08-12T18:17:29.414Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39635,
+      "title": "Copa Libertadores: Flamengo vs Independiente del Valle",
+      "competition": "Copa Libertadores",
+      "date_diary": "2026-09-17",
+      "diary_hour": "19:30:00",
+      "country": "Copa Libertadores",
+      "logo": "https://futbollibretv.org.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T19:30:00",
+      "start_utc": "2026-09-17T19:30:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa Libertadores: \nFlamengo vs Independiente del Valle",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T00:01:18.245Z",
+        "updatedAt": "2026-09-17T00:01:18.245Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 61,
+            "attributes": {
+              "name": "Copa Libertadores",
+              "createdAt": "2024-02-07T06:05:32.798Z",
+              "updatedAt": "2025-08-12T18:16:44.009Z",
+              "publishedAt": "2024-02-07T06:05:33.983Z",
+              "image": {
+                "data": {
+                  "id": 373,
+                  "attributes": {
+                    "name": "copa_libertadores_f60faf808a.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_libertadores_f60faf808a_6fb4deda1f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.95,
+                    "url": "/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-12T18:16:39.409Z",
+                    "updatedAt": "2025-08-12T18:16:39.409Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39631,
+      "title": "Primera División: Real Tomayapo vs Oriente Petrolero",
+      "competition": "Primera División",
+      "date_diary": "2026-09-17",
+      "diary_hour": "17:30:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-17T17:30:00",
+      "start_utc": "2026-09-17T21:30:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera División: \nReal Tomayapo vs Oriente Petrolero",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:57:08.353Z",
+        "updatedAt": "2026-09-16T23:57:08.353Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39633,
+      "title": "Primera A: Atlético Bucaramanga vs Medellín",
+      "competition": "Primera A",
+      "date_diary": "2026-09-17",
+      "diary_hour": "18:00:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-17T18:00:00",
+      "start_utc": "2026-09-17T23:00:00Z",
+      "embeds": [
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera A: Atlético Bucaramanga vs Medellín",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:58:49.791Z",
+        "updatedAt": "2026-09-16T23:58:49.791Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39632,
+      "title": "Primera División: Bolívar vs Gualberto Villarroel SJ",
+      "competition": "Primera División",
+      "date_diary": "2026-09-17",
+      "diary_hour": "19:30:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-17T19:30:00",
+      "start_utc": "2026-09-17T23:30:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera División: Bolívar vs Gualberto Villarroel SJ",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:57:43.941Z",
+        "updatedAt": "2026-09-16T23:57:43.941Z",
+        "publishedAt": "2026-09-17T05:26:40.132Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
 }
