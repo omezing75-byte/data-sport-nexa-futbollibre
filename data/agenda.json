@@ -1,318 +1,8 @@
 {
-  "updated_at": "2026-09-17T15:31:42.069009Z",
+  "updated_at": "2026-09-17T15:50:16.786026Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39619,
-      "title": "UEFA Europa League: OFI vs Hoffenheim",
-      "competition": "UEFA Europa League",
-      "date_diary": "2026-09-17",
-      "diary_hour": "11:45:00",
-      "country": "UEFA Europa League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-17T11:45:00",
-      "start_utc": "2026-09-17T11:45:00Z",
-      "embeds": [
-        {
-          "id": 520,
-          "name": "ESPN 4",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1398,
-          "name": "ESPN 4 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1399,
-          "name": "ESPN 4 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 1479,
-          "name": "ESPN 4 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
-        },
-        {
-          "id": 835,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney3"
-        }
-      ],
-      "source_data": {
-        "diary_description": "UEFA Europa League: \nOFI vs Hoffenheim",
-        "diary_hour": "11:45:00",
-        "date_diary": "2026-09-17",
-        "createdAt": "2026-09-16T23:48:21.400Z",
-        "updatedAt": "2026-09-17T14:21:13.275Z",
-        "publishedAt": "2026-09-17T05:26:25.472Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN 4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1398,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1399,
-              "attributes": {
-                "embed_name": "ESPN 4 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 1479,
-              "attributes": {
-                "embed_name": "ESPN 4 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 37,
-            "attributes": {
-              "name": "UEFA Europa League",
-              "createdAt": "2023-11-30T05:01:42.926Z",
-              "updatedAt": "2025-09-24T21:45:08.241Z",
-              "publishedAt": "2023-11-30T05:01:44.247Z",
-              "image": {
-                "data": {
-                  "id": 405,
-                  "attributes": {
-                    "name": "uefael_2b6c82aa64.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefael_2b6c82aa64_3944ac820b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.51,
-                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-24T21:45:01.482Z",
-                    "updatedAt": "2025-09-24T21:45:01.482Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39620,
-      "title": "UEFA Europa League: Levski Sofia vs Salzburg",
-      "competition": "UEFA Europa League",
-      "date_diary": "2026-09-17",
-      "diary_hour": "11:45:00",
-      "country": "UEFA Europa League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-17T11:45:00",
-      "start_utc": "2026-09-17T11:45:00Z",
-      "embeds": [
-        {
-          "id": 656,
-          "name": "ESPN 3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1357,
-          "name": "ESPN 3 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1358,
-          "name": "ESPN 3 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 1462,
-          "name": "ESPN 3 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
-        },
-        {
-          "id": 834,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
-        },
-        {
-          "id": 206,
-          "name": "TUDN USA",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
-        },
-        {
-          "id": 1164,
-          "name": "TUDN USA | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
-        },
-        {
-          "id": 1165,
-          "name": "TUDN USA | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
-        },
-        {
-          "id": 1478,
-          "name": "TUDN USA | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
-        }
-      ],
-      "source_data": {
-        "diary_description": "UEFA Europa League: \nLevski Sofia vs Salzburg",
-        "diary_hour": "11:45:00",
-        "date_diary": "2026-09-17",
-        "createdAt": "2026-09-16T23:49:40.874Z",
-        "updatedAt": "2026-09-17T14:20:37.160Z",
-        "publishedAt": "2026-09-17T05:26:25.472Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1357,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1358,
-              "attributes": {
-                "embed_name": "ESPN 3 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 1462,
-              "attributes": {
-                "embed_name": "ESPN 3 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
-              }
-            },
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
-              }
-            },
-            {
-              "id": 1164,
-              "attributes": {
-                "embed_name": "TUDN USA | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
-              }
-            },
-            {
-              "id": 1165,
-              "attributes": {
-                "embed_name": "TUDN USA | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
-              }
-            },
-            {
-              "id": 1478,
-              "attributes": {
-                "embed_name": "TUDN USA | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 37,
-            "attributes": {
-              "name": "UEFA Europa League",
-              "createdAt": "2023-11-30T05:01:42.926Z",
-              "updatedAt": "2025-09-24T21:45:08.241Z",
-              "publishedAt": "2023-11-30T05:01:44.247Z",
-              "image": {
-                "data": {
-                  "id": 405,
-                  "attributes": {
-                    "name": "uefael_2b6c82aa64.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefael_2b6c82aa64_3944ac820b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.51,
-                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-24T21:45:01.482Z",
-                    "updatedAt": "2025-09-24T21:45:01.482Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39629,
       "title": "LaLiga: Málaga vs Villarreal",
@@ -492,6 +182,83 @@
               "attributes": {
                 "embed_name": "Paramount+",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39655,
+      "title": "League One: AFC Wimbledon vs Milton Keynes Dons",
+      "competition": "League One",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T13:00:00Z",
+      "embeds": [
+        {
+          "id": 1507,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNwoKCg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney27"
+        }
+      ],
+      "source_data": {
+        "diary_description": "League One: \nAFC Wimbledon vs Milton Keynes Dons",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T15:43:38.623Z",
+        "updatedAt": "2026-09-17T15:43:40.223Z",
+        "publishedAt": "2026-09-17T15:43:40.219Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1507,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNwoKCg=="
               }
             }
           ]
@@ -1424,6 +1191,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-24T21:45:01.482Z",
                     "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39654,
+      "title": "WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Bucsa C. vs Bejlek S.",
+      "competition": "WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "Tennis",
+      "logo": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 1506,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNgoKCg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney26"
+        }
+      ],
+      "source_data": {
+        "diary_description": "WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Bucsa C. vs  Bejlek S.",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T15:39:47.512Z",
+        "updatedAt": "2026-09-17T15:40:41.013Z",
+        "publishedAt": "2026-09-17T15:39:50.224Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1506,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNgoKCg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
