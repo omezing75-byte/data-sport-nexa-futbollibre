@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:19:47.294767Z",
+  "updated_at": "2026-09-17T14:35:58.250047Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -243,6 +243,12 @@
           "name": "ESPN 4 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 835,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney3"
         }
       ],
       "source_data": {
@@ -250,7 +256,7 @@
         "diary_hour": "11:45:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:48:21.400Z",
-        "updatedAt": "2026-09-16T23:48:21.400Z",
+        "updatedAt": "2026-09-17T14:21:13.275Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -283,6 +289,13 @@
               "attributes": {
                 "embed_name": "ESPN 4 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
               }
             }
           ]
@@ -359,6 +372,36 @@
           "name": "ESPN 3 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 834,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
+        },
+        {
+          "id": 206,
+          "name": "TUDN USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1164,
+          "name": "TUDN USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1165,
+          "name": "TUDN USA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1478,
+          "name": "TUDN USA | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
         }
       ],
       "source_data": {
@@ -366,7 +409,7 @@
         "diary_hour": "11:45:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:49:40.874Z",
-        "updatedAt": "2026-09-16T23:49:40.874Z",
+        "updatedAt": "2026-09-17T14:20:37.160Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -399,6 +442,41 @@
               "attributes": {
                 "embed_name": "ESPN 3 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+              }
+            },
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1164,
+              "attributes": {
+                "embed_name": "TUDN USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1165,
+              "attributes": {
+                "embed_name": "TUDN USA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1478,
+              "attributes": {
+                "embed_name": "TUDN USA | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
               }
             }
           ]
@@ -451,19 +529,86 @@
       "source_timezone": "Europe/Madrid",
       "source_local": "2026-09-17T14:30:00",
       "start_utc": "2026-09-17T12:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 934,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney12"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
       "source_data": {
         "diary_description": "LaLiga: Málaga vs Villarreal",
         "diary_hour": "14:30:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:55:54.677Z",
-        "updatedAt": "2026-09-16T23:55:54.677Z",
+        "updatedAt": "2026-09-17T14:34:42.264Z",
         "publishedAt": "2026-09-17T05:26:40.132Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -513,19 +658,47 @@
       "source_timezone": "Europe/London",
       "source_local": "2026-09-17T13:30:00",
       "start_utc": "2026-09-17T12:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 827,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
+        },
+        {
+          "id": 1083,
+          "name": "Paramount+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=paramount1"
+        }
+      ],
       "source_data": {
         "diary_description": " EFL Cup: \nManchester City vs Norwich City",
         "diary_hour": "13:30:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:56:29.676Z",
-        "updatedAt": "2026-09-16T23:56:29.676Z",
+        "updatedAt": "2026-09-17T14:24:19.555Z",
         "publishedAt": "2026-09-17T05:26:40.132Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 1083,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -626,68 +799,6 @@
       }
     },
     {
-      "id": 39621,
-      "title": "UEFA Europa League: Viktoria Plzeň vs Union Saint-Gilloise",
-      "competition": "UEFA Europa League",
-      "date_diary": "2026-09-17",
-      "diary_hour": "14:00:00",
-      "country": "UEFA Europa League",
-      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-17T14:00:00",
-      "start_utc": "2026-09-17T14:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "UEFA Europa League: \nViktoria Plzeň vs Union Saint-Gilloise",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-17",
-        "createdAt": "2026-09-16T23:50:13.706Z",
-        "updatedAt": "2026-09-16T23:50:13.706Z",
-        "publishedAt": "2026-09-17T05:26:25.472Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 37,
-            "attributes": {
-              "name": "UEFA Europa League",
-              "createdAt": "2023-11-30T05:01:42.926Z",
-              "updatedAt": "2025-09-24T21:45:08.241Z",
-              "publishedAt": "2023-11-30T05:01:44.247Z",
-              "image": {
-                "data": {
-                  "id": 405,
-                  "attributes": {
-                    "name": "uefael_2b6c82aa64.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uefael_2b6c82aa64_3944ac820b",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.51,
-                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-24T21:45:01.482Z",
-                    "updatedAt": "2025-09-24T21:45:01.482Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 39623,
       "title": "UEFA Europa League: Crystal Palace vs Lech Poznań",
       "competition": "UEFA Europa League",
@@ -723,6 +834,12 @@
           "name": "ESPN 2 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 849,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney6"
         }
       ],
       "source_data": {
@@ -730,7 +847,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:51:38.379Z",
-        "updatedAt": "2026-09-16T23:51:38.379Z",
+        "updatedAt": "2026-09-17T14:27:44.825Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -763,6 +880,13 @@
               "attributes": {
                 "embed_name": "ESPN 2 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
               }
             }
           ]
@@ -839,6 +963,12 @@
           "name": "ESPN 3 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 846,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney7"
         }
       ],
       "source_data": {
@@ -846,7 +976,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:53:41.725Z",
-        "updatedAt": "2026-09-16T23:53:41.725Z",
+        "updatedAt": "2026-09-17T14:30:26.416Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -879,6 +1009,13 @@
               "attributes": {
                 "embed_name": "ESPN 3 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+              }
+            },
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
               }
             }
           ]
@@ -949,6 +1086,12 @@
           "name": "ESPN 7 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 832,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney9"
         }
       ],
       "source_data": {
@@ -956,7 +1099,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:54:49.526Z",
-        "updatedAt": "2026-09-16T23:54:49.526Z",
+        "updatedAt": "2026-09-17T14:32:07.997Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -982,6 +1125,90 @@
               "attributes": {
                 "embed_name": "ESPN 7 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2025-09-24T21:45:08.241Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 405,
+                  "attributes": {
+                    "name": "uefael_2b6c82aa64.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uefael_2b6c82aa64_3944ac820b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.51,
+                    "url": "/uploads/uefael_2b6c82aa64_3944ac820b.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-24T21:45:01.482Z",
+                    "updatedAt": "2025-09-24T21:45:01.482Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39621,
+      "title": "UEFA Europa League: Viktoria Plzeň vs Union Saint-Gilloise",
+      "competition": "UEFA Europa League",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "UEFA Europa League",
+      "logo": "https://futbollibretv.org.pe/uploads/uefael_2b6c82aa64_3944ac820b.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [
+        {
+          "id": 938,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney10"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UEFA Europa League: \nViktoria Plzeň vs Union Saint-Gilloise",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-16T23:50:13.706Z",
+        "updatedAt": "2026-09-17T14:32:52.774Z",
+        "publishedAt": "2026-09-17T05:26:25.472Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
               }
             }
           ]
@@ -1052,6 +1279,42 @@
           "name": "ESPN AR┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 831,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
+        },
+        {
+          "id": 206,
+          "name": "TUDN USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1164,
+          "name": "TUDN USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1165,
+          "name": "TUDN USA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1478,
+          "name": "TUDN USA | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1071,
+          "name": "Unimas",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaW1hcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=unimas"
         }
       ],
       "source_data": {
@@ -1059,7 +1322,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:50:53.072Z",
-        "updatedAt": "2026-09-16T23:50:53.072Z",
+        "updatedAt": "2026-09-17T14:27:04.140Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -1085,6 +1348,48 @@
               "attributes": {
                 "embed_name": "ESPN AR┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1164,
+              "attributes": {
+                "embed_name": "TUDN USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1165,
+              "attributes": {
+                "embed_name": "TUDN USA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1478,
+              "attributes": {
+                "embed_name": "TUDN USA | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaW1hcw=="
               }
             }
           ]
@@ -1161,6 +1466,12 @@
           "name": "ESPN 5 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 838,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney8"
         }
       ],
       "source_data": {
@@ -1168,7 +1479,7 @@
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:52:27.207Z",
-        "updatedAt": "2026-09-16T23:52:27.207Z",
+        "updatedAt": "2026-09-17T14:31:12.843Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
@@ -1201,6 +1512,13 @@
               "attributes": {
                 "embed_name": "ESPN 5 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            },
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
               }
             }
           ]
@@ -1253,19 +1571,34 @@
       "source_timezone": "UTC",
       "source_local": "2026-09-17T14:00:00",
       "start_utc": "2026-09-17T14:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 936,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney11"
+        }
+      ],
       "source_data": {
         "diary_description": "UEFA Europa League: \nLillestrøm vs Torreense",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-16T23:54:11.855Z",
-        "updatedAt": "2026-09-16T23:54:11.855Z",
+        "updatedAt": "2026-09-17T14:33:34.499Z",
         "publishedAt": "2026-09-17T05:26:25.472Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1579,6 +1912,18 @@
           "name": "ESPN 5 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 933,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney13"
+        },
+        {
+          "id": 962,
+          "name": "Fox Sports 3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports3"
         }
       ],
       "source_data": {
@@ -1586,7 +1931,7 @@
         "diary_hour": "19:00:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-17T12:05:52.506Z",
-        "updatedAt": "2026-09-17T12:05:55.649Z",
+        "updatedAt": "2026-09-17T14:35:55.720Z",
         "publishedAt": "2026-09-17T12:05:55.638Z",
         "channels": {
           "data": []
@@ -1619,6 +1964,20 @@
               "attributes": {
                 "embed_name": "ESPN 5 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            },
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
+              }
+            },
+            {
+              "id": 962,
+              "attributes": {
+                "embed_name": "Fox Sports 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czM="
               }
             }
           ]
