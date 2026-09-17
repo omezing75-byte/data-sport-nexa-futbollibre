@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T12:02:05.156027Z",
+  "updated_at": "2026-09-17T12:28:43.228495Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -537,6 +537,68 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:11:35.093Z",
                     "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39645,
+      "title": "MLB – Colorado Rockies vs. San Diego Padres",
+      "competition": "MLB Preseason",
+      "date_diary": "2026-09-17",
+      "diary_hour": "14:00:00",
+      "country": "MLB Preseason",
+      "logo": "https://futbollibretv.org.pe/uploads/mlb_f5711cc440_dde64767e4.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mlb.png",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T14:00:00",
+      "start_utc": "2026-09-17T14:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "MLB – Colorado Rockies vs. San Diego Padres",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T12:04:34.250Z",
+        "updatedAt": "2026-09-17T12:04:36.109Z",
+        "publishedAt": "2026-09-17T12:04:36.105Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 70,
+            "attributes": {
+              "name": "MLB Preseason",
+              "createdAt": "2024-02-23T06:14:15.840Z",
+              "updatedAt": "2025-08-03T14:39:12.740Z",
+              "publishedAt": "2024-02-23T06:14:18.809Z",
+              "image": {
+                "data": {
+                  "id": 352,
+                  "attributes": {
+                    "name": "mlb_f5711cc440.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "mlb_f5711cc440_dde64767e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.66,
+                    "url": "/uploads/mlb_f5711cc440_dde64767e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:07.537Z",
+                    "updatedAt": "2025-08-03T14:39:07.537Z"
                   }
                 }
               }
@@ -1455,6 +1517,122 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39646,
+      "title": "NFL – Buffalo Bills vs. Detroit Lions",
+      "competition": "NFL",
+      "date_diary": "2026-09-17",
+      "diary_hour": "19:00:00",
+      "country": "NFL",
+      "logo": "https://futbollibretv.org.pe/uploads/nfl_c8afc9d155.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T19:00:00",
+      "start_utc": "2026-09-17T19:00:00Z",
+      "embeds": [
+        {
+          "id": 645,
+          "name": "ESPN 5",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 474,
+          "name": "ESPN 5 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 599,
+          "name": "ESPN 5 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        },
+        {
+          "id": 1466,
+          "name": "ESPN 5 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn5"
+        }
+      ],
+      "source_data": {
+        "diary_description": "NFL – Buffalo Bills vs. Detroit Lions",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T12:05:52.506Z",
+        "updatedAt": "2026-09-17T12:05:55.649Z",
+        "publishedAt": "2026-09-17T12:05:55.638Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN 5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 474,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 599,
+              "attributes": {
+                "embed_name": "ESPN 5 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 1466,
+              "attributes": {
+                "embed_name": "ESPN 5 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 39,
+            "attributes": {
+              "name": "NFL",
+              "createdAt": "2023-12-11T23:55:39.209Z",
+              "updatedAt": "2025-09-14T15:49:37.487Z",
+              "publishedAt": "2023-12-11T23:55:40.732Z",
+              "image": {
+                "data": {
+                  "id": 401,
+                  "attributes": {
+                    "name": "nfl.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "nfl_c8afc9d155",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.84,
+                    "url": "/uploads/nfl_c8afc9d155.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-14T15:49:33.405Z",
+                    "updatedAt": "2025-09-14T15:49:33.405Z"
                   }
                 }
               }
