@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-17T01:58:25.564263Z",
+  "updated_at": "2026-09-17T02:18:07.450962Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39600,
-      "title": "Copa Centroamericana de CONCACAF: Alianza vs Motagua",
-      "competition": "Copa Centroamericana de CONCACAF",
-      "date_diary": "2026-09-16",
-      "diary_hour": "22:15:00",
-      "country": "Copa Centroamericana",
-      "logo": "https://futbollibretv.org.pe/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-16T22:15:00",
-      "start_utc": "2026-09-16T22:15:00Z",
-      "embeds": [
-        {
-          "id": 833,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Copa Centroamericana de CONCACAF: \nAlianza vs Motagua",
-        "diary_hour": "22:15:00",
-        "date_diary": "2026-09-16",
-        "createdAt": "2026-09-16T05:01:47.212Z",
-        "updatedAt": "2026-09-16T19:54:30.278Z",
-        "publishedAt": "2026-09-16T05:03:34.505Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 34,
-            "attributes": {
-              "name": "Copa Centroamericana",
-              "createdAt": "2023-11-28T14:54:06.416Z",
-              "updatedAt": "2025-08-05T15:27:54.666Z",
-              "publishedAt": "2023-11-28T14:54:07.576Z",
-              "image": {
-                "data": {
-                  "id": 367,
-                  "attributes": {
-                    "name": "copa_centroamericana_59d23aa32c.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copa_centroamericana_59d23aa32c_8e7ab9174a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.59,
-                    "url": "/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-05T15:27:50.673Z",
-                    "updatedAt": "2025-08-05T15:27:50.673Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39587,
       "title": "Primera A: Once Caldas vs Deportes Tolima",
