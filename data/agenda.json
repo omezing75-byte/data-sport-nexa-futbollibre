@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:35:58.250047Z",
+  "updated_at": "2026-09-17T14:51:26.783207Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -2054,6 +2054,18 @@
           "name": "ESPN 2 | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 932,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney15"
+        },
+        {
+          "id": 1204,
+          "name": "BeIN Sports Ñ",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=beinsportes"
         }
       ],
       "source_data": {
@@ -2061,7 +2073,7 @@
         "diary_hour": "19:30:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-17T00:00:32.186Z",
-        "updatedAt": "2026-09-17T00:00:32.186Z",
+        "updatedAt": "2026-09-17T14:38:26.066Z",
         "publishedAt": "2026-09-17T05:26:40.132Z",
         "channels": {
           "data": []
@@ -2094,6 +2106,20 @@
               "attributes": {
                 "embed_name": "ESPN 2 | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 932,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
+              }
+            },
+            {
+              "id": 1204,
+              "attributes": {
+                "embed_name": "BeIN Sports Ñ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
               }
             }
           ]
@@ -2135,6 +2161,83 @@
       }
     },
     {
+      "id": 39649,
+      "title": "Copa Centroamericana de CONCACAF: Alajuelense vs Marathón",
+      "competition": "Copa Centroamericana de CONCACAF",
+      "date_diary": "2026-09-17",
+      "diary_hour": "19:30:00",
+      "country": "Copa Centroamericana",
+      "logo": "https://futbollibretv.org.pe/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T19:30:00",
+      "start_utc": "2026-09-17T19:30:00Z",
+      "embeds": [
+        {
+          "id": 1059,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney16"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa Centroamericana de CONCACAF: Alajuelense vs Marathón",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T14:39:43.155Z",
+        "updatedAt": "2026-09-17T14:39:45.127Z",
+        "publishedAt": "2026-09-17T14:39:45.122Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1059,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2025-08-05T15:27:54.666Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 367,
+                  "attributes": {
+                    "name": "copa_centroamericana_59d23aa32c.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_centroamericana_59d23aa32c_8e7ab9174a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.59,
+                    "url": "/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-05T15:27:50.673Z",
+                    "updatedAt": "2025-08-05T15:27:50.673Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39635,
       "title": "Copa Libertadores: Flamengo vs Independiente del Valle",
       "competition": "Copa Libertadores",
@@ -2164,6 +2267,48 @@
           "name": "ESPN AR┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 935,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney14"
+        },
+        {
+          "id": 120,
+          "name": "Fox Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 1004,
+          "name": "Fox Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports"
+        },
+        {
+          "id": 308,
+          "name": "ESPN MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 945,
+          "name": "ESPN MX | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1008,
+          "name": "ESPN MX | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1486,
+          "name": "ESPN MX | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
         }
       ],
       "source_data": {
@@ -2171,7 +2316,7 @@
         "diary_hour": "19:30:00",
         "date_diary": "2026-09-17",
         "createdAt": "2026-09-17T00:01:18.245Z",
-        "updatedAt": "2026-09-17T00:01:18.245Z",
+        "updatedAt": "2026-09-17T14:37:41.626Z",
         "publishedAt": "2026-09-17T05:26:40.132Z",
         "channels": {
           "data": []
@@ -2197,6 +2342,55 @@
               "attributes": {
                 "embed_name": "ESPN AR┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Fox Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 945,
+              "attributes": {
+                "embed_name": "ESPN MX | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1008,
+              "attributes": {
+                "embed_name": "ESPN MX | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1486,
+              "attributes": {
+                "embed_name": "ESPN MX | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
               }
             }
           ]
@@ -2340,6 +2534,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:32:14.648Z",
                     "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39650,
+      "title": "Copa Centroamericana de CONCACAF: Olimpia vs Firpo",
+      "competition": "Copa Centroamericana de CONCACAF",
+      "date_diary": "2026-09-17",
+      "diary_hour": "22:15:00",
+      "country": "Copa Centroamericana",
+      "logo": "https://futbollibretv.org.pe/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-17T22:15:00",
+      "start_utc": "2026-09-17T22:15:00Z",
+      "embeds": [
+        {
+          "id": 1060,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE3",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney17"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa Centroamericana de CONCACAF: Olimpia vs Firpo",
+        "diary_hour": "22:15:00",
+        "date_diary": "2026-09-17",
+        "createdAt": "2026-09-17T14:40:28.349Z",
+        "updatedAt": "2026-09-17T14:40:30.127Z",
+        "publishedAt": "2026-09-17T14:40:30.122Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1060,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2025-08-05T15:27:54.666Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 367,
+                  "attributes": {
+                    "name": "copa_centroamericana_59d23aa32c.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_centroamericana_59d23aa32c_8e7ab9174a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.59,
+                    "url": "/uploads/copa_centroamericana_59d23aa32c_8e7ab9174a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-05T15:27:50.673Z",
+                    "updatedAt": "2025-08-05T15:27:50.673Z"
                   }
                 }
               }
