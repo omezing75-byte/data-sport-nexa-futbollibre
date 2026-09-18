@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:30:24.353978Z",
+  "updated_at": "2026-09-18T23:47:15.433162Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -21,6 +21,12 @@
           "name": "ESPN 2",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1067,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney20"
         },
         {
           "id": 1133,
@@ -46,7 +52,7 @@
         "diary_hour": "20:00:00",
         "date_diary": "2026-09-18",
         "createdAt": "2026-09-18T03:23:36.790Z",
-        "updatedAt": "2026-09-18T03:23:36.790Z",
+        "updatedAt": "2026-09-18T23:46:15.349Z",
         "publishedAt": "2026-09-18T05:19:13.856Z",
         "channels": {
           "data": []
@@ -58,6 +64,13 @@
               "attributes": {
                 "embed_name": "ESPN 2",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1067,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw"
               }
             },
             {
@@ -769,6 +782,83 @@
               "attributes": {
                 "embed_name": "MLS 01 | Español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39711,
+      "title": "NCAA Men's Soccer: Kentucky vs Marshall",
+      "competition": "NCAA Men's Soccer",
+      "date_diary": "2026-09-18",
+      "diary_hour": "18:30:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-18T18:30:00",
+      "start_utc": "2026-09-18T22:30:00Z",
+      "embeds": [
+        {
+          "id": 1505,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQoK",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney25"
+        }
+      ],
+      "source_data": {
+        "diary_description": "NCAA Men's Soccer: \nKentucky vs Marshall",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-09-18",
+        "createdAt": "2026-09-18T23:32:24.986Z",
+        "updatedAt": "2026-09-18T23:32:27.104Z",
+        "publishedAt": "2026-09-18T23:32:27.100Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1505,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQoK"
               }
             }
           ]
