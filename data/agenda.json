@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:21:43.646327Z",
+  "updated_at": "2026-09-18T16:40:34.387511Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -327,6 +327,68 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:47.480Z",
                     "updatedAt": "2025-08-03T15:06:47.480Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39698,
+      "title": "WTA - INDIVIDUALES - Sao Paulo, dura - Cuartos de final: Podoroska N. vs Lamens S.",
+      "competition": "WTA - INDIVIDUALES - Sao Paulo, dura - Cuartos de final",
+      "date_diary": "2026-09-18",
+      "diary_hour": "17:00:00",
+      "country": "Tennis",
+      "logo": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-18T17:00:00",
+      "start_utc": "2026-09-18T17:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "WTA - INDIVIDUALES - Sao Paulo, dura - Cuartos de final: Podoroska N. vs Lamens S.",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-09-18",
+        "createdAt": "2026-09-18T16:33:37.243Z",
+        "updatedAt": "2026-09-18T16:33:39.459Z",
+        "publishedAt": "2026-09-18T16:33:39.454Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "Tennis",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2025-08-03T14:36:42.387Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "image": {
+                "data": {
+                  "id": 351,
+                  "attributes": {
+                    "name": "Tenis_a5d5fcd1d1.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
