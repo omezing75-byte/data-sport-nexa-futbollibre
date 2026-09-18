@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:28:35.264092Z",
+  "updated_at": "2026-09-18T17:41:00.753506Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -15,19 +15,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-18T14:00:00",
       "start_utc": "2026-09-18T17:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1087,
+          "name": "fanatiz 01",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz1"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nSportivo Trinidense vs Guaraní",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-18",
         "createdAt": "2026-09-18T03:07:53.384Z",
-        "updatedAt": "2026-09-18T03:07:53.384Z",
+        "updatedAt": "2026-09-18T17:33:43.195Z",
         "publishedAt": "2026-09-18T05:19:06.392Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1087,
+              "attributes": {
+                "embed_name": "fanatiz 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -279,6 +294,12 @@
           "name": "ESPN Premium┃HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 838,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney8"
         }
       ],
       "source_data": {
@@ -286,7 +307,7 @@
         "diary_hour": "16:00:00",
         "date_diary": "2026-09-18",
         "createdAt": "2026-09-18T03:03:35.346Z",
-        "updatedAt": "2026-09-18T03:03:35.346Z",
+        "updatedAt": "2026-09-18T17:34:34.803Z",
         "publishedAt": "2026-09-18T05:18:59.771Z",
         "channels": {
           "data": []
@@ -319,6 +340,13 @@
               "attributes": {
                 "embed_name": "ESPN Premium┃HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
+              }
+            },
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
               }
             }
           ]
@@ -371,19 +399,34 @@
       "source_timezone": "America/Asuncion",
       "source_local": "2026-09-18T16:30:00",
       "start_utc": "2026-09-18T19:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1051,
+          "name": "fanatiz 02",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz2"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nNacional Asunción vs 2 de Mayo",
         "diary_hour": "16:30:00",
         "date_diary": "2026-09-18",
         "createdAt": "2026-09-18T03:08:19.883Z",
-        "updatedAt": "2026-09-18T03:08:19.883Z",
+        "updatedAt": "2026-09-18T17:35:01.499Z",
         "publishedAt": "2026-09-18T05:19:06.392Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1051,
+              "attributes": {
+                "embed_name": "fanatiz 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -929,6 +972,12 @@
           "name": "TNT Sports | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 832,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney9"
         }
       ],
       "source_data": {
@@ -936,7 +985,7 @@
         "diary_hour": "19:15:00",
         "date_diary": "2026-09-18",
         "createdAt": "2026-09-18T03:04:40.202Z",
-        "updatedAt": "2026-09-18T03:04:40.202Z",
+        "updatedAt": "2026-09-18T17:36:16.667Z",
         "publishedAt": "2026-09-18T05:18:59.771Z",
         "channels": {
           "data": []
@@ -969,6 +1018,13 @@
               "attributes": {
                 "embed_name": "TNT Sports | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
               }
             }
           ]
@@ -1021,19 +1077,47 @@
       "source_timezone": "America/New_York",
       "source_local": "2026-09-18T18:30:00",
       "start_utc": "2026-09-18T22:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1167,
+          "name": "MLS 01 | EN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        },
+        {
+          "id": 1497,
+          "name": "MLS 01 | Español",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        }
+      ],
       "source_data": {
         "diary_description": "Major League Soccer: \nNew York City vs New York RB",
         "diary_hour": "18:30:00",
         "date_diary": "2026-09-18",
         "createdAt": "2026-09-18T03:11:28.695Z",
-        "updatedAt": "2026-09-18T03:11:28.695Z",
+        "updatedAt": "2026-09-18T17:35:34.585Z",
         "publishedAt": "2026-09-18T05:19:06.392Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1167,
+              "attributes": {
+                "embed_name": "MLS 01 | EN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM="
+              }
+            },
+            {
+              "id": 1497,
+              "attributes": {
+                "embed_name": "MLS 01 | Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
