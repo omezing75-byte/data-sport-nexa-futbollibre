@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-18T23:16:36.731933Z",
+  "updated_at": "2026-09-18T23:30:24.353978Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39681,
-      "title": "Primera División: Nacional Asunción vs 2 de Mayo",
-      "competition": "Primera División",
-      "date_diary": "2026-09-18",
-      "diary_hour": "16:30:00",
-      "country": "Paraguay",
-      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
-      "source_timezone": "America/Asuncion",
-      "source_local": "2026-09-18T16:30:00",
-      "start_utc": "2026-09-18T19:30:00Z",
-      "embeds": [
-        {
-          "id": 1051,
-          "name": "fanatiz 02",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Primera División: \nNacional Asunción vs 2 de Mayo",
-        "diary_hour": "16:30:00",
-        "date_diary": "2026-09-18",
-        "createdAt": "2026-09-18T03:08:19.883Z",
-        "updatedAt": "2026-09-18T17:35:01.499Z",
-        "publishedAt": "2026-09-18T05:19:06.392Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1051,
-              "attributes": {
-                "embed_name": "fanatiz 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2025-08-03T15:06:51.427Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 356,
-                  "attributes": {
-                    "name": "paraguay_fc9dd78de7.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7_fda39878d0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:06:47.480Z",
-                    "updatedAt": "2025-08-03T15:06:47.480Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39694,
       "title": "ESPN Knockout – Devon Lozej vs. Davi Bittencourt",
@@ -439,6 +362,83 @@
               "attributes": {
                 "embed_name": "Disney+",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39710,
+      "title": "NCAA Men's Soccer: James Madison vs UCF",
+      "competition": "NCAA Men's Soccer",
+      "date_diary": "2026-09-18",
+      "diary_hour": "18:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-18T18:00:00",
+      "start_utc": "2026-09-18T22:00:00Z",
+      "embeds": [
+        {
+          "id": 1504,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNAoK",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney24"
+        }
+      ],
+      "source_data": {
+        "diary_description": "NCAA Men's Soccer: James Madison vs UCF",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-18",
+        "createdAt": "2026-09-18T23:22:04.691Z",
+        "updatedAt": "2026-09-18T23:22:06.148Z",
+        "publishedAt": "2026-09-18T23:22:06.144Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1504,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNAoK"
               }
             }
           ]
