@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T19:37:34.270872Z",
+  "updated_at": "2026-09-18T19:49:06.376053Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -456,6 +456,68 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:02:45.389Z",
                     "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39701,
+      "title": "boxeo profesional: Isaac “Pitbull” Cruz vs. Néstor Bravo",
+      "competition": "boxeo profesional",
+      "date_diary": "2026-09-18",
+      "diary_hour": "19:00:00",
+      "country": "Boxeo",
+      "logo": "https://futbollibretv.org.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-18T19:00:00",
+      "start_utc": "2026-09-18T19:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "boxeo profesional: Isaac “Pitbull” Cruz vs. Néstor Bravo",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-09-18",
+        "createdAt": "2026-09-18T19:40:40.918Z",
+        "updatedAt": "2026-09-18T19:40:42.764Z",
+        "publishedAt": "2026-09-18T19:40:42.759Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 52,
+            "attributes": {
+              "name": "Boxeo",
+              "createdAt": "2024-01-23T08:29:53.264Z",
+              "updatedAt": "2025-08-08T17:07:11.502Z",
+              "publishedAt": "2024-01-23T08:29:54.683Z",
+              "image": {
+                "data": {
+                  "id": 368,
+                  "attributes": {
+                    "name": "boxeo_2024_b15889ae93.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "boxeo_2024_b15889ae93_ae58e10dcb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.39,
+                    "url": "/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-08T17:07:05.112Z",
+                    "updatedAt": "2025-08-08T17:07:05.112Z"
                   }
                 }
               }
