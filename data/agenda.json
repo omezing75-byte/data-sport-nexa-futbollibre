@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-17T23:56:23.591927Z",
+  "updated_at": "2026-09-18T00:21:42.302523Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39659,
-      "title": "NCAA Women's Volleyball: Cal state Fullerton vs Tulane",
-      "competition": "NCAA Women's Volleyball",
-      "date_diary": "2026-09-17",
-      "diary_hour": "16:00:00",
-      "country": "Estados Unidos",
-      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
-      "source_timezone": "America/New_York",
-      "source_local": "2026-09-17T16:00:00",
-      "start_utc": "2026-09-17T20:00:00Z",
-      "embeds": [
-        {
-          "id": 1067,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney20"
-        }
-      ],
-      "source_data": {
-        "diary_description": "NCAA Women's Volleyball: Cal state Fullerton vs Tulane",
-        "diary_hour": "16:00:00",
-        "date_diary": "2026-09-17",
-        "createdAt": "2026-09-17T18:44:59.678Z",
-        "updatedAt": "2026-09-17T20:39:37.755Z",
-        "publishedAt": "2026-09-17T18:45:01.623Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1067,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 19,
-            "attributes": {
-              "name": "Estados Unidos",
-              "createdAt": "2023-11-22T18:04:29.927Z",
-              "updatedAt": "2025-08-23T22:44:26.301Z",
-              "publishedAt": "2023-11-22T18:04:31.112Z",
-              "image": {
-                "data": {
-                  "id": 387,
-                  "attributes": {
-                    "name": "estados_unidos_de_america_b400fc18c4.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.1,
-                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T22:44:21.912Z",
-                    "updatedAt": "2025-08-23T22:44:21.912Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39662,
       "title": "NCAA Women's Soccer: Coastal Carolina vs Queens University of Cha",
