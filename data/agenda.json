@@ -1,124 +1,8 @@
 {
-  "updated_at": "2026-09-19T21:30:27.566779Z",
+  "updated_at": "2026-09-19T21:46:42.167059Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39745,
-      "title": "Liga Profesional: Unión Santa Fe vs Independiente",
-      "competition": "Liga Profesional",
-      "date_diary": "2026-09-19",
-      "diary_hour": "14:45:00",
-      "country": "Argentina",
-      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
-      "source_timezone": "America/Argentina/Buenos_Aires",
-      "source_local": "2026-09-19T14:45:00",
-      "start_utc": "2026-09-19T17:45:00Z",
-      "embeds": [
-        {
-          "id": 793,
-          "name": "ESPN Premium",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 502,
-          "name": "ESPN Premium┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 100,
-          "name": "ESPN Premium┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 1487,
-          "name": "ESPN Premium┃HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga Profesional: \nUnión Santa Fe vs Independiente",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T03:44:51.200Z",
-        "updatedAt": "2026-09-19T03:44:51.200Z",
-        "publishedAt": "2026-09-19T05:54:10.121Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 793,
-              "attributes": {
-                "embed_name": "ESPN Premium",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 502,
-              "attributes": {
-                "embed_name": "ESPN Premium┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 100,
-              "attributes": {
-                "embed_name": "ESPN Premium┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 1487,
-              "attributes": {
-                "embed_name": "ESPN Premium┃HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39749,
       "title": "Brasileirão: Mirassol vs Botafogo",
@@ -1013,19 +897,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-19T17:00:00",
       "start_utc": "2026-09-19T20:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1058,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney18"
+        }
+      ],
       "source_data": {
         "diary_description": " Segunda División: \nLa Luz vs Atenas",
         "diary_hour": "17:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:38:00.230Z",
-        "updatedAt": "2026-09-19T05:38:00.230Z",
+        "updatedAt": "2026-09-19T21:39:58.467Z",
         "publishedAt": "2026-09-19T05:54:35.573Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -2186,6 +2085,135 @@
       }
     },
     {
+      "id": 39773,
+      "title": "Liga MX: Atlético San Luis vs Necaxa",
+      "competition": "Liga MX",
+      "date_diary": "2026-09-19",
+      "diary_hour": "18:00:00",
+      "country": "México",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mx.png",
+      "source_timezone": "America/Mexico_City",
+      "source_local": "2026-09-19T18:00:00",
+      "start_utc": "2026-09-20T00:00:00Z",
+      "embeds": [
+        {
+          "id": 308,
+          "name": "ESPN MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1079,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE5",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney19"
+        },
+        {
+          "id": 945,
+          "name": "ESPN MX | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1008,
+          "name": "ESPN MX | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1486,
+          "name": "ESPN MX | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Liga MX: \nAtlético San Luis vs Necaxa",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T05:28:00.072Z",
+        "updatedAt": "2026-09-19T21:40:49.939Z",
+        "publishedAt": "2026-09-19T05:54:26.416Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1079,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE5"
+              }
+            },
+            {
+              "id": 945,
+              "attributes": {
+                "embed_name": "ESPN MX | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1008,
+              "attributes": {
+                "embed_name": "ESPN MX | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1486,
+              "attributes": {
+                "embed_name": "ESPN MX | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39759,
       "title": "Serie A: Emelec vs Libertad",
       "competition": "Serie A",
@@ -2332,122 +2360,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T14:39:52.709Z",
                     "updatedAt": "2025-08-03T14:39:52.709Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39773,
-      "title": "Liga MX: Atlético San Luis vs Necaxa",
-      "competition": "Liga MX",
-      "date_diary": "2026-09-19",
-      "diary_hour": "18:00:00",
-      "country": "México",
-      "logo": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mx.png",
-      "source_timezone": "America/Mexico_City",
-      "source_local": "2026-09-19T18:00:00",
-      "start_utc": "2026-09-20T00:00:00Z",
-      "embeds": [
-        {
-          "id": 308,
-          "name": "ESPN MX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
-        },
-        {
-          "id": 945,
-          "name": "ESPN MX | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
-        },
-        {
-          "id": 1008,
-          "name": "ESPN MX | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
-        },
-        {
-          "id": 1486,
-          "name": "ESPN MX | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
-        }
-      ],
-      "source_data": {
-        "diary_description": " Liga MX: \nAtlético San Luis vs Necaxa",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T05:28:00.072Z",
-        "updatedAt": "2026-09-19T05:28:00.072Z",
-        "publishedAt": "2026-09-19T05:54:26.416Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 308,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
-              }
-            },
-            {
-              "id": 945,
-              "attributes": {
-                "embed_name": "ESPN MX | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
-              }
-            },
-            {
-              "id": 1008,
-              "attributes": {
-                "embed_name": "ESPN MX | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
-              }
-            },
-            {
-              "id": 1486,
-              "attributes": {
-                "embed_name": "ESPN MX | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2025-08-10T02:27:25.343Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 372,
-                  "attributes": {
-                    "name": "bandera_fbc29cb609.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "bandera_fbc29cb609_69a4b8272a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-10T02:27:20.896Z",
-                    "updatedAt": "2025-08-10T02:27:20.896Z"
                   }
                 }
               }
