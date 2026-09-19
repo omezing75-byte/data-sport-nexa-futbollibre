@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-19T17:56:38.991295Z",
+  "updated_at": "2026-09-19T18:17:51.150540Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39782,
-      "title": "Segunda División: Miramar Misiones vs Uruguay Montevideo",
-      "competition": "Segunda División",
-      "date_diary": "2026-09-19",
-      "diary_hour": "11:00:00",
-      "country": "Uruguay",
-      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
-      "source_timezone": "America/Montevideo",
-      "source_local": "2026-09-19T11:00:00",
-      "start_utc": "2026-09-19T14:00:00Z",
-      "embeds": [
-        {
-          "id": 834,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
-        }
-      ],
-      "source_data": {
-        "diary_description": " Segunda División: \nMiramar Misiones vs Uruguay Montevideo",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T05:37:07.542Z",
-        "updatedAt": "2026-09-19T14:32:20.318Z",
-        "publishedAt": "2026-09-19T05:54:35.573Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39806,
       "title": "Fútbol Americano - NCAA: Arkansas vs Georgia",
@@ -149,6 +72,96 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-23T22:44:21.912Z",
                     "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39807,
+      "title": "UFC: Joshua Van vs Alexandre Pantoja",
+      "competition": "UFC",
+      "date_diary": "2026-09-19",
+      "diary_hour": "15:30:00",
+      "country": "UFC",
+      "logo": "https://futbollibretv.org.pe/uploads/ufc_b17258502e.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-19T15:30:00",
+      "start_utc": "2026-09-19T15:30:00Z",
+      "embeds": [
+        {
+          "id": 1083,
+          "name": "Paramount+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=paramount1"
+        },
+        {
+          "id": 1084,
+          "name": "Paramount+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=paramount2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "UFC: Joshua Van vs Alexandre Pantoja",
+        "diary_hour": "15:30:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T18:15:23.752Z",
+        "updatedAt": "2026-09-19T18:16:03.521Z",
+        "publishedAt": "2026-09-19T18:15:25.616Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1083,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+              }
+            },
+            {
+              "id": 1084,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 44,
+            "attributes": {
+              "name": "UFC",
+              "createdAt": "2024-01-04T23:14:52.699Z",
+              "updatedAt": "2025-09-13T18:20:59.237Z",
+              "publishedAt": "2024-01-04T23:15:15.457Z",
+              "image": {
+                "data": {
+                  "id": 400,
+                  "attributes": {
+                    "name": "ufc.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ufc_b17258502e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.93,
+                    "url": "/uploads/ufc_b17258502e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-13T18:20:55.629Z",
+                    "updatedAt": "2025-09-13T18:20:55.629Z"
                   }
                 }
               }
@@ -466,19 +479,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-19T13:30:00",
       "start_utc": "2026-09-19T16:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 832,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney9"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nCerro vs Peñarol",
         "diary_hour": "13:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T04:00:14.416Z",
-        "updatedAt": "2026-09-19T04:00:14.416Z",
+        "updatedAt": "2026-09-19T18:06:39.102Z",
         "publishedAt": "2026-09-19T05:54:17.601Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -528,19 +556,47 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-19T14:00:00",
       "start_utc": "2026-09-19T17:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1320,
+          "name": "Premiere BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        },
+        {
+          "id": 1481,
+          "name": "Premiere BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere1"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nAtlético Mineiro vs Chapecoense",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:48:20.289Z",
-        "updatedAt": "2026-09-19T03:48:20.289Z",
+        "updatedAt": "2026-09-19T18:13:33.602Z",
         "publishedAt": "2026-09-19T05:54:10.121Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1320,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 1481,
+              "attributes": {
+                "embed_name": "Premiere BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1036,19 +1092,47 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-19T15:00:00",
       "start_utc": "2026-09-19T18:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 264,
+          "name": "Premiere 3 BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere3"
+        },
+        {
+          "id": 1485,
+          "name": "Premiere 3 BR | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=premiere3"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nMirassol vs Botafogo",
         "diary_hour": "15:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:48:46.760Z",
-        "updatedAt": "2026-09-19T03:48:46.760Z",
+        "updatedAt": "2026-09-19T18:14:51.601Z",
         "publishedAt": "2026-09-19T05:54:10.121Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 264,
+              "attributes": {
+                "embed_name": "Premiere 3 BR ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw=="
+              }
+            },
+            {
+              "id": 1485,
+              "attributes": {
+                "embed_name": "Premiere 3 BR | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
