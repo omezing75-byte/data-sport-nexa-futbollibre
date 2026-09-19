@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T00:24:29.928359Z",
+  "updated_at": "2026-09-19T00:44:14.609390Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -604,6 +604,68 @@
               }
             }
           ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39713,
+      "title": "NCAA Men's Soccer: SMU vs NC State",
+      "competition": "NCAA Men's Soccer",
+      "date_diary": "2026-09-18",
+      "diary_hour": "20:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-18T20:00:00",
+      "start_utc": "2026-09-19T00:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": " NCAA Men's Soccer: \nSMU vs NC State",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-09-18",
+        "createdAt": "2026-09-19T00:29:47.957Z",
+        "updatedAt": "2026-09-19T00:29:49.585Z",
+        "publishedAt": "2026-09-19T00:29:49.581Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
         },
         "country": {
           "data": {
