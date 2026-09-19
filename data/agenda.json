@@ -1,85 +1,8 @@
 {
-  "updated_at": "2026-09-19T00:57:47.859212Z",
+  "updated_at": "2026-09-19T01:15:25.557097Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39703,
-      "title": "NCAA Men's Soccer: Coastal Carolina vs Ga. Southern",
-      "competition": "NCAA Men's Soccer",
-      "date_diary": "2026-09-18",
-      "diary_hour": "17:00:00",
-      "country": "Estados Unidos",
-      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
-      "source_timezone": "America/New_York",
-      "source_local": "2026-09-18T17:00:00",
-      "start_utc": "2026-09-18T21:00:00Z",
-      "embeds": [
-        {
-          "id": 1507,
-          "name": "Disney+",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNwoKCg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney27"
-        }
-      ],
-      "source_data": {
-        "diary_description": "NCAA Men's Soccer: \nCoastal Carolina vs Ga. Southern",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-09-18",
-        "createdAt": "2026-09-18T22:36:01.032Z",
-        "updatedAt": "2026-09-18T22:37:27.436Z",
-        "publishedAt": "2026-09-18T22:36:03.078Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1507,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNwoKCg=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 19,
-            "attributes": {
-              "name": "Estados Unidos",
-              "createdAt": "2023-11-22T18:04:29.927Z",
-              "updatedAt": "2025-08-23T22:44:26.301Z",
-              "publishedAt": "2023-11-22T18:04:31.112Z",
-              "image": {
-                "data": {
-                  "id": 387,
-                  "attributes": {
-                    "name": "estados_unidos_de_america_b400fc18c4.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.1,
-                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-23T22:44:21.912Z",
-                    "updatedAt": "2025-08-23T22:44:21.912Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39704,
       "title": "NCAA Women's volleyball: Boston College vs. Quinnipiac",
@@ -601,6 +524,83 @@
               "attributes": {
                 "embed_name": "Disney+",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQoK"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39714,
+      "title": "Fútbol Americano - NCAA: Wake Forest vs Miami",
+      "competition": "Fútbol Americano - NCAA",
+      "date_diary": "2026-09-18",
+      "diary_hour": "20:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-18T20:00:00",
+      "start_utc": "2026-09-19T00:00:00Z",
+      "embeds": [
+        {
+          "id": 1058,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney18"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Fútbol Americano - NCAA: Wake Forest vs Miami",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-09-18",
+        "createdAt": "2026-09-19T01:08:47.041Z",
+        "updatedAt": "2026-09-19T01:10:29.399Z",
+        "publishedAt": "2026-09-19T01:08:48.620Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4"
               }
             }
           ]
