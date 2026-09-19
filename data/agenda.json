@@ -1,70 +1,8 @@
 {
-  "updated_at": "2026-09-19T17:29:07.601423Z",
+  "updated_at": "2026-09-19T17:41:15.730369Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39742,
-      "title": "Primeira Liga: Sporting CP vs Arouca",
-      "competition": "Primeira Liga",
-      "date_diary": "2026-09-19",
-      "diary_hour": "14:30:00",
-      "country": "Portugal",
-      "logo": "https://futbollibretv.org.pe/uploads/portugal_914accbdd5_06fa714d5c.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pt.png",
-      "source_timezone": "Europe/Lisbon",
-      "source_local": "2026-09-19T14:30:00",
-      "start_utc": "2026-09-19T13:30:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Primeira Liga: \nSporting CP vs Arouca",
-        "diary_hour": "14:30:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T03:37:16.876Z",
-        "updatedAt": "2026-09-19T03:37:16.876Z",
-        "publishedAt": "2026-09-19T05:54:01.093Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 25,
-            "attributes": {
-              "name": "Portugal",
-              "createdAt": "2023-11-24T13:52:13.028Z",
-              "updatedAt": "2025-08-08T17:09:40.120Z",
-              "publishedAt": "2023-11-24T13:52:35.436Z",
-              "image": {
-                "data": {
-                  "id": 370,
-                  "attributes": {
-                    "name": "portugal_914accbdd5.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "portugal_914accbdd5_06fa714d5c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.05,
-                    "url": "/uploads/portugal_914accbdd5_06fa714d5c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-08T17:09:35.922Z",
-                    "updatedAt": "2025-08-08T17:09:35.922Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39804,
       "title": "Rugby – Top 14 – RC Vannes vs. Toulouse",
