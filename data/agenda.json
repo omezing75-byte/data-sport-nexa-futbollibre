@@ -1,330 +1,8 @@
 {
-  "updated_at": "2026-09-19T15:58:20.557378Z",
+  "updated_at": "2026-09-19T16:17:33.748013Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39779,
-      "title": "Eredivisie: Willem II vs Fortuna Sittard",
-      "competition": "Eredivisie",
-      "date_diary": "2026-09-19",
-      "diary_hour": "14:00:00",
-      "country": "Paises Bajos",
-      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-      "logo_fallback": "",
-      "source_timezone": "Europe/Amsterdam",
-      "source_local": "2026-09-19T14:00:00",
-      "start_utc": "2026-09-19T12:00:00Z",
-      "embeds": [
-        {
-          "id": 282,
-          "name": "ESPN NL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        },
-        {
-          "id": 1251,
-          "name": "ESPN NL | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        },
-        {
-          "id": 1409,
-          "name": "ESPN NL | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Eredivisie: \nWillem II vs Fortuna Sittard",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T05:34:11.264Z",
-        "updatedAt": "2026-09-19T05:34:11.264Z",
-        "publishedAt": "2026-09-19T05:54:35.573Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 282,
-              "attributes": {
-                "embed_name": "ESPN NL ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            },
-            {
-              "id": 1251,
-              "attributes": {
-                "embed_name": "ESPN NL | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            },
-            {
-              "id": 1409,
-              "attributes": {
-                "embed_name": "ESPN NL | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 27,
-            "attributes": {
-              "name": "Paises Bajos",
-              "createdAt": "2023-11-25T14:14:00.773Z",
-              "updatedAt": "2025-08-09T13:06:21.819Z",
-              "publishedAt": "2023-11-25T14:14:01.960Z",
-              "image": {
-                "data": {
-                  "id": 371,
-                  "attributes": {
-                    "name": "paises_bajos_f773e994b9.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.95,
-                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-09T13:06:16.926Z",
-                    "updatedAt": "2025-08-09T13:06:16.926Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39797,
-      "title": "LaLiga SmartBank: Cádiz vs Girona",
-      "competition": "LaLiga SmartBank",
-      "date_diary": "2026-09-19",
-      "diary_hour": "14:00:00",
-      "country": "España",
-      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
-      "source_timezone": "Europe/Madrid",
-      "source_local": "2026-09-19T14:00:00",
-      "start_utc": "2026-09-19T12:00:00Z",
-      "embeds": [
-        {
-          "id": 522,
-          "name": "LaLiga TV Hypermotion",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion1"
-        }
-      ],
-      "source_data": {
-        "diary_description": "LaLiga SmartBank: \nCádiz vs Girona",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T05:48:38.129Z",
-        "updatedAt": "2026-09-19T05:48:38.129Z",
-        "publishedAt": "2026-09-19T05:54:55.027Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 522,
-              "attributes": {
-                "embed_name": "LaLiga TV Hypermotion ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39727,
-      "title": "LaLiga: Sevilla vs Barcelona",
-      "competition": "LaLiga",
-      "date_diary": "2026-09-19",
-      "diary_hour": "14:00:00",
-      "country": "España",
-      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
-      "source_timezone": "Europe/Madrid",
-      "source_local": "2026-09-19T14:00:00",
-      "start_utc": "2026-09-19T12:00:00Z",
-      "embeds": [
-        {
-          "id": 1455,
-          "name": "DSports | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
-          "player_url": ""
-        },
-        {
-          "id": 1336,
-          "name": "DirecTV Sports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
-        },
-        {
-          "id": 1252,
-          "name": "Dsports Argentina",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
-          "player_url": ""
-        },
-        {
-          "id": 644,
-          "name": "DSports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
-        },
-        {
-          "id": 341,
-          "name": "DSports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
-        },
-        {
-          "id": 748,
-          "name": "DSports | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
-        }
-      ],
-      "source_data": {
-        "diary_description": "LaLiga: \nSevilla vs Barcelona",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T03:28:44.155Z",
-        "updatedAt": "2026-09-19T10:56:33.062Z",
-        "publishedAt": "2026-09-19T05:53:50.800Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
-              }
-            },
-            {
-              "id": 1336,
-              "attributes": {
-                "embed_name": "DirecTV Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M="
-              }
-            },
-            {
-              "id": 1252,
-              "attributes": {
-                "embed_name": "Dsports Argentina",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
-              }
-            },
-            {
-              "id": 341,
-              "attributes": {
-                "embed_name": "DSports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 748,
-              "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39762,
       "title": "Primera División: Boston River vs Progreso",
@@ -683,6 +361,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39806,
+      "title": "Fútbol Americano - NCAA: Arkansas vs Georgia",
+      "competition": "Fútbol Americano - NCAA",
+      "date_diary": "2026-09-19",
+      "diary_hour": "11:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-19T11:00:00",
+      "start_utc": "2026-09-19T15:00:00Z",
+      "embeds": [
+        {
+          "id": 1501,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQo=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney21"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Fútbol Americano - NCAA: Arkansas vs Georgia",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T15:58:02.855Z",
+        "updatedAt": "2026-09-19T16:08:27.523Z",
+        "publishedAt": "2026-09-19T15:58:05.591Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1501,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQo="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
                   }
                 }
               }
