@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T05:58:28.956863Z",
+  "updated_at": "2026-09-19T06:22:04.349173Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -15,19 +15,34 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T06:00:00",
       "start_utc": "2026-09-19T04:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 835,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney3"
+        }
+      ],
       "source_data": {
         "diary_description": "2. Bundesliga: \nKaiserslautern vs Eintracht Braunschweig",
         "diary_hour": "06:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:22:37.780Z",
-        "updatedAt": "2026-09-19T05:22:37.780Z",
+        "updatedAt": "2026-09-19T06:03:58.370Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -77,19 +92,34 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T06:00:00",
       "start_utc": "2026-09-19T04:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 834,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
+        }
+      ],
       "source_data": {
         "diary_description": "2. Bundesliga: \nHolstein Kiel vs Osnabrück",
         "diary_hour": "06:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:22:11.264Z",
-        "updatedAt": "2026-09-19T05:22:11.264Z",
+        "updatedAt": "2026-09-19T06:03:16.870Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -139,19 +169,60 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T06:00:00",
       "start_utc": "2026-09-19T04:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 827,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney4"
+        },
+        {
+          "id": 842,
+          "name": "Fox Sports 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveHNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2"
+        },
+        {
+          "id": 1005,
+          "name": "Fox Sports 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports2"
+        }
+      ],
       "source_data": {
         "diary_description": "2. Bundesliga: \nKarlsruher SC vs Nürnberg",
         "diary_hour": "06:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:23:02.527Z",
-        "updatedAt": "2026-09-19T05:23:02.527Z",
+        "updatedAt": "2026-09-19T06:04:54.483Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 842,
+              "attributes": {
+                "embed_name": "Fox Sports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveHNwb3J0czI="
+              }
+            },
+            {
+              "id": 1005,
+              "attributes": {
+                "embed_name": "Fox Sports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czI="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -181,122 +252,6 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:12:53.760Z",
                     "updatedAt": "2025-08-03T13:12:53.760Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39724,
-      "title": "LaLiga: Osasuna vs Rayo Vallecano",
-      "competition": "LaLiga",
-      "date_diary": "2026-09-19",
-      "diary_hour": "07:00:00",
-      "country": "España",
-      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
-      "source_timezone": "Europe/Madrid",
-      "source_local": "2026-09-19T07:00:00",
-      "start_utc": "2026-09-19T05:00:00Z",
-      "embeds": [
-        {
-          "id": 640,
-          "name": "ESPN 2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1133,
-          "name": "ESPN 2 | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1377,
-          "name": "ESPN 2 | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        },
-        {
-          "id": 1461,
-          "name": "ESPN 2 | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
-        }
-      ],
-      "source_data": {
-        "diary_description": "LaLiga: \nOsasuna vs Rayo Vallecano",
-        "diary_hour": "07:00:00",
-        "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T03:24:49.757Z",
-        "updatedAt": "2026-09-19T03:24:49.757Z",
-        "publishedAt": "2026-09-19T05:53:42.301Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1133,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1377,
-              "attributes": {
-                "embed_name": "ESPN 2 | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 1461,
-              "attributes": {
-                "embed_name": "ESPN 2 | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 375,
-                  "attributes": {
-                    "name": "espana_a8510f9b5f.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
                   }
                 }
               }
@@ -413,6 +368,148 @@
                     "provider_metadata": null,
                     "createdAt": "2025-09-04T14:08:15.762Z",
                     "updatedAt": "2025-09-04T14:08:15.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39724,
+      "title": "LaLiga: Osasuna vs Rayo Vallecano",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-19",
+      "diary_hour": "07:00:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-19T07:00:00",
+      "start_utc": "2026-09-19T05:00:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 838,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney8"
+        },
+        {
+          "id": 1149,
+          "name": "Espn+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnplus1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga: \nOsasuna vs Rayo Vallecano",
+        "diary_hour": "07:00:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T03:24:49.757Z",
+        "updatedAt": "2026-09-19T06:08:07.059Z",
+        "publishedAt": "2026-09-19T05:53:42.301Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            },
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
+              }
+            },
+            {
+              "id": 1149,
+              "attributes": {
+                "embed_name": "Espn+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
                   }
                 }
               }
@@ -631,6 +728,12 @@
           "name": "TNT Sports Premiun CL HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsportschile"
+        },
+        {
+          "id": 833,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney1"
         }
       ],
       "source_data": {
@@ -638,7 +741,7 @@
         "diary_hour": "05:20:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:25:45.657Z",
-        "updatedAt": "2026-09-19T05:25:45.657Z",
+        "updatedAt": "2026-09-19T06:02:34.855Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
@@ -664,6 +767,13 @@
               "attributes": {
                 "embed_name": "TNT Sports Premiun CL HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+              }
+            },
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
               }
             }
           ]
@@ -734,6 +844,24 @@
           "name": "ESPN AR┃OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 831,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
+        },
+        {
+          "id": 790,
+          "name": "Universo",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        },
+        {
+          "id": 1474,
+          "name": "Universo | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
         }
       ],
       "source_data": {
@@ -741,7 +869,7 @@
         "diary_hour": "06:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:19:36.399Z",
-        "updatedAt": "2026-09-19T03:19:36.399Z",
+        "updatedAt": "2026-09-19T06:06:00.578Z",
         "publishedAt": "2026-09-19T05:53:42.301Z",
         "channels": {
           "data": []
@@ -767,6 +895,27 @@
               "attributes": {
                 "embed_name": "ESPN AR┃OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+              }
+            },
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
               }
             }
           ]
@@ -837,6 +986,18 @@
           "name": "ESPN 7 | OP3",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 846,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney7"
+        },
+        {
+          "id": 586,
+          "name": "ESPN 3 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3mx"
         }
       ],
       "source_data": {
@@ -844,7 +1005,7 @@
         "diary_hour": "06:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T04:02:34.125Z",
-        "updatedAt": "2026-09-19T04:02:34.125Z",
+        "updatedAt": "2026-09-19T06:06:53.144Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
@@ -870,6 +1031,20 @@
               "attributes": {
                 "embed_name": "ESPN 7 | OP3",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
+              }
+            },
+            {
+              "id": 586,
+              "attributes": {
+                "embed_name": "ESPN 3 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
               }
             }
           ]
@@ -922,19 +1097,86 @@
       "source_timezone": "Europe/Rome",
       "source_local": "2026-09-19T08:00:00",
       "start_utc": "2026-09-19T06:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 832,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney9"
+        },
+        {
+          "id": 308,
+          "name": "ESPN MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 945,
+          "name": "ESPN MX | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1008,
+          "name": "ESPN MX | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        },
+        {
+          "id": 1486,
+          "name": "ESPN MX | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnmx"
+        }
+      ],
       "source_data": {
         "diary_description": "Serie A: \nBologna vs Torino",
         "diary_hour": "08:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:29:19.362Z",
-        "updatedAt": "2026-09-19T03:29:19.362Z",
+        "updatedAt": "2026-09-19T06:09:17.203Z",
         "publishedAt": "2026-09-19T05:53:50.800Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 945,
+              "attributes": {
+                "embed_name": "ESPN MX | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1008,
+              "attributes": {
+                "embed_name": "ESPN MX | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1486,
+              "attributes": {
+                "embed_name": "ESPN MX | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -984,19 +1226,34 @@
       "source_timezone": "Europe/Rome",
       "source_local": "2026-09-19T08:00:00",
       "start_utc": "2026-09-19T06:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 938,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney10"
+        }
+      ],
       "source_data": {
         "diary_description": "Serie A:  \nUdinese vs Cagliari",
         "diary_hour": "08:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:29:48.492Z",
-        "updatedAt": "2026-09-19T03:29:48.492Z",
+        "updatedAt": "2026-09-19T06:14:53.332Z",
         "publishedAt": "2026-09-19T05:53:50.800Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1046,19 +1303,34 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T08:30:00",
       "start_utc": "2026-09-19T06:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 934,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney12"
+        }
+      ],
       "source_data": {
         "diary_description": "Bundesliga: \nBorussia M'gladbach vs Mainz 05",
         "diary_hour": "08:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:32:12.320Z",
-        "updatedAt": "2026-09-19T03:32:12.320Z",
+        "updatedAt": "2026-09-19T06:10:53.901Z",
         "publishedAt": "2026-09-19T05:53:50.800Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1108,19 +1380,34 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T08:30:00",
       "start_utc": "2026-09-19T06:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 935,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney14"
+        }
+      ],
       "source_data": {
         "diary_description": "Bundesliga: \nHamburger SV vs Köln",
         "diary_hour": "08:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:33:14.206Z",
-        "updatedAt": "2026-09-19T03:33:14.206Z",
+        "updatedAt": "2026-09-19T06:13:19.995Z",
         "publishedAt": "2026-09-19T05:53:50.800Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1170,19 +1457,60 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T08:30:00",
       "start_utc": "2026-09-19T06:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 933,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney13"
+        },
+        {
+          "id": 790,
+          "name": "Universo",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        },
+        {
+          "id": 1474,
+          "name": "Universo | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        }
+      ],
       "source_data": {
         "diary_description": "Bundesliga: \nEintracht Frankfurt vs Freiburg",
         "diary_hour": "08:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:32:45.369Z",
-        "updatedAt": "2026-09-19T03:32:45.369Z",
+        "updatedAt": "2026-09-19T06:12:14.438Z",
         "publishedAt": "2026-09-19T05:53:50.800Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+              }
+            },
+            {
+              "id": 1474,
+              "attributes": {
+                "embed_name": "Universo | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1232,19 +1560,34 @@
       "source_timezone": "Europe/Berlin",
       "source_local": "2026-09-19T08:30:00",
       "start_utc": "2026-09-19T06:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 932,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney15"
+        }
+      ],
       "source_data": {
         "diary_description": "Bundesliga: \nWerder Bremen vs Augsburg",
         "diary_hour": "08:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:33:40.208Z",
-        "updatedAt": "2026-09-19T03:33:40.208Z",
+        "updatedAt": "2026-09-19T06:14:02.632Z",
         "publishedAt": "2026-09-19T05:54:01.093Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 932,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1557,6 +1900,134 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-09T13:06:16.926Z",
                     "updatedAt": "2025-08-09T13:06:16.926Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39802,
+      "title": "MotoGP – GP Austria – Sprint",
+      "competition": "MOTO GP",
+      "date_diary": "2026-09-19",
+      "diary_hour": "07:30:00",
+      "country": "MOTO GP",
+      "logo": "https://futbollibretv.org.pe/uploads/motogp_modified_10d300b047_8484f8e991.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-19T07:30:00",
+      "start_utc": "2026-09-19T07:30:00Z",
+      "embeds": [
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
+      "source_data": {
+        "diary_description": "MotoGP – GP Austria – Sprint",
+        "diary_hour": "07:30:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T05:57:35.255Z",
+        "updatedAt": "2026-09-19T06:00:47.399Z",
+        "publishedAt": "2026-09-19T06:00:47.393Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 108,
+            "attributes": {
+              "name": "MOTO GP",
+              "createdAt": "2024-06-30T11:32:49.911Z",
+              "updatedAt": "2025-08-23T15:09:20.078Z",
+              "publishedAt": "2024-06-30T11:32:52.382Z",
+              "image": {
+                "data": {
+                  "id": 386,
+                  "attributes": {
+                    "name": "motogp_modified_10d300b047.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 298,
+                    "height": 298,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_motogp_modified_10d300b047_8484f8e991.png",
+                        "hash": "thumbnail_motogp_modified_10d300b047_8484f8e991",
+                        "mime": "image/png",
+                        "name": "thumbnail_motogp_modified_10d300b047.png",
+                        "path": null,
+                        "size": 14.56,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "motogp_modified_10d300b047_8484f8e991",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.5,
+                    "url": "/uploads/motogp_modified_10d300b047_8484f8e991.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T15:09:16.118Z",
+                    "updatedAt": "2025-08-23T15:09:16.118Z"
                   }
                 }
               }
@@ -2855,6 +3326,156 @@
       }
     },
     {
+      "id": 39803,
+      "title": "Rugby – Top 14 – La Rochelle vs. Racing 92",
+      "competition": "Rugby",
+      "date_diary": "2026-09-19",
+      "diary_hour": "09:30:00",
+      "country": "Rugby",
+      "logo": "https://futbollibretv.org.pe/uploads/Rugby_f99a2b54da.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-19T09:30:00",
+      "start_utc": "2026-09-19T09:30:00Z",
+      "embeds": [
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Rugby – Top 14 – La Rochelle vs. Racing 92",
+        "diary_hour": "09:30:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T05:58:44.504Z",
+        "updatedAt": "2026-09-19T05:58:46.580Z",
+        "publishedAt": "2026-09-19T05:58:46.576Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 134,
+            "attributes": {
+              "name": "Rugby",
+              "createdAt": "2025-03-01T00:16:20.346Z",
+              "updatedAt": "2025-11-16T14:52:22.575Z",
+              "publishedAt": "2025-03-01T00:16:22.392Z",
+              "image": {
+                "data": {
+                  "id": 413,
+                  "attributes": {
+                    "name": "Rugby.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 763,
+                    "height": 763,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Rugby_f99a2b54da.png",
+                        "hash": "small_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "small_Rugby.png",
+                        "path": null,
+                        "size": 138.17,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
+                        "hash": "medium_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "medium_Rugby.png",
+                        "path": null,
+                        "size": 250.24,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
+                        "hash": "thumbnail_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "thumbnail_Rugby.png",
+                        "path": null,
+                        "size": 22.03,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Rugby_f99a2b54da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 74.94,
+                    "url": "/uploads/Rugby_f99a2b54da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-16T14:52:15.177Z",
+                    "updatedAt": "2025-11-16T14:52:15.177Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39777,
       "title": "Eredivisie: Sparta Rotterdam vs Heerenveen",
       "competition": "Eredivisie",
@@ -3085,19 +3706,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-19T08:00:00",
       "start_utc": "2026-09-19T11:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 936,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney11"
+        }
+      ],
       "source_data": {
         "diary_description": " Segunda División: \nFénix vs Deportivo Colonia",
         "diary_hour": "08:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:36:36.865Z",
-        "updatedAt": "2026-09-19T05:36:36.865Z",
+        "updatedAt": "2026-09-19T06:10:01.233Z",
         "publishedAt": "2026-09-19T05:54:35.573Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -4216,6 +4852,156 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-08T17:09:35.922Z",
                     "updatedAt": "2025-08-08T17:09:35.922Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39804,
+      "title": "Rugby – Top 14 – RC Vannes vs. Toulouse",
+      "competition": "Rugby",
+      "date_diary": "2026-09-19",
+      "diary_hour": "13:50:00",
+      "country": "Rugby",
+      "logo": "https://futbollibretv.org.pe/uploads/Rugby_f99a2b54da.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-19T13:50:00",
+      "start_utc": "2026-09-19T13:50:00Z",
+      "embeds": [
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Rugby – Top 14 – RC Vannes vs. Toulouse",
+        "diary_hour": "13:50:00",
+        "date_diary": "2026-09-19",
+        "createdAt": "2026-09-19T05:59:50.821Z",
+        "updatedAt": "2026-09-19T05:59:52.603Z",
+        "publishedAt": "2026-09-19T05:59:52.600Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 134,
+            "attributes": {
+              "name": "Rugby",
+              "createdAt": "2025-03-01T00:16:20.346Z",
+              "updatedAt": "2025-11-16T14:52:22.575Z",
+              "publishedAt": "2025-03-01T00:16:22.392Z",
+              "image": {
+                "data": {
+                  "id": 413,
+                  "attributes": {
+                    "name": "Rugby.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 763,
+                    "height": 763,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_Rugby_f99a2b54da.png",
+                        "hash": "small_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "small_Rugby.png",
+                        "path": null,
+                        "size": 138.17,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_Rugby_f99a2b54da.png",
+                        "hash": "medium_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "medium_Rugby.png",
+                        "path": null,
+                        "size": 250.24,
+                        "width": 750,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Rugby_f99a2b54da.png",
+                        "hash": "thumbnail_Rugby_f99a2b54da",
+                        "mime": "image/png",
+                        "name": "thumbnail_Rugby.png",
+                        "path": null,
+                        "size": 22.03,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Rugby_f99a2b54da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 74.94,
+                    "url": "/uploads/Rugby_f99a2b54da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-11-16T14:52:15.177Z",
+                    "updatedAt": "2025-11-16T14:52:15.177Z"
                   }
                 }
               }
