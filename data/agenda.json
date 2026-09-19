@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:30:31.026744Z",
+  "updated_at": "2026-09-19T22:46:56.099218Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -1925,16 +1925,16 @@
       "start_utc": "2026-09-20T00:00:00Z",
       "embeds": [
         {
-          "id": 996,
-          "name": "Canal 5 MX",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=canal5"
-        },
-        {
           "id": 450,
           "name": "Canal 5 MX HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA==",
           "player_url": ""
+        },
+        {
+          "id": 996,
+          "name": "Canal 5 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=canal5"
         },
         {
           "id": 206,
@@ -1966,7 +1966,7 @@
         "diary_hour": "18:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:26:59.039Z",
-        "updatedAt": "2026-09-19T22:26:58.743Z",
+        "updatedAt": "2026-09-19T22:37:00.517Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
@@ -1974,17 +1974,17 @@
         "embeds": {
           "data": [
             {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ=="
-              }
-            },
-            {
               "id": 450,
               "attributes": {
                 "embed_name": "Canal 5 MX HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA=="
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ=="
               }
             },
             {
@@ -2299,6 +2299,12 @@
       "start_utc": "2026-09-20T02:10:00Z",
       "embeds": [
         {
+          "id": 450,
+          "name": "Canal 5 MX HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA==",
+          "player_url": ""
+        },
+        {
           "id": 996,
           "name": "Canal 5 MX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ==",
@@ -2340,13 +2346,20 @@
         "diary_hour": "20:10:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:29:05.646Z",
-        "updatedAt": "2026-09-19T05:29:18.808Z",
+        "updatedAt": "2026-09-19T22:36:49.444Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA=="
+              }
+            },
             {
               "id": 996,
               "attributes": {
@@ -2518,6 +2531,12 @@
       "start_utc": "2026-09-20T04:15:00Z",
       "embeds": [
         {
+          "id": 450,
+          "name": "Canal 5 MX HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA==",
+          "player_url": ""
+        },
+        {
           "id": 996,
           "name": "Canal 5 MX",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ==",
@@ -2559,13 +2578,20 @@
         "diary_hour": "22:15:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:30:34.842Z",
-        "updatedAt": "2026-09-19T05:30:34.842Z",
+        "updatedAt": "2026-09-19T22:36:17.009Z",
         "publishedAt": "2026-09-19T05:54:35.573Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA=="
+              }
+            },
             {
               "id": 996,
               "attributes": {
