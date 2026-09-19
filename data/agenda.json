@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T10:47:02.210654Z",
+  "updated_at": "2026-09-19T10:58:36.652813Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -2909,9 +2909,9 @@
       }
     },
     {
-      "id": 39727,
-      "title": "LaLiga: Sevilla vs Barcelona",
-      "competition": "LaLiga",
+      "id": 39797,
+      "title": "LaLiga SmartBank: Cádiz vs Girona",
+      "competition": "LaLiga SmartBank",
       "date_diary": "2026-09-19",
       "diary_hour": "14:00:00",
       "country": "España",
@@ -2922,81 +2922,29 @@
       "start_utc": "2026-09-19T12:00:00Z",
       "embeds": [
         {
-          "id": 1252,
-          "name": "Dsports Argentina",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
-          "player_url": ""
-        },
-        {
-          "id": 644,
-          "name": "DSports",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
-        },
-        {
-          "id": 341,
-          "name": "DSports | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
-        },
-        {
-          "id": 748,
-          "name": "DSports | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
-        },
-        {
-          "id": 1455,
-          "name": "DSports | HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
-          "player_url": ""
+          "id": 522,
+          "name": "LaLiga TV Hypermotion",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion1"
         }
       ],
       "source_data": {
-        "diary_description": "LaLiga: \nSevilla vs Barcelona",
+        "diary_description": "LaLiga SmartBank: \nCádiz vs Girona",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T03:28:44.155Z",
-        "updatedAt": "2026-09-19T03:28:44.155Z",
-        "publishedAt": "2026-09-19T05:53:50.800Z",
+        "createdAt": "2026-09-19T05:48:38.129Z",
+        "updatedAt": "2026-09-19T05:48:38.129Z",
+        "publishedAt": "2026-09-19T05:54:55.027Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 1252,
+              "id": 522,
               "attributes": {
-                "embed_name": "Dsports Argentina",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "DSports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
-              }
-            },
-            {
-              "id": 341,
-              "attributes": {
-                "embed_name": "DSports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 748,
-              "attributes": {
-                "embed_name": "DSports | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 1455,
-              "attributes": {
-                "embed_name": "DSports | HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
               }
             }
           ]
@@ -3038,9 +2986,9 @@
       }
     },
     {
-      "id": 39797,
-      "title": "LaLiga SmartBank: Cádiz vs Girona",
-      "competition": "LaLiga SmartBank",
+      "id": 39727,
+      "title": "LaLiga: Sevilla vs Barcelona",
+      "competition": "LaLiga",
       "date_diary": "2026-09-19",
       "diary_hour": "14:00:00",
       "country": "España",
@@ -3051,29 +2999,94 @@
       "start_utc": "2026-09-19T12:00:00Z",
       "embeds": [
         {
-          "id": 522,
-          "name": "LaLiga TV Hypermotion",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion1"
+          "id": 1455,
+          "name": "DSports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 1336,
+          "name": "DirecTV Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
+        },
+        {
+          "id": 1252,
+          "name": "Dsports Argentina",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
+          "player_url": ""
+        },
+        {
+          "id": 644,
+          "name": "DSports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports_eventos"
+        },
+        {
+          "id": 341,
+          "name": "DSports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
+        },
+        {
+          "id": 748,
+          "name": "DSports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports"
         }
       ],
       "source_data": {
-        "diary_description": "LaLiga SmartBank: \nCádiz vs Girona",
+        "diary_description": "LaLiga: \nSevilla vs Barcelona",
         "diary_hour": "14:00:00",
         "date_diary": "2026-09-19",
-        "createdAt": "2026-09-19T05:48:38.129Z",
-        "updatedAt": "2026-09-19T05:48:38.129Z",
-        "publishedAt": "2026-09-19T05:54:55.027Z",
+        "createdAt": "2026-09-19T03:28:44.155Z",
+        "updatedAt": "2026-09-19T10:56:33.062Z",
+        "publishedAt": "2026-09-19T05:53:50.800Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 522,
+              "id": 1455,
               "attributes": {
-                "embed_name": "LaLiga TV Hypermotion ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+                "embed_name": "DSports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
+              }
+            },
+            {
+              "id": 1336,
+              "attributes": {
+                "embed_name": "DirecTV Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M="
+              }
+            },
+            {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports Argentina",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA=="
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "DSports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
+              }
+            },
+            {
+              "id": 341,
+              "attributes": {
+                "embed_name": "DSports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 748,
+              "attributes": {
+                "embed_name": "DSports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
               }
             }
           ]
