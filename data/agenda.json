@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:31:12.744179Z",
+  "updated_at": "2026-09-19T14:47:19.487429Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -100,6 +100,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4mx"
         },
         {
+          "id": 846,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney7"
+        },
+        {
           "id": 322,
           "name": "ESPN 2 NL",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
@@ -111,7 +117,7 @@
         "diary_hour": "13:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:33:18.895Z",
-        "updatedAt": "2026-09-19T05:33:18.895Z",
+        "updatedAt": "2026-09-19T14:38:46.936Z",
         "publishedAt": "2026-09-19T05:54:35.573Z",
         "channels": {
           "data": []
@@ -123,6 +129,13 @@
               "attributes": {
                 "embed_name": "ESPN 4 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
+              }
+            },
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
               }
             },
             {
@@ -1359,19 +1372,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-19T11:00:00",
       "start_utc": "2026-09-19T14:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 834,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney2"
+        }
+      ],
       "source_data": {
         "diary_description": " Segunda División: \nMiramar Misiones vs Uruguay Montevideo",
         "diary_hour": "11:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:37:07.542Z",
-        "updatedAt": "2026-09-19T05:37:07.542Z",
+        "updatedAt": "2026-09-19T14:32:20.318Z",
         "publishedAt": "2026-09-19T05:54:35.573Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1445,6 +1473,12 @@
           "name": "TNT Sports | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 849,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney6"
         }
       ],
       "source_data": {
@@ -1452,7 +1486,7 @@
         "diary_hour": "12:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:41:22.877Z",
-        "updatedAt": "2026-09-19T03:41:22.877Z",
+        "updatedAt": "2026-09-19T14:37:17.264Z",
         "publishedAt": "2026-09-19T05:54:01.093Z",
         "channels": {
           "data": []
@@ -1485,6 +1519,13 @@
               "attributes": {
                 "embed_name": "TNT Sports | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
               }
             }
           ]
