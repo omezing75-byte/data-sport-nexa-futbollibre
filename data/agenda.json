@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:16:27.120897Z",
+  "updated_at": "2026-09-19T22:30:31.026744Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -845,19 +845,47 @@
       "source_timezone": "America/Sao_Paulo",
       "source_local": "2026-09-19T18:30:00",
       "start_utc": "2026-09-19T21:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 1427,
+          "name": "Amazon Prime 1",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=amazon_prime1"
+        },
+        {
+          "id": 1222,
+          "name": "Amazon Prime",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=amazon_prime1"
+        }
+      ],
       "source_data": {
         "diary_description": "Brasileirão: \nVasco da Gama vs Coritiba",
         "diary_hour": "18:30:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T03:49:44.565Z",
-        "updatedAt": "2026-09-19T03:49:44.565Z",
+        "updatedAt": "2026-09-19T22:25:40.079Z",
         "publishedAt": "2026-09-19T05:54:10.121Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 1427,
+              "attributes": {
+                "embed_name": "Amazon Prime 1",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
+              }
+            },
+            {
+              "id": 1222,
+              "attributes": {
+                "embed_name": "Amazon Prime",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -1903,6 +1931,12 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=canal5"
         },
         {
+          "id": 450,
+          "name": "Canal 5 MX HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA==",
+          "player_url": ""
+        },
+        {
           "id": 206,
           "name": "TUDN USA",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
@@ -1932,7 +1966,7 @@
         "diary_hour": "18:00:00",
         "date_diary": "2026-09-19",
         "createdAt": "2026-09-19T05:26:59.039Z",
-        "updatedAt": "2026-09-19T05:26:59.039Z",
+        "updatedAt": "2026-09-19T22:26:58.743Z",
         "publishedAt": "2026-09-19T05:54:26.416Z",
         "channels": {
           "data": []
@@ -1944,6 +1978,13 @@
               "attributes": {
                 "embed_name": "Canal 5 MX",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ=="
+              }
+            },
+            {
+              "id": 450,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA=="
               }
             },
             {
