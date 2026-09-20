@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:17:12.992078Z",
+  "updated_at": "2026-09-20T11:31:16.312148Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -94,12 +94,6 @@
       "start_utc": "2026-09-20T07:55:00Z",
       "embeds": [
         {
-          "id": 1224,
-          "name": "FOX Sports 1 USA",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports1_usa"
-        },
-        {
           "id": 790,
           "name": "Universo",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
@@ -110,6 +104,12 @@
           "name": "Universo | HD",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=universo"
+        },
+        {
+          "id": 1224,
+          "name": "FOX Sports 1 USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports1_usa"
         }
       ],
       "source_data": {
@@ -117,20 +117,13 @@
         "diary_hour": "07:55:00",
         "date_diary": "2026-09-20",
         "createdAt": "2026-09-20T10:17:53.346Z",
-        "updatedAt": "2026-09-20T10:20:08.987Z",
+        "updatedAt": "2026-09-20T11:29:33.608Z",
         "publishedAt": "2026-09-20T10:17:55.256Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
-            {
-              "id": 1224,
-              "attributes": {
-                "embed_name": "FOX Sports 1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
-              }
-            },
             {
               "id": 790,
               "attributes": {
@@ -143,6 +136,13 @@
               "attributes": {
                 "embed_name": "Universo | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
+              }
+            },
+            {
+              "id": 1224,
+              "attributes": {
+                "embed_name": "FOX Sports 1 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
               }
             }
           ]
