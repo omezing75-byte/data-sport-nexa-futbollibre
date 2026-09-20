@@ -1,8 +1,124 @@
 {
-  "updated_at": "2026-09-20T16:48:02.186659Z",
+  "updated_at": "2026-09-20T16:59:28.240397Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
+    {
+      "id": 39897,
+      "title": "Primeira Liga: Porto vs Benfica",
+      "competition": "Primeira Liga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:30:00",
+      "country": "Portugal",
+      "logo": "https://futbollibretv.org.pe/uploads/portugal_914accbdd5_06fa714d5c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pt.png",
+      "source_timezone": "Europe/Lisbon",
+      "source_local": "2026-09-20T14:30:00",
+      "start_utc": "2026-09-20T13:30:00Z",
+      "embeds": [
+        {
+          "id": 181,
+          "name": "Dsports 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 1250,
+          "name": "Dsports 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 1410,
+          "name": "Dsports 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        },
+        {
+          "id": 1468,
+          "name": "Dsports 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=dsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primeira Liga: Porto vs Benfica",
+        "diary_hour": "14:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T16:49:03.184Z",
+        "updatedAt": "2026-09-20T16:49:07.015Z",
+        "publishedAt": "2026-09-20T16:49:07.009Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 181,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1250,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1410,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1468,
+              "attributes": {
+                "embed_name": "Dsports 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 25,
+            "attributes": {
+              "name": "Portugal",
+              "createdAt": "2023-11-24T13:52:13.028Z",
+              "updatedAt": "2025-08-08T17:09:40.120Z",
+              "publishedAt": "2023-11-24T13:52:35.436Z",
+              "image": {
+                "data": {
+                  "id": 370,
+                  "attributes": {
+                    "name": "portugal_914accbdd5.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "portugal_914accbdd5_06fa714d5c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.05,
+                    "url": "/uploads/portugal_914accbdd5_06fa714d5c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-08T17:09:35.922Z",
+                    "updatedAt": "2025-08-08T17:09:35.922Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     {
       "id": 39856,
       "title": "Primera División: Danubio vs Wanderers",
@@ -581,19 +697,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-20T14:30:00",
       "start_utc": "2026-09-20T17:30:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 933,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney13"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nNacional vs Defensor Sporting",
         "diary_hour": "14:30:00",
         "date_diary": "2026-09-20",
         "createdAt": "2026-09-20T09:52:21.404Z",
-        "updatedAt": "2026-09-20T09:52:24.567Z",
+        "updatedAt": "2026-09-20T16:56:53.612Z",
         "publishedAt": "2026-09-20T09:52:24.563Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
+              }
+            }
+          ]
         },
         "country": {
           "data": {
@@ -707,122 +838,6 @@
               "attributes": {
                 "embed_name": "TNT Sports | HD",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39837,
-      "title": "Liga Profesional: Rosario Central vs Argentinos Juniors",
-      "competition": "Liga Profesional",
-      "date_diary": "2026-09-20",
-      "diary_hour": "15:00:00",
-      "country": "Argentina",
-      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
-      "source_timezone": "America/Argentina/Buenos_Aires",
-      "source_local": "2026-09-20T15:00:00",
-      "start_utc": "2026-09-20T18:00:00Z",
-      "embeds": [
-        {
-          "id": 793,
-          "name": "ESPN Premium",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 502,
-          "name": "ESPN Premium┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 100,
-          "name": "ESPN Premium┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        },
-        {
-          "id": 1487,
-          "name": "ESPN Premium┃HD",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
-        }
-      ],
-      "source_data": {
-        "diary_description": "Liga Profesional: \nRosario Central vs Argentinos Juniors",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-09-20",
-        "createdAt": "2026-09-20T09:36:54.321Z",
-        "updatedAt": "2026-09-20T09:36:56.300Z",
-        "publishedAt": "2026-09-20T09:36:56.296Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 793,
-              "attributes": {
-                "embed_name": "ESPN Premium",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 502,
-              "attributes": {
-                "embed_name": "ESPN Premium┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 100,
-              "attributes": {
-                "embed_name": "ESPN Premium┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 1487,
-              "attributes": {
-                "embed_name": "ESPN Premium┃HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
               }
             }
           ]
@@ -1033,6 +1048,174 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39837,
+      "title": "Liga Profesional: Rosario Central vs Argentinos Juniors",
+      "competition": "Liga Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "15:00:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-20T15:00:00",
+      "start_utc": "2026-09-20T18:00:00Z",
+      "embeds": [
+        {
+          "id": 793,
+          "name": "ESPN Premium",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 502,
+          "name": "ESPN Premium┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 100,
+          "name": "ESPN Premium┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 1487,
+          "name": "ESPN Premium┃HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 288,
+          "name": "FOX Deportes",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 698,
+          "name": "FOX Deportes | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 1407,
+          "name": "FOX Deportes | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        },
+        {
+          "id": 1477,
+          "name": "FOX Deportes | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxdeportes"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga Profesional: \nRosario Central vs Argentinos Juniors",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:36:54.321Z",
+        "updatedAt": "2026-09-20T16:57:42.173Z",
+        "publishedAt": "2026-09-20T09:36:56.296Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 793,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 502,
+              "attributes": {
+                "embed_name": "ESPN Premium┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 100,
+              "attributes": {
+                "embed_name": "ESPN Premium┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1487,
+              "attributes": {
+                "embed_name": "ESPN Premium┃HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
+              }
+            },
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 698,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 1407,
+              "attributes": {
+                "embed_name": "FOX Deportes | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 1477,
+              "attributes": {
+                "embed_name": "FOX Deportes | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
                   }
                 }
               }
