@@ -1,221 +1,8 @@
 {
-  "updated_at": "2026-09-20T09:58:41.777564Z",
+  "updated_at": "2026-09-20T10:17:22.477837Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39826,
-      "title": "Serie A: Parma vs Genoa",
-      "competition": "Serie A",
-      "date_diary": "2026-09-20",
-      "diary_hour": "08:00:00",
-      "country": "Italia",
-      "logo": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/it.png",
-      "source_timezone": "Europe/Rome",
-      "source_local": "2026-09-20T08:00:00",
-      "start_utc": "2026-09-20T06:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Serie A: \nParma vs Genoa",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-09-20",
-        "createdAt": "2026-09-20T09:28:18.258Z",
-        "updatedAt": "2026-09-20T09:28:19.994Z",
-        "publishedAt": "2026-09-20T09:28:19.990Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 9,
-            "attributes": {
-              "name": "Italia",
-              "createdAt": "2023-11-22T15:35:39.269Z",
-              "updatedAt": "2025-08-15T18:34:10.012Z",
-              "publishedAt": "2023-11-22T15:35:40.668Z",
-              "image": {
-                "data": {
-                  "id": 376,
-                  "attributes": {
-                    "name": "italia_cb19445d70.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "italia_cb19445d70_41852551f1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/italia_cb19445d70_41852551f1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:34:05.150Z",
-                    "updatedAt": "2025-08-15T18:34:05.150Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39825,
-      "title": "Serie A: Frosinone vs Como",
-      "competition": "Serie A",
-      "date_diary": "2026-09-20",
-      "diary_hour": "08:00:00",
-      "country": "Italia",
-      "logo": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/it.png",
-      "source_timezone": "Europe/Rome",
-      "source_local": "2026-09-20T08:00:00",
-      "start_utc": "2026-09-20T06:00:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Serie A: \nFrosinone vs Como",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-09-20",
-        "createdAt": "2026-09-20T09:27:52.679Z",
-        "updatedAt": "2026-09-20T09:27:54.562Z",
-        "publishedAt": "2026-09-20T09:27:54.558Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 9,
-            "attributes": {
-              "name": "Italia",
-              "createdAt": "2023-11-22T15:35:39.269Z",
-              "updatedAt": "2025-08-15T18:34:10.012Z",
-              "publishedAt": "2023-11-22T15:35:40.668Z",
-              "image": {
-                "data": {
-                  "id": 376,
-                  "attributes": {
-                    "name": "italia_cb19445d70.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "italia_cb19445d70_41852551f1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/italia_cb19445d70_41852551f1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:34:05.150Z",
-                    "updatedAt": "2025-08-15T18:34:05.150Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 39832,
-      "title": "Ligue 1: Auxerre vs Brest",
-      "competition": "Ligue 1",
-      "date_diary": "2026-09-20",
-      "diary_hour": "08:00:00",
-      "country": "Francia",
-      "logo": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/fr.png",
-      "source_timezone": "Europe/Paris",
-      "source_local": "2026-09-20T08:00:00",
-      "start_utc": "2026-09-20T06:00:00Z",
-      "embeds": [
-        {
-          "id": 1204,
-          "name": "BeIN Sports Ñ",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=beinsportes"
-        }
-      ],
-      "source_data": {
-        "diary_description": " Ligue 1: \nAuxerre vs Brest",
-        "diary_hour": "08:00:00",
-        "date_diary": "2026-09-20",
-        "createdAt": "2026-09-20T09:31:58.772Z",
-        "updatedAt": "2026-09-20T09:32:00.827Z",
-        "publishedAt": "2026-09-20T09:32:00.822Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 1204,
-              "attributes": {
-                "embed_name": "BeIN Sports Ñ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 11,
-            "attributes": {
-              "name": "Francia",
-              "createdAt": "2023-11-22T15:36:32.644Z",
-              "updatedAt": "2025-09-12T04:04:06.782Z",
-              "publishedAt": "2023-11-22T15:36:34.086Z",
-              "image": {
-                "data": {
-                  "id": 399,
-                  "attributes": {
-                    "name": "bandera-francia.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 500,
-                    "height": 500,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_bandera_francia_9e29308ee7.png",
-                        "hash": "thumbnail_bandera_francia_9e29308ee7",
-                        "mime": "image/png",
-                        "name": "thumbnail_bandera-francia.png",
-                        "path": null,
-                        "size": 5.79,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "bandera_francia_9e29308ee7",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.72,
-                    "url": "/uploads/bandera_francia_9e29308ee7.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-12T04:04:02.803Z",
-                    "updatedAt": "2025-09-12T04:04:02.803Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39829,
       "title": "Bundesliga: Bayer Leverkusen vs RB Leipzig",
@@ -493,6 +280,83 @@
       }
     },
     {
+      "id": 39881,
+      "title": "LaLiga SmartBank: Ceuta vs Real Valladolid",
+      "competition": "LaLiga SmartBank",
+      "date_diary": "2026-09-20",
+      "diary_hour": "09:15:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T09:15:00",
+      "start_utc": "2026-09-20T07:15:00Z",
+      "embeds": [
+        {
+          "id": 522,
+          "name": "LaLiga TV Hypermotion",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga SmartBank: \nCeuta vs Real Valladolid",
+        "diary_hour": "09:15:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:12:16.460Z",
+        "updatedAt": "2026-09-20T10:12:18.067Z",
+        "publishedAt": "2026-09-20T10:12:18.062Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 522,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39818,
       "title": "LaLiga: Atlético Madrid vs Real Madrid",
       "competition": "LaLiga",
@@ -626,6 +490,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-15T18:33:34.734Z",
                     "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39867,
+      "title": "Eredivisie: NEC vs Go Ahead Eagles",
+      "competition": "Eredivisie",
+      "date_diary": "2026-09-20",
+      "diary_hour": "09:45:00",
+      "country": "Paises Bajos",
+      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+      "logo_fallback": "",
+      "source_timezone": "Europe/Amsterdam",
+      "source_local": "2026-09-20T09:45:00",
+      "start_utc": "2026-09-20T07:45:00Z",
+      "embeds": [
+        {
+          "id": 322,
+          "name": "ESPN 2 NL",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2_nl"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Eredivisie: \nNEC vs Go Ahead Eagles",
+        "diary_hour": "09:45:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:01:07.079Z",
+        "updatedAt": "2026-09-20T10:01:08.771Z",
+        "publishedAt": "2026-09-20T10:01:08.767Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 322,
+              "attributes": {
+                "embed_name": "ESPN 2 NL",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 27,
+            "attributes": {
+              "name": "Paises Bajos",
+              "createdAt": "2023-11-25T14:14:00.773Z",
+              "updatedAt": "2025-08-09T13:06:21.819Z",
+              "publishedAt": "2023-11-25T14:14:01.960Z",
+              "image": {
+                "data": {
+                  "id": 371,
+                  "attributes": {
+                    "name": "paises_bajos_f773e994b9.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.95,
+                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-09T13:06:16.926Z",
+                    "updatedAt": "2025-08-09T13:06:16.926Z"
                   }
                 }
               }
@@ -1088,6 +1029,83 @@
       }
     },
     {
+      "id": 39882,
+      "title": "LaLiga SmartBank: Almería vs Celta de Vigo II",
+      "competition": "LaLiga SmartBank",
+      "date_diary": "2026-09-20",
+      "diary_hour": "11:30:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T11:30:00",
+      "start_utc": "2026-09-20T09:30:00Z",
+      "embeds": [
+        {
+          "id": 522,
+          "name": "LaLiga TV Hypermotion",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga SmartBank: \nAlmería vs Celta de Vigo II",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:13:14.397Z",
+        "updatedAt": "2026-09-20T10:13:16.664Z",
+        "publishedAt": "2026-09-20T10:13:16.655Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 522,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39820,
       "title": "LaLiga: Villarreal vs Levante",
       "competition": "LaLiga",
@@ -1195,6 +1213,186 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-15T18:33:34.734Z",
                     "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39883,
+      "title": "LaLiga SmartBank: Las Palmas vs Burgos",
+      "competition": "LaLiga SmartBank",
+      "date_diary": "2026-09-20",
+      "diary_hour": "11:30:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T11:30:00",
+      "start_utc": "2026-09-20T09:30:00Z",
+      "embeds": [
+        {
+          "id": 506,
+          "name": "LaLiga TV Hypermotion 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga SmartBank: \nLas Palmas vs Burgos",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:14:23.484Z",
+        "updatedAt": "2026-09-20T10:14:25.145Z",
+        "publishedAt": "2026-09-20T10:14:25.141Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 506,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39878,
+      "title": "Eerste Divisie: De Graafschap vs NAC Breda",
+      "competition": "Eerste Divisie",
+      "date_diary": "2026-09-20",
+      "diary_hour": "09:45:00",
+      "country": "Paises Bajos",
+      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-20T09:45:00",
+      "start_utc": "2026-09-20T09:45:00Z",
+      "embeds": [
+        {
+          "id": 282,
+          "name": "ESPN NL",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        },
+        {
+          "id": 1251,
+          "name": "ESPN NL | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        },
+        {
+          "id": 1409,
+          "name": "ESPN NL | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Eerste Divisie: \nDe Graafschap vs NAC Breda",
+        "diary_hour": "09:45:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:09:54.701Z",
+        "updatedAt": "2026-09-20T10:09:56.540Z",
+        "publishedAt": "2026-09-20T10:09:56.535Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 282,
+              "attributes": {
+                "embed_name": "ESPN NL ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            },
+            {
+              "id": 1251,
+              "attributes": {
+                "embed_name": "ESPN NL | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            },
+            {
+              "id": 1409,
+              "attributes": {
+                "embed_name": "ESPN NL | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 27,
+            "attributes": {
+              "name": "Paises Bajos",
+              "createdAt": "2023-11-25T14:14:00.773Z",
+              "updatedAt": "2025-08-09T13:06:21.819Z",
+              "publishedAt": "2023-11-25T14:14:01.960Z",
+              "image": {
+                "data": {
+                  "id": 371,
+                  "attributes": {
+                    "name": "paises_bajos_f773e994b9.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.95,
+                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-09T13:06:16.926Z",
+                    "updatedAt": "2025-08-09T13:06:16.926Z"
                   }
                 }
               }
@@ -1634,6 +1832,145 @@
       }
     },
     {
+      "id": 39869,
+      "title": "Segunda División: Tacuarembó vs Huracán",
+      "competition": "Segunda División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "09:00:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T09:00:00",
+      "start_utc": "2026-09-20T12:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Segunda División: \nTacuarembó vs Huracán",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:02:41.039Z",
+        "updatedAt": "2026-09-20T10:02:43.195Z",
+        "publishedAt": "2026-09-20T10:02:43.191Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39884,
+      "title": "LaLiga SmartBank: Leganés vs Granada",
+      "competition": "LaLiga SmartBank",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T12:00:00Z",
+      "embeds": [
+        {
+          "id": 522,
+          "name": "LaLiga TV Hypermotion",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=hypermotion1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga SmartBank: \nLeganés vs Granada",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:14:53.366Z",
+        "updatedAt": "2026-09-20T10:14:55.130Z",
+        "publishedAt": "2026-09-20T10:14:55.126Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 522,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39856,
       "title": "Primera División: Danubio vs Wanderers",
       "competition": "Primera División",
@@ -1653,6 +1990,68 @@
         "createdAt": "2026-09-20T09:51:44.356Z",
         "updatedAt": "2026-09-20T09:51:46.084Z",
         "publishedAt": "2026-09-20T09:51:46.080Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39870,
+      "title": "Segunda División: Cerrito vs River Plate",
+      "competition": "Segunda División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "12:00:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T12:00:00",
+      "start_utc": "2026-09-20T15:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Segunda División: \nCerrito vs River Plate",
+        "diary_hour": "12:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:03:09.337Z",
+        "updatedAt": "2026-09-20T10:03:17.417Z",
+        "publishedAt": "2026-09-20T10:03:17.412Z",
         "channels": {
           "data": []
         },
@@ -2462,6 +2861,179 @@
       }
     },
     {
+      "id": 39871,
+      "title": "Segunda División: Rentistas vs Oriental",
+      "competition": "Segunda División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "15:00:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T15:00:00",
+      "start_utc": "2026-09-20T18:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Segunda División: \nRentistas vs Oriental",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:03:44.543Z",
+        "updatedAt": "2026-09-20T10:03:46.882Z",
+        "publishedAt": "2026-09-20T10:03:46.878Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39872,
+      "title": "Copa de la División Profesional: Real Oruro vs Gualberto Villarroel SJ",
+      "competition": "Copa de la División Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T18:00:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa de la División Profesional: \nReal Oruro vs Gualberto Villarroel SJ",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:04:30.382Z",
+        "updatedAt": "2026-09-20T10:04:32.035Z",
+        "publishedAt": "2026-09-20T10:04:32.031Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39850,
       "title": "Serie A: Técnico Universitario vs Delfin",
       "competition": "Serie A",
@@ -2891,6 +3463,117 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39873,
+      "title": "Copa de la División Profesional: The Strongest vs Bolívar",
+      "competition": "Copa de la División Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "16:15:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-20T16:15:00",
+      "start_utc": "2026-09-20T20:15:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa de la División Profesional: \nThe Strongest vs Bolívar",
+        "diary_hour": "16:15:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:05:06.114Z",
+        "updatedAt": "2026-09-20T10:05:07.903Z",
+        "publishedAt": "2026-09-20T10:05:07.899Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
                   }
                 }
               }
@@ -3527,6 +4210,96 @@
       }
     },
     {
+      "id": 39868,
+      "title": "Major League Soccer: Inter Miami vs San Diego",
+      "competition": "Major League Soccer",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:00:00",
+      "country": "Estados Unidos",
+      "logo": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/us.png",
+      "source_timezone": "America/New_York",
+      "source_local": "2026-09-20T18:00:00",
+      "start_utc": "2026-09-20T22:00:00Z",
+      "embeds": [
+        {
+          "id": 1167,
+          "name": "MLS 01 | EN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        },
+        {
+          "id": 1497,
+          "name": "MLS 01 | Español",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=mls1es"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Major League Soccer: \nInter Miami vs San Diego",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:01:58.389Z",
+        "updatedAt": "2026-09-20T10:02:00.811Z",
+        "publishedAt": "2026-09-20T10:02:00.807Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1167,
+              "attributes": {
+                "embed_name": "MLS 01 | EN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM="
+              }
+            },
+            {
+              "id": 1497,
+              "attributes": {
+                "embed_name": "MLS 01 | Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2025-08-23T22:44:26.301Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 387,
+                  "attributes": {
+                    "name": "estados_unidos_de_america_b400fc18c4.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4_efc73480e0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.1,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-23T22:44:21.912Z",
+                    "updatedAt": "2025-08-23T22:44:21.912Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39839,
       "title": "Liga Profesional: Vélez Sarsfield vs Tigre",
       "competition": "Liga Profesional",
@@ -3634,6 +4407,117 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T16:02:45.389Z",
                     "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39874,
+      "title": "Copa de la División Profesional: Oriente Petrolero vs Blooming",
+      "competition": "Copa de la División Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:30:00",
+      "country": "Bolivia",
+      "logo": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/bo.png",
+      "source_timezone": "America/La_Paz",
+      "source_local": "2026-09-20T18:30:00",
+      "start_utc": "2026-09-20T22:30:00Z",
+      "embeds": [
+        {
+          "id": 1191,
+          "name": "Entel TV PLUS+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=even1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Copa de la División Profesional: \nOriente Petrolero vs Blooming",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:05:38.774Z",
+        "updatedAt": "2026-09-20T10:05:40.619Z",
+        "publishedAt": "2026-09-20T10:05:40.615Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1191,
+              "attributes": {
+                "embed_name": "Entel TV PLUS+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQo="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "Bolivia",
+              "createdAt": "2023-11-22T15:49:30.375Z",
+              "updatedAt": "2025-08-03T16:33:08.297Z",
+              "publishedAt": "2023-11-22T15:49:34.480Z",
+              "image": {
+                "data": {
+                  "id": 366,
+                  "attributes": {
+                    "name": "bolivia-png.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 831,
+                    "height": 832,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "/uploads/small_bolivia_png_81cfc9f71f.png",
+                        "hash": "small_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "small_bolivia-png.png",
+                        "path": null,
+                        "size": 65.21,
+                        "width": 499,
+                        "height": 500
+                      },
+                      "medium": {
+                        "ext": ".png",
+                        "url": "/uploads/medium_bolivia_png_81cfc9f71f.png",
+                        "hash": "medium_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "medium_bolivia-png.png",
+                        "path": null,
+                        "size": 121.48,
+                        "width": 749,
+                        "height": 750
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bolivia_png_81cfc9f71f.png",
+                        "hash": "thumbnail_bolivia_png_81cfc9f71f",
+                        "mime": "image/png",
+                        "name": "thumbnail_bolivia-png.png",
+                        "path": null,
+                        "size": 11.54,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bolivia_png_81cfc9f71f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 20.97,
+                    "url": "/uploads/bolivia_png_81cfc9f71f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:32:14.648Z",
+                    "updatedAt": "2025-08-03T16:32:14.648Z"
                   }
                 }
               }
@@ -4030,6 +4914,83 @@
       }
     },
     {
+      "id": 39875,
+      "title": "Primera Divisió: Alajuelense vs Inter San Carlos",
+      "competition": "Primera Divisió",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:00:00",
+      "country": "Costa Rica",
+      "logo": "https://futbollibretv.org.pe/uploads/costa_rica_cb5e6c6746_67d705d4bb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/cr.png",
+      "source_timezone": "America/Costa_Rica",
+      "source_local": "2026-09-20T18:00:00",
+      "start_utc": "2026-09-21T00:00:00Z",
+      "embeds": [
+        {
+          "id": 216,
+          "name": "FUTV",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZ1dHY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=futv"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera Divisió: \nAlajuelense vs Inter San Carlos",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:06:36.094Z",
+        "updatedAt": "2026-09-20T10:06:37.739Z",
+        "publishedAt": "2026-09-20T10:06:37.736Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 216,
+              "attributes": {
+                "embed_name": "FUTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZ1dHY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Costa Rica",
+              "createdAt": "2023-11-22T15:20:04.337Z",
+              "updatedAt": "2025-08-03T15:08:54.802Z",
+              "publishedAt": "2023-11-22T15:20:05.566Z",
+              "image": {
+                "data": {
+                  "id": 358,
+                  "attributes": {
+                    "name": "costa_rica_cb5e6c6746.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "costa_rica_cb5e6c6746_67d705d4bb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.47,
+                    "url": "/uploads/costa_rica_cb5e6c6746_67d705d4bb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:08:49.831Z",
+                    "updatedAt": "2025-08-03T15:08:49.831Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39863,
       "title": "Liga de Expansión MX: Tapatío vs Tlaxcala",
       "competition": "Liga de Expansión MX",
@@ -4184,6 +5145,122 @@
       }
     },
     {
+      "id": 39876,
+      "title": "Liga MX: Toluca vs Santos Laguna",
+      "competition": "Liga MX",
+      "date_diary": "2026-09-20",
+      "diary_hour": "19:00:00",
+      "country": "México",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mx.png",
+      "source_timezone": "America/Mexico_City",
+      "source_local": "2026-09-20T19:00:00",
+      "start_utc": "2026-09-21T01:00:00Z",
+      "embeds": [
+        {
+          "id": 206,
+          "name": "TUDN USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1164,
+          "name": "TUDN USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1165,
+          "name": "TUDN USA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1478,
+          "name": "TUDN USA | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga MX: \nToluca vs Santos Laguna",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:08:07.711Z",
+        "updatedAt": "2026-09-20T10:08:09.368Z",
+        "publishedAt": "2026-09-20T10:08:09.363Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1164,
+              "attributes": {
+                "embed_name": "TUDN USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1165,
+              "attributes": {
+                "embed_name": "TUDN USA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1478,
+              "attributes": {
+                "embed_name": "TUDN USA | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39849,
       "title": "Primera A: Llaneros vs Atlético Nacional",
       "competition": "Primera A",
@@ -4291,6 +5368,122 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:05:54.509Z",
                     "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39877,
+      "title": "Liga MX: Querétaro vs León",
+      "competition": "Liga MX",
+      "date_diary": "2026-09-20",
+      "diary_hour": "21:10:00",
+      "country": "México",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mx.png",
+      "source_timezone": "America/Mexico_City",
+      "source_local": "2026-09-20T21:10:00",
+      "start_utc": "2026-09-21T03:10:00Z",
+      "embeds": [
+        {
+          "id": 206,
+          "name": "TUDN USA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1164,
+          "name": "TUDN USA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1165,
+          "name": "TUDN USA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        },
+        {
+          "id": 1478,
+          "name": "TUDN USA | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tudn"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga MX: \nQuerétaro vs León",
+        "diary_hour": "21:10:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T10:09:03.148Z",
+        "updatedAt": "2026-09-20T10:09:04.846Z",
+        "publishedAt": "2026-09-20T10:09:04.842Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1164,
+              "attributes": {
+                "embed_name": "TUDN USA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1165,
+              "attributes": {
+                "embed_name": "TUDN USA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1478,
+              "attributes": {
+                "embed_name": "TUDN USA | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
                   }
                 }
               }
