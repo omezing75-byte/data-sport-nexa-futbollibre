@@ -1,70 +1,8 @@
 {
-  "updated_at": "2026-09-20T12:21:38.899320Z",
+  "updated_at": "2026-09-20T12:43:28.706548Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39830,
-      "title": "Bundesliga: Schalke 04 vs Elversberg",
-      "competition": "Bundesliga",
-      "date_diary": "2026-09-20",
-      "diary_hour": "10:30:00",
-      "country": "Alemania",
-      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
-      "source_timezone": "Europe/Berlin",
-      "source_local": "2026-09-20T10:30:00",
-      "start_utc": "2026-09-20T08:30:00Z",
-      "embeds": [],
-      "source_data": {
-        "diary_description": "Bundesliga: \nSchalke 04 vs Elversberg",
-        "diary_hour": "10:30:00",
-        "date_diary": "2026-09-20",
-        "createdAt": "2026-09-20T09:30:48.276Z",
-        "updatedAt": "2026-09-20T09:30:49.960Z",
-        "publishedAt": "2026-09-20T09:30:49.956Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 73,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2024-02-25T19:06:53.075Z",
-              "updatedAt": "2025-08-03T13:12:58.302Z",
-              "publishedAt": "2024-02-25T19:06:54.639Z",
-              "image": {
-                "data": {
-                  "id": 348,
-                  "attributes": {
-                    "name": "alemania_e50aa475de.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de_965dccfbbd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.52,
-                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:12:53.760Z",
-                    "updatedAt": "2025-08-03T13:12:53.760Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39862,
       "title": "Superliga de Grecia: Levadiakos vs Olympiakos Piraeus",
