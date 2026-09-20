@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:32:31.090369Z",
+  "updated_at": "2026-09-20T09:47:12.505076Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -635,6 +635,134 @@
       }
     },
     {
+      "id": 39833,
+      "title": "Ligue 1: Nice vs Lille",
+      "competition": "Ligue 1",
+      "date_diary": "2026-09-20",
+      "diary_hour": "10:15:00",
+      "country": "Francia",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/fr.png",
+      "source_timezone": "Europe/Paris",
+      "source_local": "2026-09-20T10:15:00",
+      "start_utc": "2026-09-20T08:15:00Z",
+      "embeds": [
+        {
+          "id": 520,
+          "name": "ESPN 4",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1398,
+          "name": "ESPN 4 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1399,
+          "name": "ESPN 4 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        },
+        {
+          "id": 1479,
+          "name": "ESPN 4 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Ligue 1: \nNice vs Lille",
+        "diary_hour": "10:15:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:32:48.712Z",
+        "updatedAt": "2026-09-20T09:33:00.009Z",
+        "publishedAt": "2026-09-20T09:33:00.005Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN 4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1398,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1399,
+              "attributes": {
+                "embed_name": "ESPN 4 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 1479,
+              "attributes": {
+                "embed_name": "ESPN 4 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "Francia",
+              "createdAt": "2023-11-22T15:36:32.644Z",
+              "updatedAt": "2025-09-12T04:04:06.782Z",
+              "publishedAt": "2023-11-22T15:36:34.086Z",
+              "image": {
+                "data": {
+                  "id": 399,
+                  "attributes": {
+                    "name": "bandera-francia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bandera_francia_9e29308ee7.png",
+                        "hash": "thumbnail_bandera_francia_9e29308ee7",
+                        "mime": "image/png",
+                        "name": "thumbnail_bandera-francia.png",
+                        "path": null,
+                        "size": 5.79,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bandera_francia_9e29308ee7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.72,
+                    "url": "/uploads/bandera_francia_9e29308ee7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-12T04:04:02.803Z",
+                    "updatedAt": "2025-09-12T04:04:02.803Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39830,
       "title": "Bundesliga: Schalke 04 vs Elversberg",
       "competition": "Bundesliga",
@@ -1061,6 +1189,134 @@
       }
     },
     {
+      "id": 39834,
+      "title": "Ligue 1: Olympique Marseille vs PSG",
+      "competition": "Ligue 1",
+      "date_diary": "2026-09-20",
+      "diary_hour": "13:45:00",
+      "country": "Francia",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/fr.png",
+      "source_timezone": "Europe/Paris",
+      "source_local": "2026-09-20T13:45:00",
+      "start_utc": "2026-09-20T11:45:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Ligue 1: \nOlympique Marseille vs PSG",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:33:41.014Z",
+        "updatedAt": "2026-09-20T09:33:42.612Z",
+        "publishedAt": "2026-09-20T09:33:42.608Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "Francia",
+              "createdAt": "2023-11-22T15:36:32.644Z",
+              "updatedAt": "2025-09-12T04:04:06.782Z",
+              "publishedAt": "2023-11-22T15:36:34.086Z",
+              "image": {
+                "data": {
+                  "id": 399,
+                  "attributes": {
+                    "name": "bandera-francia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bandera_francia_9e29308ee7.png",
+                        "hash": "thumbnail_bandera_francia_9e29308ee7",
+                        "mime": "image/png",
+                        "name": "thumbnail_bandera-francia.png",
+                        "path": null,
+                        "size": 5.79,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bandera_francia_9e29308ee7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.72,
+                    "url": "/uploads/bandera_francia_9e29308ee7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-12T04:04:02.803Z",
+                    "updatedAt": "2025-09-12T04:04:02.803Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39828,
       "title": "Serie A: Milan vs Lecce",
       "competition": "Serie A",
@@ -1239,6 +1495,517 @@
       }
     },
     {
+      "id": 39835,
+      "title": "Liga Profesional: San Lorenzo vs Boca Juniors",
+      "competition": "Liga Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "12:45:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-20T12:45:00",
+      "start_utc": "2026-09-20T15:45:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 257,
+          "name": "TNT Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1322,
+          "name": "TNT Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1405,
+          "name": "TNT Sports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1490,
+          "name": "TNT Sports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga Profesional: \nSan Lorenzo vs Boca Juniors",
+        "diary_hour": "12:45:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:34:33.421Z",
+        "updatedAt": "2026-09-20T09:35:05.660Z",
+        "publishedAt": "2026-09-20T09:34:35.427Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 257,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1322,
+              "attributes": {
+                "embed_name": "TNT Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1405,
+              "attributes": {
+                "embed_name": "TNT Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1490,
+              "attributes": {
+                "embed_name": "TNT Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39841,
+      "title": "Brasileirão: Corinthians vs Fluminense",
+      "competition": "Brasileirão",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "Brasil",
+      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
+      "source_timezone": "America/Sao_Paulo",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T17:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Brasileirão: \nCorinthians vs Fluminense",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:40:44.082Z",
+        "updatedAt": "2026-09-20T09:40:45.789Z",
+        "publishedAt": "2026-09-20T09:40:45.785Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39842,
+      "title": "Brasileirão: Vitória vs Cruzeiro",
+      "competition": "Brasileirão",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "Brasil",
+      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
+      "source_timezone": "America/Sao_Paulo",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T17:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Brasileirão: \nVitória vs Cruzeiro",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:41:11.645Z",
+        "updatedAt": "2026-09-20T09:41:13.672Z",
+        "publishedAt": "2026-09-20T09:41:13.668Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39836,
+      "title": "Liga Profesional: Platense vs Newell's Old Boys",
+      "competition": "Liga Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "15:00:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-20T15:00:00",
+      "start_utc": "2026-09-20T18:00:00Z",
+      "embeds": [
+        {
+          "id": 257,
+          "name": "TNT Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1322,
+          "name": "TNT Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1405,
+          "name": "TNT Sports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1490,
+          "name": "TNT Sports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga Profesional: \nPlatense vs Newell's Old Boys",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:35:54.653Z",
+        "updatedAt": "2026-09-20T09:35:56.767Z",
+        "publishedAt": "2026-09-20T09:35:56.761Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 257,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1322,
+              "attributes": {
+                "embed_name": "TNT Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1405,
+              "attributes": {
+                "embed_name": "TNT Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1490,
+              "attributes": {
+                "embed_name": "TNT Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39837,
+      "title": "Liga Profesional: Rosario Central vs Argentinos Juniors",
+      "competition": "Liga Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "15:00:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-20T15:00:00",
+      "start_utc": "2026-09-20T18:00:00Z",
+      "embeds": [
+        {
+          "id": 793,
+          "name": "ESPN Premium",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 502,
+          "name": "ESPN Premium┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 100,
+          "name": "ESPN Premium┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 1487,
+          "name": "ESPN Premium┃HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga Profesional: \nRosario Central vs Argentinos Juniors",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:36:54.321Z",
+        "updatedAt": "2026-09-20T09:36:56.300Z",
+        "publishedAt": "2026-09-20T09:36:56.296Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 793,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 502,
+              "attributes": {
+                "embed_name": "ESPN Premium┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 100,
+              "attributes": {
+                "embed_name": "ESPN Premium┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1487,
+              "attributes": {
+                "embed_name": "ESPN Premium┃HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39811,
       "title": "Liga 1: Sport Huancayo vs UTC Cajamarca",
       "competition": "Liga 1",
@@ -1355,6 +2122,390 @@
       }
     },
     {
+      "id": 39845,
+      "title": "Primera A: Fortaleza CEIF vs Junior",
+      "competition": "Primera A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T19:00:00Z",
+      "embeds": [
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera A: \nFortaleza CEIF vs Junior",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:43:28.638Z",
+        "updatedAt": "2026-09-20T09:43:30.606Z",
+        "publishedAt": "2026-09-20T09:43:30.601Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39843,
+      "title": "Brasileirão: Flamengo vs RB Bragantino",
+      "competition": "Brasileirão",
+      "date_diary": "2026-09-20",
+      "diary_hour": "16:30:00",
+      "country": "Brasil",
+      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
+      "source_timezone": "America/Sao_Paulo",
+      "source_local": "2026-09-20T16:30:00",
+      "start_utc": "2026-09-20T19:30:00Z",
+      "embeds": [
+        {
+          "id": 1465,
+          "name": "Sportv BR HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        },
+        {
+          "id": 1209,
+          "name": "Sportv BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Brasileirão: \nFlamengo vs RB Bragantino",
+        "diary_hour": "16:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:41:55.199Z",
+        "updatedAt": "2026-09-20T09:41:56.928Z",
+        "publishedAt": "2026-09-20T09:41:56.924Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+              }
+            },
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39838,
+      "title": "Liga Profesional: Belgrano vs Estudiantes Río Cuarto",
+      "competition": "Liga Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "17:15:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-20T17:15:00",
+      "start_utc": "2026-09-20T20:15:00Z",
+      "embeds": [
+        {
+          "id": 793,
+          "name": "ESPN Premium",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 502,
+          "name": "ESPN Premium┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 100,
+          "name": "ESPN Premium┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        },
+        {
+          "id": 1487,
+          "name": "ESPN Premium┃HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espnpremium"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga Profesional: \nBelgrano vs Estudiantes Río Cuarto",
+        "diary_hour": "17:15:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:38:01.738Z",
+        "updatedAt": "2026-09-20T09:38:03.531Z",
+        "publishedAt": "2026-09-20T09:38:03.527Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 793,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 502,
+              "attributes": {
+                "embed_name": "ESPN Premium┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 100,
+              "attributes": {
+                "embed_name": "ESPN Premium┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1487,
+              "attributes": {
+                "embed_name": "ESPN Premium┃HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39844,
+      "title": "Brasileirão: Athletico-PR vs Bahia",
+      "competition": "Brasileirão",
+      "date_diary": "2026-09-20",
+      "diary_hour": "17:30:00",
+      "country": "Brasil",
+      "logo": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/br.png",
+      "source_timezone": "America/Sao_Paulo",
+      "source_local": "2026-09-20T17:30:00",
+      "start_utc": "2026-09-20T20:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Brasileirão: \nAthletico-PR vs Bahia",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:42:24.262Z",
+        "updatedAt": "2026-09-20T09:42:26.244Z",
+        "publishedAt": "2026-09-20T09:42:26.241Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2025-08-03T15:06:25.755Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 355,
+                  "attributes": {
+                    "name": "brasil_25a533e5f7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7_a1a1ef7a7c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:21.382Z",
+                    "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39812,
       "title": "Liga 1: Juan Pablo II College vs Deportivo Moquegua",
       "competition": "Liga 1",
@@ -1462,6 +2613,586 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:07:32.287Z",
                     "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39846,
+      "title": "Primera A: Atlético Bucaramanga vs Inter Bogotá",
+      "competition": "Primera A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "16:05:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-20T16:05:00",
+      "start_utc": "2026-09-20T21:05:00Z",
+      "embeds": [
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera A: \nAtlético Bucaramanga vs Inter Bogotá",
+        "diary_hour": "16:05:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:44:08.758Z",
+        "updatedAt": "2026-09-20T09:44:10.859Z",
+        "publishedAt": "2026-09-20T09:44:10.854Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39839,
+      "title": "Liga Profesional: Vélez Sarsfield vs Tigre",
+      "competition": "Liga Profesional",
+      "date_diary": "2026-09-20",
+      "diary_hour": "19:30:00",
+      "country": "Argentina",
+      "logo": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/ar.png",
+      "source_timezone": "America/Argentina/Buenos_Aires",
+      "source_local": "2026-09-20T19:30:00",
+      "start_utc": "2026-09-20T22:30:00Z",
+      "embeds": [
+        {
+          "id": 18,
+          "name": "TYC Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tycsports"
+        },
+        {
+          "id": 596,
+          "name": "TyC Sports | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tycsports"
+        },
+        {
+          "id": 955,
+          "name": "TYC Sports | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tycsports"
+        },
+        {
+          "id": 1456,
+          "name": "TYC Sports | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tycsports"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga Profesional: \nVélez Sarsfield vs Tigre",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:39:12.357Z",
+        "updatedAt": "2026-09-20T09:39:14.076Z",
+        "publishedAt": "2026-09-20T09:39:14.072Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 18,
+              "attributes": {
+                "embed_name": "TYC Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+              }
+            },
+            {
+              "id": 596,
+              "attributes": {
+                "embed_name": "TyC Sports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+              }
+            },
+            {
+              "id": 955,
+              "attributes": {
+                "embed_name": "TYC Sports | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+              }
+            },
+            {
+              "id": 1456,
+              "attributes": {
+                "embed_name": "TYC Sports | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39848,
+      "title": "Primera A: Deportes Tolima vs América de Cali",
+      "competition": "Primera A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:10:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-20T18:10:00",
+      "start_utc": "2026-09-20T23:10:00Z",
+      "embeds": [
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera A: \nDeportes Tolima vs América de Cali",
+        "diary_hour": "18:10:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:45:48.726Z",
+        "updatedAt": "2026-09-20T09:45:50.443Z",
+        "publishedAt": "2026-09-20T09:45:50.439Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39847,
+      "title": "Primera A: Deportes Tolima vs América de Cali",
+      "competition": "Primera A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:10:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-20T18:10:00",
+      "start_utc": "2026-09-20T23:10:00Z",
+      "embeds": [
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera A: \nDeportes Tolima vs América de Cali",
+        "diary_hour": "18:10:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:44:52.055Z",
+        "updatedAt": "2026-09-20T09:44:54.247Z",
+        "publishedAt": "2026-09-20T09:44:54.242Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39849,
+      "title": "Primera A: Llaneros vs Atlético Nacional",
+      "competition": "Primera A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "20:15:00",
+      "country": "Colombia",
+      "logo": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/co.png",
+      "source_timezone": "America/Bogota",
+      "source_local": "2026-09-20T20:15:00",
+      "start_utc": "2026-09-21T01:15:00Z",
+      "embeds": [
+        {
+          "id": 164,
+          "name": "Win Sports +",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 747,
+          "name": "Win Sports + | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 1457,
+          "name": "Win Sports + | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        },
+        {
+          "id": 293,
+          "name": "Win Sports + | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=winsports2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Primera A: \nLlaneros vs Atlético Nacional",
+        "diary_hour": "20:15:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:46:28.016Z",
+        "updatedAt": "2026-09-20T09:46:30.291Z",
+        "publishedAt": "2026-09-20T09:46:30.288Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 747,
+              "attributes": {
+                "embed_name": "Win Sports + | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1457,
+              "attributes": {
+                "embed_name": "Win Sports + | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
                   }
                 }
               }
