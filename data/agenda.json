@@ -1,111 +1,8 @@
 {
-  "updated_at": "2026-09-20T13:30:58.863400Z",
+  "updated_at": "2026-09-20T13:47:46.602493Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
-    {
-      "id": 39878,
-      "title": "Eerste Divisie: De Graafschap vs NAC Breda",
-      "competition": "Eerste Divisie",
-      "date_diary": "2026-09-20",
-      "diary_hour": "09:45:00",
-      "country": "Paises Bajos",
-      "logo": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-      "logo_fallback": "",
-      "source_timezone": "UTC",
-      "source_local": "2026-09-20T09:45:00",
-      "start_utc": "2026-09-20T09:45:00Z",
-      "embeds": [
-        {
-          "id": 282,
-          "name": "ESPN NL",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        },
-        {
-          "id": 1251,
-          "name": "ESPN NL | OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        },
-        {
-          "id": 1409,
-          "name": "ESPN NL | OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn1_nl"
-        }
-      ],
-      "source_data": {
-        "diary_description": " Eerste Divisie: \nDe Graafschap vs NAC Breda",
-        "diary_hour": "09:45:00",
-        "date_diary": "2026-09-20",
-        "createdAt": "2026-09-20T10:09:54.701Z",
-        "updatedAt": "2026-09-20T10:09:56.540Z",
-        "publishedAt": "2026-09-20T10:09:56.535Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 282,
-              "attributes": {
-                "embed_name": "ESPN NL ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            },
-            {
-              "id": 1251,
-              "attributes": {
-                "embed_name": "ESPN NL | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            },
-            {
-              "id": 1409,
-              "attributes": {
-                "embed_name": "ESPN NL | OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 27,
-            "attributes": {
-              "name": "Paises Bajos",
-              "createdAt": "2023-11-25T14:14:00.773Z",
-              "updatedAt": "2025-08-09T13:06:21.819Z",
-              "publishedAt": "2023-11-25T14:14:01.960Z",
-              "image": {
-                "data": {
-                  "id": 371,
-                  "attributes": {
-                    "name": "paises_bajos_f773e994b9.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "paises_bajos_f773e994b9_3bb0d207d2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.95,
-                    "url": "/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-09T13:06:16.926Z",
-                    "updatedAt": "2025-08-09T13:06:16.926Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     {
       "id": 39831,
       "title": "Bundesliga: Paderborn vs Hoffenheim",
@@ -1219,19 +1116,34 @@
       "source_timezone": "America/Montevideo",
       "source_local": "2026-09-20T11:00:00",
       "start_utc": "2026-09-20T14:00:00Z",
-      "embeds": [],
+      "embeds": [
+        {
+          "id": 831,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney5"
+        }
+      ],
       "source_data": {
         "diary_description": "Primera División: \nDanubio vs Wanderers",
         "diary_hour": "11:00:00",
         "date_diary": "2026-09-20",
         "createdAt": "2026-09-20T09:51:44.356Z",
-        "updatedAt": "2026-09-20T09:51:46.084Z",
+        "updatedAt": "2026-09-20T13:38:26.332Z",
         "publishedAt": "2026-09-20T09:51:46.080Z",
         "channels": {
           "data": []
         },
         "embeds": {
-          "data": []
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            }
+          ]
         },
         "country": {
           "data": {
