@@ -1,6 +1,1474 @@
 {
-  "updated_at": "2026-09-20T09:18:20.445793Z",
+  "updated_at": "2026-09-20T09:32:31.090369Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
-  "events": []
+  "events": [
+    {
+      "id": 39826,
+      "title": "Serie A: Parma vs Genoa",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Italia",
+      "logo": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/it.png",
+      "source_timezone": "Europe/Rome",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T06:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Serie A: \nParma vs Genoa",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:28:18.258Z",
+        "updatedAt": "2026-09-20T09:28:19.994Z",
+        "publishedAt": "2026-09-20T09:28:19.990Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2025-08-15T18:34:10.012Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 376,
+                  "attributes": {
+                    "name": "italia_cb19445d70.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70_41852551f1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/italia_cb19445d70_41852551f1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:34:05.150Z",
+                    "updatedAt": "2025-08-15T18:34:05.150Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39825,
+      "title": "Serie A: Frosinone vs Como",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Italia",
+      "logo": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/it.png",
+      "source_timezone": "Europe/Rome",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T06:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Serie A: \nFrosinone vs Como",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:27:52.679Z",
+        "updatedAt": "2026-09-20T09:27:54.562Z",
+        "publishedAt": "2026-09-20T09:27:54.558Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2025-08-15T18:34:10.012Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 376,
+                  "attributes": {
+                    "name": "italia_cb19445d70.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70_41852551f1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/italia_cb19445d70_41852551f1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:34:05.150Z",
+                    "updatedAt": "2025-08-15T18:34:05.150Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39832,
+      "title": "Ligue 1: Auxerre vs Brest",
+      "competition": "Ligue 1",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Francia",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/fr.png",
+      "source_timezone": "Europe/Paris",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T06:00:00Z",
+      "embeds": [
+        {
+          "id": 1204,
+          "name": "BeIN Sports Ñ",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=beinsportes"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Ligue 1: \nAuxerre vs Brest",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:31:58.772Z",
+        "updatedAt": "2026-09-20T09:32:00.827Z",
+        "publishedAt": "2026-09-20T09:32:00.822Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1204,
+              "attributes": {
+                "embed_name": "BeIN Sports Ñ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "Francia",
+              "createdAt": "2023-11-22T15:36:32.644Z",
+              "updatedAt": "2025-09-12T04:04:06.782Z",
+              "publishedAt": "2023-11-22T15:36:34.086Z",
+              "image": {
+                "data": {
+                  "id": 399,
+                  "attributes": {
+                    "name": "bandera-francia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_bandera_francia_9e29308ee7.png",
+                        "hash": "thumbnail_bandera_francia_9e29308ee7",
+                        "mime": "image/png",
+                        "name": "thumbnail_bandera-francia.png",
+                        "path": null,
+                        "size": 5.79,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "bandera_francia_9e29308ee7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.72,
+                    "url": "/uploads/bandera_francia_9e29308ee7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-12T04:04:02.803Z",
+                    "updatedAt": "2025-09-12T04:04:02.803Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39829,
+      "title": "Bundesliga: Bayer Leverkusen vs RB Leipzig",
+      "competition": "Bundesliga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:30:00",
+      "country": "Alemania",
+      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
+      "source_timezone": "Europe/Berlin",
+      "source_local": "2026-09-20T08:30:00",
+      "start_utc": "2026-09-20T06:30:00Z",
+      "embeds": [
+        {
+          "id": 1465,
+          "name": "Sportv BR HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        },
+        {
+          "id": 1209,
+          "name": "Sportv BR",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=sportv"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Bundesliga: \nBayer Leverkusen vs RB Leipzig",
+        "diary_hour": "08:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:30:17.183Z",
+        "updatedAt": "2026-09-20T09:30:19.219Z",
+        "publishedAt": "2026-09-20T09:30:19.216Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1465,
+              "attributes": {
+                "embed_name": "Sportv BR HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+              }
+            },
+            {
+              "id": 1209,
+              "attributes": {
+                "embed_name": "Sportv BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 73,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2024-02-25T19:06:53.075Z",
+              "updatedAt": "2025-08-03T13:12:58.302Z",
+              "publishedAt": "2024-02-25T19:06:54.639Z",
+              "image": {
+                "data": {
+                  "id": 348,
+                  "attributes": {
+                    "name": "alemania_e50aa475de.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de_965dccfbbd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.52,
+                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:12:53.760Z",
+                    "updatedAt": "2025-08-03T13:12:53.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39813,
+      "title": "Premier League: AFC Bournemouth vs Liverpool",
+      "competition": "Premier League",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T07:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Premier League: \nAFC Bournemouth vs Liverpool",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:08:46.816Z",
+        "updatedAt": "2026-09-20T03:08:46.816Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39814,
+      "title": "Premier League: Leeds United vs Crystal Palace",
+      "competition": "Premier League",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T07:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Premier League: \nLeeds United vs Crystal Palace",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:09:13.906Z",
+        "updatedAt": "2026-09-20T03:09:13.906Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39815,
+      "title": "Premier League: Manchester City vs Sunderland",
+      "competition": "Premier League",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T07:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Premier League: \nManchester City vs Sunderland",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:09:40.509Z",
+        "updatedAt": "2026-09-20T03:09:40.509Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39818,
+      "title": "LaLiga: Atlético Madrid vs Real Madrid",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "09:15:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T09:15:00",
+      "start_utc": "2026-09-20T07:15:00Z",
+      "embeds": [
+        {
+          "id": 657,
+          "name": "ESPN",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 57,
+          "name": "ESPN Deportes",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1374,
+          "name": "ESPN Deportes | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        },
+        {
+          "id": 1408,
+          "name": "ESPN Deportes | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espndeportes"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga: \nAtlético Madrid vs Real Madrid",
+        "diary_hour": "09:15:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:37:51.668Z",
+        "updatedAt": "2026-09-20T03:37:51.668Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+              }
+            },
+            {
+              "id": 1374,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 1408,
+              "attributes": {
+                "embed_name": "ESPN Deportes  | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39830,
+      "title": "Bundesliga: Schalke 04 vs Elversberg",
+      "competition": "Bundesliga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "10:30:00",
+      "country": "Alemania",
+      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
+      "source_timezone": "Europe/Berlin",
+      "source_local": "2026-09-20T10:30:00",
+      "start_utc": "2026-09-20T08:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Bundesliga: \nSchalke 04 vs Elversberg",
+        "diary_hour": "10:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:30:48.276Z",
+        "updatedAt": "2026-09-20T09:30:49.960Z",
+        "publishedAt": "2026-09-20T09:30:49.956Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 73,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2024-02-25T19:06:53.075Z",
+              "updatedAt": "2025-08-03T13:12:58.302Z",
+              "publishedAt": "2024-02-25T19:06:54.639Z",
+              "image": {
+                "data": {
+                  "id": 348,
+                  "attributes": {
+                    "name": "alemania_e50aa475de.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de_965dccfbbd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.52,
+                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:12:53.760Z",
+                    "updatedAt": "2025-08-03T13:12:53.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39827,
+      "title": "Serie A: Juventus vs Atalanta",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "11:00:00",
+      "country": "Italia",
+      "logo": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/it.png",
+      "source_timezone": "Europe/Rome",
+      "source_local": "2026-09-20T11:00:00",
+      "start_utc": "2026-09-20T09:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Serie A: \nJuventus vs Atalanta",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:28:45.488Z",
+        "updatedAt": "2026-09-20T09:28:47.870Z",
+        "publishedAt": "2026-09-20T09:28:47.866Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2025-08-15T18:34:10.012Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 376,
+                  "attributes": {
+                    "name": "italia_cb19445d70.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70_41852551f1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/italia_cb19445d70_41852551f1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:34:05.150Z",
+                    "updatedAt": "2025-08-15T18:34:05.150Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39816,
+      "title": "Premier League: Fulham vs Manchester United",
+      "competition": "Premier League",
+      "date_diary": "2026-09-20",
+      "diary_hour": "10:30:00",
+      "country": "Inglaterra",
+      "logo": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/eng.png",
+      "source_timezone": "Europe/London",
+      "source_local": "2026-09-20T10:30:00",
+      "start_utc": "2026-09-20T09:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Premier League: \nFulham vs Manchester United",
+        "diary_hour": "10:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:10:14.222Z",
+        "updatedAt": "2026-09-20T03:10:14.222Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2025-08-03T13:11:39.073Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 346,
+                  "attributes": {
+                    "name": "inglaterra_823176495f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.48,
+                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:11:35.093Z",
+                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39819,
+      "title": "LaLiga: Deportivo La Coruña vs Real Betis",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "11:30:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T11:30:00",
+      "start_utc": "2026-09-20T09:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "LaLiga: \nDeportivo La Coruña vs Real Betis",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:38:23.985Z",
+        "updatedAt": "2026-09-20T03:38:23.985Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39820,
+      "title": "LaLiga: Villarreal vs Levante",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "11:30:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T11:30:00",
+      "start_utc": "2026-09-20T09:30:00Z",
+      "embeds": [
+        {
+          "id": 640,
+          "name": "ESPN 2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1133,
+          "name": "ESPN 2 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1377,
+          "name": "ESPN 2 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        },
+        {
+          "id": 1461,
+          "name": "ESPN 2 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn2"
+        }
+      ],
+      "source_data": {
+        "diary_description": "LaLiga: \nVillarreal vs Levante",
+        "diary_hour": "11:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:39:12.025Z",
+        "updatedAt": "2026-09-20T03:39:12.025Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1133,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1377,
+              "attributes": {
+                "embed_name": "ESPN 2 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 1461,
+              "attributes": {
+                "embed_name": "ESPN 2 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39831,
+      "title": "Bundesliga: Paderborn vs Hoffenheim",
+      "competition": "Bundesliga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "12:30:00",
+      "country": "Alemania",
+      "logo": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/de.png",
+      "source_timezone": "Europe/Berlin",
+      "source_local": "2026-09-20T12:30:00",
+      "start_utc": "2026-09-20T10:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Bundesliga: \nPaderborn vs Hoffenheim",
+        "diary_hour": "12:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:31:14.214Z",
+        "updatedAt": "2026-09-20T09:31:15.884Z",
+        "publishedAt": "2026-09-20T09:31:15.879Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 73,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2024-02-25T19:06:53.075Z",
+              "updatedAt": "2025-08-03T13:12:58.302Z",
+              "publishedAt": "2024-02-25T19:06:54.639Z",
+              "image": {
+                "data": {
+                  "id": 348,
+                  "attributes": {
+                    "name": "alemania_e50aa475de.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de_965dccfbbd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.52,
+                    "url": "/uploads/alemania_e50aa475de_965dccfbbd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:12:53.760Z",
+                    "updatedAt": "2025-08-03T13:12:53.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39828,
+      "title": "Serie A: Milan vs Lecce",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "13:45:00",
+      "country": "Italia",
+      "logo": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/it.png",
+      "source_timezone": "Europe/Rome",
+      "source_local": "2026-09-20T13:45:00",
+      "start_utc": "2026-09-20T11:45:00Z",
+      "embeds": [
+        {
+          "id": 656,
+          "name": "ESPN 3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1357,
+          "name": "ESPN 3 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1358,
+          "name": "ESPN 3 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        },
+        {
+          "id": 1462,
+          "name": "ESPN 3 | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Serie A: \nMilan vs Lecce",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:29:31.407Z",
+        "updatedAt": "2026-09-20T09:29:33.831Z",
+        "publishedAt": "2026-09-20T09:29:33.824Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1357,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1358,
+              "attributes": {
+                "embed_name": "ESPN 3 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1462,
+              "attributes": {
+                "embed_name": "ESPN 3 | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2025-08-15T18:34:10.012Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 376,
+                  "attributes": {
+                    "name": "italia_cb19445d70.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70_41852551f1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/italia_cb19445d70_41852551f1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:34:05.150Z",
+                    "updatedAt": "2025-08-15T18:34:05.150Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39821,
+      "title": "LaLiga: Valencia vs Real Sociedad",
+      "competition": "LaLiga",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "España",
+      "logo": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/es.png",
+      "source_timezone": "Europe/Madrid",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T12:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "LaLiga: \nValencia vs Real Sociedad",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:39:46.942Z",
+        "updatedAt": "2026-09-20T03:39:46.942Z",
+        "publishedAt": "2026-09-20T09:21:56.135Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2025-08-15T18:33:39.904Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 375,
+                  "attributes": {
+                    "name": "espana_a8510f9b5f.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.46,
+                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-15T18:33:34.734Z",
+                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39811,
+      "title": "Liga 1: Sport Huancayo vs UTC Cajamarca",
+      "competition": "Liga 1",
+      "date_diary": "2026-09-20",
+      "diary_hour": "13:00:00",
+      "country": "Perú",
+      "logo": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pe.png",
+      "source_timezone": "America/Lima",
+      "source_local": "2026-09-20T13:00:00",
+      "start_utc": "2026-09-20T18:00:00Z",
+      "embeds": [
+        {
+          "id": 774,
+          "name": "Liga1MAX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 738,
+          "name": "Liga1Max | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 315,
+          "name": "Liga1Max | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 1483,
+          "name": "Liga1MAX | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga 1: Sport Huancayo vs UTC Cajamarca",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:07:23.607Z",
+        "updatedAt": "2026-09-20T03:07:23.607Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 738,
+              "attributes": {
+                "embed_name": "Liga1Max | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 315,
+              "attributes": {
+                "embed_name": "Liga1Max | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1483,
+              "attributes": {
+                "embed_name": "Liga1MAX | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2025-08-03T15:07:36.491Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 357,
+                  "attributes": {
+                    "name": "peru_ddc4e685cf.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf_43831ed9b0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:07:32.287Z",
+                    "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39812,
+      "title": "Liga 1: Juan Pablo II College vs Deportivo Moquegua",
+      "competition": "Liga 1",
+      "date_diary": "2026-09-20",
+      "diary_hour": "15:30:00",
+      "country": "Perú",
+      "logo": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/pe.png",
+      "source_timezone": "America/Lima",
+      "source_local": "2026-09-20T15:30:00",
+      "start_utc": "2026-09-20T20:30:00Z",
+      "embeds": [
+        {
+          "id": 774,
+          "name": "Liga1MAX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 738,
+          "name": "Liga1Max | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 315,
+          "name": "Liga1Max | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        },
+        {
+          "id": 1483,
+          "name": "Liga1MAX | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=liga1max"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga 1: Juan Pablo II College vs Deportivo Moquegua",
+        "diary_hour": "15:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T03:08:11.708Z",
+        "updatedAt": "2026-09-20T03:08:11.708Z",
+        "publishedAt": "2026-09-20T09:21:43.449Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1MAX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 738,
+              "attributes": {
+                "embed_name": "Liga1Max | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 315,
+              "attributes": {
+                "embed_name": "Liga1Max | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1483,
+              "attributes": {
+                "embed_name": "Liga1MAX | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2025-08-03T15:07:36.491Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 357,
+                  "attributes": {
+                    "name": "peru_ddc4e685cf.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf_43831ed9b0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:07:32.287Z",
+                    "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
 }
