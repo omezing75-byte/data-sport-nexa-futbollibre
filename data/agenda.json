@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:30:34.153040Z",
+  "updated_at": "2026-09-20T17:46:46.056774Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -293,18 +293,6 @@
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
         },
         {
-          "id": 652,
-          "name": "ESPN AR┃OP2",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
-          "id": 234,
-          "name": "ESPN AR┃OP3",
-          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
-        },
-        {
           "id": 938,
           "name": "Disney+",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
@@ -315,6 +303,24 @@
           "name": "TNT Sports",
           "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
           "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=tntsports"
+        },
+        {
+          "id": 1453,
+          "name": "Disney+",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRpc25leTEw",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=disney10"
+        },
+        {
+          "id": 652,
+          "name": "ESPN AR┃OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
+        },
+        {
+          "id": 234,
+          "name": "ESPN AR┃OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn"
         },
         {
           "id": 1322,
@@ -340,7 +346,7 @@
         "diary_hour": "12:45:00",
         "date_diary": "2026-09-20",
         "createdAt": "2026-09-20T09:34:33.421Z",
-        "updatedAt": "2026-09-20T14:27:12.425Z",
+        "updatedAt": "2026-09-20T17:46:15.893Z",
         "publishedAt": "2026-09-20T09:34:35.427Z",
         "channels": {
           "data": []
@@ -355,20 +361,6 @@
               }
             },
             {
-              "id": 652,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 234,
-              "attributes": {
-                "embed_name": "ESPN AR┃OP3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
               "id": 938,
               "attributes": {
                 "embed_name": "Disney+",
@@ -380,6 +372,27 @@
               "attributes": {
                 "embed_name": "TNT Sports",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1453,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRpc25leTEw"
+              }
+            },
+            {
+              "id": 652,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 234,
+              "attributes": {
+                "embed_name": "ESPN AR┃OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
               }
             },
             {
