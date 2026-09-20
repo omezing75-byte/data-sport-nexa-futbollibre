@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:47:12.505076Z",
+  "updated_at": "2026-09-20T09:58:41.777564Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -825,6 +825,83 @@
       }
     },
     {
+      "id": 39862,
+      "title": "Superliga de Grecia: Levadiakos vs Olympiakos Piraeus",
+      "competition": "Superliga de Grecia",
+      "date_diary": "2026-09-20",
+      "diary_hour": "09:00:00",
+      "country": "Amistosos Paises",
+      "logo": "https://futbollibretv.org.pe/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-20T09:00:00",
+      "start_utc": "2026-09-20T09:00:00Z",
+      "embeds": [
+        {
+          "id": 1003,
+          "name": "Claro Sports",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Y2xhcm9zcG9ydHMx",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=clarosports1"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Superliga de Grecia: \nLevadiakos vs Olympiakos Piraeus",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:55:49.742Z",
+        "updatedAt": "2026-09-20T09:55:52.042Z",
+        "publishedAt": "2026-09-20T09:55:52.036Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1003,
+              "attributes": {
+                "embed_name": "Claro Sports ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Y2xhcm9zcG9ydHMx"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 133,
+            "attributes": {
+              "name": "Amistosos Paises",
+              "createdAt": "2025-03-01T00:14:07.871Z",
+              "updatedAt": "2025-08-03T13:20:12.777Z",
+              "publishedAt": "2025-03-01T00:14:09.910Z",
+              "image": {
+                "data": {
+                  "id": 347,
+                  "attributes": {
+                    "name": "amistosos_bbe2ec4c17.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:12:14.467Z",
+                    "updatedAt": "2025-08-15T11:15:10.464Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39827,
       "title": "Serie A: Juventus vs Atalanta",
       "competition": "Serie A",
@@ -1189,6 +1266,68 @@
       }
     },
     {
+      "id": 39855,
+      "title": "Primera División: Albion vs Juventud",
+      "competition": "Primera División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "08:00:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T08:00:00",
+      "start_utc": "2026-09-20T11:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Primera División: \nAlbion vs Juventud",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:51:16.761Z",
+        "updatedAt": "2026-09-20T09:51:18.474Z",
+        "publishedAt": "2026-09-20T09:51:18.470Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39834,
       "title": "Ligue 1: Olympique Marseille vs PSG",
       "competition": "Ligue 1",
@@ -1495,6 +1634,68 @@
       }
     },
     {
+      "id": 39856,
+      "title": "Primera División: Danubio vs Wanderers",
+      "competition": "Primera División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "11:00:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T11:00:00",
+      "start_utc": "2026-09-20T14:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Primera División: \nDanubio vs Wanderers",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:51:44.356Z",
+        "updatedAt": "2026-09-20T09:51:46.084Z",
+        "publishedAt": "2026-09-20T09:51:46.080Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39835,
       "title": "Liga Profesional: San Lorenzo vs Boca Juniors",
       "competition": "Liga Profesional",
@@ -1765,6 +1966,145 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:06:21.382Z",
                     "updatedAt": "2025-08-03T15:06:21.382Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39853,
+      "title": "Primera División: Sportivo San Lorenzo vs Olimpia",
+      "competition": "Primera División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:00:00",
+      "country": "Paraguay",
+      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
+      "source_timezone": "America/Asuncion",
+      "source_local": "2026-09-20T14:00:00",
+      "start_utc": "2026-09-20T17:00:00Z",
+      "embeds": [
+        {
+          "id": 1087,
+          "name": "fanatiz 01",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz1"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Primera División: \nSportivo San Lorenzo vs Olimpia",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:50:06.195Z",
+        "updatedAt": "2026-09-20T09:50:08.012Z",
+        "publishedAt": "2026-09-20T09:50:08.003Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1087,
+              "attributes": {
+                "embed_name": "fanatiz 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2025-08-03T15:06:51.427Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 356,
+                  "attributes": {
+                    "name": "paraguay_fc9dd78de7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7_fda39878d0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:47.480Z",
+                    "updatedAt": "2025-08-03T15:06:47.480Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39857,
+      "title": "Primera División: Nacional vs Defensor Sporting",
+      "competition": "Primera División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "14:30:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T14:30:00",
+      "start_utc": "2026-09-20T17:30:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Primera División: \nNacional vs Defensor Sporting",
+        "diary_hour": "14:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:52:21.404Z",
+        "updatedAt": "2026-09-20T09:52:24.567Z",
+        "publishedAt": "2026-09-20T09:52:24.563Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -2122,6 +2462,161 @@
       }
     },
     {
+      "id": 39850,
+      "title": "Serie A: Técnico Universitario vs Delfin",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "13:30:00",
+      "country": "Ecuador",
+      "logo": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+      "logo_fallback": "",
+      "source_timezone": "America/Guayaquil",
+      "source_local": "2026-09-20T13:30:00",
+      "start_utc": "2026-09-20T18:30:00Z",
+      "embeds": [
+        {
+          "id": 914,
+          "name": "ECDF LigaPro",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1488,
+          "name": "ECDF LigaPro | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1489,
+          "name": "ECDF LigaPro | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1482,
+          "name": "ECDF LigaPRO | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1161,
+          "name": "ECUAVISA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1162,
+          "name": "ECUAVISA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1163,
+          "name": "ECUAVISA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Serie A: \nTécnico Universitario vs Delfin",
+        "diary_hour": "13:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:47:30.705Z",
+        "updatedAt": "2026-09-20T09:47:32.545Z",
+        "publishedAt": "2026-09-20T09:47:32.541Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 914,
+              "attributes": {
+                "embed_name": "ECDF LigaPro",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1488,
+              "attributes": {
+                "embed_name": "ECDF LigaPro | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1489,
+              "attributes": {
+                "embed_name": "ECDF LigaPro | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1482,
+              "attributes": {
+                "embed_name": "ECDF LigaPRO | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+              }
+            },
+            {
+              "id": 1161,
+              "attributes": {
+                "embed_name": "ECUAVISA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1162,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1163,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2025-08-03T14:39:57.465Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 353,
+                  "attributes": {
+                    "name": "ecuador_6b5e87e044.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044_2fd81bc301",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.82,
+                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:52.709Z",
+                    "updatedAt": "2025-08-03T14:39:52.709Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 39845,
       "title": "Primera A: Fortaleza CEIF vs Junior",
       "competition": "Primera A",
@@ -2229,6 +2724,83 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:05:54.509Z",
                     "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39854,
+      "title": "Primera División: Sportivo Luqueño vs Deportivo Recoleta",
+      "competition": "Primera División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "16:30:00",
+      "country": "Paraguay",
+      "logo": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/py.png",
+      "source_timezone": "America/Asuncion",
+      "source_local": "2026-09-20T16:30:00",
+      "start_utc": "2026-09-20T19:30:00Z",
+      "embeds": [
+        {
+          "id": 1051,
+          "name": "fanatiz 02",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=fanatiz2"
+        }
+      ],
+      "source_data": {
+        "diary_description": " Primera División: \nSportivo Luqueño vs Deportivo Recoleta",
+        "diary_hour": "16:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:50:36.950Z",
+        "updatedAt": "2026-09-20T09:50:38.734Z",
+        "publishedAt": "2026-09-20T09:50:38.725Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1051,
+              "attributes": {
+                "embed_name": "fanatiz 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2025-08-03T15:06:51.427Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 356,
+                  "attributes": {
+                    "name": "paraguay_fc9dd78de7.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7_fda39878d0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:06:47.480Z",
+                    "updatedAt": "2025-08-03T15:06:47.480Z"
                   }
                 }
               }
@@ -2613,6 +3185,223 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:07:32.287Z",
                     "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39851,
+      "title": "Serie A: Deportivo Cuenca vs Mushuc Runa",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "16:00:00",
+      "country": "Ecuador",
+      "logo": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+      "logo_fallback": "",
+      "source_timezone": "America/Guayaquil",
+      "source_local": "2026-09-20T16:00:00",
+      "start_utc": "2026-09-20T21:00:00Z",
+      "embeds": [
+        {
+          "id": 914,
+          "name": "ECDF LigaPro",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1488,
+          "name": "ECDF LigaPro | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1489,
+          "name": "ECDF LigaPro | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1482,
+          "name": "ECDF LigaPRO | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1161,
+          "name": "ECUAVISA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1162,
+          "name": "ECUAVISA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1163,
+          "name": "ECUAVISA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Serie A: \nDeportivo Cuenca vs Mushuc Runa",
+        "diary_hour": "16:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:48:17.021Z",
+        "updatedAt": "2026-09-20T09:48:19.141Z",
+        "publishedAt": "2026-09-20T09:48:19.136Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 914,
+              "attributes": {
+                "embed_name": "ECDF LigaPro",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1488,
+              "attributes": {
+                "embed_name": "ECDF LigaPro | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1489,
+              "attributes": {
+                "embed_name": "ECDF LigaPro | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1482,
+              "attributes": {
+                "embed_name": "ECDF LigaPRO | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+              }
+            },
+            {
+              "id": 1161,
+              "attributes": {
+                "embed_name": "ECUAVISA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1162,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1163,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2025-08-03T14:39:57.465Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 353,
+                  "attributes": {
+                    "name": "ecuador_6b5e87e044.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044_2fd81bc301",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.82,
+                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:52.709Z",
+                    "updatedAt": "2025-08-03T14:39:52.709Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39858,
+      "title": "Primera División: Liverpool vs Racing",
+      "competition": "Primera División",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:00:00",
+      "country": "Uruguay",
+      "logo": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/uy.png",
+      "source_timezone": "America/Montevideo",
+      "source_local": "2026-09-20T18:00:00",
+      "start_utc": "2026-09-20T21:00:00Z",
+      "embeds": [],
+      "source_data": {
+        "diary_description": "Primera División: \nLiverpool vs Racing",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:52:48.017Z",
+        "updatedAt": "2026-09-20T09:52:49.977Z",
+        "publishedAt": "2026-09-20T09:52:49.972Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -3077,6 +3866,315 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T15:05:54.509Z",
                     "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39852,
+      "title": "Serie A: LDU Quito vs Universidad Católica",
+      "competition": "Serie A",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:30:00",
+      "country": "Ecuador",
+      "logo": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+      "logo_fallback": "",
+      "source_timezone": "America/Guayaquil",
+      "source_local": "2026-09-20T18:30:00",
+      "start_utc": "2026-09-20T23:30:00Z",
+      "embeds": [
+        {
+          "id": 914,
+          "name": "ECDF LigaPro",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1488,
+          "name": "ECDF LigaPro | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1489,
+          "name": "ECDF LigaPro | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1482,
+          "name": "ECDF LigaPRO | HD",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf_ligapro"
+        },
+        {
+          "id": 1161,
+          "name": "ECUAVISA",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1162,
+          "name": "ECUAVISA | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        },
+        {
+          "id": 1163,
+          "name": "ECUAVISA | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=ecdf"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Serie A: \nLDU Quito vs Universidad Católica",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:49:09.074Z",
+        "updatedAt": "2026-09-20T09:49:10.846Z",
+        "publishedAt": "2026-09-20T09:49:10.842Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 914,
+              "attributes": {
+                "embed_name": "ECDF LigaPro",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1488,
+              "attributes": {
+                "embed_name": "ECDF LigaPro | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1489,
+              "attributes": {
+                "embed_name": "ECDF LigaPro | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            },
+            {
+              "id": 1482,
+              "attributes": {
+                "embed_name": "ECDF LigaPRO | HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+              }
+            },
+            {
+              "id": 1161,
+              "attributes": {
+                "embed_name": "ECUAVISA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1162,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+              }
+            },
+            {
+              "id": 1163,
+              "attributes": {
+                "embed_name": "ECUAVISA | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2025-08-03T14:39:57.465Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 353,
+                  "attributes": {
+                    "name": "ecuador_6b5e87e044.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044_2fd81bc301",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.82,
+                    "url": "/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T14:39:52.709Z",
+                    "updatedAt": "2025-08-03T14:39:52.709Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39863,
+      "title": "Liga de Expansión MX: Tapatío vs Tlaxcala",
+      "competition": "Liga de Expansión MX",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:00:00",
+      "country": "México",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mx.png",
+      "source_timezone": "America/Mexico_City",
+      "source_local": "2026-09-20T18:00:00",
+      "start_utc": "2026-09-21T00:00:00Z",
+      "embeds": [
+        {
+          "id": 532,
+          "name": "ESPN 4 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn4mx"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga de Expansión MX: \nTapatío vs Tlaxcala",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:56:52.045Z",
+        "updatedAt": "2026-09-20T09:56:54.011Z",
+        "publishedAt": "2026-09-20T09:56:54.005Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 532,
+              "attributes": {
+                "embed_name": "ESPN 4 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39864,
+      "title": "Liga MX Femenil: Atlético San Luis vs Pachuca",
+      "competition": "Liga MX Femenil",
+      "date_diary": "2026-09-20",
+      "diary_hour": "18:00:00",
+      "country": "México",
+      "logo": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
+      "logo_fallback": "https://raw.githubusercontent.com/omezing75-byte/data-sport-nexa-futbollibre/refs/heads/main/flags/mx.png",
+      "source_timezone": "America/Mexico_City",
+      "source_local": "2026-09-20T18:00:00",
+      "start_utc": "2026-09-21T00:00:00Z",
+      "embeds": [
+        {
+          "id": 586,
+          "name": "ESPN 3 MX",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn3mx"
+        }
+      ],
+      "source_data": {
+        "diary_description": "Liga MX Femenil: \nAtlético San Luis vs Pachuca",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T09:57:49.613Z",
+        "updatedAt": "2026-09-20T09:57:51.242Z",
+        "publishedAt": "2026-09-20T09:57:51.237Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 586,
+              "attributes": {
+                "embed_name": "ESPN 3 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
                   }
                 }
               }
