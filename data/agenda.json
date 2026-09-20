@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:59:28.240397Z",
+  "updated_at": "2026-09-20T17:16:30.786844Z",
   "source": "https://futbollibretv.org.pe/diaries.json",
   "retention": "events remain until 4 hours after start",
   "events": [
@@ -188,6 +188,122 @@
                     "provider_metadata": null,
                     "createdAt": "2025-08-03T13:14:00.876Z",
                     "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 39898,
+      "title": "NFL: Jaguars vs Broncos",
+      "competition": "NFL",
+      "date_diary": "2026-09-20",
+      "diary_hour": "15:00:00",
+      "country": "NFL",
+      "logo": "https://futbollibretv.org.pe/uploads/nfl_c8afc9d155.png",
+      "logo_fallback": "",
+      "source_timezone": "UTC",
+      "source_local": "2026-09-20T15:00:00",
+      "start_utc": "2026-09-20T15:00:00Z",
+      "embeds": [
+        {
+          "id": 653,
+          "name": "ESPN 7",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 1396,
+          "name": "ESPN 7 | OP2",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 1397,
+          "name": "ESPN 7 | OP3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=espn7"
+        },
+        {
+          "id": 962,
+          "name": "Fox Sports 3",
+          "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czM=",
+          "player_url": "https://vivo.totalh.net/en-vivo/tv.html?stream=foxsports3"
+        }
+      ],
+      "source_data": {
+        "diary_description": "NFL: Jaguars vs Broncos",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-20",
+        "createdAt": "2026-09-20T16:59:39.088Z",
+        "updatedAt": "2026-09-20T17:00:04.584Z",
+        "publishedAt": "2026-09-20T16:59:40.637Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 653,
+              "attributes": {
+                "embed_name": "ESPN 7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 1396,
+              "attributes": {
+                "embed_name": "ESPN 7 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 1397,
+              "attributes": {
+                "embed_name": "ESPN 7 | OP3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG43"
+              }
+            },
+            {
+              "id": 962,
+              "attributes": {
+                "embed_name": "Fox Sports 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 39,
+            "attributes": {
+              "name": "NFL",
+              "createdAt": "2023-12-11T23:55:39.209Z",
+              "updatedAt": "2025-09-14T15:49:37.487Z",
+              "publishedAt": "2023-12-11T23:55:40.732Z",
+              "image": {
+                "data": {
+                  "id": 401,
+                  "attributes": {
+                    "name": "nfl.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "nfl_c8afc9d155",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.84,
+                    "url": "/uploads/nfl_c8afc9d155.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-14T15:49:33.405Z",
+                    "updatedAt": "2025-09-14T15:49:33.405Z"
                   }
                 }
               }
